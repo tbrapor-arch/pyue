@@ -19,7 +19,7 @@ Only what is tied to Taigi changes.
 ## Order of work
 1. Scaffold, rules, notes (done 6 Nov 2026).
 2. `data/fetch.sh` + `tools/build_db.py` → `data/build/yue.db`; `tools/lookup.py`; `tools/jyutping.py` (parse,
-   validate, compare readings).
+   validate, compare readings). **Done 6 Nov 2026.**
 3. `tools/lint.py` (every word in the database, Jyutping syllables valid and matching the characters).
 4. App: copy `app/index.template.html`, `tools/build_app.py`, `tools/cards.py`, `tools/site.py`, `app/pwa/`, the Pages
    workflow; swap Tâi-lô → Jyutping, English → French, drop sandhi; same look, same tabs.

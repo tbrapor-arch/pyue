@@ -27,6 +27,11 @@ Private companion: `tbrapor-arch/pyue-private`.
 
 ## Status
 - Scaffold and port plan: `docs/port-plan.md`.
+- **Database** (6 Nov 2026): `make db` → `data/build/yue.db`, 137k entries from rime-cantonese (words, character readings
+  with their share), frequency rank from rime's essay list, CC-CEDICT for the Mandarin side. Each word is labelled
+  `same` (ordinary Mandarin word: 我), `partial` (Mandarin has the characters, Cantonese use differs: 係, 睇) or
+  `different` (Cantonese-only: 佢, 嘢, 冇 → 沒有). `make lookup W=…` takes characters or Jyutping (no tones = any tone).
+- Next: lint, then the app (step 4 of the port plan).
 
 ## Open items
 - Port the app (`docs/port-plan.md`, step by step).
