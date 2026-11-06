@@ -1,0 +1,24 @@
+# Third-party reference material (published courses, scans, notes quoting them). Never commit.
+reference/*
+!reference/README.md
+
+# Downloaded sources and generated data — rebuilt with `make db`
+data/raw/
+data/build/
+app/dist/
+*.db
+*.sqlite
+
+# Copyrighted formats that should never land here by accident
+*.pdf
+*.epub
+*.mp3
+*.m4a
+*.wav
+*.flac
+
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+_site/
