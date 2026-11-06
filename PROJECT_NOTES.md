@@ -19,6 +19,9 @@ Private companion: `tbrapor-arch/pyue-private`.
 - The perfectionnement's starting level is set by an analysis of those 100 lessons done in the private repo; only
   the resulting **word list and grammar inventory** (what is already known) may be used here, as plain lists.
 
+- **Pacing** of P1–P70: Tsheh-tû's 進修 plus published perfectionnement volumes the owner provides (kept in the
+  private repo); where they disagree, the published volumes win. Only counts and pacing ideas come from them.
+
 ## Repository rules
 - Public repo: no transcripts, recordings, scans, book text or text derived from them. Those live in pyue-private.
 - `reference/` (git-ignored): only counts and pacing ideas may leave it, never text or storylines.
