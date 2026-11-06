@@ -1,0 +1,19 @@
+# Perfectionnement lesson P<id>. Characters: written Cantonese, traditional. Jyutping: tone numbers, syllables
+# separated by spaces. Optional hyphens join a word's syllables when the automatic cut should be overridden
+# (if one line uses hyphens, every multi-syllable word in it must). Check with `make lint`.
+id: 1
+title: {en: "", jyutping: "", hanzi: ""}
+genre: dialogue          # dialogue | article | letter | interview | tale | diary | debate | speech | essay | document | song | news | story | play | review
+review: false
+setting: ""
+dialogue:
+  - {n: 1, speaker: "", hanzi: "", jyutping: "", en: ""}
+notes:
+  - {ref: 1, topic: vocab, text: ""}      # topic: vocab | grammar | pronunciation | culture | register
+new_words:
+  - {jyutping: "", hanzi: "", en: ""}
+exercises:
+  translate:
+    - {hanzi: "", jyutping: "", en: ""}
+  fill:
+    - {hanzi: "", jyutping: "", answer: "", answer_hanzi: "", en: ""}   # ___ marks the gap; answer in Jyutping

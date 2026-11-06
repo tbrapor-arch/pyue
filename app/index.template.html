@@ -1,0 +1,1968 @@
+<title>粵 pyue</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Iansui&family=Atkinson+Hyperlegible:wght@400;700&family=Noto+Sans:wght@400;600;700&family=Noto+Sans+TC:wght@400;700;900&family=Nunito:wght@600;800;900&display=swap">
+<style>
+/*__FONTS__*/
+/* Layout: an app shell drawn as a school exercise book. Phones: one column with a bottom tab bar.
+   Wide screens: a left rail with the same tabs. Squared paper, a red margin line, blue ink, boxy cards
+   with an offset shadow. A second skin, "rose" (soft pink, round), is kept as an option. */
+:root {
+  --bg: #FCFCF8; --grid: #E3E9F6; --margin: #E8857F;
+  --surface: #FFFFFF; --line: #1A2233; --soft-line: #CBD3E4;
+  --text: #1A2233; --sub: #586276;
+  --brand: #2347B5; --brand-ink: #FFFFFF; --brand-soft: #E5EBFA;
+  --sun: #FFD84D; --sun-soft: #FFF5CC;
+  --coral: #D23F38; --coral-soft: #FCE4E2;
+  --shadow: 4px 4px 0 var(--brand); --shadow-soft: 3px 3px 0 var(--soft-line);
+  --border: 2px solid var(--line); --border-soft: 2px solid var(--soft-line);
+  --f-ui: "Atkinson Hyperlegible", "Noto Sans", system-ui, sans-serif;
+  --f-rom: "TailoSans", "Noto Sans", system-ui, sans-serif;   /* embedded Noto Sans with mark positioning: m̄, a̍, o͘ sit right */
+  --f-han: "Iansui", "Noto Sans TC", "TaigiExt", "PingFang TC", sans-serif;
+  --f-mix: "TailoSans", "Noto Sans", "Iansui", "Noto Sans TC", "TaigiExt", system-ui, sans-serif;
+  --w-han: 400; --r: 8px; --r-big: 10px;
+  color-scheme: light;   /* white paper unless the reader turns on Night */
+}
+/* skin: rose */
+:root[data-night] {
+  --bg: #15171D; --grid: #1F2330; --margin: #6E3434; --surface: #1C1F27; --line: #C9D1E6; --soft-line: #343A4C;
+  --text: #E7EAF2; --sub: #9AA3B8; --brand: #8FA8FF; --brand-ink: #10152A; --brand-soft: #232B47;
+  --sun: #FFD84D; --sun-soft: #3A3417; --coral: #FF8F86; --coral-soft: #3F2426; color-scheme: dark; }
+:root[data-skin="rose"] {
+  --bg: #FFF0F3; --grid: transparent; --margin: transparent; --surface: #FFFFFF; --line: #F3C7D3; --soft-line: #F7D9E1;
+  --text: #2B1A2E; --sub: #85566A; --brand: #C93466; --brand-ink: #FFFFFF; --brand-soft: #FFE1EA;
+  --sun: #FFC64D; --sun-soft: #FFF2D2; --coral: #C2410C; --coral-soft: #FFE7D6;
+  --shadow: 0 6px 18px rgb(201 52 102 / .12); --shadow-soft: 0 3px 10px rgb(201 52 102 / .08);
+  --border: 0 solid transparent; --border-soft: 0 solid transparent;
+  --f-ui: "Nunito", "Noto Sans", system-ui, sans-serif; --f-rom: "TailoSans", "Noto Sans", system-ui, sans-serif;
+  --f-han: "Noto Sans TC", "TaigiExt", "PingFang TC", sans-serif; --f-mix: "Nunito", "Noto Sans", "Noto Sans TC", "TaigiExt", sans-serif;
+  --w-han: 900; --r: 22px; --r-big: 28px; }
+:root[data-skin="rose"][data-night] {
+  --bg: #1E1219; --surface: #2A1A24; --line: #4A2E3C; --soft-line: #3A2430; --text: #FBEFF4; --sub: #C9A3B4;
+  --brand: #FF7AA5; --brand-ink: #2B0F1C; --brand-soft: #4A2236; --sun-soft: #3B3017; --coral: #FF9E6B; --coral-soft: #3E2618; color-scheme: dark; }
+
+
+html, body { height: 100%; }
+body { background-color: var(--bg); background-image: linear-gradient(var(--grid) 1px, transparent 1px), linear-gradient(90deg, var(--grid) 1px, transparent 1px); background-size: 24px 24px; color: var(--text); font-family: var(--f-mix); font-size: 16px; line-height: 1.5; -webkit-font-smoothing: antialiased; }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; border-radius: 6px; }
+.han { font-family: var(--f-han); }
+
+/* shell */
+.shell { display: grid; grid-template-columns: 15rem minmax(0, 1fr); min-height: 100%; }
+.rail { position: sticky; top: env(safe-area-inset-top, 0px); align-self: start; height: 100vh; border-right: 1px solid var(--line); padding-block: 1.5rem; padding-inline: 1rem; display: flex; flex-direction: column; gap: 1.5rem; }
+.logo { display: flex; align-items: center; gap: .6rem; padding-inline: .5rem; }
+.logo .mark { width: 2.25rem; height: 2.25rem; border-radius: 10px; background: var(--brand); color: var(--brand-ink); display: grid; place-items: center; font-family: var(--f-han); font-weight: 900; font-size: 1.15rem; }
+.logo b { font-family: var(--f-han); font-weight: 900; font-size: 1.15rem; display: block; line-height: 1.1; }
+.logo small { color: var(--sub); font-size: .8rem; }
+.tabs { display: flex; flex-direction: column; gap: .25rem; }
+.tab { display: flex; align-items: center; gap: .75rem; background: none; border: 0; border-radius: 12px; padding: .65rem .75rem; text-align: left; font-weight: 600; color: var(--sub); }
+.tab svg { width: 1.35rem; height: 1.35rem; flex: none; }
+.tab:hover { background: var(--surface); color: var(--text); }
+.tab[aria-current="true"] { background: var(--brand-soft); color: var(--brand); }
+.tab .count { margin-left: auto; background: var(--coral); color: #fff; border-radius: 999px; font-size: .72rem; padding: 0 .45rem; font-variant-numeric: tabular-nums; }
+main { min-width: 0; padding-block: calc(2rem + env(safe-area-inset-top, 0px)) 5rem; padding-inline: clamp(16px, 4vw, 3rem); }
+.col { max-width: 44rem; margin-inline: auto; display: flex; flex-direction: column; gap: 1.5rem; }
+@media (max-width: 820px) {
+  .shell { grid-template-columns: 1fr; }
+  .rail { position: fixed; z-index: 15; top: auto; bottom: 0; left: 0; right: 0; height: auto; border-right: 0; border-top: 1px solid var(--line); background: var(--bg); padding-block: .35rem calc(.35rem + env(safe-area-inset-bottom, 0px)); padding-inline: .5rem; }
+  .logo { display: none; }
+  .tabs { flex-direction: row; justify-content: space-around; }
+  .tab { flex-direction: column; gap: .15rem; font-size: .72rem; padding: .35rem .6rem; position: relative; }
+  .tab .count { position: absolute; top: .1rem; right: .2rem; margin: 0; }
+  main { padding-block: calc(1.25rem + env(safe-area-inset-top, 0px)) 6.5rem; }
+}
+
+/* type */
+.eyebrow { font-size: .75rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--brand); }
+h1 { margin: 0; font-family: var(--f-han); font-weight: 900; font-size: clamp(1.9rem, 6vw, 2.6rem); line-height: 1.15; letter-spacing: -.01em; text-wrap: balance; }
+h2 { margin: 0; font-size: 1.15rem; font-weight: 800; display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap; }
+h2 .han { font-weight: 900; }
+.rom { font-family: var(--f-rom); }
+.sub { color: var(--sub); }
+.head { display: flex; flex-direction: column; gap: .2rem; }
+.head .rom { font-size: 1.2rem; color: var(--sub); }
+
+/* cards and buttons */
+.card { background: var(--surface); border-radius: var(--r); padding: 1.1rem 1.2rem; display: flex; flex-direction: column; gap: .6rem; }
+.card.raised { background: var(--bg); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: .4rem; border: 0; border-radius: 999px; padding: .65rem 1.25rem; font-weight: 800; font-size: .95rem; background: var(--brand); color: var(--brand-ink); }
+.btn:hover { filter: brightness(1.05); }
+.btn.quiet { background: var(--surface); color: var(--text); }
+.btn.line { background: none; border: 1.5px solid var(--line); color: var(--text); }
+.btn.small { padding: .35rem .85rem; font-size: .85rem; }
+.row { display: flex; gap: .6rem; flex-wrap: wrap; align-items: center; }
+.pill { display: inline-flex; align-items: center; font-size: .72rem; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; padding: .2rem .6rem; border-radius: 999px; }
+.p-same { background: var(--surface); color: var(--sub); border: 1px solid var(--line); }
+.p-ff { background: var(--coral-soft); color: var(--coral); }
+.p-to { background: var(--brand-soft); color: var(--brand); }
+.p-pt { background: var(--sun-soft); color: var(--text); }
+.bar { height: .5rem; border-radius: 999px; background: var(--soft-line); overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--sun); border-radius: 999px; }
+
+.skin button[data-night][aria-pressed="true"] { border-color: var(--brand); color: var(--brand); font-weight: 700; }
+.setgrid { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: .8rem 1rem; align-items: center; }
+.setgrid .lab { font-family: var(--f-ui); font-weight: 700; font-size: .9rem; }
+.setgrid .seg { justify-self: start; }
+/* word card: places table folded */
+.around summary { cursor: pointer; font-family: var(--f-ui); font-size: .72rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; color: var(--sub); padding-block: .2rem; }
+/* Mandarin equivalents */
+.mlist { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: .2rem; }
+.mlist .han { font-size: 1.05rem; } .mlist .py { font-family: var(--f-rom); color: var(--brand); font-weight: 600; } .mlist .men { color: var(--sub); font-size: .9rem; }
+/* keep the card header (and its close button) visible while the card scrolls */
+.sheet .wc-top { position: sticky; top: -.5rem; z-index: 2; background: var(--bg); margin-inline: -1.25rem; padding: .5rem 1.25rem .4rem; border-bottom: 1px solid var(--soft-line); }
+@media (min-width: 1100px) { .sheet .wc-top { top: calc(-1.25rem - env(safe-area-inset-top, 0px)); } }
+/* note pop-up */
+.note-body { margin: 0; font-size: 1.05rem; line-height: 1.6; max-width: 60ch; }
+.note-tag { font-family: var(--f-ui); font-weight: 700; font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; color: var(--brand); margin-top: .2rem; }
+.note-tag.false-friend { color: var(--coral); }
+.sent.noted .txt { background: var(--sun-soft); border-radius: 6px; }
+.nlink { min-width: 1.9rem; height: 1.9rem; font-size: .85rem; }
+.allnotes summary { cursor: pointer; font-family: var(--f-ui); font-weight: 700; font-size: 1rem; padding-block: .4rem; }
+.allnotes .notes { margin-top: .6rem; }
+/* variants */
+ruby.tok.var rt .rw, span.tok.var { text-decoration: underline dotted var(--coral) 1.5px; text-underline-offset: 2px; }
+.choices { display: flex; gap: .4rem; flex-wrap: wrap; }
+.choice { display: flex; flex-direction: column; align-items: flex-start; border: var(--border-soft); background: var(--surface); border-radius: var(--r); padding: .35rem .7rem; min-height: 44px; }
+.choice b { font-family: var(--f-rom); font-size: 1.05rem; }
+.choice span { font-size: .72rem; color: var(--sub); font-family: var(--f-ui); }
+.choice[aria-pressed="true"] { border: var(--border); border-color: var(--brand); background: var(--brand-soft); }
+.ptable { border-collapse: collapse; width: 100%; font-size: .92rem; }
+.ptable td, .ptable th { padding: .35rem .6rem; border-bottom: 1px solid var(--soft-line); text-align: left; white-space: nowrap; }
+.ptable th { font-family: var(--f-ui); font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--sub); }
+.ptable td { font-family: var(--f-rom); }
+.ptable .big { font-size: 1.4rem; }
+/* review segments, cloze, bridge, second wave */
+.segs { display: flex; flex-direction: column; gap: .5rem; }
+.seg-row { display: flex; gap: .6rem 1rem; align-items: center; justify-content: space-between; flex-wrap: wrap; background: var(--surface); border: var(--border-soft); border-radius: var(--r); padding: .7rem .9rem; }
+.seg-t { display: flex; flex-direction: column; min-width: 0; }
+.seg-t .han { font-size: 1.15rem; font-weight: var(--w-han); }
+.seg-meta { font-size: .8rem; color: var(--sub); } .seg-meta b { color: var(--coral); }
+.cloze { text-align: center; line-height: 2.4; }
+.cloze .blank { color: var(--brand); } .cloze .blank rt { color: var(--brand); }
+.cloze .hit { background: var(--sun-soft); border-radius: 4px; }
+.answer { display: flex; flex-direction: column; align-items: center; gap: .3rem; }
+.answer .ah { font-size: 2.2rem; font-weight: var(--w-han); line-height: 1.1; }
+.opts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .5rem; width: 100%; max-width: 24rem; margin-top: .6rem; }
+.opt { font-family: var(--f-rom); font-size: 1.3rem; font-weight: 600; padding: .7rem .5rem; border: var(--border); border-radius: var(--r); background: var(--surface); color: var(--text); }
+.opt:not([disabled]):hover { background: var(--brand-soft); }
+.opt.right { background: var(--brand); color: var(--brand-ink); border-color: var(--brand); }
+.opt.wrong { background: var(--coral-soft); color: var(--coral); border-color: var(--coral); }
+.explain { text-align: left; width: 100%; display: flex; flex-direction: column; gap: .4rem; margin-top: .6rem; }
+.explain ul { margin: 0; padding-left: 1.2rem; display: flex; flex-direction: column; gap: .3rem; }
+.explain p { margin: 0; }
+.verdict { font-weight: 700; } .verdict.ok { color: var(--brand); } .verdict.no { color: var(--coral); }
+.wave { text-align: left; border: var(--border); border-color: var(--coral); }
+.en.act { font-size: 1.2rem; font-weight: 600; }
+/* lesson grid */
+.lgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(4.6rem, 1fr)); gap: .5rem; }
+.lt { aspect-ratio: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .1rem; background: var(--surface); border: var(--border-soft); border-radius: var(--r); padding: .3rem; min-width: 0; }
+.lt .ln { font-family: var(--f-ui); font-weight: 700; font-size: 1.15rem; font-variant-numeric: tabular-nums; }
+.lt .lh { font-family: var(--f-han); font-size: .78rem; color: var(--sub); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
+.lt:not(.soon):hover { background: var(--brand-soft); }
+.lt.next { border: var(--border); border-color: var(--brand); box-shadow: var(--shadow); }
+.lt.done { background: var(--brand); color: var(--brand-ink); border-color: var(--brand); }
+.lt.done .lh { color: var(--brand-ink); opacity: .85; }
+.lt.soon { background: transparent; border-style: dashed; color: var(--sub); cursor: default; }
+.lt.soon .ln { font-weight: 400; opacity: .6; }
+.lt.rev.soon .lh { color: var(--coral); opacity: .7; }
+@media (max-width: 420px) { .lgrid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+/* Part 2 (進修): a second notebook */
+.pbreak { height: 0; border-top: 3px double var(--margin); margin: 1.2rem -1rem 0; }
+.pcover { position: relative; background: var(--surface); border: var(--border); border-left: 14px solid var(--brand); border-radius: var(--r); box-shadow: var(--shadow); padding: 1.2rem 1.2rem 1.1rem 1.1rem; display: flex; flex-direction: column; gap: .45rem; scroll-margin-top: 1rem; }
+.pcover h1 { font-size: clamp(2.2rem, 9vw, 2.8rem); }
+.pcover .ptag { position: absolute; top: .9rem; right: 1rem; font-family: var(--f-ui); font-weight: 800; font-size: .75rem; color: var(--coral); border: 2px solid var(--coral); border-radius: 6px; padding: .05rem .4rem; transform: rotate(4deg); }
+.lt .ln small { font-size: .7rem; color: var(--brand); margin-right: .05rem; }
+.lt.done .ln small { color: var(--brand-ink); }
+/* (old today styles below, unused) */
+.hello { display: flex; flex-direction: column; gap: .15rem; }
+.hello .big { font-family: var(--f-han); font-weight: 900; font-size: clamp(2rem, 7vw, 2.8rem); line-height: 1.1; }
+.hello .rom { font-size: 1.15rem; color: var(--sub); }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1rem; }
+.stat { display: flex; align-items: baseline; gap: .4rem; }
+.stat b { font-size: 2.2rem; font-weight: 800; font-variant-numeric: tabular-nums; line-height: 1; }
+.todaycard .lt { font-family: var(--f-han); font-size: 1.7rem; font-weight: 900; line-height: 1.2; }
+.todaycard .lr { color: var(--sub); }
+.wotd { cursor: pointer; text-align: left; border: 0; width: 100%; }
+.wotd .wh { font-family: var(--f-han); font-size: 2.4rem; font-weight: 700; line-height: 1.15; }
+.wotd .wr { font-size: 1.2rem; }
+.days { display: flex; gap: .35rem; }
+.days span { width: 1.5rem; height: 1.5rem; border-radius: 50%; background: var(--line); display: grid; place-items: center; font-size: .65rem; font-weight: 800; color: var(--sub); }
+.days span.on { background: var(--sun); color: #2B2100; }
+
+/* lists */
+.list { display: flex; flex-direction: column; gap: .6rem; }
+.item { display: grid; grid-template-columns: 3rem minmax(0, 1fr) auto; align-items: center; gap: .9rem; background: var(--surface); border: 0; border-radius: var(--r); padding: .85rem 1rem; text-align: left; }
+.item:hover { background: var(--brand-soft); }
+.item .no { width: 3rem; height: 3rem; border-radius: 12px; background: var(--bg); display: grid; place-items: center; font-weight: 800; font-size: 1.1rem; font-variant-numeric: tabular-nums; }
+.item.done .no { background: var(--brand); color: var(--brand-ink); }
+.item .tt { font-family: var(--f-han); font-weight: 700; font-size: 1.15rem; }
+.item .ts { color: var(--sub); font-size: .9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.item .chev { color: var(--sub); }
+.tgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr)); gap: .8rem; }
+.tcard { background: var(--surface); border: 0; border-radius: var(--r); padding: 1.2rem 1rem; text-align: left; display: flex; flex-direction: column; gap: .2rem; }
+.tcard:hover { background: var(--brand-soft); }
+.tcard .th { font-family: var(--f-han); font-size: 2rem; font-weight: 900; line-height: 1.15; }
+.tcard .tr { color: var(--sub); }
+.tcard .tn { margin-top: .5rem; font-size: .8rem; color: var(--brand); font-weight: 800; }
+
+/* lesson reader */
+.toolbar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: .6rem; display: flex; gap: .5rem 1rem; flex-wrap: wrap; align-items: center; border-bottom: 1px solid var(--line); }
+.seg { display: inline-flex; background: var(--surface); border-radius: 999px; padding: 3px; }
+.seg button { border: 0; background: none; border-radius: 999px; padding: .3rem .8rem; font-size: .85rem; font-weight: 600; color: var(--sub); }
+.seg button[aria-pressed="true"] { background: var(--bg); color: var(--text); box-shadow: var(--shadow); }
+.toggle { display: inline-flex; align-items: center; gap: .4rem; font-size: .85rem; font-weight: 600; color: var(--sub); }
+.toggle input { accent-color: var(--brand); width: 1.05rem; height: 1.05rem; }
+.legend { display: flex; gap: .8rem; font-size: .78rem; color: var(--sub); flex-wrap: wrap; }
+.legend .k-to { border-bottom: 2.5px solid var(--brand); }
+.legend .k-ff { border-bottom: 2.5px dotted var(--coral); }
+.setting { color: var(--sub); }
+.lines { display: flex; flex-direction: column; gap: .75rem; }
+.sent { background: var(--surface); border-radius: var(--r); padding: .85rem 1rem 1rem; display: flex; flex-direction: column; gap: .35rem; }
+.sent .who { display: flex; align-items: center; gap: .5rem; font-size: .8rem; font-weight: 800; color: var(--sub); }
+.av { width: 1.6rem; height: 1.6rem; border-radius: 50%; display: grid; place-items: center; font-size: .75rem; font-weight: 800; background: var(--brand); color: var(--brand-ink); }
+.av.b { background: var(--sun); color: #2B2100; }
+.who .n { margin-left: auto; font-variant-numeric: tabular-nums; font-weight: 600; }
+.txt { font-family: var(--f-han); font-size: 1.6rem; line-height: 2.5; }
+.mode-rom .txt { font-family: var(--f-ui); font-size: 1.3rem; line-height: 1.7; }
+.mode-han .txt { line-height: 1.75; }
+ruby.tok { ruby-position: over; cursor: pointer; border-radius: 6px; padding-inline: .05em; }
+rt .rw { display: inline-block; white-space: nowrap; }
+ruby.tok rt { font-family: var(--f-rom); font-size: .48em; font-weight: 600; color: var(--sub); }
+.mode-han ruby.tok rt { display: none; }
+span.tok { cursor: pointer; border-radius: 4px; }
+.tok:hover, .tok.sel { background: var(--brand-soft); }
+.tok.c-to { text-decoration: underline solid var(--brand) 2.5px; text-underline-offset: .3em; }
+.tok.c-ff { text-decoration: underline dotted var(--coral) 2.5px; text-underline-offset: .3em; }
+.punct { color: var(--sub); }
+.under { display: flex; gap: .4rem .8rem; flex-wrap: wrap; align-items: center; }
+.under.recap { margin: .6rem 0 0; }
+.reveal { border: 0; background: var(--bg); border-radius: 999px; padding: .2rem .75rem; font-size: .8rem; font-weight: 600; color: var(--sub); }
+.en { font-size: 1rem; }
+.zh { font-family: var(--f-han); color: var(--sub); }
+.nlink { border: 0; background: var(--brand-soft); color: var(--brand); border-radius: 999px; min-width: 1.6rem; height: 1.6rem; font-size: .78rem; font-weight: 800; }
+.notes { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .6rem; }
+.note { display: grid; grid-template-columns: 1.8rem minmax(0, 1fr); gap: .7rem; padding: .7rem .8rem; border-radius: 12px; transition: background .5s; }
+.note.flash { background: var(--sun-soft); }
+.note .nn { width: 1.8rem; height: 1.8rem; border-radius: 50%; background: var(--brand-soft); color: var(--brand); display: grid; place-items: center; font-weight: 800; font-size: .8rem; }
+.note p { margin: 0; max-width: 65ch; }
+.note .tag { display: block; font-size: .7rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: var(--sub); margin-bottom: .15rem; }
+.note .tag.false-friend { color: var(--coral); }
+.wgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(12.5rem, 1fr)); gap: .5rem; }
+.wchip { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 0 .7rem; align-items: center; background: var(--surface); border: 0; border-radius: 12px; padding: .55rem .8rem; text-align: left; }
+.wchip:hover { background: var(--brand-soft); }
+.wchip b { font-family: var(--f-han); font-size: 1.35rem; grid-row: span 2; }
+.wchip .r { font-weight: 600; }
+.wchip .g { font-size: .82rem; color: var(--sub); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wchip.c-ff b { color: var(--coral); }
+.wchip.c-to b { color: var(--brand); }
+.ex { display: flex; flex-direction: column; gap: .75rem; }
+.exi .k { font-size: .72rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: var(--sub); }
+.exi .h { font-family: var(--f-han); font-size: 1.35rem; }
+.exi .t { font-size: 1.15rem; font-weight: 600; }
+.exi form { display: flex; gap: .5rem; flex-wrap: wrap; }
+.exi input { flex: 1 1 10rem; min-width: 0; font: inherit; font-size: 1.1rem; padding: .55rem .9rem; border: 1.5px solid var(--line); border-radius: 999px; background: var(--bg); color: var(--text); }
+.fb { font-weight: 600; }
+.fb.ok { color: var(--brand); } .fb.no { color: var(--coral); } .fb.near { color: var(--text); background: var(--sun-soft); border-radius: 8px; padding: .1rem .5rem; align-self: start; }
+
+/* themes */
+.sec { display: flex; flex-direction: column; gap: .8rem; }
+.sec h2 .num { width: 1.9rem; height: 1.9rem; border-radius: 10px; background: var(--brand); color: var(--brand-ink); display: inline-grid; place-items: center; font-size: .95rem; flex: none; align-self: center; }
+.vtable { width: 100%; border-collapse: collapse; }
+.vwrap { overflow-x: auto; border-radius: var(--r); background: var(--surface); }
+.vtable td { padding: .55rem .8rem; border-bottom: 1px solid var(--line); vertical-align: middle; }
+.vtable tr:last-child td { border-bottom: 0; }
+.vtable tr { cursor: pointer; }
+.vtable tr:hover td { background: var(--brand-soft); }
+.vtable .vh { font-family: var(--f-han); font-size: 1.3rem; font-weight: 700; white-space: nowrap; }
+.vtable .vr { font-weight: 600; white-space: nowrap; }
+.vtable .ve { color: var(--text); }
+.vtable .vz { font-family: var(--f-han); color: var(--sub); white-space: nowrap; }
+.vtable .itb { display: inline-block; margin-left: .4rem; padding: 0 .35rem; border: 1px solid var(--line); border-radius: .4rem; font-family: var(--f-ui); font-size: .62rem; font-weight: 600; color: var(--sub); vertical-align: middle; letter-spacing: .02em; }
+.vtable tr.c-ff .vh { color: var(--coral); }
+.vtable tr.c-to .vh { color: var(--brand); }
+@media (max-width: 560px) { .vtable .vz { display: none; } }
+.ttext { display: flex; flex-direction: column; gap: .5rem; border-left: 4px solid var(--sun); padding-left: 1rem; }
+.ttext .txt { font-size: 1.45rem; }
+
+/* prose (lesson 0) */
+.prose { display: block; }
+.prose h1 { margin-bottom: 1rem; }
+.prose h2 { margin-top: 2rem; margin-bottom: .6rem; display: block; }
+.prose p, .prose li { max-width: 65ch; }
+.prose .tw { overflow-x: auto; margin-block: 1rem; background: var(--surface); border-radius: var(--r); }
+.prose table { border-collapse: collapse; font-size: .95rem; min-width: 100%; }
+.prose th, .prose td { padding: .5rem .8rem; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+.prose th { font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--sub); }
+.prose pre { background: var(--surface); border-radius: 12px; padding: .9rem 1rem; overflow-x: auto; }
+.prose code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: .9rem; }
+
+/* review */
+.fc { min-height: 18rem; align-items: center; justify-content: center; text-align: center; }
+.fc .big { font-family: var(--f-han); font-size: clamp(2.8rem, 12vw, 4.2rem); font-weight: 700; line-height: 1.15; }
+.fc .r { font-size: 1.6rem; font-weight: 600; }
+.empty { color: var(--sub); max-width: 52ch; }
+
+/* word sheet */
+.sheet { position: fixed; z-index: 30; left: 0; right: 0; bottom: 0; max-height: 78vh; overflow-y: auto; background: var(--bg); border-radius: 22px 22px 0 0; box-shadow: 0 -10px 40px rgb(0 0 0 / .18); padding-block: .5rem calc(1.5rem + env(safe-area-inset-bottom, 0px)); padding-inline: 1.25rem; transform: translateY(105%); transition: transform .25s ease; display: flex; flex-direction: column; gap: .9rem; }
+.sheet:not(.open) { transform: translateY(calc(100% + 3rem)); visibility: hidden; transition: transform .25s ease, visibility 0s .25s; }
+.sheet.open { transform: none; visibility: visible; }
+.sheet .grab { width: 2.5rem; height: .3rem; border-radius: 999px; background: var(--line); align-self: center; }
+@media (min-width: 1100px) { .sheet:not(.open) { transform: translateX(calc(100% + 3rem)); } .sheet { left: auto; top: 0; width: 25rem; max-height: none; border-radius: 0; border-left: 1px solid var(--line); transform: translateX(105%); padding-top: calc(1.25rem + env(safe-area-inset-top, 0px)); } .sheet .grab { display: none; } }
+@media (prefers-reduced-motion: reduce) { .sheet, .note { transition: none; } }
+.wc-top { display: flex; align-items: flex-start; gap: 1rem; }
+.wc-top .play { margin-top: .4rem; }
+.lplay { border: var(--border-soft); background: var(--surface); color: var(--brand); border-radius: 999px; width: 1.9rem; height: 1.9rem; font-size: .75rem; padding: 0; }
+.lplay.rec { border-color: var(--brand); }
+.sent.saying .txt { background: var(--sun-soft); border-radius: 6px; }
+.lplay.on { background: var(--brand); color: var(--brand-ink); border-color: var(--brand); }
+.tok.say { background: var(--sun-soft); box-shadow: inset 0 -3px 0 var(--sun); }
+.wc-btns { margin-left: auto; display: flex; gap: .4rem; align-items: flex-start; flex: none; }
+.wc-add { display: flex; flex-direction: column; align-items: center; gap: .05rem; max-width: 4.6rem; border: var(--border-soft, 1.5px solid var(--soft-line)); background: var(--bg); color: var(--sub); border-radius: 12px; padding: .3rem .45rem .25rem; cursor: pointer; font: inherit; font-size: .62rem; font-weight: 800; }
+.wc-add svg { width: 1.3rem; height: 1.3rem; }
+.wc-add span { max-width: 100%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.wc-add.on { color: var(--brand); border-color: var(--brand); background: color-mix(in srgb, var(--brand) 12%, var(--bg)); }
+.wc-top .x { margin-left: auto; border: 0; background: var(--surface); border-radius: 50%; width: 2.2rem; height: 2.2rem; font-size: 1.2rem; color: var(--sub); }
+.wc-h { font-family: var(--f-han); font-size: 2.8rem; font-weight: 700; line-height: 1.1; }
+.wc-t { font-size: 1.45rem; font-weight: 600; }
+.wc-s { color: var(--sub); font-size: .9rem; }
+.wc-sec { display: flex; flex-direction: column; gap: .2rem; }
+.wc-sec h3 { margin: 0; font-size: .72rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; color: var(--sub); }
+.wc-gloss { font-size: 1.15rem; font-weight: 600; }
+.wc-sec ol { margin: 0; padding-left: 1.2rem; font-family: var(--f-han); }
+.pos { font-size: .75rem; color: var(--sub); margin-right: .3rem; }
+.wc-ex .h { font-family: var(--f-han); } .wc-ex .t { font-weight: 600; } .wc-ex .m { font-family: var(--f-han); color: var(--sub); }
+.wc-src { font-size: .75rem; color: var(--sub); }
+.parts { display: flex; gap: .4rem; flex-wrap: wrap; }
+.lname { display: flex; align-items: center; gap: .6rem; }
+.lname .icon.sq { flex: none; border: 1.5px solid var(--soft-line); border-radius: 8px; width: 2.2rem; height: 2.2rem; background: none; color: var(--brand); font-size: 1rem; }
+.lren { font: inherit; font-family: var(--f-han); font-size: 1.6rem; font-weight: 700; width: 100%; padding: .25rem .5rem; border: 1.5px solid var(--brand); border-radius: 8px; background: var(--surface); color: var(--text); }
+.tsearch { font: inherit; width: 100%; padding: .65rem .9rem; border: 1.5px solid var(--soft-line); border-radius: 999px; background: var(--surface); color: var(--text); }
+.tsearch:focus { outline: none; border-color: var(--brand); }
+.tsrc { display: block; color: var(--sub); font-size: .75rem; }
+.tlist { display: flex; flex-direction: column; border: 1.5px solid var(--soft-line); border-radius: 12px; background: var(--surface); overflow: hidden; }
+.trow + .trow { border-top: 1px solid var(--soft-line); }
+.trow-h { width: 100%; display: grid; grid-template-columns: 2.4rem 1fr auto 1rem; align-items: center; gap: .7rem; padding: .6rem .8rem; border: 0; background: none; color: var(--text); text-align: left; font: inherit; cursor: pointer; }
+.trow-h .tk { width: 2.4rem; height: 2.4rem; display: grid; place-items: center; border-radius: 10px; background: color-mix(in srgb, var(--brand) 12%, transparent); color: var(--brand); font-size: 1.3rem; font-weight: 700; }
+.trow-h .tt { display: flex; flex-direction: column; min-width: 0; }
+.trow-h .tt .han { font-size: 1.1rem; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.trow-h small { color: var(--sub); font-size: .78rem; }
+.trow-h .tc { display: flex; flex-direction: column; align-items: flex-end; font: 700 .85rem var(--f-ui); color: var(--brand); font-variant-numeric: tabular-nums; }
+.trow-h .chev { color: var(--sub); }
+.trow.open .trow-h { background: color-mix(in srgb, var(--brand) 6%, transparent); }
+.tgroups { display: flex; flex-wrap: wrap; gap: .4rem; padding: .2rem .8rem .8rem 3.9rem; }
+.tg { border: 1.5px solid var(--soft-line); background: var(--bg); color: var(--text); border-radius: 999px; padding: .3rem .7rem; font: inherit; font-size: .95rem; }
+.tg small { color: var(--sub); font-size: .75rem; }
+.tg.all { border-color: var(--brand); color: var(--brand); font-weight: 700; }
+.xback { border: 0; background: none; color: inherit; font: inherit; font-size: 1.1rem; padding: 0 .4rem 0 0; cursor: pointer; }
+.lbar .icon.sq { position: relative; border: 1.5px solid var(--soft-line); border-radius: 8px; width: 2.2rem; height: 2.2rem; display: inline-grid; place-items: center; color: var(--brand); }
+.parts button { border: 0; background: var(--surface); border-radius: 10px; padding: .3rem .6rem; }
+.wc-comp { display: flex; flex-direction: column; gap: .25rem; }
+.wc-comp .kind { font-family: var(--f-ui); font-size: .72rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; color: var(--sub); }
+.wc-comp .cline { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem .4rem; }
+.wc-comp button { border: 0; background: none; padding: 0; color: var(--text); display: inline-flex; align-items: baseline; gap: .35rem; text-align: left; }
+.wc-comp button .han { font-size: 1.15rem; text-decoration: underline dotted var(--sub) 1px; text-underline-offset: 3px; }
+.wc-comp button .g { color: var(--sub); font-size: .9rem; }
+.wc-comp .plus { color: var(--sub); }
+.splits { display: flex; gap: .4rem; flex-wrap: wrap; }
+.splits button { border: 1.5px solid var(--soft-line); background: var(--surface); color: var(--text); border-radius: 999px; padding: .3rem .75rem; display: inline-flex; align-items: baseline; gap: .4rem; }
+.splits button .han { font-size: 1.1rem; }
+.splits button .r { font-family: var(--f-rom); font-size: .85rem; color: var(--sub); }
+.splits button[aria-pressed="true"] { border-color: var(--brand); background: color-mix(in srgb, var(--brand) 12%, var(--surface)); }
+.splits button[aria-pressed="true"] .r { color: var(--brand); }
+.toast { position: fixed; left: 50%; bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--text); color: var(--bg); padding: .55rem 1.1rem; border-radius: 999px; font-weight: 600; font-size: .9rem; z-index: 40; }
+
+/* ---- skin-aware component styling (cards, borders, Han weights) */
+.rail { background: var(--bg); }
+.col { border-left: 2px solid var(--margin); padding-left: clamp(12px, 3vw, 28px); }
+.card, .sent, .item, .tcard, .wchip, .vwrap, .prose .tw, .prose pre { background: var(--surface); border: var(--border-soft); border-radius: var(--r); box-shadow: var(--shadow-soft); }
+.card.raised { border: var(--border); box-shadow: var(--shadow); border-radius: var(--r-big); }
+.item:hover, .tcard:hover, .wchip:hover { background: var(--brand-soft); }
+.item .no { background: var(--bg); border: var(--border-soft); border-radius: var(--r); }
+.btn { border-radius: var(--r); font-family: var(--f-ui); font-weight: 700; }
+.btn.line { border: var(--border); }
+:root[data-skin="rose"] .btn, :root[data-skin="rose"] .seg, :root[data-skin="rose"] .seg button { border-radius: 999px; }
+.seg { border-radius: var(--r); border: var(--border-soft); } .seg button { border-radius: calc(var(--r) - 2px); font-family: var(--f-ui); }
+.eyebrow, .tab, .pill, .reveal, .toggle, .legend, .sent .who, .exi .k, .note .tag, .wc-sec h3, .tcard .tn { font-family: var(--f-ui); }
+.pill { border-radius: 4px; } :root[data-skin="rose"] .pill { border-radius: 999px; }
+.sheet { border-top: var(--border); } :root[data-skin="rose"] .sheet { border-top: 0; }
+.fc { border: var(--border); box-shadow: var(--shadow); }
+.wc-top .play { margin-top: .4rem; }
+.lplay { border: var(--border-soft); background: var(--surface); color: var(--brand); border-radius: 999px; width: 1.9rem; height: 1.9rem; font-size: .75rem; padding: 0; }
+.lplay.on { background: var(--brand); color: var(--brand-ink); border-color: var(--brand); }
+.tok.say { background: var(--sun-soft); box-shadow: inset 0 -3px 0 var(--sun); }
+.wc-top .x { border: var(--border-soft); border-radius: var(--r); }
+ruby.tok rt, .rom, .wc-t, .wchip .r, .vtable .vr, .exi .t, .fc .r, .wotd .wr, .head .rom, .hello .rom, .lr, .ts, .tr { font-family: var(--f-rom); }
+h1, .hello .big, .todaycard .lt, .wotd .wh, .item .tt, .tcard .th, .wchip b, .vtable .vh, .fc .big, .wc-h, h2 .han, .logo b, .logo .mark { font-weight: var(--w-han); }
+.txt { font-family: var(--f-han); }
+.skin { display: flex; gap: .3rem; margin-top: auto; padding-inline: .5rem; font-family: var(--f-ui); font-size: .8rem; color: var(--sub); align-items: center; flex-wrap: wrap; }
+.skin button { border: var(--border-soft); background: var(--surface); border-radius: var(--r); padding: .2rem .6rem; font-size: .8rem; }
+.skin button[aria-pressed="true"] { border-color: var(--brand); color: var(--brand); font-weight: 700; }
+@media (max-width: 820px) { #skin { display: none; } .col { border-left: 0; padding-left: 0; } }
+.today-skin { margin-top: 0; padding-inline: 0; }
+@media (min-width: 821px) { .today-skin { display: none; } }
+
+
+/* ---- notebook skin, matched to mockup B: lines written straight on the page */
+:root:not([data-skin="rose"]) .sent { background: none; border: 0; box-shadow: none; padding: 0; gap: .15rem; }
+:root:not([data-skin="rose"]) .sent .who { color: var(--coral); font-family: var(--f-ui); font-weight: 700; font-size: .78rem; letter-spacing: .04em; text-transform: uppercase; }
+:root:not([data-skin="rose"]) .sent .who .av { display: none; }
+:root:not([data-skin="rose"]) .sent .who .n { order: -1; margin: 0; color: var(--coral); }
+:root:not([data-skin="rose"]) .sent .who .n::after { content: " ·"; }
+:root:not([data-skin="rose"]) ruby.tok rt { font-family: var(--f-rom); font-weight: 700; color: var(--brand); }
+:root:not([data-skin="rose"]) .txt { font-size: 1.75rem; }
+:root:not([data-skin="rose"]) .reveal { background: var(--surface); border: 2px dashed var(--soft-line); border-radius: 6px; color: var(--brand); font-family: var(--f-ui); font-weight: 700; padding: .15rem .6rem; }
+:root:not([data-skin="rose"]) .sent .en { color: var(--sub); font-size: .95rem; }
+:root:not([data-skin="rose"]) .lines { gap: 1.25rem; }
+:root:not([data-skin="rose"]) .eyebrow { color: var(--brand); letter-spacing: .1em; }
+:root:not([data-skin="rose"]) .head .rom { color: var(--brand); font-family: var(--f-rom); font-weight: 700; font-size: 1.1rem; }
+:root:not([data-skin="rose"]) h1 { font-size: clamp(2.2rem, 7vw, 2.8rem); }
+:root:not([data-skin="rose"]) .p-to { background: var(--brand); color: var(--brand-ink); }
+:root:not([data-skin="rose"]) .p-ff { background: var(--coral); color: #fff; }
+:root:not([data-skin="rose"]) .sheet { border: var(--border); box-shadow: 6px 6px 0 var(--brand); }
+@media (max-width: 1099px) { :root:not([data-skin="rose"]) .sheet { left: 12px; right: 12px; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); border-radius: 10px; } }
+:root:not([data-skin="rose"]) .wc-t { color: var(--brand); font-family: var(--f-rom); font-weight: 700; }
+:root:not([data-skin="rose"]) .btn { font-family: var(--f-ui); }
+:root:not([data-skin="rose"]) .toolbar { background: var(--bg); }
+
+/* ---- conveniences borrowed from Mainichi */
+/* lesson bar: back, where you are, previous / next; stays at the top while you read */
+.lbar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 6; display: flex; align-items: center; gap: .2rem; background: var(--bg); border-bottom: 1px solid var(--line); margin-top: -.75rem; padding-block: .35rem; }
+.lbar .where { flex: 1; min-width: 0; font-family: var(--f-ui); font-weight: 700; font-size: .9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding-inline: .3rem; }
+.lbar .icon { border: 0; background: none; width: 2.6rem; height: 2.6rem; border-radius: var(--r); font-size: 1.35rem; color: var(--brand); flex: none; }
+.lbar .icon:hover:not([disabled]) { background: var(--brand-soft); }
+.lbar .icon[disabled] { opacity: .3; cursor: default; }
+.toolbar { position: static; }
+.lnav { display: flex; gap: .4rem; flex-wrap: wrap; }
+.lnav button { font-family: var(--f-ui); font-size: .82rem; font-weight: 700; color: var(--sub); background: var(--surface); border: var(--border-soft); border-radius: 999px; padding: .2rem .75rem; }
+.lnav button:hover { color: var(--brand); border-color: var(--brand); }
+#dlg, .allnotes, h2[id] { scroll-margin-top: 3.6rem; }
+.seg { flex-wrap: wrap; }
+.pracnav { align-self: flex-start; }
+/* "Jyutping on tap": readings hidden until a word is tapped */
+.mode-tap ruby.tok rt { visibility: hidden; }
+.mode-tap ruby.tok.show rt { visibility: visible; }
+/* home: next lesson, second wave, journal */
+.nextcard, .card.wave { gap: .5rem; }
+.nc-main { display: flex; align-items: center; gap: .9rem; flex-wrap: wrap; }
+.nc-n { font-family: var(--f-ui); font-weight: 700; font-size: 2rem; color: var(--brand); font-variant-numeric: tabular-nums; min-width: 2.2rem; }
+.nc-t { flex: 1; min-width: 10rem; display: flex; flex-direction: column; }
+.nc-t .han { font-size: 1.5rem; font-weight: var(--w-han); line-height: 1.2; }
+.nc-t .sub { font-size: .9rem; }
+.lt { position: relative; }
+.lt .w2 { position: absolute; top: .2rem; right: .3rem; font-family: var(--f-ui); font-size: .62rem; font-weight: 800; width: 1rem; height: 1rem; border-radius: 50%; background: var(--sun); color: #2B2100; display: grid; place-items: center; }
+.journal summary { cursor: pointer; font-family: var(--f-ui); font-weight: 700; padding-block: .4rem; }
+.journal ul { list-style: none; margin: .4rem 0 0; padding: 0; display: flex; flex-direction: column; }
+.journal li { display: flex; gap: .8rem; align-items: baseline; padding: .35rem 0; border-bottom: 1px dashed var(--soft-line); font-size: .92rem; }
+.journal time { color: var(--sub); min-width: 6.5rem; font-family: var(--f-ui); font-variant-numeric: tabular-nums; }
+.linkish { border: 0; background: none; padding: 0; color: var(--text); text-align: left; }
+.linkish:hover { color: var(--brand); text-decoration: underline; }
+/* lesson end */
+.finish { gap: .8rem; }
+.wave-intro { margin: 0; padding: .7rem .9rem; border-radius: var(--r); background: var(--brand-soft); }
+.card.wave { color: var(--text); }
+button.card.wave { text-align: left; }
+.pod-head { display: flex; gap: 1rem; align-items: center; }
+.pod-head img { width: 6rem; height: 6rem; border-radius: var(--r); object-fit: cover; border: var(--border-soft); flex: none; }
+.item.ep .no { font-size: 1rem; } .item.ep.done .no { background: var(--brand); color: var(--brand-ink); }
+.item.ep .tt { font-size: 1rem; font-family: var(--f-mix); font-weight: 700; } .item.ep .ts { white-space: normal; }
+.podplayer input[type=range] { width: 100%; accent-color: var(--brand); }
+.pp-ctl { justify-content: center; gap: 1rem; }
+.pp-big { width: 4rem; height: 4rem; border-radius: 50% !important; font-size: 1.4rem; padding: 0; }
+#pp-loop.on { border-color: var(--coral); color: var(--coral); }
+.epintro p { margin: .25rem 0; max-width: 65ch; }
+.epintro p.topic { padding-left: 1.1rem; position: relative; } .epintro p.topic::before { content: "◎"; position: absolute; left: 0; color: var(--brand); }
+.chaps { display: flex; flex-direction: column; gap: .3rem; }
+.chap { display: grid; grid-template-columns: 4.2rem minmax(0, 1fr); gap: .6rem; text-align: left; border: 0; background: var(--surface); border-radius: var(--r); padding: .5rem .7rem; border: var(--border-soft); }
+.chap.cur { border-color: var(--brand); background: var(--brand-soft); }
+.chap .han { font-size: 1.05rem; }
+.pvocab { display: grid; grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr)); gap: .5rem; }
+.pv { display: flex; flex-direction: column; gap: .15rem; text-align: left; background: var(--surface); border: var(--border-soft); border-radius: var(--r); padding: .55rem .75rem; }
+.pv[data-word]:hover { background: var(--brand-soft); }
+.pv b.han { font-size: 1.25rem; } .pv .rom { color: var(--brand); font-weight: 600; } .pv .zh { font-size: .88rem; }
+.podmini { position: fixed; left: 12px; right: 12px; bottom: calc(4.6rem + env(safe-area-inset-bottom, 0px)); z-index: 14; display: flex; gap: .5rem; align-items: center; background: var(--surface); border: var(--border); border-radius: var(--r); box-shadow: var(--shadow); padding: .35rem .5rem; }
+body.has-mini main { padding-bottom: 11rem; }
+.vidslot { position: relative; width: 100%; aspect-ratio: 16 / 9; }
+.vidbox { position: absolute; inset: 0; background: #000; border-radius: var(--r); overflow: hidden; }
+.vidbox iframe, .vidbox #vidframe, .vidbox .vidmsg { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.vidfx { display: none; }
+/* phone and tablet: once the player is scrolled away, the picture stays at the top of the screen */
+.vidplayer.float .vidbox { position: fixed; z-index: 16; top: env(safe-area-inset-top, 0px); left: 0; right: 0; bottom: auto; width: 100%; height: auto; aspect-ratio: 16 / 9; max-height: 40vh; border-radius: 0; box-shadow: 0 4px 14px rgba(0, 0, 0, .3); }
+.vidplayer.float .vidfx { display: grid; place-items: center; position: absolute; z-index: 2; top: .35rem; right: .35rem; width: 2rem; height: 2rem; border: 0; border-radius: 50%; background: rgba(0, 0, 0, .55); color: #fff; font-size: 1rem; }
+/* wide screens: picture and controls on the left (they stay put), transcript on the right */
+@media (min-width: 1100px) {
+  .col.vidpage { max-width: 82rem; display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 2rem; align-items: start; }
+  .vidleft { position: sticky; top: 1rem; display: flex; flex-direction: column; gap: 1.25rem; }
+  .vidside:empty { display: none; }
+}
+@media (max-width: 1099px) { .vidleft, .vidside { display: flex; flex-direction: column; gap: 1.5rem; } .col.vidpage { gap: 1.5rem; } }
+.vidbox .vidmsg { display: grid; place-items: center; color: #fff; padding: 1rem; text-align: center; font-size: .9rem; }
+.podmini.float { padding: .45rem .6rem .35rem; overflow: hidden; }
+.podmini .pm-sk { border: var(--border); background: var(--surface); color: var(--text); border-radius: 999px; padding: .35rem .6rem; font: inherit; font-size: .85rem; flex: none; }
+.podmini .pm-time { flex: 1; text-align: center; font-variant-numeric: tabular-nums; font-size: .85rem; color: var(--sub); white-space: nowrap; }
+.podmini .pm-up { padding: .35rem .7rem; }
+.podmini .pm-bar { position: absolute; left: 0; right: 0; top: 0; height: 3px; background: var(--soft-line); }
+.podmini .pm-bar i { display: block; height: 100%; background: var(--brand); }
+.podmini .pm-play { width: 2.6rem; height: 2.6rem; border-radius: 50%; border: 0; background: var(--brand); color: var(--brand-ink); flex: none; }
+.podmini .pm-t { flex: 1; min-width: 0; text-align: left; border: 0; background: none; display: flex; flex-direction: column; line-height: 1.2; }
+.podmini .pm-t b { font-size: .75rem; color: var(--sub); } .podmini .pm-t span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: .9rem; }
+@media (min-width: 821px) { .podmini { left: auto; width: 24rem; bottom: 16px; } }
+.gitem .no { font-size: .85rem; }
+.gitem .ts, .item .ts { white-space: normal; }
+.gitem .tt { font-size: 1.1rem; }
+@media (max-width: 820px) { .tab { padding: .35rem .3rem; font-size: .66rem; } }
+.wchip.indeck { box-shadow: inset 3px 0 0 var(--brand); }
+.copybox { width: 100%; min-height: 8rem; font: inherit; font-size: .85rem; }
+kbd { font-family: var(--f-ui); font-size: .7rem; font-weight: 700; border: 1px solid currentColor; border-radius: 4px; padding: 0 .3rem; opacity: .6; margin-left: .2rem; }
+@media (hover: none) { kbd { display: none; } }
+</style>
+
+<div class="shell">
+  <nav class="rail" aria-label="Sections">
+    <div class="logo"><div class="mark">粵</div><div><b>pyue</b><small>Cantonese · 進修</small></div></div>
+    <div class="tabs" id="tabs"></div>
+  </nav>
+  <main id="main"></main>
+</div>
+<aside class="sheet" id="sheet" aria-label="Word" aria-hidden="true"></aside>
+<div class="toast" id="toast" hidden></div>
+
+<script>
+const DATA = /*__DATA__*/null;
+const $ = (s, el = document) => el.querySelector(s);
+const $$ = (s, el = document) => [...el.querySelectorAll(s)];
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+const SYNC_KEYS = new Set(['doneAt', 'waveAt', 'deck', 'days', 'lists']);
+const store = {
+  get(k, d) { try { const v = localStorage.getItem('pyue:' + k); return v ? JSON.parse(v) : d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem('pyue:' + k, JSON.stringify(v)); } catch {} if (SYNC_KEYS.has(k) && typeof Sync !== 'undefined') Sync.soon(); }
+};
+const prefs = Object.assign({ mode: 'both', spoken: false, en: false, skin: 'notebook', accent: 'std', pick: {} }, store.get('prefs', {}));
+prefs.pick = prefs.pick || {};
+function applySkin() {
+  const r = document.documentElement; if (prefs.skin === 'rose') r.dataset.skin = 'rose'; else delete r.dataset.skin; if (prefs.night) r.dataset.night = ''; else delete r.dataset.night;
+  // installed app: the phone's status bar takes the page colour
+  const tc = document.querySelector('meta[name=theme-color]'); if (tc) tc.content = getComputedStyle(r).getPropertyValue('--bg').trim() || '#FCFCF8';
+}
+// ---------- installed app (only on the hosted site, which adds a manifest; not inside claude.ai)
+const HOSTED = !!document.querySelector('link[rel=manifest]');
+const STANDALONE = matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+let installEvt = null;
+addEventListener('beforeinstallprompt', e => { e.preventDefault(); installEvt = e; if (currentTab() === 'settings') showSettings(); });
+addEventListener('appinstalled', () => { installEvt = null; toast('pyue is on your home screen'); });
+if (HOSTED && 'serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});
+// progress: lesson id -> date finished ('' for lessons finished before dates were kept); second wave the same
+const doneAt = store.get('doneAt', null) || Object.fromEntries(store.get('done', []).map(id => [id, '']));
+const waveAt = store.get('waveAt', {});
+const done = new Set(Object.keys(doneAt).map(Number));
+function saveDone() { store.set('doneAt', doneAt); store.set('done', [...done]); store.set('waveAt', waveAt); }
+let deck = store.get('deck', {});
+// ---------- vocabulary lists: the words the learner adds from a card go to the list of the page being read: one list
+// for all the lessons (and themes), one per podcast, per drama, per album, per book, one for the exam. Synced:
+// lists[key] = { t: title, w: { card id: +time added | -time removed } }; on merge the later change wins.
+let lists = store.get('lists', {});
+(function migrateExamList() {   // the exam module's old bookmark list becomes the Exam list
+  const old = store.get('examList', null);
+  if (old && old.length && !lists.exam) { lists.exam = { t: 'Exam', w: {} }; old.forEach((id, i) => { lists.exam.w[id] = Date.now() - i; }); try { localStorage.setItem('tshehtu:lists', JSON.stringify(lists)); } catch {} }   // not store.set: sync is not set up yet
+})();
+const listIds = k => Object.entries((lists[k] || {}).w || {}).filter(([, t]) => t > 0).sort((a, b) => b[1] - a[1]).map(([id]) => id);
+const inList = (k, id) => (((lists[k] || {}).w || {})[id] || 0) > 0;
+const LIST_TITLES = {};   // titles only the private module knows (its books)
+// a name the learner gave the list (Practice › My lists › ✎) wins over the source's own
+function listTitle(k) {
+  if (lists[k] && lists[k].nm) return lists[k].nm;
+  return listBase(k);
+}
+function listBase(k) {
+  const [kind, id] = k.split(':');
+  if (k === 'lessons') return 'Lessons';
+  if (k === 'exam') return 'Exam';
+  if (kind === 'book') return LIST_TITLES[k] || (lists[k] && lists[k].t) || id;
+  if (kind === 'pod') return (typeof POD !== 'undefined' && POD && POD.title) || (lists[k] && lists[k].t) || 'Podcast';
+  if (kind === 'vid') { const S = (DATA.video || { shows: [] }).shows.find(x => x.id === id); return S ? S.title : id; }
+  if (kind === 'mus') { const A = (DATA.music || { albums: [] }).albums.find(x => x.id === id); return A ? A.title : id; }
+  return k;
+}
+const LIST_KIND = { lessons: ['課', 'Lessons'], pod: ['聽', 'Podcast'], vid: ['劇', 'Drama'], mus: ['歌', 'Music'], book: ['冊', 'Book'], exam: ['考', 'Exam'] };
+const listKind = k => LIST_KIND[k.split(':')[0]] || ['詞', ''];
+// the list a word goes to: the one of the page being read
+function listHere() {
+  const h = location.hash.slice(1) || 'lessons';
+  let m;
+  if ((m = h.match(/^list-(.+)$/))) return decodeURIComponent(m[1]);
+  if (/^(ep-|podcast)/.test(h)) return 'pod:show';
+  if ((m = h.match(/^vid-([a-z0-9]+)-/))) return 'vid:' + m[1];
+  if ((m = h.match(/^mus-([a-z0-9]+)-/))) return 'mus:' + m[1];
+  if ((m = h.match(/^exam-book-([a-z0-9]+)/))) return 'book:' + m[1];
+  if (/^exam/.test(h)) return 'exam';
+  return 'lessons';
+}
+function listSet(k, ids, on) {
+  const L = lists[k] = lists[k] || { w: {} };
+  L.t = listBase(k);
+  let n = 0;
+  ids.filter(id => id && DATA.dict[id]).forEach(id => { if (inList(k, id) !== on) { L.w[id] = on ? Date.now() : -Date.now(); n++; } });
+  store.set('lists', lists);
+  if (on && n) studied();
+  return n;
+}
+function mergeLists(o) {
+  Object.entries(o || {}).forEach(([k, L]) => {
+    const M = lists[k] = lists[k] || { w: {} };
+    if (L.t && !M.t) M.t = L.t;
+    if ((L.nmAt || 0) > (M.nmAt || 0)) { M.nmAt = L.nmAt; if (L.nm) M.nm = L.nm; else delete M.nm; }
+    Object.entries(L.w || {}).forEach(([id, t]) => { if (Math.abs(t) > Math.abs(M.w[id] || 0)) M.w[id] = t; });
+  });
+}
+function progressData() { return { app: 'tshehtu', v: 1, at: new Date().toISOString(), doneAt, waveAt, deck, lists, days: [...studyDays], last: store.get('last', null) }; }
+// merge another copy of the progress into this one: earliest finish dates, the most recently reviewed card wins
+function mergeProgress(d) {
+  if (!d || d.app !== 'tshehtu') throw new Error('not a progress file');
+  Object.entries(d.doneAt || {}).forEach(([k, v]) => { if (!(k in doneAt) || (v && (!doneAt[k] || v < doneAt[k]))) doneAt[k] = v; done.add(+k); });
+  Object.entries(d.waveAt || {}).forEach(([k, v]) => { if (!(k in waveAt) || (v && v < waveAt[k])) waveAt[k] = v; });
+  Object.entries(d.deck || {}).forEach(([k, v]) => { const m = deck[k]; if (!m || (v.at || 0) > (m.at || 0) || (!v.at && !m.at && v.box > m.box)) deck[k] = v; });
+  (d.days || []).forEach(x => studyDays.add(x));
+  if (d.lists) mergeLists(d.lists);
+  saveDone(); store.set('deck', deck); store.set('lists', lists); store.set('days', [...studyDays]);
+}
+let studyDays = new Set(store.get('days', []));
+const DAY = 864e5, BOXES = [0, 1, 3, 7, 16, 35];
+// local calendar day (toISOString is UTC: in Taiwan or Europe it gives the wrong day around midnight)
+const ymd = d => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+const today = () => ymd(new Date());
+const fmtDate = s => { if (!s) return ''; const [y, m, d] = s.split('-').map(Number); return new Date(y, m - 1, d).toLocaleDateString('en-GB', { weekday: 'short', day: 'numeric', month: 'short' }); };
+function studied() { studyDays.add(today()); store.set('days', [...studyDays]); }
+function streak() { let n = 0; const d = new Date(); if (!studyDays.has(ymd(d))) d.setDate(d.getDate() - 1); while (studyDays.has(ymd(d))) { n++; d.setDate(d.getDate() - 1); } return n; }
+
+const COG = {
+  'same': ['p-same', 'Same as Mandarin', ''],
+  'same-chars-diff-use': ['p-ff', 'False friend', 'c-ff'],
+  'different': ['p-to', 'Cantonese only', 'c-to'],
+  'partial': ['p-ff', 'Used differently in Mandarin', 'c-ff'],
+};
+const cog = id => COG[(DATA.dict[id] || {}).cognate] || ['', '', ''];
+const PUNCT = { '，': ', ', '。': '. ', '！': '! ', '？': '? ', '：': ': ', '、': ', ', '；': '; ' };
+const ICONS = {
+  today: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>',
+  lessons: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21a2 2 0 0 1 2-2h13"/></svg>',
+  themes: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="3" y="3" width="7.5" height="7.5" rx="2"/><rect x="13.5" y="3" width="7.5" height="7.5" rx="2"/><rect x="3" y="13.5" width="7.5" height="7.5" rx="2"/><rect x="13.5" y="13.5" width="7.5" height="7.5" rx="2"/></svg>',
+  bridge: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M2 17h20M4 17v-3a8 8 0 0 1 16 0v3M8 17v-4M12 17v-6M16 17v-4"/></svg>',
+  settings: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>',
+  podcast: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 14v-2a9 9 0 0 1 18 0v2"/><rect x="3" y="14" width="4" height="7" rx="1.5"/><rect x="17" y="14" width="4" height="7" rx="1.5"/></svg>',
+  music: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l11-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="17" cy="16" r="3"/></svg>',
+  video: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="3"/><path d="m10 9.2 5 2.8-5 2.8z"/></svg>',
+  grammar: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h10M4 12h16M4 18h7"/><path d="M17 4l3 3-3 3"/></svg>',
+  exam: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 3h6v3H9z"/><path d="M15 4.5h2a2 2 0 0 1 2 2V19a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6.5a2 2 0 0 1 2-2h2"/><path d="m9 13 2 2 4-4"/></svg>',
+  books: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M3 5c3-1.5 6-1.5 9 .5 3-2 6-2 9-.5v14c-3-1.5-6-1.5-9 .5-3-2-6-2-9-.5z"/><path d="M12 5.5v14"/></svg>',
+  review: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="6" y="3" width="13" height="16" rx="2"/><path d="M3 7v12a2 2 0 0 0 2 2h10"/></svg>',
+};
+
+// ---------- routing
+let WAVE = false;          // true on #wave-N: lesson N shown in active mode for the second wave
+let homeY = 0, fromLesson = null;
+function route() {
+  const h = location.hash.slice(1) || 'lessons';
+  if (!route.keepSheet) closeSheet();
+  let m;
+  WAVE = false;
+  if (h === 'lessons') return showLessons();
+  if (h === 'lesson-0') return showLesson0();
+  if ((m = h.match(/^(lesson|wave)-(\d+)$/))) { const L = DATA.lessons.find(l => l.id === +m[2]); if (L) { WAVE = m[1] === 'wave'; fromLesson = L.id; store.set('last', L.id); return showLesson(L); } }
+  if (h === 'themes') return showThemes();
+  if ((m = h.match(/^theme-([a-z]+)(?:-(\d+))?$/))) { const T = DATA.themes.find(t => t.id === m[1]); if (T) return showTheme(T, m[2] ? +m[2] : null); }
+  if (h === 'review') return showReview();
+  if (h === 'lists') return showLists();
+  if ((m = h.match(/^list-(.+)$/))) return showList(decodeURIComponent(m[1]));
+  if (h === 'books') return Exam.show('exam-books');
+  if (h === 'bridge') return showBridge();
+  if (h === 'drills') return showDrills();
+  if (h === 'grammar') return showGrammar();
+  if (h === 'podcast') return showPodcast();
+  if (h === 'video') return showVideo();
+  if (h === 'music') return showMusic();
+  if ((m = h.match(/^mus-([a-z0-9]+)-(\d+)$/))) { const A = MUS.albums.find(x => x.id === m[1]), so = A && A.songs.find(e => e.n === +m[2]); if (so) return showSong(A, so); }
+  if ((m = h.match(/^vid-([a-z0-9]+)-(\d+)$/))) { const S = VID.shows.find(x => x.id === m[1]), ep = S && S.episodes.find(e => e.n === +m[2]); if (ep) return showVideoEp(S, ep); }
+  if ((m = h.match(/^ep-(\d+)$/))) { const ep = podEp(+m[1]); if (ep) return showEpisode(ep); }
+  if ((m = h.match(/^grammar-([a-z0-9̀-ͯ-]+)$/i))) { const it = DATA.grammar.flatMap(g => g.items).find(x => x.id === decodeURIComponent(m[1])); if (it) return showGrammarItem(it); }
+  if (/^exam/.test(h)) return Exam.show(h);
+  if (h === 'accents' || h === 'settings') return showSettings();
+  showLessons();
+}
+function go(h) { if (location.hash === '#' + h) { route(); window.scrollTo(0, 0); } else location.hash = h; }
+let onHome = (location.hash.slice(1) || 'lessons') === 'lessons', resetHome = false;
+window.addEventListener('hashchange', () => {
+  if (onHome) homeY = window.scrollY;
+  if (resetHome) { homeY = 0; resetHome = false; }
+  route();
+  onHome = (location.hash.slice(1) || 'lessons') === 'lessons';
+  podMini();
+  // back on the lesson grid: return to where you were, not to the top
+  if (onHome && homeY) window.scrollTo(0, homeY); else window.scrollTo(0, 0);
+});
+function wireGo(root) { $$('[data-go]', root).forEach(b => b.onclick = () => go(b.dataset.go)); }
+
+function renderTabs(cur) {
+  const tabs = [['lessons', 'Lessons'], ['review', 'Practice'], ...(DATA.podcast ? [['podcast', 'Podcast']] : []), ...(VID.shows.length ? [['video', 'Video']] : []), ...(MUS.albums.length ? [['music', 'Music']] : []), ...(Exam.on ? [['books', 'Books']] : []), ['settings', 'Settings']];
+  $('#tabs').innerHTML = tabs.map(([k, t]) => `<button class="tab" data-tab="${k}" aria-current="${cur === k}">${ICONS[k]}<span>${t}</span></button>`).join('');
+  // a tab always opens that tab's start page (the Practice tab leaves a running session and reopens its part used last; the Lessons tab goes to the top of the grid)
+  $$('[data-tab]', $('#tabs')).forEach(b => b.onclick = () => { const k = b.dataset.tab; if (k === 'review') { sess = null; tsess = null; const sec = store.get('pracSec', 'lists'); go(sec === 'review' || (sec === 'exam' && !Exam.on) ? 'lists' : sec); return; } if (k === 'lessons') resetHome = true; go(k); });
+}
+
+// ---------- lessons list
+const TOTAL = 100;
+// Part 2, Perfectionnement (進修): lessons stored with ids 101-170, shown as 進修 1-70; review every 7th; second wave
+// from P36 redoes P(N-35) (35 = 5 x 7, so a review's wave is triggered by a review)
+const PART2 = 100, PTOTAL = 70;
+const isP = id => id > PART2;
+const lnum = id => isP(id) ? 'P' + (id - PART2) : String(id);
+const lname = id => isP(id) ? `進修 ${id - PART2}` : `Lesson ${id}`;
+const waveOff = id => isP(id) ? 35 : 49;
+const GENRES = { dialogue: 'Dialogue', article: 'Article', letter: 'Letter', interview: 'Interview', tale: 'Tale', diary: 'Diary', debate: 'Debate', speech: 'Speech', essay: 'Essay', document: 'Document', song: 'Song', review: 'Review', news: 'News', story: 'Story', play: 'Play' };
+// Part 2 on the lessons home: a notebook-cover card, then a grid of the 70 planned lessons
+function partTwo(byId, next) {
+  const ids = [...Array(PTOTAL)].map((_, i) => PART2 + i + 1);
+  const pdone = ids.filter(id => done.has(id)).length, written = ids.filter(id => byId[id]).length;
+  const tile = id => {
+    const l = byId[id], n = id - PART2, rev = n % 7 === 0;
+    if (!l) return `<button class="lt soon ${rev ? 'rev' : ''}" disabled aria-label="進修 ${n}, not written yet"><span class="ln"><small>P</small>${n}</span><span class="lh">${rev ? '復習' : ''}</span></button>`;
+    const st = done.has(id) ? 'done' : (next && next.id === id ? 'next' : '');
+    return `<button class="lt ${st} ${rev ? 'rev' : ''}" data-go="lesson-${id}" data-n="${id}" aria-label="進修 ${n}: ${esc(l.title.en)}${done.has(id) ? ', done' : ''}${waveAt[id] ? ', second wave done' : ''}"><span class="ln">${done.has(id) ? '✓ ' : ''}<small>P</small>${n}</span><span class="lh">${esc(l.title.hanji)}</span>${waveAt[id] ? '<span class="w2" aria-hidden="true">2</span>' : ''}</button>`;
+  };
+  return `<div class="pbreak" aria-hidden="true"></div>
+    <section class="pcover" id="part2" aria-label="Part 2, Perfectionnement"><span class="ptag">Part 2</span>
+      <span class="eyebrow">Perfectionnement</span><h1>進修</h1>
+      <span class="rom">zeon3 sau1 · after a 100-lesson beginner course</span>
+      <p class="sub" style="margin:0">Longer lessons, and not only dialogues: articles, letters, interviews, tales, speeches. Registers, set phrases and much more vocabulary. A review every 7th lesson; from 進修 36 each lesson also brings back 進修 N−35.</p>
+      <div class="bar" aria-hidden="true"><i style="width:${Math.round(100 * pdone / PTOTAL)}%"></i></div>
+      <span class="sub" style="font-size:.85rem">${pdone} done · ${written} of ${PTOTAL} written</span></section>
+    <div class="lgrid pgrid">${ids.map(tile).join('')}</div>`;
+}
+function showLessons() {
+  renderTabs('lessons');
+  const byId = Object.fromEntries(DATA.lessons.map(l => [l.id, l]));
+  const next = DATA.lessons.find(l => !done.has(l.id));
+  const tile = n => {
+    const l = byId[n], rev = n % 7 === 0;
+    const plan = (DATA.syllabus || []).find(x => x.n === n);
+    if (!l) return `<button class="lt soon ${rev ? 'rev' : ''}" disabled aria-label="Lesson ${n}, not written yet${plan ? ': ' + esc(plan.en) : ''}"><span class="ln">${n}</span><span class="lh">${rev ? '復習' : esc(plan ? plan.en : '')}</span></button>`;
+    const st = done.has(n) ? 'done' : (next && next.id === n ? 'next' : '');
+    return `<button class="lt ${st} ${rev ? 'rev' : ''}" data-go="lesson-${n}" data-n="${n}" aria-label="Lesson ${n}: ${esc(l.title.en)}${done.has(n) ? ', done' : ''}${waveAt[n] ? ', second wave done' : ''}"><span class="ln">${done.has(n) ? '✓ ' : ''}${n}</span><span class="lh">${esc(l.title.hanji)}</span>${waveAt[n] ? '<span class="w2" aria-hidden="true">2</span>' : ''}</button>`;
+  };
+  const last = store.get('last', null), wv = nextWave(), dt = Object.values(doneAt).filter(d => d === today()).length, st = streak();
+  const journal = Object.entries(doneAt).map(([n, d]) => [d, +n, 'lesson']).concat(Object.entries(waveAt).map(([n, d]) => [d, +n, 'wave']))
+    .filter(x => x[0]).sort((a, b) => b[0].localeCompare(a[0]) || b[1] - a[1]);
+  // the 100 lessons only: lesson 0 (reading Jyutping) and 進修 have their own counts
+  const inMain = id => id >= 1 && id <= TOTAL, mdone = [...done].filter(inMain).length, mwritten = DATA.lessons.filter(l => inMain(l.id)).length;
+  // the 100-lesson base course is the owner's own copy: it exists only when the private module adds it
+  const BASE = mwritten > 0;
+  $('#main').innerHTML = `<div class="col">
+    <div class="head"><span class="eyebrow">Course</span><h1>課程</h1>
+      <span class="rom">fo3 cing4${BASE ? ` · ${mdone} done · ${mwritten} of ${TOTAL} lessons` : ' · perfectionnement'}</span></div>
+    ${BASE ? `<div class="bar" aria-hidden="true"><i style="width:${Math.round(100 * mdone / TOTAL)}%"></i></div>` : ''}
+    ${next ? `<div class="card raised nextcard">
+      <span class="eyebrow">${last === next.id ? 'Carry on' : 'Next lesson'}${dt ? ` · ${dt} done today` : ''}${st > 1 ? ` · ${st}-day streak` : ''}</span>
+      <div class="nc-main"><span class="nc-n">${lnum(next.id)}</span><span class="nc-t"><span class="han">${esc(next.title.hanji)}</span><span class="rom sub">${esc(next.title.tailo)} · ${esc(next.title.en)}</span></span>
+        <button class="btn" data-go="lesson-${next.id}">${last === next.id ? 'Resume' : 'Start'} →</button></div></div>`
+      : `<div class="card raised"><span class="eyebrow">All written lessons are done</span><span>New lessons will appear here as they are written.</span></div>`}
+    ${wv ? `<div class="card wave"><span class="eyebrow">${wv.review ? 'Review · second wave' : 'Second wave'}</span>
+      <div class="nc-main"><span class="nc-n">${lnum(wv.id)}</span><span class="nc-t"><span class="han">${esc(wv.title.hanji)}</span><span class="sub">Read the English, say it in Cantonese, then check.</span></span>
+        <button class="btn line" data-go="wave-${wv.id}">Do it →</button></div></div>` : ''}
+    <button class="item" data-go="lesson-0"><span class="no">0</span><span><span class="tt">讀粵拼</span><br><span class="ts">Reading Jyutping · start here</span></span><span class="chev">›</span></button>
+    ${BASE ? `<div class="lgrid">${[...Array(TOTAL)].map((_, i) => tile(i + 1)).join('')}</div>
+    <p class="sub" style="margin:0;font-size:.85rem">Every 7th lesson (復習) is a review. From lesson 50 the second wave starts: each lesson you finish brings back lesson N−49 in active mode (English → Cantonese); a small <b>2</b> marks the ones redone. Grey lessons are not written yet.</p>` : ''}
+    ${partTwo(byId, next)}
+    <details class="journal"><summary><span class="han">日記</span> Journal (${journal.length})</summary>
+      ${journal.length ? `<ul>${journal.map(([d, n, k]) => { const l = byId[n]; return `<li><time>${fmtDate(d)}</time><button class="linkish" data-go="${k}-${n}">${k === 'wave' ? 'Second wave · ' : ''}${lname(n)} · ${esc(l ? l.title.en : '')}</button></li>`; }).join('')}</ul>`
+        : '<p class="sub">Lessons you finish show up here with their date.</p>'}</details>
+  </div>`;
+  wireGo($('#main'));
+}
+// second wave: the first lesson (reviews included: 49 = 7 x 7, so a review's wave is triggered by a review) whose wave
+// is not done and whose lesson N+49 is done
+function nextWave() {
+  for (const inPart of [l => !isP(l.id), l => isP(l.id)]) {
+    for (const l of DATA.lessons.filter(inPart)) { if (waveAt[l.id]) continue; if (done.has(l.id + waveOff(l.id)) && isP(l.id + waveOff(l.id)) === isP(l.id)) return l; break; }
+  }
+  return null;
+  return null;
+}
+
+// ---------- shared: tokenised sentence
+const ACCENTS = [['std', 'Standard'], ['taipei', 'North'], ['tainan', 'South']];
+// which reading to show for a word: the learner's own pick, else the accent preset, else the standard (MOE) one
+function chosenAlt(id) {
+  const c = DATA.dict[id]; if (!c || !c.alts) return null;
+  const pick = prefs.pick[id];
+  if (pick) return pick === c.tailo ? null : c.alts.find(a => a.t === pick) || null;
+  if (prefs.accent !== 'std') return c.alts.find(a => (a.presets || []).includes(prefs.accent)) || null;
+  return null;
+}
+function romOf(w) {
+  const alt = w.id ? chosenAlt(w.id) : null;
+  if (!alt) return { r: prefs.spoken ? w.s : w.t, v: false };
+  const neutral = w.t.startsWith('--') && !alt.t.startsWith('--');
+  return { r: (neutral ? '--' : '') + alt.t, v: true };
+}
+function tokHTML(tok, key) {
+  if (tok.p) return `<span class="punct">${esc(prefs.mode === 'rom' ? tok.p.replace(/[，。！？：、；]/g, c => PUNCT[c]) : tok.p)}</span>`;
+  const w = tok.w, ro = romOf(w), r = ro.r, cls = 'tok ' + (w.id ? cog(w.id)[2] : '') + (ro.v ? ' var' : '');
+  const a = `class="${cls}" tabindex="0" role="button" data-tok="${key}"`;
+  // names and words quoted in Latin letters inside a characters line (Sam, bueh): write them once, not twice
+  if (prefs.mode === 'rom' || !HAN_RE.test(w.h)) return `<span ${a}>${esc(prefs.mode === 'rom' ? r : w.h)}</span>${prefs.mode === 'rom' ? ' ' : ''}`;
+  return `<ruby ${a}>${esc(w.h)}${rtHTML(r)}</ruby>`;
+}
+// the reading sits in an inline-block: Chrome stretches a reading shorter than its characters (ruby-align
+// space-around) and the inserted gaps split a letter from its combining tone mark (M̀ shown as "M `")
+function rtHTML(r) { return `<rt><span class="rw">${esc(r)}</span></rt>`; }
+const HAN_RE = /[㐀-鿿\u{20000}-\u{3ffff}豈-﫿]/u;
+const TOKS = {};
+function sentence(tokens, prefix) { return tokens.map((t, i) => { if (t.w) TOKS[prefix + ':' + i] = t.w; return tokHTML(t, prefix + ':' + i); }).join(''); }
+function wireTokens(root) {
+  $$('.tok', root).forEach(t => {
+    const open = () => {
+      // "Jyutping on tap": the first tap shows the reading, the next one opens the word card
+      if (prefs.mode === 'tap' && t.tagName === 'RUBY' && !t.classList.contains('show')) { t.classList.add('show'); return; }
+      $$('.tok.sel').forEach(x => x.classList.remove('sel')); t.classList.add('sel'); const w = TOKS[t.dataset.tok]; openCard(w.id, w);
+    };
+    t.onclick = open; t.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } };
+  });
+}
+function toolbar(withActive) {
+  return `<div class="toolbar" role="toolbar" aria-label="Display">
+    ${withActive ? `<label class="toggle"><input type="checkbox" id="opt-active" ${prefs.active ? 'checked' : ''}> Active (EN → Cantonese)</label>` : ''}
+    <div class="seg" role="group" aria-label="Script">${[['both', '漢字 + Jyutping'], ['tap', 'Jyutping on tap'], ['rom', 'Jyutping'], ['han', '漢字']].map(([k, t]) => `<button data-mode="${k}" aria-pressed="${prefs.mode === k}">${t}</button>`).join('')}</div>
+    <label class="toggle"><input type="checkbox" id="opt-en" ${prefs.en ? 'checked' : ''}> English</label>
+    <div class="legend"><span class="k-to">Cantonese only</span><span class="k-ff">Used differently in Mandarin</span></div></div>`;
+}
+function wireToolbar(rerender) {
+  $$('[data-mode]').forEach(b => b.onclick = () => { prefs.mode = b.dataset.mode; store.set('prefs', prefs); rerender(); });
+  $('#opt-en').onchange = e => { prefs.en = e.target.checked; store.set('prefs', prefs); rerender(); };
+  const a = $('#opt-active'); if (a) a.onchange = e => { prefs.active = e.target.checked; store.set('prefs', prefs); rerender(); };
+}
+function enLine(en, zh, k) {
+  return prefs.en ? `<span class="en">${esc(en)}</span>${zh ? `<span class="zh">${esc(zh)}</span>` : ''}` : `<button class="reveal" data-reveal="${k}">Show English</button>`;
+}
+const REVEAL = {};
+function wireReveal(root) { $$('[data-reveal]', root).forEach(b => b.onclick = () => { const [en, zh] = REVEAL[b.dataset.reveal]; b.outerHTML = `<span class="en">${esc(en)}</span>${zh ? `<span class="zh">${esc(zh)}</span>` : ''}`; }); }
+function fmt(t) { return esc(t).replace(/([㐀-鿿\u{20000}-\u{3ffff}豈-﫿]+)/gu, '<span class="han">$1</span>'); }
+
+// ---------- lesson
+function showLesson(L) {
+  renderTabs('lessons');
+  const notesBy = {};
+  L.notes.forEach((n, i) => (notesBy[n.ref] = notesBy[n.ref] || []).push(i + 1));
+  const speakers = [...new Set(L.lines.map(l => l.speaker))];
+  const ids = DATA.lessons.map(l => l.id), at = ids.indexOf(L.id);
+  const prev = ids[at - 1], nxt = ids[at + 1];
+  const active = WAVE || !!prefs.active;
+  const pron = [...new Set(L.lines.flatMap(ln => ln.tokens.filter(t => t.w && t.w.id && DATA.dict[t.w.id] && DATA.dict[t.w.id].alts).map(t => t.w.id)))];
+  const chips = WAVE ? [] : [['dlg', 'Dialogue'], ['sec-notes', 'Notes'], ['sec-words', 'New words'], ['sec-ex', 'Practice']];
+  $('#main').innerHTML = `<div class="col mode-${prefs.mode}">
+    <div class="lbar"><button class="icon" data-go="lessons" aria-label="Back to lessons">←</button>
+      <span class="where">${WAVE ? '2nd wave · ' : ''}${lname(L.id)} · ${esc(L.title.en)}</span>
+      ${pron.length ? `<button class="icon sq" id="pron" aria-label="Pronunciation: ${pron.length} words said another way" title="Pronunciation choices"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h10M18 6h2M4 12h4M12 12h8M4 18h12M20 18h0"/><circle cx="16" cy="6" r="2"/><circle cx="10" cy="12" r="2"/><circle cx="18" cy="18" r="2"/></svg></button>` : ''}
+      <button class="icon" data-go="${WAVE ? 'wave' : 'lesson'}-${prev}" aria-label="Previous lesson" ${prev ? '' : 'disabled'}>‹</button>
+      <button class="icon" data-go="${WAVE ? 'wave' : 'lesson'}-${nxt}" aria-label="Next lesson" ${nxt ? '' : 'disabled'}>›</button></div>
+    <div class="head"><span class="eyebrow">${WAVE ? (L.review ? `Review · second wave` : `Second wave`) : (L.review ? `${lname(L.id)} · Review` : `${lname(L.id)}${L.genre && L.genre !== 'dialogue' ? ' · ' + (GENRES[L.genre] || L.genre) : ''}`)}</span>
+      <h1>${esc(L.title.hanji)}</h1><span class="rom">${esc(L.title.tailo)} · ${esc(L.title.en)}</span>
+      ${(() => { const v = [...new Set(L.lines.filter(x => x.audio).map(x => x.voice).filter(Boolean))]; return v.length ? `<span class="sub" style="font-size:.85rem">Voice: ${v.map(esc).join(', ')}</span>` : ''; })()}</div>
+    ${chips.length ? `<nav class="lnav" aria-label="Sections">${chips.map(([id, t]) => `<button data-jump="${id}">${t}</button>`).join('')}</nav>` : ''}
+    ${WAVE ? `<p class="wave-intro">Each line shows the English. Say it in Cantonese out loud, then tap <b>Show Cantonese</b> to check. Tap a word to open its card; the notes are in the normal lesson.</p>`
+      : `<p class="setting" style="margin:0">${esc(L.setting)}</p>`}
+    ${(() => { const w = L.id - waveOff(L.id); return !WAVE && isP(w) === isP(L.id) && DATA.lessons.some(l => l.id === w) ? `<button class="card wave" data-go="wave-${w}"><span class="eyebrow">${L.review ? 'Review · second wave' : 'Second wave'}${waveAt[w] ? ' · done ✓' : ''}</span><span>With this lesson, also redo <b>${lname(w)}</b> in active mode: read the English, say it in Cantonese.</span></button>` : ''; })()}
+    ${toolbar(!WAVE)}
+    <div class="lines" id="dlg">${L.lines.map((ln, li) => { REVEAL['l' + li] = [ln.en, ln.zh]; return `
+      <div class="sent" id="line-${ln.n}">
+        <div class="who">${ln.speaker ? `<span class="av ${speakers.indexOf(ln.speaker) % 2 ? 'b' : ''}">${esc(ln.speaker[0])}</span>${esc(ln.speaker)}` : ''}<span class="n">${ln.n}</span></div>
+        ${active ? `<div class="en act">${esc(ln.en)}</div><button class="reveal" data-tw="${li}">Show Cantonese</button><div class="txt" id="tw-${li}" hidden>${sentence(ln.tokens, 'L' + li)}</div>` : `<div class="txt">${sentence(ln.tokens, 'L' + li)}</div>`}
+        <div class="under">${ln.audio ? `<button class="lplay rec" data-lplay="${li}" aria-label="Listen to line ${ln.n}" title="Recorded by ${esc(ln.voice || 'a native speaker')}">▶</button>` : lineAudio(ln.tokens).length ? `<button class="lplay" data-lplay="${li}" aria-label="Listen to line ${ln.n} word by word" title="Word by word (dictionary recordings)">▶</button>` : ''}${active ? '' : enLine(ln.en, ln.zh, 'l' + li)}${WAVE ? '' : (notesBy[ln.n] || []).map(k => `<button class="nlink" data-note="${k}" aria-label="Note ${k}">${k}</button>`).join('')}</div>
+      </div>`; }).join('')}</div>
+    ${!WAVE && (notesBy[0] || []).length ? `<div class="under recap"><span class="sub">Recap notes</span>${notesBy[0].map(k => `<button class="nlink" data-note="${k}" aria-label="Note ${k}">${k}</button>`).join('')}</div>` : ''}
+    ${active ? `<div class="row"><button class="btn small quiet" id="show-all">Show all the Cantonese</button></div>` : ''}
+    ${WAVE ? '' : `
+    <details class="allnotes" id="sec-notes"><summary><span class="han">注解</span> All notes (${L.notes.length})</summary>
+    <ol class="notes">${L.notes.map((n, i) => `<li class="note" id="note-${i + 1}"><span class="nn">${i + 1}</span><p><span class="tag ${esc(n.topic)}">${n.ref ? 'Line ' + n.ref : 'Recap'} · ${esc(n.topic.replace('-', ' '))}</span>${fmt(n.text)}</p></li>`).join('')}</ol></details>
+    <h2 id="sec-words"><span class="han">新詞</span> New words</h2>
+    <div class="wgrid">${L.new_words.map(w => `<button class="wchip ${w.id ? cog(w.id)[2] : ''} ${inList('lessons', w.id) ? 'indeck' : ''}" data-word="${esc(w.id)}"><b>${esc(w.hanji)}</b><span class="r">${esc(w.tailo)}</span><span class="g">${esc(w.en || '')}</span></button>`).join('')}</div>
+    <div class="row"><button class="btn small quiet" id="anki">Copy for Anki</button><button class="btn small quiet" id="addall">Add all to my Lessons list</button><span class="sub" style="font-size:.85rem">${L.new_words.filter(w => inList('lessons', w.id)).length} of ${L.new_words.length} in it</span></div>
+    <h2 id="sec-ex"><span class="han">練習</span> Practice</h2>
+    <p class="sub" style="margin:0;font-size:.85rem">Type Jyutping with tone marks or with tone numbers (bue7 = buē, tsiah8 = tsia̍h).</p>
+    <div class="ex">${L.exercises.map((e, i) => exHTML(e, i)).join('')}</div>
+`}
+    <div class="card raised finish" id="finish"></div>
+  </div>`;
+  const main = $('#main');
+  wireToolbar(() => showLesson(L)); wireTokens(main); wireReveal(main); wireGo(main);
+  $$('[data-jump]', main).forEach(b => b.onclick = () => { const el = document.getElementById(b.dataset.jump); if (el.tagName === 'DETAILS') el.open = true; el.scrollIntoView({ behavior: 'smooth', block: 'start' }); });
+  const pb = $('#pron', main); if (pb) pb.onclick = () => openPron(L, pron);
+  $$('[data-tw]', main).forEach(b => b.onclick = () => { $('#tw-' + b.dataset.tw).hidden = false; b.remove(); });
+  const sa = $('#show-all', main); if (sa) sa.onclick = () => { $$('[data-tw]', main).forEach(b => b.click()); sa.remove(); };
+  $$('[data-note]', main).forEach(b => b.onclick = () => openNote(L, +b.dataset.note));
+  $$('[data-lplay]', main).forEach(b => b.onclick = () => playLine(+b.dataset.lplay, b));
+  $$('[data-word]', main).forEach(b => b.onclick = () => openCard(b.dataset.word));
+  const aa = $('#addall', main); if (aa) aa.onclick = () => { const n = listSet('lessons', L.new_words.map(w => w.id), true); toast(n ? `${n} words added to Lessons` : 'Already in your Lessons list'); const y = window.scrollY; showLesson(L); window.scrollTo(0, y); };
+  const ak = $('#anki', main); if (ak) ak.onclick = () => copyText(L.new_words.map(w => [w.hanji, w.tailo, w.en || '', (DATA.dict[w.id] && DATA.dict[w.id].mandarin || []).slice(0, 2).join('、'), lname(L.id)].join('\t')).join('\n'), ak, 'Copied · in Anki: File › Import, fields separated by Tab');
+  wireExercises(L.exercises, main);
+  finishBlock(L);
+}
+// end of the lesson: mark it done (with the date), undo, go on
+function finishBlock(L) {
+  const box = $('#finish'), nxt = DATA.lessons.find(l => l.id > L.id);
+  if (WAVE) {
+    const d = waveAt[L.id];
+    box.innerHTML = `<div><b>${d !== undefined ? `✓ Second wave done ${fmtDate(d)}` : 'Second wave done?'}</b><div class="sub" style="font-size:.9rem">The normal lesson keeps the notes and the word list.</div></div>
+      <div class="row">${d !== undefined ? '<button class="btn small quiet" id="undo">Undo</button>' : '<button class="btn" id="mark">Mark as done</button>'}
+        <button class="btn small line" data-go="lesson-${L.id}">Normal lesson</button><button class="btn small line" data-go="lessons">Lessons</button></div>`;
+  } else {
+    const d = doneAt[L.id];
+    box.innerHTML = `<div><b>${d !== undefined ? `✓ Lesson done${d ? ' ' + fmtDate(d) : ''}` : 'Finished with this lesson?'}</b>
+      <div class="sub" style="font-size:.9rem">${d !== undefined ? 'You can come back to it any time.' : 'Read, reveal, check the notes and do the practice. Then mark it done.'}</div></div>
+      <div class="row">${d !== undefined ? '<button class="btn small quiet" id="undo">Undo</button>' : '<button class="btn" id="mark">Mark as done</button>'}
+        ${nxt ? `<button class="btn ${d !== undefined ? '' : 'line'}" data-go="lesson-${nxt.id}">${lname(nxt.id)} →</button>` : '<button class="btn line" data-go="lessons">Lessons</button>'}</div>`;
+  }
+  wireGo(box);
+  const mk = $('#mark', box), un = $('#undo', box);
+  if (mk) mk.onclick = () => {
+    if (WAVE) { waveAt[L.id] = today(); saveDone(); studied(); toast('Second wave marked as done'); return finishBlock(L); }
+    doneAt[L.id] = today(); done.add(L.id); saveDone(); studied();
+    toast('Lesson marked as done'); renderTabs('lessons'); finishBlock(L);
+  };
+  if (un) un.onclick = () => {
+    if (WAVE) delete waveAt[L.id]; else { delete doneAt[L.id]; done.delete(L.id); }
+    saveDone(); toast('Undone'); finishBlock(L);
+  };
+}
+async function copyText(txt, btn, okMsg) {
+  try { await navigator.clipboard.writeText(txt); btn.textContent = '✓ Copied'; toast(okMsg); }
+  catch { const ta = document.createElement('textarea'); ta.value = txt; ta.readOnly = true; ta.className = 'copybox'; btn.after(ta); ta.select(); btn.textContent = 'Copy this text'; }
+}
+function exHTML(e, i) {
+  if (e.kind === 'fill') return `<div class="card exi"><span class="k">Fill the gap</span><span class="h">${esc(e.hanji || '')}</span><span class="t">${esc(e.tailo)}</span><span class="sub">${esc(e.en || '')}</span>
+    <form data-ex="${i}"><input id="ex-${i}" aria-label="Your answer" autocomplete="off" spellcheck="false" placeholder="Type in Jyutping">
+    <button class="btn small" type="submit">Check</button><button class="btn small quiet" type="button" data-show="${i}">Show</button></form>
+    <span class="fb" id="fb-${i}" aria-live="polite"></span></div>`;
+  return `<div class="card exi"><span class="k">What does it mean?</span><span class="h">${esc(e.hanji || '')}</span><span class="t">${esc(e.tailo)}</span>
+    <button class="btn small quiet" style="align-self:start" data-ans="${i}">Show English</button><span class="fb" id="fb-${i}"></span></div>`;
+}
+const norm = s => (s || '').normalize('NFC').toLowerCase().replace(/[.,!?;:'"「」]/g, '').replace(/\s+/g, ' ').trim();
+const bare = s => norm(s).normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/\d/g, '');
+// Jyutping as a list of syllables, so that 'zung1 ji3', 'zung1-ji3' and 'zung1ji3' compare equal
+function toneKey(s) { return (norm(s).replace(/[\s-]+/g, '').match(/[a-z]+[1-6]?/g) || []).join(' '); }
+function wireExercises(ex, root) {
+  $$('form[data-ex]', root).forEach(f => f.onsubmit = ev => {
+    ev.preventDefault();
+    const e = ex[+f.dataset.ex], v = $('input', f).value, fb = $('#fb-' + f.dataset.ex);
+    if (norm(v) === norm(e.answer) || toneKey(v) === toneKey(e.answer) || (e.answer_hanji && norm(v) === norm(e.answer_hanji))) { fb.className = 'fb ok'; fb.textContent = '✓ ' + e.answer + (e.answer_hanji ? ' ' + e.answer_hanji : ''); }
+    else if (bare(v) === bare(e.answer)) { fb.className = 'fb near'; fb.textContent = 'Right word, check the tone numbers: ' + e.answer; }
+    else { fb.className = 'fb no'; fb.textContent = v.trim() ? 'Not quite. Try again, or tap Show.' : 'Type an answer first.'; }
+  });
+  $$('[data-show]', root).forEach(b => b.onclick = () => { const e = ex[+b.dataset.show], fb = $('#fb-' + b.dataset.show); fb.className = 'fb'; fb.textContent = e.answer + (e.answer_hanji ? ' ' + e.answer_hanji : ''); });
+  $$('[data-ans]', root).forEach(b => b.onclick = () => { $('#fb-' + b.dataset.ans).textContent = ex[+b.dataset.ans].en; b.remove(); });
+}
+
+// ---------- lesson 0
+function showLesson0() {
+  renderTabs('lessons');
+  $('#main').innerHTML = `<div class="col"><div class="prose"><span class="eyebrow">Lesson 0 · Before you start</span>${DATA.lesson0}</div>
+    <div class="row"><button class="btn" data-go="lesson-1">Start lesson 1</button></div></div>`;
+  const m = $('#main');
+  $$('table', m).forEach(t => { const w = document.createElement('div'); w.className = 'tw'; t.replaceWith(w); w.appendChild(t); });
+  $$('td', m).forEach(td => td.innerHTML = td.innerHTML.replace(/([㐀-鿿\u{20000}-\u{3ffff}]+)/gu, '<span class="han">$1</span>'));
+  wireGo(m);
+}
+
+// ---------- themes (thematic vocabulary)
+// Vocabulary: one row per theme (its key character, title, counts); a row opens its groups in place, a group opens
+// the theme at that group; the search finds words in every theme (characters, Jyutping with or without tones, English)
+const THEME_CHAR = { people: '人', health: '身', food: '食', home: '厝', clothing: '衫', nature: '天', places: '路', work: '工', media: '網', society: '公' };
+// theme words have no extra source badge here (Tsheh-tû marked iTaigi words)
+const itBadge = () => '';
+let themeOpen = null, themeQ = '';
+const toneless = s => (s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9㐀-鿿\u{20000}-\u{3ffff} ]+/gu, ' ').trim();
+function themeHits(q) {
+  const n = toneless(q); if (!n) return [];
+  const out = [];
+  DATA.themes.forEach(t => t.sections.forEach(sec => sec.words.forEach(w => {
+    const hay = [w.hanji, toneless(w.tailo), toneless(w.tailo).replace(/ /g, ''), (w.en || '').toLowerCase()];
+    if (hay.some(h => h.includes(n) || h.includes(q.trim()))) out.push({ w, t, sec });
+  })));
+  return out;
+}
+function themeResults() {
+  const r = themeHits(themeQ);
+  if (!themeQ.trim()) return '';
+  if (!r.length) return `<p class="sub">No word found for “${esc(themeQ)}”.</p>`;
+  return `<span class="sub" style="font-size:.85rem">${r.length} word${r.length === 1 ? '' : 's'}${r.length > 80 ? ' · first 80' : ''}</span>
+    <div class="vwrap"><table class="vtable"><tbody>${r.slice(0, 80).map(({ w, t, sec }) => `<tr class="${w.id ? cog(w.id)[2] : ''}" data-word="${esc(w.id)}" tabindex="0">
+      <td class="vh">${esc(w.hanji)}${itBadge(w)}</td><td class="vr">${esc(w.tailo)}</td><td class="ve">${esc(w.en)}<small class="tsrc">${esc(THEME_CHAR[t.id] || '')} ${esc(sec.title.en)}</small></td></tr>`).join('')}</tbody></table></div>`;
+}
+function showThemes() {
+  renderTabs('review');
+  const inLists = id => Object.keys(lists).some(k => inList(k, id));
+  $('#main').innerHTML = `<div class="col">
+    ${pracHead('themes', 'vocabulary by theme')}
+    <input class="tsearch" type="search" placeholder="Search: 雞, ke, chicken…" value="${esc(themeQ)}" aria-label="Search the vocabulary">
+    <div id="tres">${themeResults()}</div>
+    <div class="tlist">${DATA.themes.map(t => { const ids = t.sections.flatMap(x => x.words.map(w => w.id)), mine = ids.filter(id => id && inLists(id)).length, open = themeOpen === t.id;
+      return `<div class="trow ${open ? 'open' : ''}"><button class="trow-h" data-topen="${t.id}" aria-expanded="${open}">
+        <span class="tk han">${esc(THEME_CHAR[t.id] || t.title.hanji[0])}</span>
+        <span class="tt"><span class="han">${esc(t.title.hanji)}</span><small>${esc(t.title.en)}</small></span>
+        <span class="tc">${ids.length} words<small>${t.sections.length} groups${mine ? ` · ${mine} in lists` : ''}</small></span><span class="chev">${open ? '⌃' : '⌄'}</span></button>
+        ${open ? `<div class="tgroups"><button class="tg all" data-go="theme-${t.id}">All</button>${t.sections.map(x => `<button class="tg" data-go="theme-${t.id}-${x.n}"><span class="han">${esc(x.title.hanji)}</span> <small>${esc(x.title.en)}</small></button>`).join('')}</div>` : ''}</div>`; }).join('')}</div>
+  </div>`;
+  const m = $('#main');
+  wirePrac(m);
+  $$('[data-topen]', m).forEach(b => b.onclick = () => { themeOpen = themeOpen === b.dataset.topen ? null : b.dataset.topen; showThemes(); });
+  const wireRes = () => $$('#tres [data-word]', m).forEach(r => { r.onclick = () => openCard(r.dataset.word); r.onkeydown = e => { if (e.key === 'Enter') openCard(r.dataset.word); }; });
+  const inp = $('.tsearch', m);
+  inp.oninput = () => { themeQ = inp.value; $('#tres', m).innerHTML = themeResults(); wireRes(); };
+  wireRes();
+}
+function showTheme(T, n) {
+  renderTabs('review');
+  $('#main').innerHTML = `<div class="col mode-${prefs.mode}">
+    <div class="head"><span class="eyebrow">Theme</span><h1>${esc(T.title.hanji)}</h1><span class="rom">${esc(T.title.tailo)} · ${esc(T.title.en)}</span></div>
+    <p class="sub" style="margin:0">${esc(T.intro)}</p>
+    ${toolbar()}
+    ${T.sections.map((s, si) => `<section class="sec" aria-labelledby="sec-${s.n}">
+      <h2 id="sec-${s.n}"><span class="num">${s.n}</span><span class="han">${esc(s.title.hanji)}</span><span class="sub" style="font-weight:600">${esc(s.title.tailo)} · ${esc(s.title.en)}</span></h2>
+      <div class="vwrap"><table class="vtable"><tbody>${s.words.map(w => `<tr class="${w.id ? cog(w.id)[2] : ''}" data-word="${esc(w.id)}" tabindex="0">
+        <td class="vh">${esc(w.hanji)}${itBadge(w)}</td><td class="vr">${esc(w.tailo)}</td><td class="ve">${esc(w.en)}</td><td class="vz">${esc(w.zh || '')}</td></tr>`).join('')}</tbody></table></div>
+      <div class="ttext">${s.text.map((x, xi) => { REVEAL[`t${si}-${xi}`] = [x.en]; return `<div><div class="txt">${sentence(x.tokens, `T${si}-${xi}`)}</div><div class="under">${enLine(x.en, null, `t${si}-${xi}`)}</div></div>`; }).join('')}</div>
+      <div class="row"><button class="btn small quiet" data-addsec="${si}">Add these ${s.words.length} words to my Lessons list</button></div>
+    </section>`).join('')}
+    ${T.notes.length ? `<h2><span class="han">注解</span> Notes</h2><ol class="notes">${T.notes.map((n, i) => `<li class="note"><span class="nn">${i + 1}</span><p><span class="tag">Group ${n.ref}</span>${fmt(n.text)}</p></li>`).join('')}</ol>` : ''}
+  </div>`;
+  const m = $('#main');
+  wireToolbar(() => showTheme(T, n)); wireTokens(m); wireReveal(m);
+  $$('[data-word]', m).forEach(r => { r.onclick = () => openCard(r.dataset.word); r.onkeydown = e => { if (e.key === 'Enter') openCard(r.dataset.word); }; });
+  $$('[data-addsec]', m).forEach(b => b.onclick = () => { const n = listSet('lessons', T.sections[+b.dataset.addsec].words.map(w => w.id), true); toast(n ? `${n} words added to Lessons` : 'Already in your Lessons list'); });
+  if (n) { const g = document.getElementById('sec-' + n); if (g) setTimeout(() => { const tb = $('.toolbar', m), sticky = tb && getComputedStyle(tb).position === 'sticky' ? tb.offsetHeight : 0;
+    window.scrollTo(0, g.getBoundingClientRect().top + window.scrollY - sticky - 12); }, 0); }
+}
+
+// ---------- grammar sheets: each structure with every course line that uses it
+function showGrammar() {
+  renderTabs('review');
+  const first = it => it.refs.length ? it.refs[0][0] : null;
+  $('#main').innerHTML = `<div class="col">
+    ${pracHead('grammar', 'every structure, with all the lines of the course that use it')}
+    ${DATA.grammar.map(g => `<h2>${esc(g.name)}</h2><div class="list">${g.items.map(it => `<button class="item gitem" data-go="grammar-${encodeURIComponent(it.id)}">
+      <span class="no">${it.refs.length}</span><span><span class="tt">${esc(it.form)}</span> <span class="rom sub">${esc(it.tailo)}</span><br>
+      <span class="ts">${esc(it.zh)}${first(it) ? ` · from ${lname(first(it)).toLowerCase()}` : ''}${first(it) && !done.has(first(it)) ? ' · not reached yet' : ''}</span></span><span class="chev">›</span></button>`).join('')}</div>`).join('')}
+    <p class="sub" style="font-size:.85rem;margin:0">The number is how many lines of the course use the structure. New lessons add new examples automatically.</p>
+  </div>`;
+  wirePrac($('#main'));
+}
+function showGrammarItem(it) {
+  renderTabs('review');
+  const LB = Object.fromEntries(DATA.lessons.map(l => [l.id, l]));
+  const shown = showGrammarItem.all === it.id ? it.refs : it.refs.slice(0, 25);
+  $('#main').innerHTML = `<div class="col mode-${prefs.mode}">
+    <div class="lbar"><button class="icon" data-go="grammar" aria-label="Back to grammar">←</button><span class="where">Grammar · ${esc(it.form)}</span></div>
+    <div class="head"><span class="eyebrow">${esc(it.zh)}</span><h1>${esc(it.form)}</h1><span class="rom">${esc(it.tailo)}</span></div>
+    <p style="margin:0;max-width:65ch">${fmt(it.text)}</p>
+    ${toolbar()}
+    <div class="lines">${shown.map(([lid, li], k) => { const ln = LB[lid].lines[li]; REVEAL['g' + k] = [ln.en, ln.zh]; return `
+      <div class="sent"><div class="who"><button class="linkish" data-go="lesson-${lid}">${lname(lid)} · line ${ln.n}</button></div>
+        <div class="txt">${sentence(ln.tokens, 'G' + k)}</div><div class="under">${enLine(ln.en, ln.zh, 'g' + k)}</div></div>`; }).join('')}</div>
+    ${shown.length < it.refs.length ? `<div class="row"><button class="btn small line" id="gall">Show all ${it.refs.length}</button></div>` : ''}
+    ${!it.refs.length ? '<p class="empty">No lesson uses it yet.</p>' : ''}
+  </div>`;
+  const m = $('#main');
+  wireToolbar(() => showGrammarItem(it)); wireTokens(m); wireReveal(m); wireGo(m);
+  const ga = $('#gall', m); if (ga) ga.onclick = () => { showGrammarItem.all = it.id; const y = scrollY; showGrammarItem(it); scrollTo(0, y); };
+}
+
+// ---------- podcast: a real Cantonese show to listen to after the course. Notes and vocabulary come from the show's own
+// feed (built into the app); the audio is played straight from the show's host, nothing is copied.
+const POD = DATA.podcast;
+const podKey = ep => ep.n != null ? ep.n : POD.episodes.indexOf(ep) + 1000;
+const podEp = k => POD && POD.episodes.find(ep => podKey(ep) === k);
+const podState = () => store.get('pod', {});
+function podSave(ep, t, finished) { const st = podState(), g = ep.guid; st[g] = Object.assign(st[g] || {}, { t: Math.floor(t) }, finished ? { done: true } : {}); store.set('pod', st); }
+const mmss = s => { s = Math.max(0, Math.floor(s || 0)); const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), x = String(s % 60).padStart(2, '0'); return h ? `${h}:${String(m).padStart(2, '0')}:${x}` : `${m}:${x}`; };
+const epTitle = ep => ep.title.replace(/^EP\s*\d+\s*[：:]\s*/i, '');
+let pod = null, podCur = null, podLoop = null, podSaveT = 0, podOut = false;   // podOut: the episode page's player is scrolled out of view
+function podAudio() {
+  if (pod) return pod;
+  pod = new Audio(); pod.preload = 'metadata';
+  pod.addEventListener('timeupdate', () => {
+    if (podLoop && podLoop.b != null && pod.currentTime >= podLoop.b) pod.currentTime = podLoop.a;
+    if (podCur && Date.now() - podSaveT > 4000) { podSaveT = Date.now(); podSave(podCur, pod.currentTime, pod.duration && pod.currentTime > pod.duration * .95); }
+    podUI();
+    const mt = $('#podmini .pm-time'); if (mt) mt.textContent = `${mmss(pod.currentTime)} / ${mmss(pod.duration || (podCur && podCur.dur))}`;
+    const mb = $('#podmini .pm-bar i'); if (mb) mb.style.width = (100 * pod.currentTime / (pod.duration || 1)) + '%';
+  });
+  ['play', 'pause', 'ratechange', 'loadedmetadata'].forEach(ev => pod.addEventListener(ev, () => { if (podCur && ev === 'pause') podSave(podCur, pod.currentTime); podUI(); podMini(); }));
+  pod.addEventListener('ended', () => { if (podCur) podSave(podCur, 0, true); podUI(); podMini(); });
+  if ('mediaSession' in navigator) {
+    navigator.mediaSession.setActionHandler('seekbackward', () => podSeek(-5));
+    navigator.mediaSession.setActionHandler('seekforward', () => podSeek(10));
+    navigator.mediaSession.setActionHandler('play', () => pod.play());
+    navigator.mediaSession.setActionHandler('pause', () => pod.pause());
+  }
+  return pod;
+}
+function podLoad(ep) {
+  const a = podAudio();
+  if (podCur !== ep) {
+    podCur = ep; podLoop = null; a.src = ep.url;
+    const t = (podState()[ep.guid] || {}).t || 0;
+    a.addEventListener('loadedmetadata', () => { if (t && t < (a.duration || 1e9) - 5) a.currentTime = t; }, { once: true });
+    a.playbackRate = store.get('podRate', 1);
+    if ('mediaSession' in navigator) navigator.mediaSession.metadata = new MediaMetadata({ title: ep.title, artist: POD.title, artwork: ep.img || POD.image ? [{ src: ep.img || POD.image, sizes: '512x512' }] : [] });
+  }
+  return a;
+}
+function podSeek(d) { if (pod) pod.currentTime = Math.max(0, Math.min((pod.duration || 1e9) - 1, pod.currentTime + d)); }
+function podUI() {
+  const root = $('#podplayer'); if (!root || !pod || podCur !== root._ep) return;
+  const d = pod.duration || root._ep.dur || 0, t = pod.currentTime;
+  $('#pp-play', root).textContent = pod.paused ? '▶' : '⏸';
+  $('#pp-t', root).textContent = `${mmss(t)} / ${mmss(d)}`;
+  const r = $('#pp-range', root); if (!r._drag) { r.max = Math.floor(d) || 1; r.value = Math.floor(t); }
+  $('#pp-rate', root).textContent = (pod.playbackRate || 1) + '×';
+  $('#pp-loop', root).textContent = !podLoop ? 'A–B' : podLoop.b == null ? `A ${mmss(podLoop.a)} → B?` : `⟲ ${mmss(podLoop.a)}–${mmss(podLoop.b)}`;
+  $('#pp-loop', root).classList.toggle('on', !!podLoop);
+  // current chapter
+  const chs = root._ep.chapters; let cur = -1; chs.forEach((c, i) => { if (t >= c.s) cur = i; });
+  $$('.chap', root.parentNode).forEach((el, i) => el.classList.toggle('cur', i === cur));
+}
+function podMini() {
+  let bar = $('#podmini');
+  const onEp = pod && podCur && location.hash === '#ep-' + podKey(podCur);
+  const show = pod && podCur && (onEp ? podOut : (!pod.paused || pod.currentTime > 0));
+  document.body.classList.toggle('has-mini', !!show);
+  if (!show) { if (bar) bar.remove(); return; }
+  if (!bar) { bar = document.createElement('div'); bar.id = 'podmini'; bar.className = 'podmini'; document.body.append(bar); }
+  bar.classList.toggle('float', !!onEp);
+  if (onEp) {   // floating controls while the player itself is scrolled away (reading the transcript, the word list…)
+    bar.innerHTML = `<span class="pm-bar"><i style="width:${100 * pod.currentTime / (pod.duration || 1)}%"></i></span><button class="pm-sk" data-d="-5" aria-label="Back 5 seconds">↺ 5</button>
+      <button class="pm-play" aria-label="${pod.paused ? 'Play' : 'Pause'}">${pod.paused ? '▶' : '⏸'}</button><button class="pm-sk" data-d="10" aria-label="Forward 10 seconds">10 ↻</button>
+      <span class="pm-time">${mmss(pod.currentTime)} / ${mmss(pod.duration || podCur.dur)}</span><button class="pm-sk pm-up" aria-label="Back to the player">↑</button>`;
+    $('.pm-play', bar).onclick = () => pod.paused ? pod.play().catch(() => {}) : pod.pause();
+    $$('[data-d]', bar).forEach(b => b.onclick = () => podSeek(+b.dataset.d));
+    $('.pm-up', bar).onclick = () => { const r = $('#podplayer'); if (r) r.scrollIntoView({ block: 'center', behavior: 'smooth' }); };
+    return;
+  }
+  bar.innerHTML = `<button class="pm-play" aria-label="${pod.paused ? 'Play' : 'Pause'}">${pod.paused ? '▶' : '⏸'}</button><button class="pm-t" data-go="ep-${podKey(podCur)}"><b>${esc(POD.title)}</b><span>${esc(podCur.n != null ? 'EP' + podCur.n + ' · ' : '')}${esc(epTitle(podCur))}</span></button>`;
+  $('.pm-play', bar).onclick = () => pod.paused ? pod.play() : pod.pause();
+  wireGo(bar);
+}
+function showPodcast() {
+  renderTabs('podcast');
+  const m = $('#main');
+  if (!POD || !POD.episodes.length) {
+    m.innerHTML = `<div class="col"><div class="head"><span class="eyebrow">Podcast</span><h1>播客</h1></div><p class="empty">The episodes appear in the app published on the web (they are fetched when the site is built).</p></div>`;
+    return;
+  }
+  const st = podState();
+  m.innerHTML = `<div class="col">
+    <div class="pod-head">${POD.image ? `<img src="${esc(POD.image)}" alt="" loading="lazy">` : ''}<div class="head"><span class="eyebrow">Podcast · in Cantonese</span><h1>${esc(POD.title)}</h1>
+      <span class="sub">${esc(POD.author)}</span></div></div>
+    <p class="sub" style="margin:0;max-width:65ch">Three young Taiwanese women talk about their lives, in Cantonese, every two weeks: real speech after the course. Each episode comes with chapters and the hosts' own word list (臺語補給站). Audio is played from the show's host; if you enjoy it, follow the show on your podcast app.</p>
+    <div class="list">${POD.episodes.map(ep => { const s = st[ep.guid] || {}, pct = s.done ? 100 : ep.dur ? Math.round(100 * (s.t || 0) / ep.dur) : 0; return `
+      <button class="item ep ${s.done ? 'done' : ''}" data-go="ep-${podKey(ep)}"><span class="no">${ep.n != null ? ep.n : '·'}</span>
+        <span><span class="tt">${esc(epTitle(ep))}</span><br><span class="ts">${esc(ep.date)} · ${Math.round(ep.dur / 60)} min · ${ep.vocab.length} words${s.done ? ' · ✓ listened' : pct ? ` · ${pct}%` : ''}</span>
+        ${pct && !s.done ? `<span class="bar" style="margin-top:.3rem"><i style="width:${pct}%"></i></span>` : ''}</span><span class="chev">›</span></button>`; }).join('')}</div>
+  </div>`;
+  wireGo(m); podMini();
+}
+function showEpisode(ep) {
+  renderTabs('podcast');
+  const a = podLoad(ep), m = $('#main'), ids = ep.vocab.filter(v => v.id).map(v => v.id);
+  const at = i => `<span class="sub" style="font-size:.85rem">${mmss(i)}</span>`;
+  m.innerHTML = `<div class="col">
+    <div class="lbar"><button class="icon" data-go="podcast" aria-label="Back to episodes">←</button><span class="where">${ep.n != null ? 'EP' + ep.n + ' · ' : ''}${esc(epTitle(ep))}</span></div>
+    <div class="head"><span class="eyebrow">${esc(POD.title)} · ${esc(ep.date)}</span><h1 style="font-size:clamp(1.5rem,5vw,2rem)">${esc(epTitle(ep))}</h1></div>
+    <div class="card raised podplayer" id="podplayer">
+      <input type="range" id="pp-range" min="0" max="${ep.dur || 1}" value="0" aria-label="Position">
+      <div class="row" style="justify-content:space-between"><span id="pp-t" class="sub">0:00</span>
+        <button class="btn small quiet" id="pp-rate" title="Speed">1×</button></div>
+      <div class="row pp-ctl"><button class="btn line" id="pp-back" aria-label="Back 5 seconds">↺ 5</button>
+        <button class="btn pp-big" id="pp-play" aria-label="Play or pause">▶</button>
+        <button class="btn line" id="pp-fwd" aria-label="Forward 10 seconds">10 ↻</button></div>
+      <div class="row"><button class="btn small quiet" id="pp-loop" title="Repeat a passage: tap at the start, tap at the end, tap again to stop">A–B</button>
+        <span class="sub" style="font-size:.8rem">Repeat a passage: tap at its start, again at its end.</span></div>
+    </div>
+    ${ep.intro.length ? `<div class="epintro">${ep.intro.map(l => { const top = /^[◎●•・]/.test(l), [t, zh] = splitZh(l.replace(/^[◎●•・]\s*/, '')); return `<p class="${top ? 'topic' : ''}"><span class="han">${esc(t)}</span>${zh ? `<br><span class="zh">${esc(zh)}</span>` : ''}</p>`; }).join('')}</div>` : ''}
+    ${ep.other.length ? `<details class="allnotes"><summary><span class="han">華語</span> Mandarin version of the notes</summary><div class="epintro">${ep.other.map(l => `<p class="${/^[◎●•・]/.test(l) ? 'topic' : ''}">${esc(l.replace(/^[◎●•・]\s*/, ''))}</p>`).join('')}</div></details>` : ''}
+    ${ep.chapters.length ? `<h2><span class="han">段落</span> Chapters</h2><div class="chaps">${ep.chapters.map((c, i) => `<button class="chap" data-seek="${c.s}">${at(c.s)}<span><span class="han">${esc(c.t)}</span>${c.zh ? `<br><span class="zh">${esc(c.zh)}</span>` : ''}</span></button>`).join('')}</div>` : ''}
+    ${ep.vocab.length ? `<h2><span class="han">臺語補給站</span> The hosts' word list</h2>
+      <div class="pvocab">${ep.vocab.map((v, i) => `<button class="pv ${v.id ? cog(v.id)[2] : ''}" ${v.id ? `data-word="${esc(v.id)}"` : ''}>${v.group ? `<span class="sub" style="font-size:.75rem">${esc(v.group)}</span>` : ''}<span><b class="han">${esc(v.h || '')}</b> <span class="rom">${esc(v.t)}${v.alt.length ? ' / ' + v.alt.map(esc).join(' / ') : ''}</span></span>${v.en ? `<span class="zh">${esc(v.en)}</span>` : ''}</button>`).join('')}</div>
+      ${ids.length ? `<div class="row"><button class="btn small quiet" id="pv-add">Add these ${ids.length} words to my ${esc(listTitle('pod:show'))} list</button></div>` : ''}` : ''}
+    ${ep.fixes.length ? `<h2><span class="han">勘誤</span> Corrections</h2><ul class="sub" style="margin:0">${ep.fixes.map(l => `<li>${esc(l)}</li>`).join('')}</ul>` : ''}
+    <p class="sub" style="font-size:.8rem;margin:0">${esc(POD.title)} by ${esc(POD.author)}. Notes from the show's feed; audio streamed from its host.</p>
+  </div>`;
+  const root = $('#podplayer', m); root._ep = ep;
+  podOut = false;
+  if ('IntersectionObserver' in window) new IntersectionObserver(([e]) => {
+    const out = root.isConnected && !e.isIntersecting && e.boundingClientRect.bottom < 0;
+    if (out !== podOut) { podOut = out; podMini(); }
+  }).observe(root);
+  wireGo(m);
+  $('#pp-play', root).onclick = () => a.paused ? a.play().catch(() => toast('Could not play: are you online?')) : a.pause();
+  $('#pp-back', root).onclick = () => podSeek(-5);
+  $('#pp-fwd', root).onclick = () => podSeek(10);
+  $('#pp-rate', root).onclick = () => { const rs = [0.75, 0.9, 1, 1.25], i = (rs.indexOf(a.playbackRate) + 1) % rs.length; a.playbackRate = rs[i]; store.set('podRate', rs[i]); };
+  $('#pp-loop', root).onclick = () => { if (!podLoop) podLoop = { a: a.currentTime, b: null }; else if (podLoop.b == null) podLoop.b = Math.max(a.currentTime, podLoop.a + 1); else podLoop = null; podUI(); };
+  const rg = $('#pp-range', root);
+  rg.oninput = () => { rg._drag = true; $('#pp-t', root).textContent = `${mmss(+rg.value)} / ${mmss(a.duration || ep.dur)}`; };
+  rg.onchange = () => { a.currentTime = +rg.value; rg._drag = false; };
+  $$('[data-seek]', m).forEach(b => b.onclick = () => { a.currentTime = +b.dataset.seek; a.play().catch(() => {}); });
+  $$('[data-word]', m).forEach(b => b.onclick = () => openCard(b.dataset.word));
+  const add = $('#pv-add', m); if (add) add.onclick = () => { const n = listSet('pod:show', ids, true); toast(n ? `${n} words added to ${listTitle('pod:show')}` : 'Already in the list'); };
+  podUI(); podMini();
+}
+// ---------- video: Cantonese drama on the broadcaster's own YouTube channel (course/video.yaml), played in YouTube's
+// embedded player; nothing is copied. The private module can add a transcript: it puts it in #vidside (beside the
+// player on wide screens, under it otherwise) and uses vidTime(), vidSeek() and vidInset(), as for the podcast.
+const VID = DATA.video || { shows: [] };
+const vidState = () => store.get('vid', {});
+const vidKey = (S, ep) => `${S.id}-${ep.n}`;
+function vidSave(k, t, finished) { const st = vidState(); st[k] = Object.assign(st[k] || {}, { t: Math.floor(t) }, finished ? { done: true } : {}); store.set('vid', st); }
+let yt = null, ytEp = null, ytLoop = null, ytApi = null, ytTimer = null;
+function ytReady() {
+  if (window.YT && window.YT.Player) return Promise.resolve();
+  if (ytApi) return ytApi;
+  return ytApi = new Promise((res, rej) => {
+    const prev = window.onYouTubeIframeAPIReady;
+    window.onYouTubeIframeAPIReady = () => { if (prev) prev(); res(); };
+    const sc = document.createElement('script'); sc.src = 'https://www.youtube.com/iframe_api';
+    sc.onerror = () => { ytApi = null; sc.remove(); rej(new Error('offline')); };
+    document.head.append(sc);
+  });
+}
+const vidTime = () => (yt && yt.getCurrentTime ? yt.getCurrentTime() : 0);
+// height covered at the top of the screen by the floating picture (0 when it is not floating)
+const vidInset = () => { const b = $('.vidplayer.float .vidbox'); return b ? b.getBoundingClientRect().bottom : 0; };
+function vidSeek(t, play) { if (yt && yt.seekTo) { yt.seekTo(Math.max(0, t), true); if (play) yt.playVideo(); } }
+function showVideo() {
+  renderTabs('video');
+  const st = vidState(), m = $('#main');
+  m.innerHTML = `<div class="col">${VID.shows.map(S => `
+    <div class="head"><span class="eyebrow">Video · in Cantonese</span><h1>${esc(S.title)}</h1><span class="rom">${esc(S.en)} · ${esc(S.by)}</span></div>
+    <p class="sub" style="margin:0;max-width:65ch">${esc(S.about)}</p>
+    <div class="list">${S.episodes.map(ep => { const s = st[vidKey(S, ep)] || {}, pct = s.done ? 100 : ep.dur ? Math.round(100 * (s.t || 0) / ep.dur) : 0; return `
+      <button class="item ep ${s.done ? 'done' : ''}" data-go="vid-${vidKey(S, ep)}"><span class="no">${ep.n}</span>
+        <span><span class="tt">${esc(ep.title)}</span><br><span class="ts">EP${ep.n}${ep.dur ? ` · ${Math.round(ep.dur / 60)} min` : ''}${s.done ? ' · ✓ watched' : pct ? ` · ${pct}%` : ''}</span>
+        ${pct && !s.done ? `<span class="bar" style="margin-top:.3rem"><i style="width:${pct}%"></i></span>` : ''}</span><span class="chev">›</span></button>`; }).join('')}</div>
+    <p class="sub" style="font-size:.8rem;margin:0">${S.episodes.length} of ${S.total} episodes listed. Played from <a href="${esc(S.channel)}" target="_blank" rel="noopener">${esc(S.by)}'s YouTube channel</a>.</p>`).join('')}
+  </div>`;
+  wireGo(m); podMini();
+}
+function showVideoEp(S, ep) {
+  vidPage(S, ep, {
+    tab: 'video', key: vidKey(S, ep), back: 'video', backLabel: 'Back to episodes', where: `EP${ep.n} · ${esc(ep.title)}`,
+    eyebrow: `${esc(S.title)} · ${esc(S.en)}`, h1: `EP${ep.n} ${esc(ep.title)}`,
+    notes: `<p class="sub" style="margin:0;max-width:65ch">Spoken in Cantonese; the subtitles on screen are Mandarin, written for the meaning, not word for word.</p>
+    <p class="sub" style="font-size:.8rem;margin:0">${esc(S.title)} © ${esc(S.by)}. Played from the channel's own upload: <a href="https://www.youtube.com/watch?v=${esc(ep.video)}" target="_blank" rel="noopener">open on YouTube</a>.</p>`,
+  });
+}
+// the player page shared by the Video and Music tabs. o = { tab, key (resume / progress), back, backLabel, where,
+// eyebrow, h1 (HTML), notes (HTML) }
+function vidPage(S, ep, o) {
+  renderTabs(o.tab);
+  clearInterval(ytTimer);
+  if (yt && yt.destroy) { try { yt.destroy(); } catch {} }
+  yt = null; ytLoop = null; ytEp = { S, ep };
+  const k = o.key, m = $('#main'), t0 = (vidState()[k] || {}).t || 0;
+  m.innerHTML = `<div class="col vidpage"><div class="vidleft">
+    <div class="lbar"><button class="icon" data-go="${o.back}" aria-label="${o.backLabel}">←</button><span class="where">${o.where}</span></div>
+    <div class="head"><span class="eyebrow">${o.eyebrow}</span><h1 style="font-size:clamp(1.5rem,5vw,2rem)">${o.h1}</h1></div>
+    <div class="card raised podplayer vidplayer" id="vidplayer">
+      <div class="vidslot"><div class="vidbox"><div id="vidframe"><div class="vidmsg">Loading the player…</div></div><button class="vidfx" aria-label="Put the video back in the page">×</button></div></div>
+      <div class="row" style="justify-content:space-between"><span id="vp-t" class="sub">${mmss(t0)}${ep.dur ? ' / ' + mmss(ep.dur) : ''}</span>
+        <button class="btn small quiet" id="vp-rate" title="Speed">${store.get('vidRate', 1)}×</button></div>
+      <div class="row pp-ctl"><button class="btn line" id="vp-back" aria-label="Back 5 seconds">↺ 5</button>
+        <button class="btn pp-big" id="vp-play" aria-label="Play or pause">▶</button>
+        <button class="btn line" id="vp-fwd" aria-label="Forward 10 seconds">10 ↻</button></div>
+      <div class="row"><button class="btn small quiet" id="pp-loop" title="Repeat a passage: tap at the start, tap at the end, tap again to stop">A–B</button>
+        <span class="sub" style="font-size:.8rem">Repeat a passage: tap at its start, again at its end.</span></div>
+    </div>
+    ${o.notes}
+  </div><div class="vidside" id="vidside"></div></div>`;
+  wireGo(m);
+  const root = $('#vidplayer', m);
+  // narrow screens: float the picture at the top once the player is scrolled up out of view (× puts it back until the
+  // player has been seen again); wide screens have it side by side with the transcript instead
+  const narrow = matchMedia('(max-width: 1099px)');
+  let docked = false;
+  const slot = $('.vidslot', root);
+  const setFloat = on => root.classList.toggle('float', on);
+  if ('IntersectionObserver' in window) new IntersectionObserver(([e]) => {
+    if (!root.isConnected) return;
+    if (e.isIntersecting) docked = false;
+    setFloat(narrow.matches && !docked && !e.isIntersecting && e.boundingClientRect.bottom < 0 && !!yt);
+  }).observe(slot);
+  $('.vidfx', root).onclick = () => { docked = true; setFloat(false); };
+  const ui = () => {
+    if (!root.isConnected) return;
+    const t = vidTime(), d = (yt && yt.getDuration && yt.getDuration()) || ep.dur || 0, st = yt && yt.getPlayerState ? yt.getPlayerState() : -1;
+    $('#vp-t', root).textContent = `${mmss(t)}${d ? ' / ' + mmss(d) : ''}`;
+    $('#vp-play', root).textContent = st === 1 || st === 3 ? '⏸' : '▶';
+    $('#pp-loop', root).textContent = !ytLoop ? 'A–B' : ytLoop.b == null ? `A ${mmss(ytLoop.a)} → B?` : `⟲ ${mmss(ytLoop.a)}–${mmss(ytLoop.b)}`;
+    $('#pp-loop', root).classList.toggle('on', !!ytLoop);
+  };
+  const ctl = f => () => { if (yt && yt.getPlayerState) { f(); ui(); } };
+  $('#vp-play', root).onclick = ctl(() => yt.getPlayerState() === 1 ? yt.pauseVideo() : yt.playVideo());
+  $('#vp-back', root).onclick = ctl(() => vidSeek(vidTime() - 5));
+  $('#vp-fwd', root).onclick = ctl(() => vidSeek(vidTime() + 10));
+  $('#vp-rate', root).onclick = ctl(() => { const rs = [0.75, 1, 1.25], r = rs[(rs.indexOf(yt.getPlaybackRate()) + 1) % rs.length]; yt.setPlaybackRate(r); store.set('vidRate', r); $('#vp-rate', root).textContent = r + '×'; });
+  $('#pp-loop', root).onclick = ctl(() => { const t = vidTime(); if (!ytLoop) ytLoop = { a: t, b: null }; else if (ytLoop.b == null) ytLoop.b = Math.max(t, ytLoop.a + 1); else ytLoop = null; });
+  ytReady().then(() => {
+    if (!$('#vidframe') || ytEp.ep !== ep) return;
+    yt = new YT.Player('vidframe', {
+      host: 'https://www.youtube-nocookie.com', videoId: ep.video,
+      playerVars: { start: t0 > 5 && (!ep.dur || t0 < ep.dur - 10) ? t0 : 0, playsinline: 1, rel: 0 },
+      events: {
+        onReady: () => { yt.setPlaybackRate(store.get('vidRate', 1)); ui(); },
+        // 101 / 150: the channel does not allow this video to be played outside YouTube
+        onError: e => { if (![101, 150].includes(e.data)) return; const box = $('.vidbox', root); if (box) box.innerHTML = `<div class="vidmsg">This video can only be played on YouTube.<br><a style="color:#fff" href="https://www.youtube.com/watch?v=${esc(ep.video)}" target="_blank" rel="noopener">Open it on YouTube</a></div>`; },
+        onStateChange: e => { if (e.data === 1 && pod && !pod.paused) pod.pause(); if (e.data === 0) vidSave(k, 0, true); else if (e.data === 2) vidSave(k, vidTime()); ui(); },
+      },
+    });
+    let saved = 0;
+    ytTimer = setInterval(() => {
+      if (!root.isConnected) { clearInterval(ytTimer); if (yt && yt.getCurrentTime) vidSave(k, vidTime()); return; }
+      if (!yt || !yt.getPlayerState || yt.getPlayerState() !== 1) return;
+      const t = vidTime();
+      if (ytLoop && ytLoop.b != null && t >= ytLoop.b) vidSeek(ytLoop.a);
+      if (Date.now() - saved > 4000) { saved = Date.now(); const d = yt.getDuration() || ep.dur; vidSave(k, t, d && t > d * .97); }
+      ui();
+    }, 250);
+  }).catch(() => { const f = $('#vidframe'); if (f) f.innerHTML = '<div class="vidmsg">The player needs the internet.</div>'; });
+}
+// ---------- music: Cantonese songs from the artist's own YouTube channel (course/music.yaml), in the same embedded player.
+// The private module can add the lyrics (timed line by line and syllable by syllable) in #vidside, as for the drama.
+const MUS = DATA.music || { albums: [] };
+const musKey = (A, so) => `mus-${A.id}-${so.n}`;
+function showMusic() {
+  renderTabs('music');
+  const st = vidState(), m = $('#main');
+  m.innerHTML = `<div class="col">${MUS.albums.map(A => `
+    <div class="head"><span class="eyebrow">Music · in Cantonese</span><h1>${esc(A.title)}</h1><span class="rom">${esc(A.en)} · ${esc(A.by)} · ${A.year}</span></div>
+    <p class="sub" style="margin:0;max-width:65ch">${esc(A.about)}</p>
+    <div class="list">${A.songs.map(so => { const s = st[musKey(A, so)] || {}; return `
+      <button class="item ep ${s.done ? 'done' : ''}" data-go="${musKey(A, so)}"><span class="no">${so.n}</span>
+        <span><span class="tt han">${esc(so.title)}</span><br><span class="ts">${esc(so.en)}${s.done ? ' · ✓ listened' : ''}</span></span><span class="chev">›</span></button>`; }).join('')}</div>
+    <p class="sub" style="font-size:.8rem;margin:0">Official music videos, played from <a href="${esc(A.channel)}" target="_blank" rel="noopener">${esc(A.by)}'s YouTube channel</a>. Track numbers are the album's.</p>`).join('')}
+  </div>`;
+  wireGo(m); podMini();
+}
+function showSong(A, so) {
+  vidPage(A, so, {
+    tab: 'music', key: musKey(A, so), back: 'music', backLabel: 'Back to the album', where: `${so.n} · <span class="han">${esc(so.title)}</span>`,
+    eyebrow: `${esc(A.by)} · <span class="han">${esc(A.title)}</span> (${A.year})`, h1: `<span class="han">${esc(so.title)}</span>`,
+    notes: `<p class="sub" style="margin:0">${esc(so.en)}</p>
+    <p class="sub" style="font-size:.8rem;margin:0">${esc(so.title)} © ${esc(A.by)}. Played from the official music video: <a href="https://www.youtube.com/watch?v=${esc(so.video)}" target="_blank" rel="noopener">open on YouTube</a>.</p>`,
+  });
+}
+function splitZh(l) { const x = l.match(/^(.*?)\s*[（(]([^（()）]*)[)）]\s*$/); return x && x[1] ? [x[1], x[2]] : [l, '']; }
+
+// ---------- word sheet
+// where a card's English comes from, when it was not written for the course (tools/english.py)
+function glossSrc(c) {
+  const s = c.gloss_src;
+  if (!s) return '';
+  const t = s.startsWith('mandarin:') ? `via the Mandarin <span class="han">${esc(s.slice(9))}</span> (CC-CEDICT)`
+    : s === 'maryknoll' ? 'Maryknoll dictionary (1976)' : s === 'parts' ? 'from its parts' : esc(s);
+  return `<div class="wc-src">${t}</div>`;
+}
+function openCard(id, w) {
+  const c = id ? DATA.dict[id] : null, sh = $('#sheet');
+  const top = (h, t, extra, btn) => `<div class="grab"></div><div class="wc-top"><div><div class="wc-h">${esc(h)}</div><div class="wc-t">${esc(t)}</div>${extra || ''}</div><div class="wc-btns">${btn || ''}<button class="x" aria-label="Close">×</button></div></div>`;
+  if (!c) sh.innerHTML = top(w ? w.h : '', w ? w.t : '') + '<p class="empty">A name, or a word not in the dictionaries.</p>';
+  else {
+    const [pc, pt] = cog(id);
+    const own = !w || !w.id || w.id === id;   // the card of the tapped word itself (not one of its other splits)
+    const spoken = own && w && w.s && w.s.replace(/^--/, '') !== w.t.replace(/^--/, '') ? `<div class="wc-s">Said ${esc(w.s)} in this sentence</div>` : '';
+    // compound: the word cut into the dictionary words it contains (勞動法 = 勞動 + 法), each with its English
+    const short = g => (g || '').replace(/\s*\([^)]*\)?/g, '').split(/[;；,]/)[0].trim().slice(0, 28);
+    const cps = (c.comp || []).filter(p => DATA.dict[p]);
+    const comp = cps.length > 1 ? `<div class="wc-comp"><span class="kind">Compound</span><div class="cline">${cps.map(p => { const q = DATA.dict[p];
+      return `<button data-part="${esc(p)}"><span class="han">${esc(q.hanji)}</span>${q.gloss ? `<span class="g">${esc(short(q.gloss))}</span>` : ''}</button>`; }).join('<span class="plus" aria-hidden="true">+</span>')}</div></div>` : '';
+    // other ways to cut the line at this word: dictionary words starting on the same character, longest first
+    const xs = (w && w.x || []).filter(x => DATA.dict[x]);
+    const splits = xs.length > 1 ? `<div class="wc-sec"><h3>Other splits</h3><div class="splits">${xs.map(x => `<button data-split="${esc(x)}" aria-pressed="${x === id}"><span class="han">${esc(DATA.dict[x].hanji)}</span><span class="r">${esc(DATA.dict[x].tailo || DATA.dict[x].tkey)}</span></button>`).join('')}</div></div>` : '';
+    const src = { rime: 'rime-cantonese (CanCLID), CC BY 4.0' }[c.source];
+    // add to the list of the page being read: a bookmark in the card's top corner (filled once the word is in it)
+    const lk = listHere(), onL = inList(lk, id), alsoL = Object.keys(lists).filter(k => k !== lk && inList(k, id));
+    const addBtn = `<button class="wc-add ${onL ? 'on' : ''}" id="add-card" data-list="${esc(lk)}" aria-pressed="${onL}" aria-label="${onL ? `In ${esc(listTitle(lk))}: tap to remove` : `Add to ${esc(listTitle(lk))}`}" title="${onL ? 'In' : 'Add to'} ${esc(listTitle(lk))}"><svg viewBox="0 0 24 24" fill="${onL ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12v18l-6-4-6 4z"/></svg><span>${esc(listTitle(lk))}</span></button>`;
+    sh.innerHTML = top(c.hanji, c.tailo || (w && w.t) || c.tkey, spoken + (c.audio ? `<button class="btn small line play" id="play" aria-label="Play the recording">▶ Listen</button>` : ''), addBtn) + comp + splits + `
+      ${pt || c.rank ? `<div class="row">${pt ? `<span class="pill ${pc}">${pt}</span>` : ''}${c.rank ? `<span class="pos">#${c.rank} most common</span>` : ''}${c.wenbai && c.wenbai !== 'substitute-char' ? `<span class="pos">${esc(c.wenbai)} reading</span>` : ''}</div>` : ''}
+      ${c.gloss ? `<div class="wc-sec"><h3>English</h3><div class="wc-gloss">${esc(c.gloss)}</div>${glossSrc(c)}</div>` : ''}
+      ${c.mand && c.mand.length ? `<div class="wc-sec"><h3>Mandarin${c.hsk ? ` · HSK ${c.hsk}` : ''}</h3><ul class="mlist">${c.mand.map(m => `<li><span class="han">${esc(m.w)}</span> <span class="py">${esc(m.py)}</span>${m.en ? ` <span class="men">${esc(m.en)}</span>` : ''}</li>`).join('')}</ul></div>` : (c.mandarin && c.mandarin.length ? `<div class="wc-sec"><h3>Mandarin</h3><div class="han">${c.mandarin.map(esc).join('、')}</div></div>` : '')}
+      ${c.senses && c.senses.length ? `<div class="wc-sec"><h3>Dictionary</h3><ol>${c.senses.map(s => `<li><span class="pos">${esc(s.pos)}</span>${esc(s.def)}</li>`).join('')}</ol></div>` : ''}
+      ${c.example ? `<div class="wc-sec wc-ex"><h3>Example</h3><div class="h">${esc(c.example.hanji)}</div><div class="t">${esc(c.example.tailo)}</div><div class="m">${esc(c.example.mandarin || '')}</div>${c.example.audio ? `<button class="btn small line" id="explay" style="align-self:start;margin-top:.3rem">▶ Listen to the sentence</button>` : ''}</div>` : ''}
+      ${c.readings && c.readings.length ? `<div class="wc-sec"><h3>Other readings</h3><div class="parts">${c.readings.map(r => `<span class="rom">${esc(r.t)}${r.share != null ? ` <small class="sub">${r.share < 1 ? 'rare' : r.share + ' %'}</small>` : ''}</span>`).join(' · ')}</div>${c.share != null ? `<span class="pos">This reading: ${c.share < 1 ? 'rare' : c.share + ' % of uses'}</span>` : ''}</div>` : ''}
+      ${c.alts && c.alts.length ? `<div class="wc-sec"><h3>Pronunciation</h3><div class="choices">
+        ${[{ t: c.tailo, label: 'standard' }, ...c.alts].map(a => { const on = (chosenAlt(id) ? chosenAlt(id).t : c.tailo) === a.t;
+          return `<button class="choice" data-pick="${esc(a.t)}" aria-pressed="${on}"><b>${esc(a.t)}</b><span>${esc(a.label)}</span></button>`; }).join('')}</div>
+        <span class="pos">Tap the one you want to see in lessons.</span></div>` : ''}
+      ${c.dialect && c.dialect.length ? `<details class="wc-sec around"><summary>Around Taiwan</summary><div class="vwrap"><table class="ptable"><tbody>
+        ${c.dialect.map(d => Object.entries(d.places).map(([p, r]) => `<tr><td class="han">${esc(d.char)}</td><td class="han">${esc(p)}</td><td>${esc(r)}</td></tr>`).join('')).join('')}</tbody></table></div></details>` : ''}
+      ${c.in && c.in.length ? `<div class="wc-sec"><h3>Used in</h3><div class="parts">${c.in.filter(p => DATA.dict[p]).map(p => `<button data-part="${esc(p)}"><span class="han">${esc(DATA.dict[p].hanji)}</span> ${esc(DATA.dict[p].tailo || DATA.dict[p].tkey)}</button>`).join('')}</div></div>` : ''}
+      ${c.parts && c.parts.length && cps.length < 2 ? `<div class="wc-sec"><h3>Made of</h3><div class="parts">${c.parts.map(p => `<button data-part="${esc(p)}"><span class="han">${esc(DATA.dict[p].hanji)}</span> ${esc(DATA.dict[p].tailo || DATA.dict[p].tkey)}</button>`).join('')}</div></div>` : ''}
+      ${alsoL.length ? `<span class="sub" style="font-size:.85rem">Also in your lists: ${alsoL.map(k => esc(listTitle(k))).join(', ')}</span>` : ''}
+      ${src ? `<div class="wc-src">Source: ${esc(src)}${c.audio ? '. Recording: same dictionary, CC BY-ND 3.0 TW.' : ''}</div>` : ''}`;
+    $('#add-card', sh).onclick = e => { const lk = e.currentTarget.dataset.list, on = !inList(lk, id); listSet(lk, [id], on); toast(on ? `Added to ${listTitle(lk)}` : `Removed from ${listTitle(lk)}`); openCard(id, w); const h = location.hash.slice(1); if (/^list-/.test(h)) { route.keepSheet = true; route(); route.keepSheet = false; } else rerenderCurrent(); };
+    $$('[data-part]', sh).forEach(b => b.onclick = () => openCard(b.dataset.part));
+    $$('[data-split]', sh).forEach(b => b.onclick = () => openCard(b.dataset.split, w));
+    $$('[data-pick]', sh).forEach(b => b.onclick = () => { prefs.pick[id] = b.dataset.pick; store.set('prefs', prefs); openCard(id, w); rerenderCurrent(); });
+    const pl = $('#play', sh); if (pl) pl.onclick = () => play(c.audio, pl);
+    const ep = $('#explay', sh); if (ep) ep.onclick = () => play(c.example.audio, ep);
+  }
+  $('.x', sh).onclick = closeSheet;
+  sh.classList.add('open'); sh.setAttribute('aria-hidden', 'false');
+}
+function rerenderCurrent() { const keep = window.scrollY; const h = location.hash.slice(1); if (/^(lesson-[1-9]|theme-)/.test(h)) { route.keepSheet = true; route(); route.keepSheet = false; window.scrollTo(0, keep); } }
+// note pop-up: opens over the dialogue, with previous / next
+function openNote(L, k) {
+  const n = L.notes[k - 1], sh = $('#sheet'), total = L.notes.length;
+  sh.innerHTML = `<div class="grab"></div>
+    <div class="wc-top"><div><span class="eyebrow">Note ${k} of ${total} · ${n.ref ? 'line ' + n.ref : 'recap'}</span>
+      <div class="note-tag ${esc(n.topic)}">${esc(n.topic.replace('-', ' '))}</div></div><button class="x" aria-label="Close">×</button></div>
+    <p class="note-body">${fmt(n.text)}</p>
+    <div class="row"><button class="btn small line" id="nprev" ${k <= 1 ? 'disabled' : ''}>‹ Previous</button>
+      <button class="btn small" id="nnext" ${k >= total ? 'disabled' : ''}>Next ›</button></div>`;
+  $('.x', sh).onclick = closeSheet;
+  $('#nprev', sh).onclick = () => k > 1 && openNote(L, k - 1);
+  $('#nnext', sh).onclick = () => k < total && openNote(L, k + 1);
+  $$('.sent').forEach(x => x.classList.toggle('noted', x.id === 'line-' + n.ref));
+  sh.classList.add('open'); sh.setAttribute('aria-hidden', 'false');
+}
+function closeSheet() { $$('.sent.noted').forEach(x => x.classList.remove('noted')); const sh = $('#sheet'); sh.classList.remove('open'); sh.setAttribute('aria-hidden', 'true'); $$('.tok.sel').forEach(x => x.classList.remove('sel')); }
+// swipe the sheet down to close it (phones): a drag that starts while the sheet is scrolled to its top follows the
+// finger; let go past 90 px, or with a quick flick, and it closes, otherwise it springs back
+(() => {
+  const sh = document.getElementById('sheet');
+  let y0 = 0, t0 = 0, dy = 0, drag = false, armed = false;
+  const wide = () => matchMedia('(min-width: 1100px)').matches;
+  sh.addEventListener('touchstart', e => {
+    if (wide() || e.touches.length > 1) return;
+    armed = sh.scrollTop <= 0; drag = false; dy = 0; y0 = e.touches[0].clientY; t0 = Date.now();
+  }, { passive: true });
+  sh.addEventListener('touchmove', e => {
+    if (!armed) return;
+    dy = e.touches[0].clientY - y0;
+    if (!drag) { if (dy > 8 && sh.scrollTop <= 0) { drag = true; sh.style.transition = 'none'; } else if (dy < 0) { armed = false; return; } else return; }
+    e.preventDefault();
+    sh.style.transform = `translateY(${Math.max(0, dy)}px)`;
+  }, { passive: false });
+  const end = () => {
+    if (!drag) { armed = false; return; }
+    const fast = dy > 40 && dy / Math.max(1, Date.now() - t0) > .5;
+    sh.style.transition = ''; drag = armed = false;
+    if (dy > 90 || fast) { sh.style.transform = ''; closeSheet(); }
+    else sh.style.transform = '';
+  };
+  sh.addEventListener('touchend', end); sh.addEventListener('touchcancel', end);
+})();
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') return closeSheet();
+  if (e.target.closest('input, textarea, select') || e.metaKey || e.ctrlKey || e.altKey) return;
+  const h = location.hash.slice(1);
+  const click = sel => { const b = $(sel); if (b && !b.disabled) { e.preventDefault(); b.click(); } };
+  if ((h === 'review' || h === 'drills') && tsess) {           // tone practice: 1-4 pick, space / enter = next
+    if (/^[1-4]$/.test(e.key)) click(`.opt:nth-child(${e.key})`); else if (e.key === ' ' || e.key === 'Enter') click('#tnext');
+  } else if (h === 'review' && sess) {     // review: space / enter = show answer, 1 = again, 2 = got it
+    if (e.key === ' ' || e.key === 'Enter') click('#flip');
+    else if (e.key === '1') click('#again'); else if (e.key === '2') click('#good');
+  } else if (h === 'bridge') {             // bridge: 1-4 pick an answer, space / enter = next
+    if (/^[1-4]$/.test(e.key)) click(`.opt:nth-child(${e.key})`); else if (e.key === ' ' || e.key === 'Enter') click('#next');
+  } else if (/^ep-\d+$/.test(h) && pod) {    // episode: space = play / pause, ← → = 5 s back / 10 s forward
+    if (e.key === ' ') { e.preventDefault(); click('#pp-play'); } else if (e.key === 'ArrowLeft') podSeek(-5); else if (e.key === 'ArrowRight') podSeek(10);
+  } else if (/^(lesson|wave)-\d+$/.test(h) && !e.target.closest('.tok')) {   // lesson: ← → previous / next lesson
+    if (e.key === 'ArrowLeft') click('.lbar [aria-label="Previous lesson"]'); else if (e.key === 'ArrowRight') click('.lbar [aria-label="Next lesson"]');
+  }
+});
+// tapping the page outside the card closes it (as in Mainichi); taps on words, notes and chips open another one
+document.addEventListener('click', e => {
+  const sh = $('#sheet');
+  if (!sh.classList.contains('open') || !e.target.isConnected || sh.contains(e.target) || e.target.closest('.tok, [data-note], [data-word], [data-pick], .tab, #pron')) return;
+  closeSheet();
+});
+function currentTab() { const h = location.hash.slice(1) || 'lessons'; return /^(lesson|wave)/.test(h) ? 'lessons' : /^(theme|grammar|drills)/.test(h) ? 'review' : /^(podcast|ep-)/.test(h) ? 'podcast' : /^(video|vid-)/.test(h) ? 'video' : /^(music|mus-)/.test(h) ? 'music' : /^(bridge|lists?$|list-)/.test(h) ? 'review' : /^(books|exam-book)/.test(h) ? 'books' : h.startsWith('exam') ? 'review' : h; }
+
+// ---------- review deck (Leitner boxes; saved in this browser)
+function addToDeck(ids) { let n = 0; ids.forEach(id => { if (id && DATA.dict[id] && !deck[id]) { deck[id] = { box: 0, due: Date.now(), at: Date.now() }; n++; } }); store.set('deck', deck); return n; }
+function dueCards() { const now = Date.now(); return Object.keys(deck).filter(id => deck[id].due <= now && DATA.dict[id]); }
+// segments: one per lesson and per theme group, plus "everything due"
+function segments() {
+  const segs = [];
+  DATA.lessons.forEach(l => segs.push({ key: 'L' + l.id, group: 'Lessons', title: lname(l.id), han: l.title.hanji, ids: l.new_words.map(w => w.id).filter(Boolean) }));
+  DATA.themes.forEach(t => t.sections.forEach(sec => segs.push({ key: `T${t.id}-${sec.n}`, group: `Theme · ${t.title.en}`, title: `${t.title.en} ${sec.n} · ${sec.title.en}`, han: sec.title.hanji, ids: sec.words.map(w => w.id).filter(Boolean) })));
+  return segs;
+}
+// context sentence for a word: first lesson line or theme sentence that contains it
+const CTX = {};
+(function buildCtx() {
+  const add = (tokens, en) => tokens.forEach(t => { if (t.w && t.w.id && !CTX[t.w.id]) CTX[t.w.id] = { tokens, en }; });
+  DATA.lessons.forEach(l => l.lines.forEach(ln => add(ln.tokens, ln.en)));
+  DATA.themes.forEach(t => t.sections.forEach(s => s.text.forEach(x => add(x.tokens, x.en))));
+})();
+let sess = null;   // { key, title, queue, i, flipped }
+let tsess = null;  // tone practice: { items, i, picked, right }
+function showReview() {
+  renderTabs('review');
+  if (sess) return showCard();
+  if (tsess) return showTone();
+  const now = Date.now(), m = $('#main');
+  const segRow = s => {
+    const inDeck = s.ids.filter(id => deck[id]).length, d = s.ids.filter(id => deck[id] && deck[id].due <= now).length;
+    return `<div class="seg-row">
+      <div class="seg-t"><span class="han">${esc(s.han)}</span><span class="sub">${esc(s.title)}</span>
+        <span class="seg-meta">${s.ids.length} words · ${inDeck} in deck${d ? ` · <b>${d} due</b>` : ''}</span></div>
+      <div class="row">${d ? `<button class="btn small" data-study="${s.key}" data-mode="due">Review ${d}</button>` : ''}
+        <button class="btn small ${d ? 'quiet' : 'line'}" data-study="${s.key}" data-mode="all">Practise all</button></div></div>`;
+  };
+  const groups = {};
+  segments().forEach(s => (groups[s.group] = groups[s.group] || []).push(s));
+  m.innerHTML = `<div class="col">
+    ${pracHead('review', 'word cards, by lesson or by theme')}
+    ${Object.entries(groups).map(([g, list]) => `<h2>${esc(g)}</h2><div class="segs">${list.map(segRow).join('')}</div>`).join('')}
+    <p class="sub" style="font-size:.85rem;margin:0">Cards show the word inside a sentence from its lesson or theme when there is one. They come back after 1, 3, 7, 16 and 35 days.</p>
+  </div>`;
+  wirePrac(m);
+}
+// Practice tab (溫習): word cards, themes, grammar and drills share one tab; a switch under the due count picks the part,
+// and the tab reopens the part used last
+// (the old review deck, Leitner boxes with due counts, is kept as an archive: Settings › Old review deck, #review)
+const PRAC = () => [['lists', 'My lists'], ['themes', 'Vocabulary'], ['grammar', 'Grammar'], ['drills', 'Drills'], ...(Exam.on ? [['exam', 'Exam']] : [])];
+function pracHead(sec, what) {
+  if (sec !== 'review') store.set('pracSec', sec);
+  return `<div class="head"><span class="eyebrow">Practice</span><h1>溫習</h1><span class="rom">Un-si̍p · ${what}</span></div>
+    <div class="seg pracnav" role="group" aria-label="Practice">${PRAC().map(([k, t]) => `<button data-go="${k}" aria-pressed="${k === sec}">${t}</button>`).join('')}</div>`;
+}
+function showLists() {
+  renderTabs('review');
+  const ks = Object.keys(lists).filter(k => listIds(k).length)
+    .sort((a, b) => (b === 'lessons') - (a === 'lessons') || Math.max(...Object.values(lists[b].w)) - Math.max(...Object.values(lists[a].w)));
+  const m = $('#main');
+  m.innerHTML = `<div class="col">
+    ${pracHead('lists', 'your word lists')}
+    ${ks.length ? ks.map(k => { const [z, kind] = listKind(k), n = listIds(k).length;
+      return `<button class="item" data-go="list-${encodeURIComponent(k)}"><span class="no han">${z}</span><span><span class="tt">${esc(listTitle(k))}</span><br><span class="ts">${kind ? kind + ' · ' : ''}${n} word${n === 1 ? '' : 's'}</span></span><span class="chev">›</span></button>`; }).join('')
+      : `<div class="card"><b>No words yet</b><span class="sub">Tap a word, then <b>Add</b> on its card. It goes to the list of where you are: one list for all the lessons, one per podcast, per drama, per album, per book.</span></div>`}
+  </div>`;
+  wireGo(m);
+}
+function showList(k) {
+  renderTabs('review');
+  const ids = listIds(k).filter(id => DATA.dict[id]), [, kind] = listKind(k);
+  const m = $('#main');
+  m.innerHTML = `<div class="col">
+    <div class="head"><span class="eyebrow"><button class="xback" data-go="lists" aria-label="Back to my lists">‹</button> My lists${kind ? ' · ' + kind : ''}</span>
+      <div class="lname"><h1>${esc(listTitle(k))}</h1><button class="icon sq" id="lren" aria-label="Rename this list" title="Rename">✎</button></div>
+      <span class="rom">${ids.length} word${ids.length === 1 ? '' : 's'}${lists[k] && lists[k].nm ? ` · ${esc(listBase(k))}` : ''}</span></div>
+    ${ids.length ? `<div class="row"><button class="btn" id="lfc">Flashcards →</button><button class="btn small quiet" id="lanki">Copy for Anki</button></div>
+    <div class="vwrap"><table class="vtable"><tbody>${ids.map(id => { const c = DATA.dict[id];
+      return `<tr class="${cog(id)[2]}" data-word="${esc(id)}" tabindex="0"><td class="vh">${esc(c.hanji)}</td><td class="vr">${esc(c.tailo || c.tkey)}</td><td class="ve">${esc(c.gloss || '')}</td>
+        <td><button class="icon" data-rm="${esc(id)}" aria-label="Remove ${esc(c.hanji)} from this list">×</button></td></tr>`; }).join('')}</tbody></table></div>`
+      : `<p class="sub">This list is empty.</p>`}
+  </div>`;
+  wireGo(m);
+  $$('[data-word]', m).forEach(r => { r.onclick = e => { if (!e.target.closest('[data-rm]')) openCard(r.dataset.word); }; r.onkeydown = e => { if (e.key === 'Enter') openCard(r.dataset.word); }; });
+  $$('[data-rm]', m).forEach(b => b.onclick = () => { listSet(k, [b.dataset.rm], false); toast('Removed'); showList(k); });
+  // rename: the title becomes a text field; Enter or leaving it saves, Escape cancels, an empty name restores the source's
+  $('#lren', m).onclick = () => {
+    const box = $('.lname', m);
+    box.innerHTML = `<input class="lren" maxlength="60" value="${esc(listTitle(k))}" aria-label="List name" placeholder="${esc(listBase(k))}">`;
+    const inp = $('input', box); inp.focus(); inp.select();
+    let done = false;
+    const save = keep => {
+      if (done) return; done = true;
+      if (keep) {
+        const v = inp.value.trim(), L = lists[k] = lists[k] || { w: {} };
+        if (v && v !== listBase(k)) L.nm = v; else delete L.nm;
+        L.nmAt = Date.now(); store.set('lists', lists); toast(v && v !== listBase(k) ? 'List renamed' : 'Original name restored');
+      }
+      showList(k);
+    };
+    inp.onkeydown = e => { if (e.key === 'Enter') save(true); else if (e.key === 'Escape') save(false); };
+    inp.onblur = () => save(true);
+  };
+  const fc = $('#lfc', m); if (fc) fc.onclick = () => { startSession('V:' + k, 'all'); if (sess) { sess.back = 'list-' + encodeURIComponent(k); if (location.hash !== '#review') location.hash = 'review'; } };
+  const ak = $('#lanki', m); if (ak) ak.onclick = () => copyText(ids.map(id => { const c = DATA.dict[id]; return [c.hanji, c.tailo || '', c.gloss || '', (c.mandarin || []).slice(0, 2).join('、'), listTitle(k)].join('\t'); }).join('\n'), ak, 'Copied · in Anki: File › Import, fields separated by Tab');
+}
+function wirePrac(m) {
+  // a card session always runs on #review (its keys and the tab badge expect it)
+  $$('[data-study]', m).forEach(b => b.onclick = () => { startSession(b.dataset.study, b.dataset.mode); if (sess && location.hash !== '#review') location.hash = 'review'; });
+  wireGo(m);
+}
+function showDrills() {
+  renderTabs('review');
+  if (tsess) return showTone();
+  const m = $('#main');
+  m.innerHTML = `<div class="col">
+    ${pracHead('drills', 'the six tones')}
+    <div class="card"><span class="eyebrow">Tones · 聲調</span>
+      <span>See a word without its tone numbers and pick the right tones. Wrong options are the tones most often confused: 2 and 5, 3 and 6, 4 and 6.</span>
+      <div class="row"><button class="btn small" id="tones">Practise 10 words</button><span class="sub" style="font-size:.85rem">${DATA.tones.filter(t => done.has(t.l)).length} words from your finished lessons · ${DATA.tones.length} in all</span></div></div>
+    ${DATA.bridge.length ? `<button class="item" data-go="bridge"><span class="no">華</span><span><span class="tt">華台橋 Mandarin bridge</span><br><span class="ts">Guess the Cantonese reading of a Mandarin character (trial)</span></span><span class="chev">›</span></button>` : ''}
+  </div>`;
+  wirePrac(m);
+  $('#tones', m).onclick = () => {
+    // words from finished lessons first; if fewer than 10, top up from the rest
+    const mine = DATA.tones.filter(t => done.has(t.l)).sort(() => Math.random() - .5);
+    const rest = DATA.tones.filter(t => !done.has(t.l)).sort((a, b) => a.l - b.l || Math.random() - .5);
+    tsess = { items: [...mine, ...rest].slice(0, 10), i: 0, picked: null, right: 0 };
+    showDrills();
+  };
+}
+function showTone() {
+  const m = $('#main');
+  if (tsess.i >= tsess.items.length) {
+    m.innerHTML = `<div class="col"><div class="head"><span class="eyebrow">Tones</span><h1>搞掂！</h1><span class="rom">gaau2 dim6! · Done</span></div>
+      <div class="card raised"><div class="stat"><b>${tsess.right}/${tsess.items.length}</b><span class="sub">right</span></div>
+        <span class="sub">The six tones: 1 high level, 2 high rising, 3 mid level, 4 low falling, 5 low rising, 6 low level. Syllables in -p -t -k take only 1, 3 or 6.</span></div>
+      <div class="row"><button class="btn" id="again10">10 more</button><button class="btn line" id="back">Back to review</button></div></div>`;
+    $('#back').onclick = () => { tsess = null; showDrills(); };
+    $('#again10').onclick = () => { tsess = null; showDrills(); $('#tones').click(); };
+    return;
+  }
+  const it = tsess.items[tsess.i], answered = tsess.picked !== null, ok = tsess.picked === it.s;
+  m.innerHTML = `<div class="col">
+    <div class="row" style="justify-content:space-between"><span class="eyebrow">Tones</span><span class="sub">${tsess.i + 1} / ${tsess.items.length}</span></div>
+    <div class="bar" aria-hidden="true"><i style="width:${Math.round(100 * tsess.i / tsess.items.length)}%"></i></div>
+    <div class="card raised fc" aria-live="polite">
+      <div class="big">${esc(it.h)}</div>
+      <div class="sub">Without tones <b class="rom" style="color:var(--text)">${esc(it.t)}</b> · ${esc(it.en)}</div>
+      <p class="empty" style="margin:0">Which tones?</p>
+      <div class="opts">${it.opts.map((o, i) => `<button class="opt ${answered ? (o === it.s ? 'right' : (o === tsess.picked ? 'wrong' : '')) : ''}" data-topt="${esc(o)}" ${answered ? 'disabled' : ''}>${esc(o)}</button>`).join('')}</div>
+      ${answered ? `<div class="explain"><p class="verdict ${ok ? 'ok' : 'no'}">${ok ? 'Yes!' : 'Not quite.'} It is <b>${esc(it.s)}</b>.</p>
+        <ul>${it.why.map(w => `<li>${esc(w)}</li>`).join('')}</ul>
+        <p class="sub" style="font-size:.85rem">From ${lname(it.l).toLowerCase()}. Dictionary tones: a word may be said with a changed tone (變音).</p>
+        <div class="row"><button class="btn" id="tnext">Next <kbd>space</kbd></button></div></div>` : ''}
+    </div>
+    <div class="row"><button class="btn small quiet" id="tquit">Stop</button></div></div>`;
+  $$('[data-topt]', m).forEach(b => b.onclick = () => { tsess.picked = b.dataset.topt; if (tsess.picked === it.s) tsess.right++; studied(); showTone(); });
+  if (answered) $('#tnext').onclick = () => { tsess.i++; tsess.picked = null; showTone(); };
+  $('#tquit').onclick = () => { tsess = null; showDrills(); };
+}
+function startSession(key, mode) {
+  const now = Date.now();
+  let ids, title;
+  if (key === 'ALL') { ids = dueCards(); title = 'All due'; }
+  else if (key.startsWith('V:')) { ids = listIds(key.slice(2)); title = listTitle(key.slice(2)); }
+  else { const s = segments().find(x => x.key === key); ids = s.ids; title = s.title; }
+  if (mode === 'due') ids = ids.filter(id => deck[id] && deck[id].due <= now);
+  ids = [...new Set(ids)].filter(id => DATA.dict[id]).sort(() => Math.random() - .5);
+  if (!ids.length) return toast('Nothing to review here');
+  sess = { key, title, queue: ids, i: 0, flipped: false, total: ids.length, missed: new Set() };
+  showReview();
+}
+function clozeHTML(ctx, id, reveal) {
+  return ctx.tokens.map(t => {
+    if (t.p) return `<span class="punct">${esc(t.p)}</span>`;
+    const w = t.w;
+    if (w.id === id) return reveal ? `<ruby class="hit">${esc(w.h)}${rtHTML(romOf(w).r)}</ruby>` : `<ruby class="blank">${'＿'.repeat(Math.max(1, [...w.h].length))}<rt>?</rt></ruby>`;
+    return HAN_RE.test(w.h) ? `<ruby>${esc(w.h)}${rtHTML(romOf(w).r)}</ruby>` : esc(w.h);
+  }).join('');
+}
+function showCard() {
+  const m = $('#main');
+  if (sess.i >= sess.queue.length) {
+    m.innerHTML = `<div class="col"><div class="head"><span class="eyebrow">Review · ${esc(sess.title)}</span><h1>好勢！</h1><span class="rom">Hó-sè! · Done</span></div>
+      <div class="card raised"><div class="stat"><b>${sess.total - sess.missed.size}/${sess.total}</b><span class="sub">remembered the first time</span></div>${sess.missed.size ? `<span class="sub">To look at again: ${[...sess.missed].map(id => `<span class="han">${esc(DATA.dict[id].hanji)}</span> ${esc(DATA.dict[id].tailo || '')}`).join(' · ')}</span>` : ''}</div>
+      <div class="row"><button class="btn" id="back">Back to review</button></div></div>`;
+    $('#back').onclick = () => { const b = sess.back; sess = null; b ? go(b) : showReview(); };
+    return;
+  }
+  const id = sess.queue[sess.i], c = DATA.dict[id], ctx = CTX[id], [pc, pt] = cog(id);
+  const front = ctx
+    ? `<div class="txt cloze">${clozeHTML(ctx, id, sess.flipped)}</div><div class="sub">${esc(ctx.en)}</div>`
+    : `<div class="big">${esc(c.hanji)}</div>`;
+  m.innerHTML = `<div class="col">
+    <div class="row" style="justify-content:space-between"><span class="eyebrow">Review · ${esc(sess.title)}</span><span class="sub">${Math.min(sess.i + 1, sess.queue.length)} / ${sess.queue.length}</span></div>
+    <div class="bar" aria-hidden="true"><i style="width:${Math.round(100 * sess.i / sess.queue.length)}%"></i></div>
+    <div class="card raised fc" aria-live="polite">${front}
+      ${sess.flipped ? `<div class="answer"><span class="han ah">${esc(c.hanji)}</span><span class="r">${esc(c.tailo || c.tkey)}</span>
+          ${c.audio ? `<button class="btn small line" id="rplay">▶ Listen</button>` : ''}
+          ${pt ? `<span class="pill ${pc}">${pt}</span>` : ''}${c.gloss ? `<span>${esc(c.gloss)}</span>` : ''}
+          ${c.mandarin && c.mandarin.length ? `<span class="zh">華語 ${c.mandarin.slice(0, 3).map(esc).join('、')}</span>` : ''}</div>
+        <div class="row" style="justify-content:center"><button class="btn line" id="again">Again <kbd>1</kbd></button><button class="btn" id="good">Got it <kbd>2</kbd></button></div>`
+      : `<p class="empty" style="margin:0">${ctx ? 'Which word fills the gap? Say it aloud, then check.' : 'Say the reading and the meaning, then check.'}</p>
+        <div class="row" style="justify-content:center"><button class="btn" id="flip">Show answer <kbd>space</kbd></button></div>`}
+    </div>
+    <div class="row"><button class="btn small quiet" id="quit">Stop</button></div></div>`;
+  $('#quit').onclick = () => { const b = sess.back; sess = null; b ? go(b) : showReview(); };
+  if (sess.flipped) { $('#again').onclick = () => grade(false); $('#good').onclick = () => grade(true); const rp = $('#rplay'); if (rp) { rp.onclick = () => play(c.audio, rp); if (prefs.autoplay !== false) play(c.audio, rp); } }
+  else $('#flip').onclick = () => { sess.flipped = true; showCard(); };
+}
+function grade(ok) {
+  const id = sess.queue[sess.i];
+  if (!deck[id]) deck[id] = { box: 0, due: Date.now() };
+  const d = deck[id];
+  d.box = ok ? Math.min(d.box + 1, BOXES.length - 1) : 0;
+  d.due = Date.now() + (ok ? BOXES[d.box] * DAY : 60e3); d.at = Date.now();
+  store.set('deck', deck); studied();
+  if (!ok) { sess.missed.add(id); sess.queue.push(id); }   // missed cards come back at the end of the session
+  sess.i++; sess.flipped = false; renderTabs('review'); showCard();
+}
+
+// ---------- settings (look, night mode, accent) + accent reference
+// pronunciation choices of a lesson's words, in the bottom sheet (a square button in the lesson bar opens it)
+function openPron(L, pron) {
+  const sh = $('#sheet');
+  sh.innerHTML = `<div class="grab"></div><div class="wc-top"><div><span class="eyebrow">Pronunciation · ${esc(lname(L.id))}</span>
+      <div class="wc-s">Words people also say another way. Pick the form to show in the dialogue.</div></div><button class="x" aria-label="Close">×</button></div>
+    <div class="segs">${pron.map(pickRow).join('')}</div>`;
+  $('.x', sh).onclick = closeSheet;
+  $$('[data-pick]', sh).forEach(b => b.onclick = () => { prefs.pick[b.dataset.id] = b.dataset.pick; store.set('prefs', prefs); const y = window.scrollY; route.keepSheet = true; showLesson(L); route.keepSheet = false; window.scrollTo(0, y); openPron(L, pron); });
+  sh.classList.add('open'); sh.setAttribute('aria-hidden', 'false');
+}
+function pickRow(id) {
+  const c = DATA.dict[id];
+  return `<div class="seg-row"><div class="seg-t"><span class="han">${esc(c.hanji)}</span><span class="sub">${esc(c.gloss || '')}</span></div>
+    <div class="choices">${[{ t: c.tailo, label: 'standard' }, ...c.alts].map(a => { const on = (chosenAlt(id) ? chosenAlt(id).t : c.tailo) === a.t;
+      return `<button class="choice" data-id="${esc(id)}" data-pick="${esc(a.t)}" aria-pressed="${on}"><b>${esc(a.t)}</b><span>${esc(a.label)}</span></button>`; }).join('')}</div></div>`;
+}
+function s_oldDeck() { return `<button class="item" data-go="review"><span class="no">卡</span><span><span class="tt">Old review deck (archive)</span><br><span class="ts">The former word cards with due dates: ${Object.keys(deck).length} words. No longer counted or notified.</span></span><span class="chev">›</span></button>`; }
+function showSettings() {
+  renderTabs('settings');
+  const PL = { '臺北': 'Taipei', '臺南': 'Tainan', '宜蘭': 'Yilan', '鹿港': 'Lukang', '金門': 'Kinmen' };
+  const opt = (name, cur, list) => `<div class="seg" role="group" aria-label="${name}">${list.map(([k, t]) => `<button data-set="${name}" data-val="${k}" aria-pressed="${cur === k}">${t}</button>`).join('')}</div>`;
+  const m = $('#main');
+  m.innerHTML = `<div class="col">
+    <div class="head"><span class="eyebrow">Settings</span><h1>設定</h1><span class="rom">cit3 ding6</span></div>
+    <div class="card raised setgrid">
+      <span class="lab">Look</span>${opt('skin', prefs.skin, [['notebook', 'Notebook'], ['rose', 'Rose']])}
+      <span class="lab">Night mode</span>${opt('night', prefs.night ? 'on' : 'off', [['off', 'Off'], ['on', 'On']])}
+    </div>
+    ${HOSTED && !STANDALONE ? `<h2><span class="han">安裝</span> Install the app</h2>
+    <div class="card"><span>Put pyue on your home screen: it opens full screen like an app, without the browser bars, and works offline.</span>
+      ${installEvt ? '<div class="row"><button class="btn small" id="install">Install</button></div>'
+        : /iphone|ipad|ipod/i.test(navigator.userAgent) ? '<span class="sub" style="font-size:.9rem">In Safari: tap the Share button, then <b>Add to Home Screen</b>.</span>'
+        : '<span class="sub" style="font-size:.9rem">In your browser menu: <b>Install app</b> or <b>Add to Home screen</b>.</span>'}</div>` : ''}
+    <h2><span class="han">進度</span> Your progress</h2>
+    <div class="card"><span>${done.size} lessons done · ${Object.keys(waveAt).length} second-wave · ${Object.keys(lists).reduce((a, k) => a + listIds(k).length, 0)} words in your lists · ${studyDays.size} days studied</span>
+      <span class="sub" style="font-size:.9rem">Progress is kept in this browser only. Save a copy to move it to another phone or computer, or to keep it safe.</span>
+      <div class="row"><button class="btn small" id="exp">Save progress file</button><button class="btn small line" id="imp">Load progress file</button>
+        <input type="file" id="imp-file" accept=".json,application/json" hidden></div></div>
+    ${Object.keys(deck).length ? s_oldDeck() : ''}
+    ${HOSTED ? `<h2><span class="han">同步</span> Sync between devices</h2>
+    <div class="card">${Sync.on ? `<span>Synced with your GitHub account${store.get('syncAt', 0) ? ` · last ${new Date(store.get('syncAt', 0)).toLocaleString('en-GB', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}` : ''}.</span>
+        ${store.get('syncErr', '') ? `<span class="fb no">Last attempt failed: ${esc(store.get('syncErr', ''))}</span>` : ''}
+        <span class="sub" style="font-size:.9rem">Your progress is saved in a secret gist and merged when the app opens and after each change. Lessons marked done on one device stay done everywhere.</span>
+        <div class="row"><button class="btn small" id="sync-now">Sync now</button><button class="btn small quiet" id="sync-off">Stop syncing on this device</button></div>`
+      : `<span>Keep the same progress on your phone and your computer, through your GitHub account (free).</span>
+        <ol class="sub" style="font-size:.9rem;margin:0;padding-left:1.2rem"><li>On GitHub: Settings › Developer settings › Personal access tokens › <b>Fine-grained tokens</b> › Generate. Account permissions: <b>Gists: Read and write</b>. Nothing else.</li>
+          <li>Paste the token here, on each device.</li></ol>
+        <form class="row" id="sync-form"><input id="sync-token" type="password" autocomplete="off" placeholder="github_pat_…" style="flex:1 1 14rem;min-width:0;font:inherit;padding:.5rem .8rem;border:1.5px solid var(--line);border-radius:var(--r);background:var(--bg);color:var(--text)">
+          <button class="btn small" type="submit">Connect</button></form>
+        <span class="sub" style="font-size:.8rem">The token is kept in this browser only and sent only to GitHub.</span>`}</div>` : ''}
+  </div>`;
+  wireGo(m);
+  const ib = $('#install', m); if (ib) ib.onclick = async () => { installEvt.prompt(); await installEvt.userChoice.catch(() => {}); installEvt = null; showSettings(); };
+  $('#exp', m).onclick = async () => {
+    const json = JSON.stringify(progressData(), null, 1);
+    const filename = `pyue-progress-${today()}.json`;
+    // inside the claude.ai viewer, files go through its save dialog; on a normal web page, a plain download
+    const dl = window.claude && window.claude.use ? await window.claude.use('downloads').catch(() => null) : null;
+    if (dl) { try { await dl.save({ filename, data: json }); toast('Progress file saved'); } catch (err) { if (err && err.code !== 'declined') toast('Could not save the file here'); } return; }
+    const blob = new Blob([json], { type: 'application/json' });
+    const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = filename; document.body.append(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 5000);
+  };
+  $('#imp', m).onclick = () => $('#imp-file', m).click();
+  const sf = $('#sync-form', m); if (sf) sf.onsubmit = async e => { e.preventDefault(); const t = $('#sync-token', m).value.trim(); if (!t) return; store.set('gistToken', t); store.set('gistId', ''); await Sync.run(); if (store.get('syncErr', '')) store.set('gistToken', ''); await Exam.check(); showSettings(); };
+  const sn = $('#sync-now', m); if (sn) sn.onclick = async () => { sn.disabled = true; await Sync.run(); showSettings(); };
+  const so = $('#sync-off', m); if (so) so.onclick = () => { store.set('gistToken', ''); store.set('gistId', ''); store.set('examOn', false); toast('Sync stopped on this device'); showSettings(); };
+  $('#imp-file', m).onchange = async e => {
+    const f = e.target.files[0]; if (!f) return;
+    try {
+      mergeProgress(JSON.parse(await f.text()));
+      toast('Progress loaded'); showSettings();
+    } catch (err) { toast('Could not read this file'); }
+  };
+  $$('[data-set]', m).forEach(b => b.onclick = () => {
+    const k = b.dataset.set, v = b.dataset.val;
+    if (k === 'night') prefs.night = v === 'on'; else if (k === 'autoplay') prefs.autoplay = v === 'on'; else prefs[k] = v;
+    store.set('prefs', prefs); applySkin(); showSettings();
+  });
+}
+
+// ---------- Mandarin bridge (proof of concept)
+let br = null;   // { order, i, picked, score, n }
+function showBridge() {
+  renderTabs('review');
+  if (!br) br = { order: DATA.bridge.map((_, i) => i).sort(() => Math.random() - .5), i: 0, picked: null, score: 0, n: 0 };
+  const it = DATA.bridge[br.order[br.i % br.order.length]];
+  if (!it.shuffled) it.shuffled = [it.answer, ...it.options].sort(() => Math.random() - .5);
+  const m = $('#main');
+  const answered = br.picked !== null, ok = br.picked === it.answer;
+  m.innerHTML = `<div class="col">
+    <div class="head"><span class="eyebrow">Mandarin bridge · trial</span><h1>華台橋</h1>
+      <span class="rom">Use the Mandarin you know to guess the Cantonese reading</span></div>
+    <div class="row sub"><span><b style="color:var(--text)">${br.score}</b> / ${br.n} right</span>·<span>HSK ${it.level}</span></div>
+    <div class="card raised fc">
+      <div class="big">${esc(it.char)}</div>
+      <div class="r">${esc(it.pinyin)}</div>
+      <div class="sub">${esc(it.meaning)}</div>
+      <div class="opts">${it.shuffled.map(o => `<button class="opt ${answered ? (o === it.answer ? 'right' : (o === br.picked ? 'wrong' : '')) : ''}" data-opt="${esc(o)}" ${answered ? 'disabled' : ''}>${esc(o)}</button>`).join('')}</div>
+      ${answered ? `<div class="explain">
+        <p class="verdict ${ok ? 'ok' : 'no'}">${ok ? 'Yes!' : 'Not this time.'} ${esc(it.char)} is read <b>${esc(it.answer)}</b>${it.layer ? ` (${esc(it.layer)} reading)` : ''}.</p>
+        <ul>${it.rules.map(r => `<li>${fmt(r)}</li>`).join('')}</ul>
+        ${it.others.length ? `<p class="sub">Also read ${it.others.map(o => `<b>${esc(o.tailo)}</b>${o.layer ? ` (${esc(o.layer)})` : ''}`).join(', ')}.</p>` : ''}
+        ${it.examples.length ? `<p class="sub">In words: ${it.examples.map(e => `<span class="han">${esc(e.hanji)}</span> ${esc(e.tailo)}`).join(' · ')}</p>` : ''}
+        <div class="row"><button class="btn" id="next">Next character</button></div></div>` : ''}
+    </div>
+    <p class="sub" style="font-size:.85rem;margin:0">This is a trial. ${DATA.bridge.length} characters from HSK 1–4, mostly their literary reading, where the sound rules are the most regular.</p>
+  </div>`;
+  $$('[data-opt]', m).forEach(b => b.onclick = () => { br.picked = b.dataset.opt; br.n++; if (br.picked === it.answer) br.score++; studied(); showBridge(); });
+  if (answered) $('#next').onclick = () => { br.i++; br.picked = null; showBridge(); };
+}
+
+// one recording at a time; a missing file (e.g. the page opened without its audio folder) says so instead of failing silently
+let player = null;
+function play(src, btn) {
+  try { if (player) player.pause(); player = new Audio(src); }
+  catch { return; }
+  player.play().catch(() => { if (btn) { btn.disabled = true; btn.textContent = 'No recording here'; } });
+}
+// a dialogue line, word by word, with the dictionary's recordings. These are citation forms: the tone changes of
+// connected speech (spoken tones) are not heard. A word the dictionary has no recording of is played from its
+// recorded pieces (sub-words or single syllables, `audio_seq`, see build_app.py); a romanised word in a characters line
+// (ke / kue…) from recordings of exactly that sound (`as`). Only words with no such sound recorded are skipped.
+function wordAudio(t) { const c = t.w && t.w.id && DATA.dict[t.w.id]; return !c ? (t.w && t.w.as) || [] : c.audio ? [c.audio] : c.audio_seq || []; }
+function lineAudio(tokens) { return tokens.map((t, i) => [t, i]).filter(([t]) => wordAudio(t).length); }
+let lineRun = 0;
+async function playLine(li, btn) {
+  const run = ++lineRun, L = DATA.lessons.find(l => location.hash.endsWith('-' + l.id));
+  if (!L) return;
+  if (btn.classList.contains('on')) { btn.classList.remove('on'); lineRun++; if (player) player.pause(); $$('.tok.say').forEach(x => x.classList.remove('say')); return; }
+  $$('.lplay.on').forEach(x => x.classList.remove('on')); btn.classList.add('on');
+  const rec = L.lines[li].audio;
+  if (rec) {   // a native speaker's recording of the whole line
+    const sent = btn.closest('.sent'); if (sent) sent.classList.add('saying');
+    await new Promise(res => { try { if (player) player.pause(); player = new Audio(rec); player.onended = res; player.onerror = res; player.play().catch(res); } catch { res(); } });
+    if (sent) sent.classList.remove('saying');
+    if (run === lineRun) btn.classList.remove('on');
+    return;
+  }
+  if (!store.get('lineHint', false)) { toast('Word by word: dictionary tones, not spoken tones'); store.set('lineHint', true); }
+  for (const [t, i] of lineAudio(L.lines[li].tokens)) {
+    if (run !== lineRun) return;
+    const el = document.querySelector(`[data-tok="L${li}:${i}"]`);
+    $$('.tok.say').forEach(x => x.classList.remove('say')); if (el) el.classList.add('say');
+    const srcs = wordAudio(t);
+    for (let j = 0; j < srcs.length; j++) {
+      if (run !== lineRun) return;
+      await new Promise(res => { try { if (player) player.pause(); player = new Audio(srcs[j]); player.onended = res; player.onerror = res; player.play().catch(res); } catch { res(); } });
+      if (j < srcs.length - 1) await new Promise(r => setTimeout(r, 30));
+    }
+    await new Promise(r => setTimeout(r, 120));
+  }
+  if (run === lineRun) { btn.classList.remove('on'); $$('.tok.say').forEach(x => x.classList.remove('say')); }
+}
+// ---------- sync between devices: progress kept in a private GitHub gist (secret gist, only you can list it)
+// The token stays in this browser. Pull + merge when the app opens, push a few seconds after any change.
+const Sync = {
+  FILE: 'pyue-progress.json', timer: null, busy: false,
+  get token() { return store.get('gistToken', ''); }, get id() { return store.get('gistId', ''); },
+  get on() { return HOSTED && !!this.token; },
+  async api(path, opts = {}) {
+    const r = await fetch('https://api.github.com' + path, { ...opts, headers: { Accept: 'application/vnd.github+json', Authorization: 'Bearer ' + this.token, ...(opts.body ? { 'Content-Type': 'application/json' } : {}) } });
+    if (!r.ok) throw new Error(r.status === 401 ? 'token refused' : r.status === 404 ? 'not found' : 'GitHub error ' + r.status);
+    return r.status === 204 ? null : r.json();
+  },
+  async findOrCreate() {
+    if (this.id) return this.id;
+    for (let page = 1; page <= 5; page++) {
+      const list = await this.api(`/gists?per_page=100&page=${page}`);
+      const g = list.find(x => x.files && x.files[this.FILE]);
+      if (g) { store.set('gistId', g.id); return g.id; }
+      if (list.length < 100) break;
+    }
+    const g = await this.api('/gists', { method: 'POST', body: JSON.stringify({ public: false, description: 'pyue progress', files: { [this.FILE]: { content: JSON.stringify(progressData()) } } }) });
+    store.set('gistId', g.id); return g.id;
+  },
+  async pull() {
+    const g = await this.api('/gists/' + await this.findOrCreate());
+    const f = g.files[this.FILE];
+    let text = f && f.content;
+    if (f && f.truncated) text = await (await fetch(f.raw_url)).text();
+    if (text) mergeProgress(JSON.parse(text));
+  },
+  async push() {
+    await this.api('/gists/' + await this.findOrCreate(), { method: 'PATCH', body: JSON.stringify({ files: { [this.FILE]: { content: JSON.stringify(progressData()) } } }) });
+  },
+  async run(quiet) {
+    if (!this.on || this.busy) return;
+    this.busy = true;
+    try { await this.pull(); await this.push(); store.set('syncAt', Date.now()); store.set('syncErr', ''); if (!quiet) toast('Progress synced'); }
+    catch (e) { store.set('syncErr', String(e.message || e)); if (!quiet) toast('Sync failed: ' + (e.message || e)); }
+    finally { this.busy = false; }
+  },
+  soon() { if (!this.on || this.busy) return; clearTimeout(this.timer); this.timer = setTimeout(() => this.run(true), 4000); },
+};
+// ---------- private exam module. Nothing of it is in this public page: the "Exam" tab appears only on a device whose
+// GitHub token (the one used for sync) can read the owner's private repo; the module and its content come from there.
+const Exam = {
+  REPO: 'tbrapor-arch/tsehtu-private', CACHE: 'tshehtu-exam', index: null, loaded: null,
+  get on() { return !!Sync.token && store.get('examOn', false); },
+  // is the token allowed to read the private repo? (offline: keep the last answer)
+  async check() {
+    if (!Sync.token) { store.set('examOn', false); return false; }
+    try {
+      const r = await fetch(`https://api.github.com/repos/${this.REPO}`, { headers: { Accept: 'application/vnd.github+json', Authorization: 'Bearer ' + Sync.token }, cache: 'no-store' });
+      if (r.ok || [401, 403, 404].includes(r.status)) store.set('examOn', r.ok);
+    } catch {}
+    return this.on;
+  },
+  async raw(path) {
+    const r = await fetch(`https://api.github.com/repos/${this.REPO}/contents/${path.split('/').map(encodeURIComponent).join('/')}?ref=main`, { headers: { Accept: 'application/vnd.github.raw', Authorization: 'Bearer ' + Sync.token }, cache: 'no-store' });
+    if (!r.ok) throw new Error(r.status === 404 ? 'not found: ' + path : 'GitHub error ' + r.status);
+    return r;
+  },
+  // a file of the module, kept in the browser cache under its content hash (from exam/index.json) so it works offline
+  async file(path) {
+    const sha = this.index && this.index.files && this.index.files[path];
+    const key = `https://exam.invalid/${path}?${sha || 'x'}`;
+    let c = null; try { c = await caches.open(this.CACHE); } catch {}
+    const hit = c && sha && await c.match(key);
+    if (hit) return hit;
+    const r = await this.raw('exam/' + path);
+    if (c && sha) { try { await c.put(key, r.clone()); } catch {} }
+    return r;
+  },
+  urls: {},
+  async media(path) { if (!this.urls[path]) this.urls[path] = this.file(path).then(r => r.blob()).then(b => URL.createObjectURL(b)); return this.urls[path]; },
+  async load() {
+    if (this.loaded) return this.loaded;
+    return this.loaded = (async () => {
+      let c = null; try { c = await caches.open(this.CACHE); } catch {}
+      try { const r = await this.raw('exam/index.json'); this.index = await r.clone().json(); if (c) await c.put('https://exam.invalid/index.json', r); }
+      catch (e) { const hit = c && await c.match('https://exam.invalid/index.json'); if (!hit) throw e; this.index = await hit.json(); }
+      const css = document.createElement('style'); css.textContent = await (await this.file('app.css')).text(); document.head.append(css);
+      const js = await (await this.file('app.js')).text();
+      await new Promise((res, rej) => { const sc = document.createElement('script'); sc.src = URL.createObjectURL(new Blob([js], { type: 'text/javascript' })); sc.onload = res; sc.onerror = rej; document.head.append(sc); });
+      if (window.ExamModule) await window.ExamModule.init(this);
+    })().catch(e => { this.loaded = null; throw e; });
+  },
+  async show(h) {
+    renderTabs(currentTab());
+    const here = location.hash;
+    // the private module also serves the Books tab (#exam-book…): name the page after what is being opened
+    const [ey, ti] = /^exam-book/.test(h) ? ['Books', '讀冊'] : ['Exam', '考試'];
+    if (!this.on) { $('#main').innerHTML = `<div class="col"><div class="head"><span class="eyebrow">${ey}</span><h1>${ti}</h1></div><p class="sub">Not available on this device.</p></div>`; return; }
+    if (!window.ExamModule) $('#main').innerHTML = `<div class="col"><div class="head"><span class="eyebrow">${ey}</span><h1>${ti}</h1></div><p class="sub">Loading…</p></div>`;
+    try { await this.load(); if (location.hash === here) window.ExamModule.route(h); }
+    catch (e) { $('#main').innerHTML = `<div class="col"><div class="head"><span class="eyebrow">${ey}</span><h1>${ti}</h1></div><div class="card raised"><b>Could not load the private module</b><span class="sub">${esc(e.message || e)}. It needs the internet the first time; after that it works offline.</span><button class="btn small" style="align-self:start" data-go="exam">Try again</button></div></div>`; wireGo($('#main')); }
+  },
+};
+let toastT;
+function toast(msg) { const t = $('#toast'); t.textContent = msg; t.hidden = false; clearTimeout(toastT); toastT = setTimeout(() => t.hidden = true, 2200); }
+applySkin();
+route();
+// pull the other devices' progress at start, then refresh the current page
+// the exam tab: check (quietly) whether this device's token opens the private repo
+// when it does, load the module in the background: its word cards (exam list, review deck) are then known everywhere
+if (Sync.token) { const was = Exam.on; Exam.check().then(on => { if (on !== was) { if (/^exam/.test(location.hash.slice(1))) route(); else renderTabs(currentTab()); }
+  if (on && !/^exam/.test(location.hash.slice(1))) Exam.load().then(() => { if (currentTab() === 'review' && !sess && !tsess) route(); else renderTabs(currentTab()); }).catch(() => {}); }); }
+if (Sync.on) Sync.run(true).then(() => { if (!sess && !tsess) { const y = scrollY; route.keepSheet = true; route(); route.keepSheet = false; scrollTo(0, y); } });
+</script>

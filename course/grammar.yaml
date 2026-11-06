@@ -1,0 +1,3 @@
+# Grammar sheets (Practice › Grammar). Each item: form, jyutping, zh (eyebrow), en, han (regex on the characters of a
+# line) and/or jp (regex on its Jyutping); the build lists every course line that matches.
+groups: []

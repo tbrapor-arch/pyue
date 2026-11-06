@@ -21,3 +21,11 @@ if [ ! -f raw/cedict/package/cedict.json ]; then
   (cd raw/cedict && npm pack cedict-json@1.3.20251213 --silent >/dev/null && tar xzf cedict-json-1.3.20251213.tgz)
 fi
 echo "ok  cedict-json @ 1.3.20251213"
+
+# Plangothic (SIL OFL 1.1) webfont chunks: glyphs for Cantonese characters common fonts lack (𠝹, 𨋢…).
+# build_app.py embeds only the glyphs the app uses.
+if [ ! -d raw/plangothic/package ]; then
+  mkdir -p raw/plangothic
+  (cd raw/plangothic && npm pack @free-fonts/plangothic@1.0.0 --silent >/dev/null && tar xzf free-fonts-plangothic-1.0.0.tgz)
+fi
+echo "ok  plangothic @ 1.0.0"

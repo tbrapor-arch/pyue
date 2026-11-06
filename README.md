@@ -1,10 +1,10 @@
 # pyue
 
-Un cours de cantonais de perfectionnement, en français, avec une base de vocabulaire ouverte derrière.
-Romanisation : **Jyutping** (LSHK). Écriture : cantonais écrit (係、嘅、咗、佢), caractères traditionnels.
+A Cantonese perfectionnement course in English, with an open vocabulary database behind it.
+Romanisation: **Jyutping** (LSHK). Script: written Cantonese (係、嘅、咗、佢), traditional characters.
 
 Built on the same layout as Tsheh-tû (https://github.com/tbrapor-arch/tsehtu): same folders, same app, same tabs.
-Repo docs are in English, like Tsheh-tû; the course and the app are in French.
+Everything (docs, course, app) is in English, like Tsheh-tû.
 
 ## Layout
 ```

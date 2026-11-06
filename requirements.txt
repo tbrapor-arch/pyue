@@ -1,0 +1,5 @@
+pyyaml
+markdown
+fonttools
+brotli
+pycantonese
