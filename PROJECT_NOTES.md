@@ -41,6 +41,10 @@ Private companion: `tbrapor-arch/pyue-private`.
     automatic via the Mandarin word in CC-CEDICT); Mandarin with pinyin; other readings of the characters with their share.
   - Practice › Drills: a tone drill (pick the tones of a word shown without them) in place of tone changes.
   - Settings: no accent presets or review audio (no recordings yet).
+  - **Fonts identical to Tsheh-tû and sy-zy** (6 Nov 2026, owner's request): Iansui for characters, Tsheh-tû's
+    embedded Noto Sans ('TailoSans') for Jyutping, Atkinson Hyperlegible for the interface. Characters Iansui lacks
+    (哋, 咗…) come from LXGW WenKai TC ('PyueExt'), same Klee One design, subset and embedded, as sy-zy does with
+    LXGW WenKai; `sh data/fetch_fonts.sh` (pinned, run by `make data`).
   - `PYUE_FIXTURES=1 make app` adds `tools/fixtures/01.yaml`, a sample lesson for checking the app (not published).
   - Not ported yet: `record.html` (native-speaker recording), Podcast/Video/Music content, themes, grammar sheets.
 

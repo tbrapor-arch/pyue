@@ -42,6 +42,56 @@ def _in_big5(ch):
         return False
 
 
+def tailo_font_css():
+    """Tsheh-tû's embedded Noto Sans (app/fonts/tailo-noto-sans.woff2), same name ('TailoSans'), same use: the
+    romanisation above the characters looks exactly as in Tsheh-tû and sy-zy."""
+    b64 = base64.b64encode(open(os.path.join(ROOT, 'app/fonts/tailo-noto-sans.woff2'), 'rb').read()).decode()
+    return (f"@font-face{{font-family:'TailoSans';font-weight:400 800;font-display:swap;"
+            f"src:url(data:font/woff2;base64,{b64}) format('woff2');}}")
+
+
+def han_font_css(text):
+    """'PyueExt': the LXGW WenKai TC glyphs of every Chinese character in the app that Iansui (Tsheh-tû's character
+    font) does not have — Cantonese characters such as 哋, 咗, 嘢. Both fonts are made from Klee One, so every character
+    keeps Tsheh-tû's handwriting look (sy-zy does the same with LXGW WenKai for simplified characters).
+    Characters missing from both come from Plangothic ('TaigiExt', a plain sans) as a last resort."""
+    fdir = os.path.join(ROOT, 'data/raw/fonts')
+    ian, wk = os.path.join(fdir, 'Iansui-Regular.ttf'), os.path.join(fdir, 'LXGWWenKaiTC-Regular.ttf')
+    try:
+        from fontTools import subset
+        from fontTools.ttLib import TTFont
+    except ImportError:
+        return ''
+    if not (os.path.exists(ian) and os.path.exists(wk)):
+        print('WARNING: fonts missing (sh data/fetch_fonts.sh): Cantonese characters fall back to Noto Sans TC')
+        return ''
+    have = set(TTFont(ian).getBestCmap())
+    need = sorted({ord(c) for c in text if (0x3400 <= ord(c) <= 0x9fff or 0xf900 <= ord(c) <= 0xfaff or ord(c) >= 0x20000)
+                   and ord(c) not in have and unicodedata.category(c) != 'Cn'})
+    if not need:
+        return ''
+    font = TTFont(wk)
+    cmap = font.getBestCmap()
+    got = [c for c in need if c in cmap]
+    missing = ''.join(chr(c) for c in need if c not in cmap)
+    css = ''
+    if got:
+        sub = subset.Subsetter(subset.Options(flavor='woff2', layout_features=[], name_IDs=['*']))
+        sub.populate(unicodes=got)
+        sub.subset(font)
+        font.flavor = 'woff2'
+        buf = io.BytesIO()
+        font.save(buf)
+        print(f'embedded {len(got)} characters Iansui lacks ({len(buf.getvalue()) // 1024} KB)')
+        rng = ','.join(f'U+{c:X}' for c in got)
+        css = (f"@font-face{{font-family:'PyueExt';font-display:swap;src:url(data:font/woff2;base64,"
+               f"{base64.b64encode(buf.getvalue()).decode()}) format('woff2');unicode-range:{rng};}}")
+    if missing:
+        print('not in LXGW WenKai TC either (Plangothic used):', missing)
+        css += '\n' + ext_font_css(missing)
+    return css
+
+
 def ext_font_css(text):
     """@font-face rules with only the glyphs of rare characters (not in Big5) used by the app, from Plangothic:
     many Cantonese characters (𠝹, 𨋢, 冚…) are missing from common fonts."""
@@ -170,7 +220,7 @@ data = {'podcast': None, 'video': video, 'music': music, 'tones': tone_drill.bui
         'dict': dictionary, 'lesson0': lesson0, 'built': datetime.date.today().isoformat(), 'recorded': 0}
 
 tpl = open(os.path.join(ROOT, 'app/index.template.html'), encoding='utf-8').read()
-tpl = tpl.replace('/*__FONTS__*/', ext_font_css(json.dumps(data, ensure_ascii=False)))
+tpl = tpl.replace('/*__FONTS__*/', tailo_font_css() + '\n' + han_font_css(json.dumps(data, ensure_ascii=False) + tpl.replace('㐀-鿿', '').replace('豈-﫿', '')))
 payload = json.dumps(data, ensure_ascii=False).replace('</', '<\\/')
 os.makedirs(os.path.join(ROOT, 'app/dist'), exist_ok=True)
 out = os.path.join(ROOT, 'app/dist/index.html')

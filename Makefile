@@ -8,6 +8,7 @@ OUT = data/build
 .PHONY: data db lookup clean lint app coverage
 data:
 	sh data/fetch.sh
+	sh data/fetch_fonts.sh
 
 db: data
 	mkdir -p $(OUT)
