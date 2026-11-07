@@ -1,0 +1,102 @@
+# 進修 5. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 5
+title: {en: "Making a living is hard", jyutping: "wan2 sik6 gaan1 naan4", hanzi: "搵食艱難"}
+genre: phone-in
+review: false
+setting: "A Wednesday night radio phone-in, 《晚間熱線》 (an invented programme), hosted by 陳Sir. Tonight's topic: rents in the old districts. At 梁記, closed for the night, 蓮姐 and Hugo listen while 梁伯 is on the phone in the back."
+dialogue:
+  - {n: 1, speaker: Host, hanzi: "各位聽眾晚安，歡迎收聽《晚間熱線》。今晚嘅題目係：舊區租金越加越貴，小店仲做唔做得落去？", jyutping: "gok3 wai2 teng1 zung3 maan5 on1, fun1 jing4 sau1 teng1 \"maan5 gaan1 jit6 sin3\". gam1 maan5 ge3 tai4 muk6 hai6: gau6 keoi1 zou1 gam1 jyut6 gaa1 jyut6 gwai3, siu2 dim3 zung6 zou6 m4 zou6 dak1 lok6 heoi3?", en: "Good evening, listeners, and welcome to Night Line. Tonight's topic: rents in the old districts keep going up. Can small shops keep going?"}
+  - {n: 2, speaker: Host, hanzi: "第一位聽眾，梁先生，深水埗。梁先生，你好。", jyutping: "dai6 jat1 wai2 teng1 zung3, loeng4 sin1 saang1, sam1 seoi2 bou2. loeng4 sin1 saang1, nei5 hou2.", en: "Our first caller, Mr Leung, Sham Shui Po. Good evening, Mr Leung."}
+  - {n: 3, speaker: Leung Pak, hanzi: "陳Sir你好。我開冰室嘅，喺深水埗做咗四十幾年。", jyutping: "can4 Sir nei5 hou2. ngo5 hoi1 bing1 sat1 ge3, hai2 sam1 seoi2 bou2 zou6 zo2 sei3 sap6 gei2 nin4.", en: "Good evening. I run a café; I've been in Sham Shui Po forty-odd years."}
+  - {n: 4, speaker: Leung Pak, hanzi: "而家嘅情況係噉：業主話出年要加租，加幾多仲未講，但係啲街坊個個都話好多。", jyutping: "ji4 gaa1 ge3 cing4 fong3 hai6 gam2: jip6 zyu2 waa6 ceot1 nin2 jiu3 gaa1 zou1, gaa1 gei2 do1 zung6 mei6 gong2, daan6 hai6 di1 gaai1 fong1 go3 go3 dou1 waa6 hou2 do1.", en: "The situation is this: the landlord says he'll raise the rent next year. He hasn't said by how much yet, but all the neighbours say it'll be a lot."}
+  - {n: 5, speaker: Host, hanzi: "如果加得太多嘅話，你會點做？", jyutping: "jyu4 gwo2 gaa1 dak1 taai3 do1 ge3 waa2, nei5 wui5 dim2 zou6?", en: "If it goes up too much, what will you do?"}
+  - {n: 6, speaker: Leung Pak, hanzi: "如果加兩三成，我咬實牙根照做；如果加一倍，我唯有加價，唔係嘅話就要執笠。", jyutping: "jyu4 gwo2 gaa1 loeng5 saam1 sing4, ngo5 ngaau5 sat6 ngaa4 gan1 ziu3 zou6; jyu4 gwo2 gaa1 jat1 pui5, ngo5 wai4 jau5 gaa1 gaa3, m4 hai6 ge3 waa2 zau6 jiu3 zap1 lap1.", en: "If it's twenty or thirty per cent, I'll grit my teeth and carry on. If it doubles, I'll have no choice but to put my prices up; otherwise I'll have to close down."}
+  - {n: 7, speaker: Leung Pak, hanzi: "但係加價又會影響啲老街坊。一個常餐貴五蚊，佢哋可能就唔嚟。", jyutping: "daan6 hai6 gaa1 gaa3 jau6 wui5 jing2 hoeng2 di1 lou5 gaai1 fong1. jat1 go3 soeng4 caan1 gwai3 ng5 man1, keoi5 dei6 ho2 nang4 zau6 m4 lai4.", en: "But raising prices hurts my old regulars. Five dollars more on a set meal and they may stop coming."}
+  - {n: 8, speaker: Host, hanzi: "明白，多謝梁先生。下一位，黃小姐，旺角，開花店嘅。", jyutping: "ming4 baak6, do1 ze6 loeng4 sin1 saang1. haa6 jat1 wai2, wong4 siu2 ze2, wong6 gok3, hoi1 faa1 dim3 ge3.", en: "I see. Thank you, Mr Leung. Next, Ms Wong from Mong Kok, who runs a flower shop."}
+  - {n: 9, speaker: Ms Wong, hanzi: "陳Sir，我間舖上年已經加咗三成。我根本冇得揀，唔交就要搬。", jyutping: "can4 Sir, ngo5 gaan1 pou3 soeng6 nin2 ji5 ging1 gaa1 zo2 saam1 sing4. ngo5 gan1 bun2 mou5 dak1 gaan2, m4 gaau1 zau6 jiu3 bun1.", en: "My shop's rent already went up thirty per cent last year. I simply had no choice: pay or move."}
+  - {n: 10, speaker: Ms Wong, hanzi: "而家我朝早七點開門，晚黑十一點先收工，賺返嚟嘅錢，一半交咗租。", jyutping: "ji4 gaa1 ngo5 ziu1 zou2 cat1 dim2 hoi1 mun4, maan5 hak1 sap6 jat1 dim2 sin1 sau1 gung1, zaan6 faan1 lai4 ge3 cin2, jat1 bun3 gaau1 zo2 zou1.", en: "Now I open at seven in the morning and don't finish till eleven at night, and half of what I earn goes on rent."}
+  - {n: 11, speaker: Host, hanzi: "你覺得政府應該做啲乜？", jyutping: "nei5 gok3 dak1 zing3 fu2 jing1 goi1 zou6 di1 mat1?", en: "What do you think the government should do?"}
+  - {n: 12, speaker: Ms Wong, hanzi: "我唔係專家。不過如果政府肯幫小店，例如減差餉，大家都會好過啲。", jyutping: "ngo5 m4 hai6 zyun1 gaa1. bat1 gwo3 jyu4 gwo2 zing3 fu2 hang2 bong1 siu2 dim3, lai6 jyu4 gaam2 caai1 hoeng2, daai6 gaa1 dou1 wui5 hou2 gwo3 di1.", en: "I'm no expert. But if the government were willing to help small shops, for example by cutting rates, everyone would have an easier time."}
+  - {n: 13, speaker: Host, hanzi: "多謝黃小姐。好，我哋都要聽吓業主點講。朱生，你係業主？", jyutping: "do1 ze6 wong4 siu2 ze2. hou2, ngo5 dei6 dou1 jiu3 teng1 haa5 jip6 zyu2 dim2 gong2. zyu1 saang1, nei5 hai6 jip6 zyu2?", en: "Thank you, Ms Wong. Right, we should hear the landlords' side too. Mr Chu, you're a landlord?"}
+  - {n: 14, speaker: Mr Chu, hanzi: "係，我有兩個舖位。大家都話業主貪錢，但係我哋都要供樓、交稅㗎。", jyutping: "hai6, ngo5 jau5 loeng5 go3 pou3 wai2. daai6 gaa1 dou1 waa6 jip6 zyu2 taam1 cin2, daan6 hai6 ngo5 dei6 dou1 jiu3 gung1 lau2, gaau1 seoi3 gaa3.", en: "Yes, I own two shop units. Everyone says landlords are greedy, but we have mortgages and taxes to pay too."}
+  - {n: 15, speaker: Mr Chu, hanzi: "經濟好嘅時候，租金就升；經濟唔好，租金都會跌。市場就係噉。", jyutping: "ging1 zai3 hou2 ge3 si4 hau6, zou1 gam1 zau6 sing1; ging1 zai3 m4 hou2, zou1 gam1 dou1 wui5 dit3. si5 coeng4 zau6 hai6 gam2.", en: "When the economy is good, rents go up; when it's bad, rents come down too. That's the market."}
+  - {n: 16, speaker: Host, hanzi: "但係有聽眾話，舊區啲租金淨係識升，從來冇跌過喎。", jyutping: "daan6 hai6 jau5 teng1 zung3 waa6, gau6 keoi1 di1 zou1 gam1 zing6 hai6 sik1 sing1, cung4 loi4 mou5 dit3 gwo3 wo5.", en: "But some listeners say rents in the old districts only ever go up and have never come down."}
+  - {n: 17, speaker: Mr Chu, hanzi: "呢個……我相信長遠嚟講，市場會自己調整。", jyutping: "ni1 go3 …… ngo5 soeng1 seon3 coeng4 jyun5 lai4 gong2, si5 coeng4 wui5 zi6 gei2 tiu4 zing2.", en: "Well… I believe that in the long run the market will adjust by itself."}
+  - {n: 18, speaker: Host, hanzi: "好，最後一位，Jim，觀塘。", jyutping: "hou2, zeoi3 hau6 jat1 wai2, Jim, gun1 tong4.", en: "Right, our last caller, Jim, Kwun Tong."}
+  - {n: 19, speaker: Jim, hanzi: "陳Sir，我同幾個朋友玩band，喺觀塘工廈租咗間band房。業主話下個月收返，要改做貨倉。", jyutping: "can4 Sir, ngo5 tung4 gei2 go3 pang4 jau5 waan2 band, hai2 gun1 tong4 gung1 haa6 zou1 zo2 gaan1 band fong2. jip6 zyu2 waa6 haa6 go3 jyut6 sau1 faan1, jiu3 goi2 zou6 fo3 cong1.", en: "I play in a band with a few friends; we rent a rehearsal room in a factory building in Kwun Tong. The landlord says he's taking it back next month to turn it into a warehouse."}
+  - {n: 20, speaker: Jim, hanzi: "如果搵唔到新地方嘅話，我哋班人就要散。工廈啲band房，一間接一間咁冇咗。", jyutping: "jyu4 gwo2 wan2 m4 dou2 san1 dei6 fong1 ge3 waa2, ngo5 dei6 baan1 jan4 zau6 jiu3 saan3. gung1 haa6 di1 band fong2, jat1 gaan1 zip3 jat1 gaan1 gam2 mou5 zo2.", en: "If we can't find a new place, our lot will have to split up. The rehearsal rooms in the factory buildings are disappearing one after another."}
+  - {n: 21, speaker: Host, hanzi: "聽落去，唔單止小店，連玩band嘅後生仔都受影響。", jyutping: "teng1 lok6 heoi3, m4 daan1 zi2 siu2 dim3, lin4 waan2 band ge3 hau6 saang1 zai2 dou1 sau6 jing2 hoeng2.", en: "So it sounds as if it's not only small shops: even young people in bands are affected."}
+  - {n: 22, speaker: Host, hanzi: "今晚嘅時間差唔多喇。如果你都有意見，記得留言俾我哋。晚安。", jyutping: "gam1 maan5 ge3 si4 gaan3 caa1 m4 do1 laa3. jyu4 gwo2 nei5 dou1 jau5 ji3 gin3, gei3 dak1 lau4 jin4 bei2 ngo5 dei6. maan5 on1.", en: "That's almost all we have time for tonight. If you have a view too, remember to leave us a message. Good night."}
+  - {n: 23, speaker: Lin-ze, hanzi: "（閂咗收音機）阿伯，你上咗電台喎！成條街都聽到。", jyutping: "(saan1 zo2 sau1 jam1 gei1) aa3 baak3, nei5 soeng5 zo2 din6 toi4 wo3! seng4 tiu4 gaai1 dou1 teng1 dou2.", en: "(Switching off the radio) Uncle, you were on the radio! The whole street heard you."}
+  - {n: 24, speaker: Leung Pak, hanzi: "我仲以為冇人聽。", jyutping: "ngo5 zung6 ji5 wai4 mou5 jan4 teng1.", en: "And I thought nobody listened to it."}
+  - {n: 25, speaker: Hugo, hanzi: "個Jim……我好似識佢，佢喺街口間紋身舖做嘢！", jyutping: "go3 Jim …… ngo5 hou2 ci5 sik1 keoi5, keoi5 hai2 gaai1 hau2 gaan1 man4 san1 pou3 zou6 je5!", en: "That Jim… I think I know him: he works at the tattoo shop at the end of the street!"}
+notes:
+  - {ref: 1, topic: vocab, text: "聽眾 teng1 zung3 = listeners, the audience (of radio). 收聽 sau1 teng1 = listen in, tune in (radio language). 題目 tai4 muk6 = topic, subject; also an exam question. 舊區 gau6 keoi1 = old district."}
+  - {ref: 1, topic: grammar, text: "越 V 越 adjective = 'the more …, the more …': 越加越貴 'the more it goes up, the dearer it gets'. 做唔做得落去 'can it keep going?': 落去 lok6 heoi3 after a verb = carry on (P11 and later lessons come back to it)."}
+  - {ref: 4, topic: vocab, text: "情況 cing4 fong3 = situation, circumstances: 而家嘅情況係噉 'the situation now is this'. 街坊 gaai1 fong1 = neighbours, the local people; 老街坊 (line 7) 'old regulars'. 個個都 'every one of them'."}
+  - {ref: 5, topic: grammar, text: "Conditions: 如果 … (嘅話)，(就) … 'if …, (then) …'. 嘅話 ge3 waa2 can close the 'if' part, with or without 如果: 加得太多嘅話 'if it goes up too much'. 就 marks the result: 如果加一倍，我就…."}
+  - {ref: 6, topic: grammar, text: "唔係嘅話 m4 hai6 ge3 waa2 = otherwise, or else: 我唯有加價，唔係嘅話就要執笠 'I'll have to raise prices, otherwise I'll have to close'. 唯有 wai4 jau5 = have no choice but to. 執笠 zap1 lap1 = (of a business) close down, go bust. 咬實牙根 'grit one's teeth'."}
+  - {ref: 6, topic: vocab, text: "成 sing4 = a tenth, ten per cent: 兩三成 '20–30 %', 加三成 'up 30 %'. 倍 pui5 = times, -fold: 加一倍 'double'. 加價 gaa1 gaa3 = raise prices."}
+  - {ref: 7, topic: vocab, text: "影響 jing2 hoeng2 = affect; effect, influence: 受影響 'be affected' (line 21). 可能 ho2 nang4 = may, possibly."}
+  - {ref: 9, topic: vocab, text: "根本 gan1 bun2 = simply, at all (strengthens a negative): 我根本冇得揀 'I just had no choice'; 佢根本唔知 'he has no idea at all'. 冇得 + verb = there's no way to: 冇得揀 'no choice'. 上年 soeng6 nin2 = last year."}
+  - {ref: 12, topic: vocab, text: "政府 zing3 fu2 = government. 專家 zyun1 gaa1 = expert. 例如 lai6 jyu4 = for example. 差餉 caai1 hoeng2 = rates (property tax in Hong Kong). 好過 hou2 gwo3 = better off, easier."}
+  - {ref: 14, topic: vocab, text: "舖位 pou3 wai2 = shop unit. 貪錢 taam1 cin2 = greedy for money. 供樓 gung1 lau2 = pay off a mortgage. 交稅 gaau1 seoi3 = pay tax."}
+  - {ref: 15, topic: grammar, text: "…嘅時候 ge3 si4 hau6 = when …: 經濟好嘅時候 'when the economy is good'. 經濟 ging1 zai3 = economy. 升 sing1 = go up; 跌 dit3 = fall, come down. 市場 si5 coeng4 = market."}
+  - {ref: 17, topic: vocab, text: "相信 soeng1 seon3 = believe. 長遠嚟講 coeng4 jyun5 lai4 gong2 = in the long run. 調整 tiu4 zing2 = adjust. 從來 cung4 loi4 (line 16) + negative = never (ever)."}
+  - {ref: 19, topic: culture, text: "工廈 gung1 haa6 = an industrial building. With factories gone north, many became rehearsal rooms, studios and small live venues; rising rents and conversions have closed many of them. band房 = a band's rehearsal room. 貨倉 fo3 cong1 = warehouse."}
+  - {ref: 20, topic: vocab, text: "散 saan3 = break up, split up (a group). 一 X 接一 X = one X after another: 一間接一間. 唔單止 m4 daan1 zi2 (line 21) = not only."}
+  - {ref: 5, topic: vs-mandarin, text: "Mandarin has …的話 as well (如果太貴的話), but Cantonese uses 嘅話 much more, often without 如果. 'Otherwise' is 唔係嘅話 in Cantonese, 不然 / 要不然 in Mandarin."}
+pron:
+  - {ref: 6, text: "成 is sing4 'ten per cent' and in 成日 (P1), but seng4 in 成條街 'the whole street'."}
+  - {ref: 12, text: "差餉 caai1 hoeng2: 差 is caai1 here, not caa1 as in 差唔多 (line 22)."}
+  - {ref: 22, text: "時間 si4 gaan3: 間 is gaan3 in 時間, but gaan1 as a classifier (一間舖)."}
+new_words:
+  - {jyutping: "sau1 teng1", hanzi: 收聽, en: "listen in (to the radio)"}
+  - {jyutping: "tai4 muk6", hanzi: 題目, en: "topic; exam question"}
+  - {jyutping: "zou1 gam1", hanzi: 租金, en: "rent (amount)"}
+  - {jyutping: "cing4 fong3", hanzi: 情況, en: "situation"}
+  - {jyutping: "gaai1 fong1", hanzi: 街坊, en: "neighbours, local people"}
+  - {jyutping: "pui5", hanzi: 倍, en: "times, -fold"}
+  - {jyutping: "wai4 jau5", hanzi: 唯有, en: "have no choice but to"}
+  - {jyutping: "gaa1 gaa3", hanzi: 加價, en: "raise prices"}
+  - {jyutping: "zap1 lap1", hanzi: 執笠, en: "close down, go bust"}
+  - {jyutping: "jing2 hoeng2", hanzi: 影響, en: "affect; influence"}
+  - {jyutping: "gan1 bun2", hanzi: 根本, en: "simply, at all"}
+  - {jyutping: "soeng6 nin2", hanzi: 上年, en: "last year"}
+  - {jyutping: "zing3 fu2", hanzi: 政府, en: "government"}
+  - {jyutping: "zyun1 gaa1", hanzi: 專家, en: "expert"}
+  - {jyutping: "caai1 hoeng2", hanzi: 差餉, en: "rates (property tax)"}
+  - {jyutping: "pou3 wai2", hanzi: 舖位, en: "shop unit"}
+  - {jyutping: "taam1 cin2", hanzi: 貪錢, en: "greedy for money"}
+  - {jyutping: "gung1 lau2", hanzi: 供樓, en: "pay a mortgage"}
+  - {jyutping: "ging1 zai3", hanzi: 經濟, en: "economy"}
+  - {jyutping: "dit3", hanzi: 跌, en: "fall, go down"}
+  - {jyutping: "cung4 loi4", hanzi: 從來, en: "ever (+ negative: never)"}
+  - {jyutping: "soeng1 seon3", hanzi: 相信, en: "believe"}
+  - {jyutping: "tiu4 zing2", hanzi: 調整, en: "adjust"}
+  - {jyutping: "gung1 haa6", hanzi: 工廈, en: "industrial building"}
+  - {jyutping: "fo3 cong1", hanzi: 貨倉, en: "warehouse"}
+  - {jyutping: "saan3", hanzi: 散, en: "break up, split up"}
+  - {jyutping: "m4 daan1 zi2", hanzi: 唔單止, en: "not only"}
+  - {jyutping: "ji3 gin3", hanzi: 意見, en: "opinion, view"}
+  - {jyutping: "man4 san1", hanzi: 紋身, en: "tattoo"}
+  - {jyutping: "siu2 dim3", hanzi: 小店, en: "small shop"}
+  - {jyutping: "maan5 hak1", hanzi: 晚黑, en: "evening, night"}
+  - {jyutping: "sau1 gung1", hanzi: 收工, en: "finish work"}
+  - {jyutping: "coeng4 jyun5", hanzi: 長遠, en: "long-term"}
+  - {jyutping: "gaai1 hau2", hanzi: 街口, en: "end of the street, street corner"}
+  - {jyutping: "seoi3", hanzi: 稅, en: "tax"}
+  - {jyutping: "maan5 on1", hanzi: 晚安, en: "good night; good evening (on air)"}
+exercises:
+  translate:
+    - {hanzi: "如果聽日落雨嘅話，我哋就唔去。", jyutping: "jyu4 gwo2 ting1 jat6 lok6 jyu5 ge3 waa2, ngo5 dei6 zau6 m4 heoi3.", en: "If it rains tomorrow, we won't go."}
+    - {hanzi: "快啲走啦，唔係嘅話趕唔切。", jyutping: "faai3 di1 zau2 laa1, m4 hai6 ge3 waa2 gon2 m4 cit3.", en: "Hurry up, otherwise we won't make it."}
+    - {hanzi: "佢根本唔知個業主係邊個。", jyutping: "keoi5 gan1 bun2 m4 zi1 go3 jip6 zyu2 hai6 bin1 go3.", en: "He has no idea at all who the landlord is."}
+    - {hanzi: "經濟唔好嘅時候，好多小店都要執笠。", jyutping: "ging1 zai3 m4 hou2 ge3 si4 hau6, hou2 do1 siu2 dim3 dou1 jiu3 zap1 lap1.", en: "When the economy is bad, a lot of small shops have to close."}
+    - {hanzi: "加租唔單止影響舖頭，連住喺度嘅街坊都受影響。", jyutping: "gaa1 zou1 m4 daan1 zi2 jing2 hoeng2 pou3 tau2, lin4 zyu6 hai2 dou6 ge3 gaai1 fong1 dou1 sau6 jing2 hoeng2.", en: "Rent rises don't only affect shops; even the people who live here are affected."}
+  fill:
+    - {hanzi: "我___冇得揀，唔交租就要搬。", jyutping: "ngo5 ___ mou5 dak1 gaan2, m4 gaau1 zou1 zau6 jiu3 bun1.", answer: "gan1 bun2", answer_hanzi: 根本, en: "I simply had no choice: pay the rent or move."}
+    - {hanzi: "租金加咗一___，即係貴咗兩倍咁多。", jyutping: "zou1 gam1 gaa1 zo2 jat1 ___, zik1 hai6 gwai3 zo2 loeng5 pui5 gam3 do1.", answer: "pui5", answer_hanzi: 倍, en: "The rent has doubled: it's twice as expensive."}
+    - {hanzi: "我___有加價，唔係嘅話就要執笠。", jyutping: "ngo5 ___ jau5 gaa1 gaa3, m4 hai6 ge3 waa2 zau6 jiu3 zap1 lap1.", answer: "wai4", answer_hanzi: 唯, en: "I have no choice but to raise prices, otherwise I'll have to close down."}
+    - {hanzi: "佢___冇遲到過，今日唔知發生咩事。", jyutping: "keoi5 ___ mou5 ci4 dou3 gwo3, gam1 jat6 m4 zi1 faat3 sang1 me1 si6.", answer: "cung4 loi4", answer_hanzi: 從來, en: "He's never been late before; I don't know what happened today."}
+    - {hanzi: "我___長遠嚟講，租金會跌。", jyutping: "ngo5 ___ coeng4 jyun5 lai4 gong2, zou1 gam1 wui5 dit3.", answer: "soeng1 seon3", answer_hanzi: 相信, en: "I believe that in the long run rents will fall."}

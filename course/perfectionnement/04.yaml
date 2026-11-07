@@ -1,0 +1,99 @@
+# 進修 4. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 4
+title: {en: "Working like a dog", jyutping: "zou6 dou3 zek3 zek1 gam3", hanzi: "做到隻積咁"}
+genre: dialogue
+review: false
+setting: "Three weeks earlier, late August. The 30th floor of an investment bank in Central, eleven at night. Hugo's team head 華哥 is pacing; Hugo's colleague Mandy is eating crisps over her keyboard."
+dialogue:
+  - {n: 1, speaker: Wah-go, hanzi: "Hugo，份report搞掂未呀？聽朝九點客要睇。", jyutping: "Hugo, fan6 report gaau2 dim6 mei6 aa3? ting1 ziu1 gau2 dim2 haak3 jiu3 tai2.", en: "Hugo, is the report done? The client wants to see it at nine tomorrow morning."}
+  - {n: 2, speaker: Hugo, hanzi: "未呀華哥，仲有三十頁，今晚應該做唔晒。", jyutping: "mei6 aa3 waa4 go1, zung6 jau5 saam1 sap6 jip6, gam1 maan5 jing1 goi1 zou6 m4 saai3.", en: "Not yet, Wah-go. There are still thirty pages; I don't think I can finish it all tonight."}
+  - {n: 3, speaker: Wah-go, hanzi: "做唔晒就通頂囉。我後生嗰陣，一個禮拜通三晚頂。", jyutping: "zou6 m4 saai3 zau6 tung1 deng2 lo1. ngo5 hau6 saang1 go2 zan6, jat1 go3 lai5 baai3 tung1 saam1 maan5 deng2.", en: "If you can't finish, then pull an all-nighter. When I was young, I pulled three a week."}
+  - {n: 4, speaker: Mandy, hanzi: "（細聲）佢又嚟喇，「我後生嗰陣」。我聽到耳仔都出油。", jyutping: "(sai3 seng1) keoi5 jau6 lai4 laa3, \"ngo5 hau6 saang1 go2 zan6\". ngo5 teng1 dou3 ji5 zai2 dou1 ceot1 jau4.", en: "(Quietly) Here he goes again, 'when I was young'. I've heard it so often my ears are oozing."}
+  - {n: 5, speaker: Hugo, hanzi: "我都頂唔住喇。呢個月我日日做到半夜，一晚瞓唔到五個鐘。", jyutping: "ngo5 dou1 ding2 m4 zyu6 laa3. ni1 go3 jyut6 ngo5 jat6 jat6 zou6 dou3 bun3 je2, jat1 maan5 fan3 m4 dou2 ng5 go3 zung1.", en: "I can't take much more either. This month I've worked till midnight every day; I don't even get five hours' sleep a night."}
+  - {n: 6, speaker: Mandy, hanzi: "你攰到成隻熊貓咁。食咗晚飯未呀？", jyutping: "nei5 gui6 dou3 seng4 zek3 hung4 maau1 gam3. sik6 zo2 maan5 faan6 mei6 aa3?", en: "You're so tired you look like a panda. Have you had dinner?"}
+  - {n: 7, speaker: Hugo, hanzi: "叫咗外賣，但係凍晒，我食唔落。", jyutping: "giu3 zo2 ngoi6 maai6, daan6 hai6 dung3 saai3, ngo5 sik6 m4 lok6.", en: "I ordered a takeaway, but it's gone cold and I can't face it."}
+  - {n: 8, speaker: Wah-go, hanzi: "兩位，傾完未呀？Hugo，客嘅要求好簡單：個數要啱，份嘢要靚，聽朝要交。", jyutping: "loeng5 wai2, king1 jyun4 mei6 aa3? Hugo, haak3 ge3 jiu1 kau4 hou2 gaan2 daan1: go3 sou3 jiu3 ngaam1, fan6 je5 jiu3 leng3, ting1 ziu1 jiu3 gaau1.", en: "You two, finished chatting? Hugo, the client's demands are simple: the numbers must be right, the thing must look good, and it's due tomorrow morning."}
+  - {n: 9, speaker: Hugo, hanzi: "華哥，我盡量做。不過一個人點都趕唔切，可唔可以搵多個人幫手？", jyutping: "waa4 go1, ngo5 zeon6 loeng6 zou6. bat1 gwo3 jat1 go3 jan4 dim2 dou1 gon2 m4 cit3, ho2 m4 ho2 ji5 wan2 do1 go3 jan4 bong1 sau2?", en: "Wah-go, I'll do my best. But one person can't make it in time whatever happens. Could we get one more person to help?"}
+  - {n: 10, speaker: Wah-go, hanzi: "搵邊個呀？成個team都做到隻積咁。凌晨三點，成層樓得返我哋幾個，你又唔係未試過。", jyutping: "wan2 bin1 go3 aa3? seng4 go3 team dou1 zou6 dou3 zek3 zek1 gam3. ling4 san4 saam1 dim2, seng4 cang4 lau4 dak1 faan1 ngo5 dei6 gei2 go3, nei5 jau6 m4 hai6 mei6 si3 gwo3.", en: "Who? The whole team is working like dogs. Three in the morning, just a few of us left on the whole floor: it's not as if you've never been through it."}
+  - {n: 11, speaker: Mandy, hanzi: "試過，上個月試咗四晚。我男朋友已經唔記得我個樣。", jyutping: "si3 gwo3, soeng6 go3 jyut6 si3 zo2 sei3 maan5. ngo5 naam4 pang4 jau5 ji5 ging1 m4 gei3 dak1 ngo5 go3 joeng2.", en: "Been through it: four nights last month. My boyfriend has forgotten what I look like."}
+  - {n: 12, speaker: Wah-go, hanzi: "唔好講到咁慘啦。銀行就係噉㗎啦，人工高，壓力大。後生仔冇經驗，做多幾年就慣。", jyutping: "m4 hou2 gong2 dou3 gam3 caam2 laa1. ngan4 hong4 zau6 hai6 gam2 gaa3 laa1, jan4 gung1 gou1, aat3 lik6 daai6. hau6 saang1 zai2 mou5 ging1 jim6, zou6 do1 gei2 nin4 zau6 gwaan3.", en: "Don't make it sound so awful. That's banking: high pay, high pressure. Young people have no experience; a few more years and you get used to it."}
+  - {n: 13, speaker: Hugo, hanzi: "華哥，我做咗三年，經驗都有啲。但係我一路都覺得，呢份工唔係我想要嘅。", jyutping: "waa4 go1, ngo5 zou6 zo2 saam1 nin4, ging1 jim6 dou1 jau5 di1. daan6 hai6 ngo5 jat1 lou6 dou1 gok3 dak1, ni1 fan6 gung1 m4 hai6 ngo5 soeng2 jiu3 ge3.", en: "Wah-go, I've done three years; I've got some experience. But all along I've felt this job isn't what I want."}
+  - {n: 14, speaker: Wah-go, hanzi: "咁你想要乜嘢？人工唔夠高？我同老闆講，年尾花紅可以多啲。", jyutping: "gam2 nei5 soeng2 jiu3 mat1 je5? jan4 gung1 m4 gau3 gou1? ngo5 tung4 lou5 baan2 gong2, nin4 mei5 faa1 hung4 ho2 ji5 do1 di1.", en: "Then what do you want? The pay's not high enough? I'll talk to the boss; the year-end bonus could be bigger."}
+  - {n: 15, speaker: Hugo, hanzi: "唔係錢嘅問題。我日日對住電腦，對到眼都矇埋。上次睇日出，已經係兩年前。", jyutping: "m4 hai6 cin2 ge3 man6 tai4. ngo5 jat6 jat6 deoi3 zyu6 din6 nou5, deoi3 dou3 ngaan5 dou1 mung4 maai4. soeng6 ci3 tai2 jat6 ceot1, ji5 ging1 hai6 loeng5 nin4 cin4.", en: "It's not about money. I stare at a computer all day, till my eyes are blurry. The last time I watched a sunrise was two years ago."}
+  - {n: 16, speaker: Mandy, hanzi: "嘩，Hugo，你講到我想喊。", jyutping: "waa3, Hugo, nei5 gong2 dou3 ngo5 soeng2 haam3.", en: "Wow, Hugo, you're making me want to cry."}
+  - {n: 17, speaker: Wah-go, hanzi: "喊乜嘢，返去做嘢！（對雨果）你係咪想辭職？", jyutping: "haam3 mat1 je5, faan1 heoi3 zou6 je5! (deoi3 jyu5 gwo2) nei5 hai6 mai6 soeng2 ci4 zik1?", en: "What are you crying for? Back to work! (To Hugo) Do you want to resign?"}
+  - {n: 18, speaker: Hugo, hanzi: "（諗咗好耐）係。份report我今晚會盡量搞掂，但係呢份係我最後一份。", jyutping: "(nam2 zo2 hou2 noi6) hai6. fan6 report ngo5 gam1 maan5 wui5 zeon6 loeng6 gaau2 dim6, daan6 hai6 ni1 fan6 hai6 ngo5 zeoi3 hau6 jat1 fan6.", en: "(After a long pause) Yes. The report, I'll do my best to finish it tonight, but it's my last one."}
+  - {n: 19, speaker: Wah-go, hanzi: "你瘋咗呀？出面搵工好難㗎，你辭咗職，搵唔到工點算？", jyutping: "nei5 fung1 zo2 aa3? ceot1 min6 wan2 gung1 hou2 naan4 gaa3, nei5 ci4 zo2 zik1, wan2 m4 dou2 gung1 dim2 syun3?", en: "Are you mad? It's hard to find a job out there. If you quit and can't find work, what will you do?"}
+  - {n: 20, speaker: Hugo, hanzi: "我有啲儲蓄，可以頂半年。最多咪返法國同阿媽住。", jyutping: "ngo5 jau5 di1 cyu5 cuk1, ho2 ji5 ding2 bun3 nin4. zeoi3 do1 mai6 faan1 faat3 gwok3 tung4 aa3 maa1 zyu6.", en: "I have some savings; they'll last me six months. At worst I'll go back to France and live with my mum."}
+  - {n: 21, speaker: Mandy, hanzi: "你阿媽知唔知㗎？", jyutping: "nei5 aa3 maa1 zi1 m4 zi1 gaa3?", en: "Does your mum know?"}
+  - {n: 22, speaker: Hugo, hanzi: "未知……我仲諗唔到點同佢講。", jyutping: "mei6 zi1 …… ngo5 zung6 nam2 m4 dou2 dim2 tung4 keoi5 gong2.", en: "Not yet… I still can't think how to tell her."}
+  - {n: 23, speaker: Wah-go, hanzi: "（嘆氣）好啦。你走之前，記得交晒啲file俾Mandy。", jyutping: "(taan3 hei3) hou2 laa1. nei5 zau2 zi1 cin4, gei3 dak1 gaau1 saai3 di1 file bei2 Mandy.", en: "(Sighing) All right. Before you go, remember to hand all your files over to Mandy."}
+  - {n: 24, speaker: Mandy, hanzi: "唔係呀嘛！咁佢啲嘢我實做唔晒！", jyutping: "m4 hai6 aa3 maa3! gam2 keoi5 di1 je5 ngo5 sat6 zou6 m4 saai3!", en: "You're kidding! I'll never manage all his work!"}
+  - {n: 25, speaker: Hugo, hanzi: "Mandy，你都要小心身體呀，唔好做到好似我咁。", jyutping: "Mandy, nei5 dou1 jiu3 siu2 sam1 san1 tai2 aa3, m4 hou2 zou6 dou3 hou2 ci5 ngo5 gam3.", en: "Mandy, look after your health too. Don't work yourself into the state I'm in."}
+notes:
+  - {ref: 1, topic: vocab, text: "搞掂 gaau2 dim6 = get done, sort out: 搞掂未？ 'done yet?'; 搞唔掂 'can't manage it'. Office Cantonese mixes English nouns freely: report, file, team (P3). 聽朝 ting1 ziu1 = tomorrow morning."}
+  - {ref: 2, topic: grammar, text: "Potential complements: verb + 得 / 唔 + result says whether something can be achieved. 做唔晒 'can't do it all', 做得晒 'can finish it all'. The result part is what matters: 晒 'all', 切 'in time' (趕唔切, line 9), 落 'down' (食唔落 'can't get it down', line 7), 住 'hold' (頂唔住 'can't hold out', line 5), 到 'reach' (搵唔到 'can't find', line 19)."}
+  - {ref: 3, topic: vocab, text: "通頂 tung1 deng2 = stay up all night (working, studying): 通三晚頂 'three all-nighters', the object 頂 splits off. 後生 hau6 saang1 = young: 我後生嗰陣 'when I was young'; 後生仔 'young man, youngster' (line 12)."}
+  - {ref: 4, topic: grammar, text: "到 dou3 after a verb or adjective introduces the result or the degree: 聽到耳仔都出油 'heard it till my ears ooze oil' (= heard it far too often). The same in 攰到成隻熊貓咁 (line 6), 對到眼都矇埋 (line 15), 講到我想喊 (line 16), 做到隻積咁 'work like a dog' (line 10). This 到 is dou3; the 'reach' 到 in 瞓唔到 is dou2."}
+  - {ref: 5, topic: vocab, text: "頂唔住 ding2 m4 zyu6 = can't hold out, can't take it any more; 頂唔順 (P2) is the same feeling. 半夜 bun3 je2 = midnight, the middle of the night. 瞓唔到五個鐘 'can't get five hours' sleep'."}
+  - {ref: 6, topic: vocab, text: "成 + classifier + noun + 咁 = 'just like a …': 成隻熊貓咁 'like a panda', 成個細路咁 'like a child'. 熊貓 hung4 maau1 = panda."}
+  - {ref: 7, topic: vocab, text: "外賣 ngoi6 maai6 = takeaway (food): 叫外賣 'order a takeaway'. 凍晒 'gone completely cold'."}
+  - {ref: 8, topic: vocab, text: "要求 jiu1 kau4 = demand, requirement; also a verb 'require'. 個數 'the figures' (數 sou3). 靚 leng3 = good-looking, nice."}
+  - {ref: 9, topic: vocab, text: "盡量 zeon6 loeng6 = as much as possible, do one's best: 我盡量做 'I'll do what I can'; 盡量早啲 'as early as you can'. 點都 dim2 dou1 = whatever happens, anyway: 點都趕唔切. 搵多個人 'get one more person': 多 before the classifier = an extra one."}
+  - {ref: 10, topic: grammar, text: "唔係未試過 'it's not as if you've never tried': a double negative that scolds. 試過 si3 gwo3 = have tried, have experienced: 你試過未？ 'have you ever …?' 得返 dak1 faan1 = only … left. 凌晨 ling4 san4 = the small hours."}
+  - {ref: 12, topic: vocab, text: "人工 jan4 gung1 = pay, salary (spoken; written 工資 or 薪金). 壓力 aat3 lik6 = pressure, stress. 經驗 ging1 jim6 = experience. 慣 gwaan3 = be used to: 做多幾年就慣 'a few more years and you get used to it'. 慘 caam2 = awful, miserable."}
+  - {ref: 13, topic: vocab, text: "一路 jat1 lou6 = all along, the whole time: 我一路都覺得… 'I've always felt …'. (一路…一路 'while' comes in P27.)"}
+  - {ref: 14, topic: vocab, text: "老闆 lou5 baan2 = the boss, the owner (more neutral than 老細 lou5 sai3). 花紅 faa1 hung4 = bonus. 年尾 nin4 mei5 = the end of the year."}
+  - {ref: 19, topic: vocab, text: "點算 dim2 syun3 = what will you do? what now?: 搵唔到工點算？ 辭職 ci4 zik1 = resign (a little more formal than 辭工, P1); it splits too: 辭咗職. 儲蓄 cyu5 cuk1 (line 20) = savings."}
+  - {ref: 2, topic: vs-mandarin, text: "Cantonese 唔 + result matches Mandarin 不 + result: 做唔晒 = 做不完, 趕唔切 = 來不及, 搵唔到 = 找不到, 頂唔住 = 受不了 / 撐不住. Watch the result word: Mandarin 完 'finish' often becomes 晒 'all' in Cantonese."}
+pron:
+  - {ref: 3, text: "頂 is ding2 'top, withstand', but deng2 in 通頂 'all-nighter' (spoken reading)."}
+  - {ref: 5, text: "半夜 bun3 je2: 夜 je6 rises to je2 here."}
+  - {ref: 10, text: "隻積 zek3 zek1 'a dog' (old slang): the two syllables differ only in tone."}
+new_words:
+  - {jyutping: "gaau2 dim6", hanzi: 搞掂, en: "get done, sort out"}
+  - {jyutping: "jip6", hanzi: 頁, en: "page"}
+  - {jyutping: "ji5 zai2", hanzi: 耳仔, en: "ear"}
+  - {jyutping: "bun3 je2", hanzi: 半夜, en: "midnight, middle of the night"}
+  - {jyutping: "hung4 maau1", hanzi: 熊貓, en: "panda"}
+  - {jyutping: "maan5 faan6", hanzi: 晚飯, en: "dinner"}
+  - {jyutping: "ngoi6 maai6", hanzi: 外賣, en: "takeaway"}
+  - {jyutping: "jiu1 kau4", hanzi: 要求, en: "demand, requirement"}
+  - {jyutping: "zeon6 loeng6", hanzi: 盡量, en: "as much as possible"}
+  - {jyutping: "gon2 m4 cit3", hanzi: 趕唔切, en: "not make it in time"}
+  - {jyutping: "bong1 sau2", hanzi: 幫手, en: "help, lend a hand"}
+  - {jyutping: "ling4 san4", hanzi: 凌晨, en: "the small hours"}
+  - {jyutping: "si3 gwo3", hanzi: 試過, en: "have tried, have experienced"}
+  - {jyutping: "ging1 jim6", hanzi: 經驗, en: "experience"}
+  - {jyutping: "gwaan3", hanzi: 慣, en: "be used to"}
+  - {jyutping: "jat1 lou6", hanzi: 一路, en: "all along, the whole time"}
+  - {jyutping: "lou5 baan2", hanzi: 老闆, en: "boss, owner"}
+  - {jyutping: "faa1 hung4", hanzi: 花紅, en: "bonus"}
+  - {jyutping: "nin4 mei5", hanzi: 年尾, en: "end of the year"}
+  - {jyutping: "jat6 ceot1", hanzi: 日出, en: "sunrise"}
+  - {jyutping: "ci4 zik1", hanzi: 辭職, en: "resign"}
+  - {jyutping: "fung1", hanzi: 瘋, en: "mad, crazy"}
+  - {jyutping: "dim2 syun3", hanzi: 點算, en: "what will you do? what now?"}
+  - {jyutping: "cyu5 cuk1", hanzi: 儲蓄, en: "savings"}
+  - {jyutping: "taan3 hei3", hanzi: 嘆氣, en: "sigh"}
+  - {jyutping: "ting1 ziu1", hanzi: 聽朝, en: "tomorrow morning"}
+  - {jyutping: "tung1 deng2", hanzi: 通頂, en: "stay up all night"}
+  - {jyutping: "ding2 m4 zyu6", hanzi: 頂唔住, en: "can't hold out, can't take it"}
+  - {jyutping: "ceot1 jau4", hanzi: 出油, en: "ooze oil (耳仔出油: heard it too often)"}
+  - {jyutping: "cang4", hanzi: 層, en: "floor, storey; layer"}
+  - {jyutping: "mung4", hanzi: 矇, en: "blurry (eyes)"}
+  - {jyutping: "fan3 zoek6", hanzi: 瞓着, en: "fall asleep"}
+  - {jyutping: "siu3 waa2", hanzi: 笑話, en: "joke"}
+exercises:
+  translate:
+    - {hanzi: "啲嘢太多，我今晚實做唔晒。", jyutping: "di1 je5 taai3 do1, ngo5 gam1 maan5 sat6 zou6 m4 saai3.", en: "There's too much to do; I'll never finish it all tonight."}
+    - {hanzi: "佢攰到坐喺度都瞓着咗。", jyutping: "keoi5 gui6 dou3 co5 hai2 dou6 dou1 fan3 zoek6 zo2.", en: "He was so tired he fell asleep sitting down."}
+    - {hanzi: "我盡量聽朝十點之前搞掂。", jyutping: "ngo5 zeon6 loeng6 ting1 ziu1 sap6 dim2 zi1 cin4 gaau2 dim6.", en: "I'll do my best to get it done before ten tomorrow morning."}
+    - {hanzi: "我一路都想辭職，不過壓力太大，一直冇講。", jyutping: "ngo5 jat1 lou6 dou1 soeng2 ci4 zik1, bat1 gwo3 aat3 lik6 taai3 daai6, jat1 zik6 mou5 gong2.", en: "I've wanted to resign all along, but the pressure was too great and I never said so."}
+    - {hanzi: "你試過喺公司通頂未？", jyutping: "nei5 si3 gwo3 hai2 gung1 si1 tung1 deng2 mei6?", en: "Have you ever pulled an all-nighter at the office?"}
+  fill:
+    - {hanzi: "啲外賣凍晒，我食唔___。", jyutping: "di1 ngoi6 maai6 dung3 saai3, ngo5 sik6 m4 ___.", answer: "lok6", answer_hanzi: 落, en: "The takeaway has gone cold; I can't eat it."}
+    - {hanzi: "巴士咁慢，我哋實趕唔___。", jyutping: "baa1 si2 gam3 maan6, ngo5 dei6 sat6 gon2 m4 ___.", answer: "cit3", answer_hanzi: 切, en: "The bus is so slow, we'll never make it in time."}
+    - {hanzi: "佢講笑話，講___成班人都笑。", jyutping: "keoi5 gong2 siu3 waa2, gong2 ___ seng4 baan1 jan4 dou1 siu3.", answer: "dou3", answer_hanzi: 到, en: "He told jokes until the whole group was laughing."}
+    - {hanzi: "我搵___我個銀包，點算？", jyutping: "ngo5 wan2 ___ ngo5 go3 ngan4 baau1, dim2 syun3?", answer: "m4 dou2", answer_hanzi: 唔到, en: "I can't find my wallet, what am I going to do?"}
+    - {hanzi: "做多幾年你就___㗎喇。", jyutping: "zou6 do1 gei2 nin4 nei5 zau6 ___ gaa3 laa3.", answer: "gwaan3", answer_hanzi: 慣, en: "A few more years and you'll be used to it."}

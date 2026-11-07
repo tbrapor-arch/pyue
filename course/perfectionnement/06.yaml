@@ -1,0 +1,103 @@
+# 進修 6. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 6
+title: {en: "Heroes don't talk about their glory days", jyutping: "hou2 hon3 bat1 tai4 dong1 nin4 jung5", hanzi: "好漢不提當年勇"}
+genre: story
+review: false
+setting: "A slow Monday afternoon at 梁記. Hugo points at the old black-and-white photo by the door, and 梁伯 sits down to tell the story he has told a hundred times. 蓮姐 listens from the kitchen."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "梁伯，門口嗰張黑白相，入面推住架車仔嗰個人係邊個？", jyutping: "loeng4 baak3, mun4 hau2 go2 zoeng1 hak1 baak6 soeng2, jap6 min6 teoi1 zyu6 gaa3 ce1 zai2 go2 go3 jan4 hai6 bin1 go3?", en: "Uncle Leung, the black-and-white photo by the door: who's the man pushing the little cart?"}
+  - {n: 2, speaker: Leung Pak, hanzi: "係我老豆。嗰陣時佢啱啱由順德鄉下出嚟，乜都冇，得一對手。", jyutping: "hai6 ngo5 lou5 dau6. go2 zan6 si4 keoi5 ngaam1 ngaam1 jau4 seon6 dak1 hoeng1 haa2 ceot1 lai4, mat1 dou1 mou5, dak1 jat1 deoi3 sau2.", en: "That's my old man. Back then he'd just come out from his village in Shunde, with nothing but his two hands."}
+  - {n: 3, speaker: Leung Pak, hanzi: "佢喺北河街推車仔賣奶茶。一個鐵罐、一個火水爐、一個茶袋，就係佢成副身家。", jyutping: "keoi5 hai2 bak1 ho4 gaai1 teoi1 ce1 zai2 maai6 naai5 caa4. jat1 go3 tit3 gun3, jat1 go3 fo2 seoi2 lou4, jat1 go3 caa4 doi2, zau6 hai6 keoi5 seng4 fu3 san1 gaa1.", en: "He pushed a cart along Pei Ho Street selling milk tea. A tin can, a kerosene stove and a tea bag: that was everything he owned."}
+  - {n: 4, speaker: Hugo, hanzi: "喺街邊擺檔，警察唔捉㗎咩？", jyutping: "hai2 gaai1 bin1 baai2 dong3, ging2 caat3 m4 zuk1 gaa3 me1?", en: "Setting up a stall on the street, didn't the police arrest him?"}
+  - {n: 5, speaker: Leung Pak, hanzi: "點會唔捉！小販管理隊一嚟，人人大嗌「走鬼」，車仔推住就走。當時我細個，跟住佢走，對拖鞋都走甩埋。", jyutping: "dim2 wui5 m4 zuk1! siu2 faan2 gun2 lei5 deoi2 jat1 lai4, jan4 jan4 daai6 aai3 \"zau2 gwai2\", ce1 zai2 teoi1 zyu6 zau6 zau2. dong1 si4 ngo5 sai3 go3, gan1 zyu6 keoi5 zau2, deoi3 to1 haai2 dou1 zau2 lat1 maai4.", en: "Of course they did! The moment the hawker-control team showed up, everyone shouted 'run, ghosts!' and pushed their carts away. I was little then; I ran after him and even lost my flip-flops."}
+  - {n: 6, speaker: Hugo, hanzi: "「走鬼」？鬼喺邊度？", jyutping: "\"zau2 gwai2\"? gwai2 hai2 bin1 dou6?", en: "'Run, ghosts'? Where were the ghosts?"}
+  - {n: 7, speaker: Leung Pak, hanzi: "冇鬼呀，「鬼」即係嚟拉人嘅人。呢啲老香港嘅講法，而家啲後生都未必識。", jyutping: "mou5 gwai2 aa3, \"gwai2\" zik1 hai6 lai4 laai1 jan4 ge3 jan4. ni1 di1 lou5 hoeng1 gong2 ge3 gong2 faat3, ji4 gaa1 di1 hau6 saang1 dou1 mei6 bit1 sik1.", en: "There weren't any ghosts: the 'ghosts' were the people who came to arrest you. Young people today don't necessarily know these old Hong Kong expressions."}
+  - {n: 8, speaker: Leung Pak, hanzi: "後來，我老豆儲夠錢，一九七一年租咗呢間舖，就係而家你坐緊嘅呢間。", jyutping: "hau6 loi4, ngo5 lou5 dau6 cyu5 gau3 cin2, jat1 gau2 cat1 jat1 nin4 zou1 zo2 ni1 gaan1 pou3, zau6 hai6 ji4 gaa1 nei5 co5 gan2 ge3 ni1 gaan1.", en: "Later, my old man saved up enough and in 1971 rented this shop, the very one you're sitting in now."}
+  - {n: 9, speaker: Hugo, hanzi: "咁「梁記」個名都係佢起嘅？", jyutping: "gam2 \"loeng4 gei3\" go3 meng2 dou1 hai6 keoi5 hei2 ge3?", en: "So did he choose the name 'Leung Kee' too?"}
+  - {n: 10, speaker: Leung Pak, hanzi: "係。佢話姓梁就叫梁記，簡單易記。當時成條街有五六間冰室，而家淨返我哋一間。", jyutping: "hai6. keoi5 waa6 sing3 loeng4 zau6 giu3 loeng4 gei3, gaan2 daan1 ji6 gei3. dong1 si4 seng4 tiu4 gaai1 jau5 ng5 luk6 gaan1 bing1 sat1, ji4 gaa1 zing6 faan1 ngo5 dei6 jat1 gaan1.", en: "Yes. He said his surname was Leung, so 'Leung Kee': simple and easy to remember. At the time there were five or six cafés on this street; now only ours is left."}
+  - {n: 11, speaker: Hugo, hanzi: "你細個嗰陣時，喺舖頭幫手㗎？", jyutping: "nei5 sai3 go3 go2 zan6 si4, hai2 pou3 tau2 bong1 sau2 gaa3?", en: "When you were little, did you help in the shop?"}
+  - {n: 12, speaker: Leung Pak, hanzi: "梗係啦！放學返嚟，我坐喺三號卡位溫書，溫完就洗杯。我老豆話，讀書唔叻就要識捱。", jyutping: "gang2 hai6 laa1! fong3 hok6 faan1 lai4, ngo5 co5 hai2 saam1 hou6 kaa1 wai2 wan1 syu1, wan1 jyun4 zau6 sai2 bui1. ngo5 lou5 dau6 waa6, duk6 syu1 m4 lek1 zau6 jiu3 sik1 ngaai4.", en: "Of course! After school I sat in booth three and studied, and when I'd finished I washed glasses. My old man said if you're not clever at school, you'd better know how to work hard."}
+  - {n: 13, speaker: Hugo, hanzi: "咁你讀書叻唔叻㗎？", jyutping: "gam2 nei5 duk6 syu1 lek1 m4 lek1 gaa3?", en: "And were you clever at school?"}
+  - {n: 14, speaker: Leung Pak, hanzi: "（咳咳）呢個唔重要。重要嘅係，我十五歲已經整得一手好奶茶。", jyutping: "(kat1 kat1) ni1 go3 m4 zung6 jiu3. zung6 jiu3 ge3 hai6, ngo5 sap6 ng5 seoi3 ji5 ging1 zing2 dak1 jat1 sau2 hou2 naai5 caa4.", en: "(Coughing) That's not important. What's important is that at fifteen I could already make a mean milk tea."}
+  - {n: 15, speaker: Lin-ze, hanzi: "（喺廚房）佢次次都講呢段，我聽咗三十年喇。", jyutping: "(hai2 cyu4 fong2) keoi5 ci3 ci3 dou1 gong2 ni1 dyun6, ngo5 teng1 zo2 saam1 sap6 nin4 laa3.", en: "(From the kitchen) He tells this bit every time. I've been hearing it for thirty years."}
+  - {n: 16, speaker: Leung Pak, hanzi: "你唔鍾意聽，就入去洗碗！（對雨果）六七暴動嗰年，成個香港好亂，街上有炸彈，我老豆照樣開檔。", jyutping: "nei5 m4 zung1 ji3 teng1, zau6 jap6 heoi3 sai2 wun2! (deoi3 jyu5 gwo2) luk6 cat1 bou6 dung6 go2 nin4, seng4 go3 hoeng1 gong2 hou2 lyun6, gaai1 soeng6 jau5 zaa3 daan2, ngo5 lou5 dau6 ziu3 joeng6 hoi1 dong3.", en: "If you don't like it, go and wash the dishes! (To Hugo) In 1967, the year of the riots, all of Hong Kong was in chaos, there were bombs in the streets, and my old man opened his stall as usual."}
+  - {n: 17, speaker: Leung Pak, hanzi: "嗰陣啲人叫炸彈做「菠蘿」。我細個以為真係有菠蘿，仲想執返屋企食。", jyutping: "go2 zan6 di1 jan4 giu3 zaa3 daan2 zou6 \"bo1 lo4\". ngo5 sai3 go3 ji5 wai4 zan1 hai6 jau5 bo1 lo4, zung6 soeng2 zap1 faan1 uk1 kei2 sik6.", en: "In those days people called the bombs 'pineapples'. As a kid I thought there really were pineapples and wanted to pick one up and take it home to eat."}
+  - {n: 18, speaker: Hugo, hanzi: "嘩，好恐怖！你老豆唔驚㗎？", jyutping: "waa3, hou2 hung2 bou3! nei5 lou5 dau6 m4 geng1 gaa3?", en: "Wow, how frightening! Wasn't your old man scared?"}
+  - {n: 19, speaker: Leung Pak, hanzi: "驚都要做，唔做冇飯食。佢成世人經歷過戰爭、暴動、打風、經濟差，從來冇休息過一日。", jyutping: "geng1 dou1 jiu3 zou6, m4 zou6 mou5 faan6 sik6. keoi5 seng4 sai3 jan4 ging1 lik6 gwo3 zin3 zang1, bou6 dung6, daa2 fung1, ging1 zai3 caa1, cung4 loi4 mou5 jau1 sik1 gwo3 jat1 jat6.", en: "Scared or not, he had to work: no work, no food. In his whole life he went through war, riots, typhoons and hard times, and never took a single day off."}
+  - {n: 20, speaker: Hugo, hanzi: "你老豆真係好硬淨。", jyutping: "nei5 lou5 dau6 zan1 hai6 hou2 ngaang6 zeng6.", en: "Your old man was really tough."}
+  - {n: 21, speaker: Leung Pak, hanzi: "（睇住張相，靜咗一陣）佢走嗰年，我四十歲。佢臨走同我講：「間舖，你睇住佢。」", jyutping: "(tai2 zyu6 zoeng1 soeng2, zing6 zo2 jat1 zan6) keoi5 zau2 go2 nin4, ngo5 sei3 sap6 seoi3. keoi5 lam4 zau2 tung4 ngo5 gong2: \"gaan1 pou3, nei5 tai2 zyu6 keoi5.\"", en: "(Looking at the photo, silent for a moment) The year he passed away I was forty. Just before he went, he said to me: 'The shop, you look after it.'"}
+  - {n: 22, speaker: Hugo, hanzi: "所以你點都唔肯執笠。", jyutping: "so2 ji5 nei5 dim2 dou1 m4 hang2 zap1 lap1.", en: "So that's why you'll never close it, whatever happens."}
+  - {n: 23, speaker: Leung Pak, hanzi: "唉，好漢不提當年勇。講咁多做乜，都係舊時嘅嘢。", jyutping: "aai1, hou2 hon3 bat1 tai4 dong1 nin4 jung5. gong2 gam3 do1 zou6 mat1, dou1 hai6 gau6 si4 ge3 je5.", en: "Ah well, real heroes don't talk about their glory days. Why go on about it? It's all old stuff."}
+  - {n: 24, speaker: Lin-ze, hanzi: "佢話唔提，但係聽日佢又會講多次。", jyutping: "keoi5 waa6 m4 tai4, daan6 hai6 ting1 jat6 keoi5 jau6 wui5 gong2 do1 ci3.", en: "He says he won't talk about it, but tomorrow he'll tell it all over again."}
+  - {n: 25, speaker: Leung Pak, hanzi: "你再多口，我扣你人工！", jyutping: "nei5 zoi3 do1 hau2, ngo5 kau3 nei5 jan4 gung1!", en: "Any more of your lip and I'll dock your pay!"}
+notes:
+  - {ref: 1, topic: grammar, text: "Relative clauses come before the noun, as in Mandarin, but Cantonese can link them with a classifier instead of 嘅: 推住架車仔嗰個人 'the man pushing the cart' (嗰個 'that one'), 你坐緊嘅呢間 'this one you're sitting in' (line 8), 嚟拉人嘅人 'people who came to arrest you' (line 7). With 嘅 it's neutral; with 嗰 + classifier it points at a particular one."}
+  - {ref: 2, topic: vocab, text: "老豆 lou5 dau6 = dad, 'my old man' (familiar; 阿爸 is warmer). 嗰陣時 go2 zan6 si4 = back then, at that time (嗰陣 for short). 鄉下 hoeng1 haa2 = home village, the countryside. 順德 Shunde: a town in Guangdong famous for its cooks."}
+  - {ref: 3, topic: vocab, text: "車仔 ce1 zai2 = a little cart. 火水爐 fo2 seoi2 lou4 = kerosene stove (火水 'kerosene'). 茶袋 caa4 doi2 = the cloth bag milk tea is strained through; it's what gives 'silk-stocking' tea its name (P8). 身家 san1 gaa1 = one's whole fortune: 成副身家 'everything he owned'."}
+  - {ref: 4, topic: vocab, text: "擺檔 baai2 dong3 = set up a stall; 開檔 'open one's stall' (line 16). 警察 ging2 caat3 = police. 捉 zuk1 = catch, arrest."}
+  - {ref: 5, topic: culture, text: "走鬼 zau2 gwai2 'run, ghosts!': the cry street hawkers gave when inspectors came. 小販 siu2 faan2 = hawker; 管理 gun2 lei5 = manage, control. 嗌 aai3 = shout. 走甩 zau2 lat1 'lose (something) while running': 甩 lat1 = come off."}
+  - {ref: 7, topic: vocab, text: "講法 gong2 faat3 = way of saying something, expression. 未必 mei6 bit1 = not necessarily: 未必識 'may well not know'. 拉人 laai1 jan4 = arrest people."}
+  - {ref: 8, topic: grammar, text: "後來 hau6 loi4 = later, afterwards (in a story about the past); 之後 (P1) works too, but 後來 is the storyteller's word. 儲 cyu5 = save up: 儲夠錢 'save enough money'."}
+  - {ref: 9, topic: vocab, text: "起名 hei2 meng2 = choose a name: 個名係佢起嘅 'he chose the name'. 易記 ji6 gei3 = easy to remember (line 10). 淨返 zing6 faan1 = only … left."}
+  - {ref: 11, topic: grammar, text: "Time clauses: X嗰陣時 / X嘅時候 = when X: 你細個嗰陣時 'when you were little'; 佢走嗰年 'the year he died' (line 21). The clause always comes first. 細個 sai3 go3 = little, as a child."}
+  - {ref: 12, topic: vocab, text: "梗係 gang2 hai6 = of course. 卡位 kaa1 wai2 = a booth (café seating). 溫書 wan1 syu1 = study, revise. 叻 lek1 = clever, good at something. 捱 ngaai4 = endure hardship, slog."}
+  - {ref: 15, topic: vocab, text: "次次 ci3 ci3 = every time (reduplication: 日日, 個個). 段 dyun6 = a section, a passage (of a story, a road): 呢段 'this bit'. 廚房 cyu4 fong2 = kitchen."}
+  - {ref: 16, topic: culture, text: "六七暴動 luk6 cat1 bou6 dung6: the 1967 riots, months of strikes, street clashes and bombings in Hong Kong. Fake and real bombs left in the streets were nicknamed 菠蘿 'pineapples' (line 17). 照樣 ziu3 joeng6 = as usual, all the same. 亂 lyun6 = chaotic."}
+  - {ref: 19, topic: vocab, text: "經歷 ging1 lik6 = go through, experience: 經歷過戰爭 'went through the war'. 成世人 seng4 sai3 jan4 = one's whole life. 戰爭 zin3 zang1 = war. 打風 daa2 fung1 = (there's) a typhoon. 休息 jau1 sik1 = rest, take a break."}
+  - {ref: 21, topic: register, text: "走 zau2 here means 'pass away': a soft way to speak of death, like 過咗身 gwo3 zo2 san1. 臨走 lam4 zau2 = just before leaving / dying. 硬淨 ngaang6 zeng6 (line 20) = tough, robust."}
+  - {ref: 23, topic: vs-mandarin, text: "好漢不提當年勇 is a set phrase in written Chinese (不, 提, 當年), said the same in Mandarin; Cantonese keeps such sayings as they are, while everyday speech says 唔 for 不. 舊時 gau6 si4 = in the old days (Mandarin 從前, 以前). 多口 do1 hau2 (line 25) = cheeky, talking out of turn; 扣 kau3 = dock, deduct."}
+pron:
+  - {ref: 3, text: "袋 doi6 'bag' rises in 茶袋 caa4 doi2 and 膠袋 'plastic bag'."}
+  - {ref: 5, text: "嗌 aai3 'shout' starts with no consonant: aai3, not ngaai3 (both are heard)."}
+  - {ref: 21, text: "臨走 lam4 zau2: 臨 is lam4 with l-, not n-."}
+new_words:
+  - {jyutping: "lou5 dau6", hanzi: 老豆, en: "dad, my old man"}
+  - {jyutping: "go2 zan6 si4", hanzi: 嗰陣時, en: "back then, at that time"}
+  - {jyutping: "hoeng1 haa2", hanzi: 鄉下, en: "home village, countryside"}
+  - {jyutping: "ce1 zai2", hanzi: 車仔, en: "little cart"}
+  - {jyutping: "fo2 seoi2", hanzi: 火水, en: "kerosene"}
+  - {jyutping: "san1 gaa1", hanzi: 身家, en: "one's whole fortune"}
+  - {jyutping: "baai2 dong3", hanzi: 擺檔, en: "set up a stall"}
+  - {jyutping: "zuk1", hanzi: 捉, en: "catch, arrest"}
+  - {jyutping: "siu2 faan2", hanzi: 小販, en: "hawker"}
+  - {jyutping: "gun2 lei5", hanzi: 管理, en: "manage, control"}
+  - {jyutping: "aai3", hanzi: 嗌, en: "shout"}
+  - {jyutping: "zau2 gwai2", hanzi: 走鬼, en: "run from the inspectors (hawkers' cry)"}
+  - {jyutping: "dong1 si4", hanzi: 當時, en: "at the time"}
+  - {jyutping: "sai3 go3", hanzi: 細個, en: "little, as a child"}
+  - {jyutping: "to1 haai2", hanzi: 拖鞋, en: "slippers, flip-flops"}
+  - {jyutping: "mei6 bit1", hanzi: 未必, en: "not necessarily"}
+  - {jyutping: "hau6 loi4", hanzi: 後來, en: "later, afterwards"}
+  - {jyutping: "cyu5", hanzi: 儲, en: "save up"}
+  - {jyutping: "kaa1 wai2", hanzi: 卡位, en: "booth (seating)"}
+  - {jyutping: "wan1 syu1", hanzi: 溫書, en: "study, revise"}
+  - {jyutping: "ngaai4", hanzi: 捱, en: "endure hardship, slog"}
+  - {jyutping: "dyun6", hanzi: 段, en: "section, passage"}
+  - {jyutping: "cyu4 fong2", hanzi: 廚房, en: "kitchen"}
+  - {jyutping: "bou6 dung6", hanzi: 暴動, en: "riot"}
+  - {jyutping: "zaa3 daan2", hanzi: 炸彈, en: "bomb"}
+  - {jyutping: "ziu3 joeng6", hanzi: 照樣, en: "as usual, all the same"}
+  - {jyutping: "hung2 bou3", hanzi: 恐怖, en: "frightening, horrible"}
+  - {jyutping: "ging1 lik6", hanzi: 經歷, en: "go through; experience"}
+  - {jyutping: "zin3 zang1", hanzi: 戰爭, en: "war"}
+  - {jyutping: "daa2 fung1", hanzi: 打風, en: "(have) a typhoon"}
+  - {jyutping: "ngaang6 zeng6", hanzi: 硬淨, en: "tough, robust"}
+  - {jyutping: "gau6 si4", hanzi: 舊時, en: "in the old days"}
+  - {jyutping: "do1 hau2", hanzi: 多口, en: "cheeky, talking out of turn"}
+  - {jyutping: "kau3", hanzi: 扣, en: "deduct, dock"}
+  - {jyutping: "hak1 baak6", hanzi: 黑白, en: "black-and-white"}
+  - {jyutping: "hoi1 dong3", hanzi: 開檔, en: "open one's stall"}
+  - {jyutping: "seng4 sai3", hanzi: 成世, en: "one's whole life"}
+exercises:
+  translate:
+    - {hanzi: "坐喺窗口嗰個女仔係我妹妹。", jyutping: "co5 hai2 coeng1 hau2 go2 go3 neoi5 zai2 hai6 ngo5 mui6 mui2.", en: "The girl sitting by the window is my younger sister."}
+    - {hanzi: "我細個嗰陣時，成日喺舖頭溫書。", jyutping: "ngo5 sai3 go3 go2 zan6 si4, sing4 jat6 hai2 pou3 tau2 wan1 syu1.", en: "When I was little, I often did my studying in the shop."}
+    - {hanzi: "後來佢儲夠錢，喺鄉下起咗間屋。", jyutping: "hau6 loi4 keoi5 cyu5 gau3 cin2, hai2 hoeng1 haa2 hei2 zo2 gaan1 uk1.", en: "Later he saved enough money and built a house in his home village."}
+    - {hanzi: "打風都照樣開門，你老闆真係硬淨。", jyutping: "daa2 fung1 dou1 ziu3 joeng6 hoi1 mun4, nei5 lou5 baan2 zan1 hai6 ngaang6 zeng6.", en: "Opening as usual even in a typhoon: your boss really is tough."}
+    - {hanzi: "呢個講法好舊，而家啲後生未必聽過。", jyutping: "ni1 go3 gong2 faat3 hou2 gau6, ji4 gaa1 di1 hau6 saang1 mei6 bit1 teng1 gwo3.", en: "This expression is very old; young people today may not have heard it."}
+  fill:
+    - {hanzi: "你而家坐緊___張櫈，係我老豆買嘅。", jyutping: "nei5 ji4 gaa1 co5 gan2 ___ zoeng1 dang3, hai6 ngo5 lou5 dau6 maai5 ge3.", answer: "go2", answer_hanzi: 嗰, en: "That stool you're sitting on now, my dad bought it."}
+    - {hanzi: "___我哋住喺鄉下，___先搬出嚟香港。", jyutping: "___ ngo5 dei6 zyu6 hai2 hoeng1 haa2, ___ sin1 bun1 ceot1 lai4 hoeng1 gong2.", answer: "go2 zan6 si4 / hau6 loi4", answer_hanzi: 嗰陣時 / 後來, en: "Back then we lived in the village; only later did we move out to Hong Kong."}
+    - {hanzi: "佢考試合格？___啦，佢日日溫書。", jyutping: "keoi5 haau2 si5 hap6 gaak3? ___ laa1, keoi5 jat6 jat6 wan1 syu1.", answer: "gang2 hai6", answer_hanzi: 梗係, en: "Did she pass the exam? Of course, she studies every day."}
+    - {hanzi: "啲人叫炸彈___「菠蘿」。", jyutping: "di1 jan4 giu3 zaa3 daan2 ___ \"bo1 lo4\".", answer: "zou6", answer_hanzi: 做, en: "People called the bombs 'pineapples'."}
+    - {hanzi: "佢成世人___過好多苦。", jyutping: "keoi5 seng4 sai3 jan4 ___ gwo3 hou2 do1 fu2.", answer: "ging1 lik6", answer_hanzi: 經歷, en: "He went through a lot of hardship in his life."}

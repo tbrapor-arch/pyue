@@ -721,7 +721,7 @@ const isP = id => id > PART2;
 const lnum = id => isP(id) ? 'P' + (id - PART2) : String(id);
 const lname = id => isP(id) ? `進修 ${id - PART2}` : `Lesson ${id}`;
 const waveOff = id => isP(id) ? 35 : 49;
-const GENRES = { dialogue: 'Dialogue', article: 'Article', letter: 'Letter', interview: 'Interview', tale: 'Tale', diary: 'Diary', debate: 'Debate', speech: 'Speech', essay: 'Essay', document: 'Document', song: 'Song', chat: 'Chat', review: 'Review', news: 'News', story: 'Story', play: 'Play' };
+const GENRES = { dialogue: 'Dialogue', article: 'Article', letter: 'Letter', interview: 'Interview', tale: 'Tale', diary: 'Diary', debate: 'Debate', speech: 'Speech', essay: 'Essay', document: 'Document', song: 'Song', chat: 'Chat', 'phone-in': 'Phone-in', review: 'Review', news: 'News', story: 'Story', play: 'Play' };
 // Part 2 on the lessons home: a notebook-cover card, then a grid of the 70 planned lessons
 function partTwo(byId, next) {
   const ids = [...Array(PTOTAL)].map((_, i) => PART2 + i + 1);
