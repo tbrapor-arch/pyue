@@ -3,7 +3,7 @@
 # (if one line uses hyphens, every multi-syllable word in it must). Check with `make lint`.
 id: 1
 title: {en: "", jyutping: "", hanzi: ""}
-genre: dialogue          # dialogue | chat | article | letter | interview | tale | diary | debate | speech | essay | document | song | news | story | play | review
+genre: dialogue          # dialogue | chat | phone-in | commentary | article | letter | interview | tale | diary | debate | speech | essay | document | song | news | story | play | review
 review: false
 intro: ""                # optional, from about P20: what the lesson trains (shown in italics)
 setting: ""

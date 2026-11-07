@@ -1,0 +1,61 @@
+# 進修 7. Review of P1–P6: no new words. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 7
+title: {en: "Review: Mid-Autumn upstairs", jyutping: "fuk6 zaap6", hanzi: "復習"}
+genre: review
+review: true
+setting: "The Mid-Autumn Festival, three weeks after Hugo moved in. Paper lanterns hang on the roof above 梁記. 梁伯 has brought up a folding table, 蓮姐 a box of mooncakes, and Kayan has come over after work. Hugo has had no job for a month."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "阿爸，我嚟咗喇！中秋節快樂！呢位就係樓上個租客？", jyutping: "aa3 baa4, ngo5 lai4 zo2 laa3! zung1 cau1 zit3 faai3 lok6! ni1 wai2 zau6 hai6 lau4 soeng6 go3 zou1 haak3?", en: "Dad, I'm here! Happy Mid-Autumn! So this is the tenant upstairs?"}
+  - {n: 2, speaker: Hugo, hanzi: "係，我係雨果。群組入面見過你，今日終於見到你。", jyutping: "hai6, ngo5 hai6 jyu5 gwo2. kwan4 zou2 jap6 min6 gin3 gwo3 nei5, gam1 jat6 zung1 jyu1 gin3 dou2 nei5.", en: "Yes, I'm Hugo. I've seen you in the group; today I finally get to meet you."}
+  - {n: 3, speaker: Kayan, hanzi: "放心，我唔會send你嘅相去保險公司。（笑）阿爸，你仲記唔記得撳錯嗰次？", jyutping: "fong3 sam1, ngo5 m4 wui5 send nei5 ge3 soeng2 heoi3 bou2 him2 gung1 si1. (siu3) aa3 baa4, nei5 zung6 gei3 m4 gei3 dak1 gam6 co3 go2 ci3?", en: "Don't worry, I won't send your photo to the insurance company. (Laughing) Dad, do you still remember the time you pressed the wrong button?"}
+  - {n: 4, speaker: Leung Pak, hanzi: "唔記得。（對雨果）你食咗飯未？今晚蓮姐整咗沙嗲牛肉，好抵食，唔使錢。", jyutping: "m4 gei3 dak1. (deoi3 jyu5 gwo2) nei5 sik6 zo2 faan6 mei6? gam1 maan5 lin4 ze2 zing2 zo2 saa3 de1 ngau4 juk6, hou2 dai2 sik6, m4 sai2 cin2.", en: "No. (To Hugo) Have you eaten? Lin-ze has made satay beef tonight: excellent value, it's free."}
+  - {n: 5, speaker: Lin-ze, hanzi: "唔使錢，但係要洗碗。（對嘉欣）你個樣瘦咗喎，最近公司好忙呀？", jyutping: "m4 sai2 cin2, daan6 hai6 jiu3 sai2 wun2. (deoi3 gaa1 jan1) nei5 go3 joeng2 sau3 zo2 wo3, zeoi3 gan6 gung1 si1 hou2 mong4 aa3?", en: "Free, but you do the washing-up. (To Kayan) You look thinner: has work been busy lately?"}
+  - {n: 6, speaker: Kayan, hanzi: "忙到瞓唔到覺。我老闆日日要求我哋通頂，好似成個公司淨係得我一個人做嘢。", jyutping: "mong4 dou3 fan3 m4 dou2 gaau3. ngo5 lou5 baan2 jat6 jat6 jiu1 kau4 ngo5 dei6 tung1 deng2, hou2 ci5 seng4 go3 gung1 si1 zing6 hai6 dak1 ngo5 jat1 go3 jan4 zou6 je5.", en: "So busy I can't sleep. My boss wants us to stay up all night every day; it's as if I'm the only person working in the whole company."}
+  - {n: 7, speaker: Hugo, hanzi: "我明白。我之前喺銀行都係噉，所以辭咗職。", jyutping: "ngo5 ming4 baak6. ngo5 zi1 cin4 hai2 ngan4 hong4 dou1 hai6 gam2, so2 ji5 ci4 zo2 zik1.", en: "I understand. It was the same for me at the bank before; that's why I resigned."}
+  - {n: 8, speaker: Kayan, hanzi: "你真係辭咗？咁而家做緊乜嘢？", jyutping: "nei5 zan1 hai6 ci4 zo2? gam2 ji4 gaa1 zou6 gan2 mat1 je5?", en: "You really quit? So what are you doing now?"}
+  - {n: 9, speaker: Hugo, hanzi: "而家乜都冇做。我有啲儲蓄，可以頂半年。不過每朝起身，都唔知今日做乜好。", jyutping: "ji4 gaa1 mat1 dou1 mou5 zou6. ngo5 jau5 di1 cyu5 cuk1, ho2 ji5 ding2 bun3 nin4. bat1 gwo3 mui5 ziu1 hei2 san1, dou1 m4 zi1 gam1 jat6 zou6 mat1 hou2.", en: "Nothing at the moment. I have some savings, enough for six months. But every morning when I get up, I don't know what to do with the day."}
+  - {n: 10, speaker: Lin-ze, hanzi: "佢日日喺樓下坐成朝，飲三杯凍檸茶少甜。根本唔係搵緊工，係放緊假。", jyutping: "keoi5 jat6 jat6 hai2 lau4 haa6 co5 seng4 ziu1, jam2 saam1 bui1 dung3 ning4 caa4 siu2 tim4. gan1 bun2 m4 hai6 wan2 gan2 gung1, hai6 fong3 gan2 gaa3.", en: "Every day he sits downstairs all morning and drinks three iced lemon teas, less sweet. He's not job-hunting at all, he's on holiday."}
+  - {n: 11, speaker: Hugo, hanzi: "蓮姐，唔好亂講啦。我有搵工㗎。", jyutping: "lin4 ze2, m4 hou2 lyun6 gong2 laa1. ngo5 jau5 wan2 gung1 gaa3.", en: "Lin-ze, stop talking nonsense. I am looking for a job."}
+  - {n: 12, speaker: Leung Pak, hanzi: "（飲住啤酒）我睇你咁得閒，不如朝早落嚟幫手。我教你整奶茶，你當交租。", jyutping: "(jam2 zyu6 be1 zau2) ngo5 tai2 nei5 gam3 dak1 haan4, bat1 jyu4 ziu1 zou2 lok6 lai4 bong1 sau2. ngo5 gaau3 nei5 zing2 naai5 caa4, nei5 dong3 gaau1 zou1.", en: "(Drinking his beer) Seeing you've got so much time, why not come down in the mornings and help? I'll teach you to make milk tea, and that'll count towards your rent."}
+  - {n: 13, speaker: Kayan, hanzi: "嘩，阿爸肯教人整奶茶？佢以前連我都唔教！", jyutping: "waa3, aa3 baa4 hang2 gaau3 jan4 zing2 naai5 caa4? keoi5 ji5 cin4 lin4 ngo5 dou1 m4 gaau3!", en: "Wow, Dad's willing to teach someone to make milk tea? He never even taught me!"}
+  - {n: 14, speaker: Leung Pak, hanzi: "你細個嗰陣時淨係識食蛋撻，邊會學？", jyutping: "nei5 sai3 go3 go2 zan6 si4 zing6 hai6 sik1 sik6 daan6 taat1, bin1 wui5 hok6?", en: "When you were little, all you cared about was eating egg tarts. When would you ever have learnt?"}
+  - {n: 15, speaker: Kayan, hanzi: "（對雨果）其實你廣東話咁好，又識法文，可以去教書㗎。深水埗有好多學法文嘅後生。", jyutping: "(deoi3 jyu5 gwo2) kei4 sat6 nei5 gwong2 dung1 waa2 gam3 hou2, jau6 sik1 faat3 man2, ho2 ji5 heoi3 gaau3 syu1 gaa3. sam1 seoi2 bou2 jau5 hou2 do1 hok6 faat3 man2 ge3 hau6 saang1.", en: "(To Hugo) Actually, your Cantonese is so good and you know French: you could teach. There are lots of young people learning French in Sham Shui Po."}
+  - {n: 16, speaker: Hugo, hanzi: "教書？我從來冇諗過。", jyutping: "gaau3 syu1? ngo5 cung4 loi4 mou5 nam2 gwo3.", en: "Teaching? I've never thought about it."}
+  - {n: 17, speaker: Lin-ze, hanzi: "諗吓啦！總好過喺銀行做到隻積咁。對唔對呀，阿伯？", jyutping: "nam2 haa5 laa1! zung2 hou2 gwo3 hai2 ngan4 hong4 zou6 dou3 zek3 zek1 gam3. deoi3 m4 deoi3 aa3, aa3 baak3?", en: "Think about it! Anything's better than working like a dog in a bank. Right, Uncle?"}
+  - {n: 18, speaker: Leung Pak, hanzi: "做人最緊要開心。我老豆成世人捱，但係佢鍾意自己做嘅嘢。", jyutping: "zou6 jan4 zeoi3 gan2 jiu3 hoi1 sam1. ngo5 lou5 dau6 seng4 sai3 jan4 ngaai4, daan6 hai6 keoi5 zung1 ji3 zi6 gei2 zou6 ge3 je5.", en: "In life the most important thing is to be happy. My old man slogged all his life, but he loved what he did."}
+  - {n: 19, speaker: Kayan, hanzi: "阿爸，你又講舊時嘅嘢喇……", jyutping: "aa3 baa4, nei5 jau6 gong2 gau6 si4 ge3 je5 laa3……", en: "Dad, here you go again with the old days…"}
+  - {n: 20, speaker: Lin-ze, hanzi: "今晚唔好講以前，講吓出年先啦。何生加租嘅事，阿伯你點諗？", jyutping: "gam1 maan5 m4 hou2 gong2 ji5 cin4, gong2 haa5 ceot1 nin2 sin1 laa1. ho4 saang1 gaa1 zou1 ge3 si6, aa3 baak3 nei5 dim2 nam2?", en: "No stories about the old days tonight; let's talk about next year. The business of Mr Ho raising the rent: what do you think, Uncle?"}
+  - {n: 21, speaker: Leung Pak, hanzi: "未收到信，講咩都冇意思。如果真係加一倍，我唯有加價。", jyutping: "mei6 sau1 dou2 seon3, gong2 me1 dou1 mou5 ji3 si1. jyu4 gwo2 zan1 hai6 gaa1 jat1 pui5, ngo5 wai4 jau5 gaa1 gaa3.", en: "I haven't had a letter yet, so there's no point talking about it. If it really doubles, I'll have no choice but to raise my prices."}
+  - {n: 22, speaker: Kayan, hanzi: "阿爸，你上電台嘅時候講得好好。成個公司都聽到，啲同事話你好硬淨喎。", jyutping: "aa3 baa4, nei5 soeng5 din6 toi4 ge3 si4 hau6 gong2 dak1 hou2 hou2. seng4 go3 gung1 si1 dou1 teng1 dou2, di1 tung4 si6 waa6 nei5 hou2 ngaang6 zeng6 wo5.", en: "Dad, you were very good on the radio. The whole office heard it; my colleagues say you're tough as nails."}
+  - {n: 23, speaker: Leung Pak, hanzi: "（扮聽唔到，但係笑咗）都係講吓啫。", jyutping: "(baan6 teng1 m4 dou2, daan6 hai6 siu3 zo2) dou1 hai6 gong2 haa5 ze1.", en: "(Pretending not to hear, but smiling) It was just talk."}
+  - {n: 24, speaker: Hugo, hanzi: "（睇住個天）我嚟咗香港三年，第一次同人一齊過中秋節。", jyutping: "(tai2 zyu6 go3 tin1) ngo5 lai4 zo2 hoeng1 gong2 saam1 nin4, dai6 jat1 ci3 tung4 jan4 jat1 cai4 gwo3 zung1 cau1 zit3.", en: "(Looking at the sky) I've been in Hong Kong three years, and this is the first time I've spent Mid-Autumn with people."}
+  - {n: 25, speaker: Lin-ze, hanzi: "咁就唔好再講肉麻嘢喇，嚟，食嘢先！", jyutping: "gam2 zau6 m4 hou2 zoi3 gong2 juk6 maa4 je5 laa3, lai4, sik6 je5 sin1!", en: "Then no more soppy talk. Come on, eat something first!"}
+notes:
+  - {ref: 0, topic: grammar, text: "This review brings back P1–P6 with no new words. Look for: topic first (間舖，你睇住佢; 何生加租嘅事，阿伯你點諗, line 20), potential complements (瞓唔到覺, line 6), 到 of degree (忙到瞓唔到覺; 做到隻積咁), reported speech with 喎 (啲同事話你好硬淨喎, line 22), conditions (如果真係加一倍, line 21), time clauses (細個嗰陣時; 上電台嘅時候)."}
+  - {ref: 2, topic: vocab, text: "終於 zung1 jyu1 = at last, finally (you've seen 終 in 最終-type words; it was used in P3's chat replies too)."}
+  - {ref: 3, topic: grammar, text: "撳錯嗰次 'the time you pressed the wrong button': a relative clause with 嗰 + classifier (P6). 次 here is the noun 'occasion'."}
+  - {ref: 6, topic: grammar, text: "忙到瞓唔到覺: 到 of degree (P4) followed by a potential complement 瞓唔到 (P4). 瞓覺 splits: 瞓唔到覺 'can't get to sleep'. 淨係得我一個人 'only me' (得 'only have')."}
+  - {ref: 9, topic: vocab, text: "起身 hei2 san1 = get up. 做乜好 'what to do (that would be good)': 好 at the end of a question asks for the best choice."}
+  - {ref: 10, topic: vocab, text: "坐成朝 'sit there all morning': 成 + time word = the whole …, as in 成日, 成年 (P3). 搵緊工 / 放緊假: 緊 goes inside the verb-object pair, as with 瞓緊覺 (P3)."}
+  - {ref: 12, topic: vocab, text: "不如 bat1 jyu4 = why not, how about: the usual way to suggest. 當 dong3 = count as, treat as: 你當交租 'consider it your rent'."}
+  - {ref: 14, topic: grammar, text: "邊會…？ 'when would …?' = there's no way: 邊會學？ 'as if you'd have learnt!'. A rhetorical question, a quick preview of a later lesson."}
+  - {ref: 17, topic: grammar, text: "總好過 zung2 hou2 gwo3 = anything is better than, at least it beats: 總好過喺銀行做到隻積咁. 對唔對 'right or not?' asks for agreement."}
+  - {ref: 18, topic: vocab, text: "做人最緊要開心 'in life the most important thing is to be happy': a stock phrase. 最緊要 'most important'."}
+  - {ref: 21, topic: grammar, text: "講咩都冇意思 'whatever you say means nothing': question word + 都 = any-, every- (more in P12). The letter itself arrives in P13."}
+  - {ref: 23, topic: grammar, text: "啫 ze1 at the end makes something small: 都係講吓啫 'it was only talk'. 扮 baan6 = pretend: 扮聽唔到 'pretend not to hear'."}
+  - {ref: 25, topic: culture, text: "Mid-Autumn (中秋節, the 15th of the 8th lunar month): families eat mooncakes and fruit outdoors and children carry lanterns, often on rooftops and in parks. The words for these come later; here the friends just eat and talk."}
+pron: []
+new_words: []
+exercises:
+  translate:
+    - {hanzi: "我睇你咁得閒，不如落嚟幫手啦。", jyutping: "ngo5 tai2 nei5 gam3 dak1 haan4, bat1 jyu4 lok6 lai4 bong1 sau2 laa1.", en: "Seeing you've got so much time, why don't you come down and help?"}
+    - {hanzi: "佢忙到連晚飯都冇時間食。", jyutping: "keoi5 mong4 dou3 lin4 maan5 faan6 dou1 mou5 si4 gaan3 sik6.", en: "She's so busy she doesn't even have time for dinner."}
+    - {hanzi: "加租嘅事，我哋未收到信。", jyutping: "gaa1 zou1 ge3 si6, ngo5 dei6 mei6 sau1 dou2 seon3.", en: "As for the rent rise, we haven't received a letter yet."}
+    - {hanzi: "啲同事話佢上電台講得好好喎。", jyutping: "di1 tung4 si6 waa6 keoi5 soeng5 din6 toi4 gong2 dak1 hou2 hou2 wo5.", en: "My colleagues say he did very well on the radio."}
+    - {hanzi: "總好過喺屋企坐成日。", jyutping: "zung2 hou2 gwo3 hai2 uk1 kei2 co5 seng4 jat6.", en: "Anything's better than sitting at home all day."}
+  fill:
+    - {hanzi: "我而家乜都冇做，不過有啲___。", jyutping: "ngo5 ji4 gaa1 mat1 dou1 mou5 zou6, bat1 gwo3 jau5 di1 ___.", answer: "cyu5 cuk1", answer_hanzi: 儲蓄, en: "I'm not doing anything now, but I have some savings."}
+    - {hanzi: "我睇你咁得閒，___朝早落嚟幫手。", jyutping: "ngo5 tai2 nei5 gam3 dak1 haan4, ___ ziu1 zou2 lok6 lai4 bong1 sau2.", answer: "bat1 jyu4", answer_hanzi: 不如, en: "Seeing you've got so much time, why not come down and help in the mornings?"}
+    - {hanzi: "如果真係加一倍，我___有加價。", jyutping: "jyu4 gwo2 zan1 hai6 gaa1 jat1 pui5, ngo5 ___ jau5 gaa1 gaa3.", answer: "wai4", answer_hanzi: 唯, en: "If it really doubles, I'll have no choice but to raise prices."}
+    - {hanzi: "佢細個嗰陣時淨係___食蛋撻。", jyutping: "keoi5 sai3 go3 go2 zan6 si4 zing6 hai6 ___ sik6 daan6 taat1.", answer: "sik1", answer_hanzi: 識, en: "When she was little, all she knew was eating egg tarts."}
+    - {hanzi: "唔好___亂講，我有搵工㗎。", jyutping: "m4 hou2 ___ lyun6 gong2, ngo5 jau5 wan2 gung1 gaa3.", answer: "zoi3", answer_hanzi: 再, en: "Stop talking nonsense, I am looking for a job."}
