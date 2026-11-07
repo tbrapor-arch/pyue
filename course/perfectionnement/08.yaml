@@ -1,0 +1,107 @@
+# 進修 8. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 8
+title: {en: "Silk-stocking milk tea", jyutping: "si1 mat6 naai5 caa4", hanzi: "絲襪奶茶"}
+genre: document
+review: false
+setting: "Early October, before dawn. Hugo now comes down at six to help in the kitchen instead of paying rent. 梁伯 has written him a card on how to make 梁記's milk tea; Hugo has scribbled his questions in the margins, and 梁伯 has answered them in red ink. Card lines, Hugo's notes and 梁伯's replies alternate."
+dialogue:
+  - {n: 1, speaker: Card, hanzi: "梁記絲襪奶茶（俾阿果：朝早六點開工，唔准遲到）", jyutping: "loeng4 gei3 si1 mat6 naai5 caa4 (bei2 aa3 gwo2: ziu1 zou2 luk6 dim2 hoi1 gung1, m4 zeon2 ci4 dou3)", en: "Leung Kee silk-stocking milk tea (for Ah Gwo: start work at six in the morning, no being late)"}
+  - {n: 2, speaker: Card, hanzi: "第一步：溫杯。攞晒啲杯嚟，用滾水沖一沖，再擺喺熱水度溫住。杯唔熱，奶茶一倒落去就凍咗一半。", jyutping: "dai6 jat1 bou6: wan1 bui1. lo2 saai3 di1 bui1 lai4, jung6 gwan2 seoi2 cung1 jat1 cung1, zoi3 baai2 hai2 jit6 seoi2 dou6 wan1 zyu6. bui1 m4 jit6, naai5 caa4 jat1 dou3 lok6 heoi3 zau6 dung3 zo2 jat1 bun3.", en: "Step one: warm the cups. Bring all the cups over, rinse them with boiling water, then stand them in hot water to keep warm. If the cup isn't hot, the tea loses half its heat the moment you pour it in."}
+  - {n: 3, speaker: Hugo, hanzi: "溫杯？杯又唔係人，做乜咁講究？", jyutping: "wan1 bui1? bui1 jau6 m4 hai6 jan4, zou6 mat1 gam3 gong2 gau3?", en: "Warm the cups? Cups aren't people. Why be so fussy?"}
+  - {n: 4, speaker: Leung Pak, hanzi: "你飲過唔凍唔熱嘅奶茶未？飲過就唔會駁嘴。", jyutping: "nei5 jam2 gwo3 m4 dung3 m4 jit6 ge3 naai5 caa4 mei6? jam2 gwo3 zau6 m4 wui5 bok3 zeoi2.", en: "Ever drunk a milk tea that's neither hot nor cold? If you had, you wouldn't talk back."}
+  - {n: 5, speaker: Card, hanzi: "第二步：茶葉要撈幾種：粗嘅出味，幼嘅出香，碎嘅出色。比例係我老豆傳落嚟嘅，唔講得。", jyutping: "dai6 ji6 bou6: caa4 jip6 jiu3 lou1 gei2 zung2: cou1 ge3 ceot1 mei6, jau3 ge3 ceot1 hoeng1, seoi3 ge3 ceot1 sik1. bei2 lai6 hai6 ngo5 lou5 dau6 cyun4 lok6 lai4 ge3, m4 gong2 dak1.", en: "Step two: the leaves are a blend of several kinds: the coarse ones give the taste, the fine ones the aroma, the broken ones the colour. The proportions came down from my old man; they can't be told."}
+  - {n: 6, speaker: Hugo, hanzi: "唔講得？咁我點學呀？", jyutping: "m4 gong2 dak1? gam2 ngo5 dim2 hok6 aa3?", en: "Can't be told? Then how am I supposed to learn?"}
+  - {n: 7, speaker: Leung Pak, hanzi: "學嘢要先睇後做。你嚟咗三日，就想知晒？", jyutping: "hok6 je5 jiu3 sin1 tai2 hau6 zou6. nei5 lai4 zo2 saam1 jat6, zau6 soeng2 zi1 saai3?", en: "To learn, you watch first and do later. You've been here three days and you want to know everything?"}
+  - {n: 8, speaker: Card, hanzi: "第三步：煲滾一大煲水，將茶葉放入茶袋，再將茶袋放入茶煲，用慢火煲五六分鐘。", jyutping: "dai6 saam1 bou6: bou1 gwan2 jat1 daai6 bou1 seoi2, zoeng1 caa4 jip6 fong3 jap6 caa4 doi2, zoi3 zoeng1 caa4 doi2 fong3 jap6 caa4 bou1, jung6 maan6 fo2 bou1 ng5 luk6 fan1 zung1.", en: "Step three: bring a big pot of water to the boil, put the leaves into the tea bag, then put the bag into the tea pot and simmer on a low flame for five or six minutes."}
+  - {n: 9, speaker: Hugo, hanzi: "個茶袋真係好似隻絲襪，不過係啡色嘅。邊個會著啡色絲襪呀？", jyutping: "go3 caa4 doi2 zan1 hai6 hou2 ci5 zek3 si1 mat6, bat1 gwo3 hai6 fe1 sik1 ge3. bin1 go3 wui5 zoek3 fe1 sik1 si1 mat6 aa3?", en: "The tea bag really does look like a stocking, only it's brown. Who would wear brown stockings?"}
+  - {n: 10, speaker: Leung Pak, hanzi: "新茶袋係白嘅，用得耐就變啡色。越舊越好，同我一樣。", jyutping: "san1 caa4 doi2 hai6 baak6 ge3, jung6 dak1 noi6 zau6 bin3 fe1 sik1. jyut6 gau6 jyut6 hou2, tung4 ngo5 jat1 joeng6.", en: "A new bag is white; use it long enough and it turns brown. The older the better, just like me."}
+  - {n: 11, speaker: Card, hanzi: "第四步：撞茶。一隻手揸住茶袋，將茶由一個煲倒入另一個煲，舉高啲倒，撞七八次。", jyutping: "dai6 sei3 bou6: zong6 caa4. jat1 zek3 sau2 zaa1 zyu6 caa4 doi2, zoeng1 caa4 jau4 jat1 go3 bou1 dou3 jap6 ling6 jat1 go3 bou1, geoi2 gou1 di1 dou3, zong6 cat1 baat3 ci3.", en: "Step four: 'bump' the tea. Hold the bag in one hand and pour the tea from one pot into the other, from high up, seven or eight times."}
+  - {n: 12, speaker: Card, hanzi: "撞得越多，茶就越滑。撞茶唔係做騷，係要將茶同空氣撈埋一齊。", jyutping: "zong6 dak1 jyut6 do1, caa4 zau6 jyut6 waat6. zong6 caa4 m4 hai6 zou6 sou1, hai6 jiu3 zoeng1 caa4 tung4 hung1 hei3 lou1 maai4 jat1 cai4.", en: "The more you pour, the smoother the tea. It isn't for show: it's to mix the tea with air."}
+  - {n: 13, speaker: Hugo, hanzi: "我試咗兩次，成地都係茶，連對鞋都濕晒。", jyutping: "ngo5 si3 zo2 loeng5 ci3, seng4 dei6 dou1 hai6 caa4, lin4 deoi3 haai4 dou1 sap1 saai3.", en: "I tried twice: tea all over the floor, and my shoes got soaked."}
+  - {n: 14, speaker: Leung Pak, hanzi: "第一次撞茶，邊個唔係噉？我細個淥親過三次先學識。", jyutping: "dai6 jat1 ci3 zong6 caa4, bin1 go3 m4 hai6 gam2? ngo5 sai3 go3 luk6 can1 gwo3 saam1 ci3 sin1 hok6 sik1.", en: "Who doesn't, the first time? As a kid I scalded myself three times before I got it."}
+  - {n: 15, speaker: Card, hanzi: "第五步：撞完，將茶煲擺返上爐，用細火焗十分鐘，等茶味出晒。一煲茶擺兩個鐘頭就要倒咗佢，唔好賣俾人。", jyutping: "dai6 ng5 bou6: zong6 jyun4, zoeng1 caa4 bou1 baai2 faan1 soeng5 lou4, jung6 sai3 fo2 guk6 sap6 fan1 zung1, dang2 caa4 mei6 ceot1 saai3. jat1 bou1 caa4 baai2 loeng5 go3 zung1 tau4 zau6 jiu3 dou2 zo2 keoi5, m4 hou2 maai6 bei2 jan4.", en: "Step five: after pouring, put the pot back on the stove and let it steep on a low flame for ten minutes, until all the flavour is out. Once a pot of tea has stood two hours, throw it away; don't sell it to anyone."}
+  - {n: 16, speaker: Hugo, hanzi: "十分鐘？客人等唔切點算？", jyutping: "sap6 fan1 zung1? haak3 jan4 dang2 m4 cit3 dim2 syun3?", en: "Ten minutes? What if the customers can't wait that long?"}
+  - {n: 17, speaker: Leung Pak, hanzi: "所以要煲定先。六點開工，七點開門，得一粒鐘。你再問多啲問題，啲客就冇奶茶飲。", jyutping: "so2 ji5 jiu3 bou1 ding6 sin1. luk6 dim2 hoi1 gung1, cat1 dim2 hoi1 mun4, dak1 jat1 nap1 zung1. nei5 zoi3 man6 do1 di1 man6 tai4, di1 haak3 zau6 mou5 naai5 caa4 jam2.", en: "That's why you brew it in advance. Start at six, open at seven: that gives you one hour. Ask any more questions and the customers will have no milk tea to drink."}
+  - {n: 18, speaker: Card, hanzi: "第六步：杯入面先倒三分之一淡奶，再將茶沖落去。沖嘅時候舉高啲，奶同茶就會撈勻。", jyutping: "dai6 luk6 bou6: bui1 jap6 min6 sin1 dou3 saam1 fan6 zi1 jat1 taam5 naai5, zoi3 zoeng1 caa4 cung1 lok6 heoi3. cung1 ge3 si4 hau6 geoi2 gou1 di1, naai5 tung4 caa4 zau6 wui5 lou1 wan4.", en: "Step six: first fill the cup a third of the way with evaporated milk, then pour the tea in on top. Pour from high up and the milk and tea will mix evenly."}
+  - {n: 19, speaker: Card, hanzi: "淡奶唔可以用鮮奶代替：鮮奶太稀，唔夠香，唔夠滑。糖由客人自己落。", jyutping: "taam5 naai5 m4 ho2 ji5 jung6 sin1 naai5 doi6 tai3: sin1 naai5 taai3 hei1, m4 gau3 hoeng1, m4 gau3 waat6. tong4 jau4 haak3 jan4 zi6 gei2 lok6.", en: "Fresh milk can't replace evaporated milk: it's too thin, not fragrant or smooth enough. Customers add their own sugar."}
+  - {n: 20, speaker: Hugo, hanzi: "喺法國，我哋飲茶唔落奶；喺英國就落鮮奶。點解香港要用罐頭淡奶？", jyutping: "hai2 faat3 gwok3, ngo5 dei6 jam2 caa4 m4 lok6 naai5; hai2 jing1 gwok3 zau6 lok6 sin1 naai5. dim2 gaai2 hoeng1 gong2 jiu3 jung6 gun3 tau2 taam5 naai5?", en: "In France we don't put milk in tea; in England they use fresh milk. Why does Hong Kong use tinned evaporated milk?"}
+  - {n: 21, speaker: Leung Pak, hanzi: "以前鮮奶貴，好多舖頭又冇雪櫃，罐頭淡奶放得耐。大家飲慣咗，就係香港嘅味道。", jyutping: "ji5 cin4 sin1 naai5 gwai3, hou2 do1 pou3 tau2 jau6 mou5 syut3 gwai6, gun3 tau2 taam5 naai5 fong3 dak1 noi6. daai6 gaa1 jam2 gwaan3 zo2, zau6 hai6 hoeng1 gong2 ge3 mei6 dou6.", en: "Fresh milk used to be expensive, and lots of shops had no fridge; tinned milk keeps. People got used to it, and now it's the taste of Hong Kong."}
+  - {n: 22, speaker: Card, hanzi: "第七步：收工就洗茶袋。用清水洗，千祈唔好用番梘。洗完浸住清水，擺入雪櫃。", jyutping: "dai6 cat1 bou6: sau1 gung1 zau6 sai2 caa4 doi2. jung6 cing1 seoi2 sai2, cin1 kei4 m4 hou2 jung6 faan1 gaan2. sai2 jyun4 zam3 zyu6 cing1 seoi2, baai2 jap6 syut3 gwai6.", en: "Step seven: at closing time, wash the tea bag. Use clean water only, and never soap. When it's washed, keep it soaking in clean water in the fridge."}
+  - {n: 23, speaker: Hugo, hanzi: "用番梘會點？", jyutping: "jung6 faan1 gaan2 wui5 dim2?", en: "What happens if you use soap?"}
+  - {n: 24, speaker: Leung Pak, hanzi: "聽日全部奶茶都有陣番梘味，你話會點？", jyutping: "ting1 jat6 cyun4 bou6 naai5 caa4 dou1 jau5 zan6 faan1 gaan2 mei6, nei5 waa6 wui5 dim2?", en: "Tomorrow every milk tea smells of soap. What do you think happens?"}
+  - {n: 25, speaker: Card, hanzi: "最後：奶茶唔難，最難係日日都要整得一樣好。做足一年，先至算識。——梁", jyutping: "zeoi3 hau6: naai5 caa4 m4 naan4, zeoi3 naan4 hai6 jat6 jat6 dou1 jiu3 zing2 dak1 jat1 joeng6 hou2. zou6 zuk1 jat1 nin4, sin1 zi3 syun3 sik1. —— loeng4", en: "Last of all: milk tea isn't hard. What's hard is making it just as well every single day. Do it for a full year, and then you can say you know how. — Leung"}
+  - {n: 26, speaker: Hugo, hanzi: "（喺張咭最底，好細隻字）一年？咁即係我一年都唔使交租？", jyutping: "(hai2 zoeng1 kaat1 zeoi3 dai2, hou2 sai3 zek3 zi6) jat1 nin4? gam2 zik1 hai6 ngo5 jat1 nin4 dou1 m4 sai2 gaau1 zou1?", en: "(At the very bottom of the card, in tiny letters) A year? So that means I don't pay rent for a whole year?"}
+notes:
+  - {ref: 1, topic: vocab, text: "絲襪奶茶 si1 mat6 naai5 caa4 = 'silk-stocking milk tea', Hong Kong's strong tea with evaporated milk; 絲襪 = (silk) stockings. 唔准 m4 zeon2 = not allowed: 唔准遲到 'no being late', 唔准食煙 'no smoking'. 開工 hoi1 gung1 = start work (for the day); 收工 (P5) is its opposite."}
+  - {ref: 2, topic: grammar, text: "Serial verbs: Cantonese strings verbs together with no 'and'. 用 + tool + verb = do with: 用滾水沖 'rinse with boiling water', 用慢火煲 'simmer on a low flame' (line 8), 用清水洗 'wash with water' (line 22). 攞 + thing + 嚟 / 去 = bring / take: 攞晒啲杯嚟 'bring all the cups (here)'; 攞杯奶茶去三號枱 'take a milk tea to table three'. The object sits between 攞 and 嚟 / 去."}
+  - {ref: 2, topic: vocab, text: "步 bou6 = step: 第一步 'step one'. 溫 wan1 = warm (up): 溫杯 'warm the cups', 溫住 'keep warm'; you met it in 溫書 'revise' (P6). 沖 cung1 = pour (hot water) on, rinse: 沖一沖 'give it a rinse'; 沖茶 'pour tea' (line 18). 擺 baai2 = put, place, stand something somewhere: 擺喺熱水度. 倒 dou3 = pour."}
+  - {ref: 4, topic: vocab, text: "駁嘴 bok3 zeoi2 = talk back, answer back (to someone older): 唔好駁嘴！ 唔凍唔熱 'neither cold nor hot': 唔 A 唔 B = half-and-half, and usually not good: 唔三唔四 'neither one thing nor the other'."}
+  - {ref: 5, topic: culture, text: "Hong Kong milk tea uses a blend of black teas, mostly from Sri Lanka, in different grades; each shop keeps its own mix and rarely tells. 粗 cou1 = coarse, thick; 幼 jau3 = fine, thin; 碎 seoi3 = broken, in bits (打碎 'smash'). 出味 / 出香 / 出色 'give out taste / aroma / colour': 色 sik1 = colour. 比例 bei2 lai6 = proportion. 傳 cyun4 = pass on, hand down: 傳落嚟 'handed down'. 撈 lou1 = mix: 撈幾種 'mix several kinds'."}
+  - {ref: 8, topic: grammar, text: "將 zoeng1 + object + verb (the 'disposal' construction) puts the object before the verb, to say what is done to it: 將茶葉放入茶袋 'put the leaves into the bag'; 將茶由一個煲倒入另一個煲 (line 11); 將茶煲擺返上爐 (line 15). The verb never stands alone after 將: it needs a place (放入茶袋), a direction (沖落去) or a result (撈埋一齊). It's typical of instructions and careful speech; in chat you'd more often say 放啲茶葉入茶袋 or put the object first: 啲茶葉，放入茶袋."}
+  - {ref: 8, topic: vocab, text: "煲 bou1 = pot; boil, simmer: 煲滾 'bring to the boil' (滾 gwan2 'boil'), 一大煲水 'a big pot of water'. 茶煲 caa4 bou1 = the café's tall tea pot. 慢火 maan6 fo2 = low heat; 細火 (line 15) is the everyday word, 大火 'high heat'."}
+  - {ref: 10, topic: culture, text: "The cotton bag starts white and turns brown with use, which is how the tea got its 'stocking' name; old hands say an old bag gives better tea. 啡色 fe1 sik1 = brown (from 咖啡). 變 bin3 = change, turn into: 變啡色 'turn brown'. 越舊越好 'the older the better' (越…越, P5)."}
+  - {ref: 11, topic: vocab, text: "撞茶 zong6 caa4 'bump the tea': pouring it back and forth through the bag between pots. 揸住 'holding'. 由 A 倒入 B 'pour from A into B'. 舉 geoi2 = raise, lift: 舉高 'hold up high', 舉手 'raise one's hand'. 另一個 = the other one, another."}
+  - {ref: 12, topic: vocab, text: "做騷 zou6 sou1 = put on a show, show off (騷 from English 'show'). 撈埋一齊 'mix together'; 撈勻 lou1 wan4 'mix evenly' (line 18): 勻 wan4 = even. 滑 waat6 = smooth (P2)."}
+  - {ref: 14, topic: vocab, text: "淥親 luk6 can1 = scald oneself; 親 after a verb = get hurt by it: 跌親 'hurt oneself falling', 撞親 'bump into something and get hurt'. 學識 hok6 sik1 = learn (and master): 學 is the effort, 識 the result. 濕 sap1 = wet: 濕晒 'soaked' (line 13); 成地都係茶 'tea all over the floor'."}
+  - {ref: 15, topic: vocab, text: "焗 guk6 = steep with the lid on; also 'bake' (焗爐 'oven') and 'stuffy, close' (好焗 'it's muggy'). 爐 lou4 = stove: 擺返上爐 'put back on the stove'. 鐘頭 zung1 tau4 = hour: 兩個鐘頭. 倒咗佢 'pour it away, throw it out': 倒 is dou2 here."}
+  - {ref: 17, topic: grammar, text: "Verb + 定 ding6 = do in advance, have ready: 煲定 'brew it beforehand', 買定 'buy in advance', 諗定 'think it over beforehand'. Time words: 粒鐘 nap1 zung1 = an hour, very colloquial (一粒鐘 = 一個鐘頭 = 一個鐘); 粒 nap1 is the classifier for small round things: 一粒糖 'a sweet', 一粒鈕 'a button'."}
+  - {ref: 19, topic: vocab, text: "鮮奶 sin1 naai5 = fresh milk; 淡奶 (P2) = evaporated milk. 稀 hei1 = thin, watery (of liquids); its opposite is 杰 (thick). 罐頭 gun3 tau2 = tin, can: 罐頭淡奶 'tinned evaporated milk' (line 20). 由 + person + verb = it's up to someone: 糖由客人自己落."}
+  - {ref: 8, topic: vs-mandarin, text: "Cantonese 將 = Mandarin 把: 將茶葉放入茶袋 = 把茶葉放進茶袋裡. Mandarin uses 把 all the time in speech; Cantonese 將 sounds a little more careful, and speakers often just say verb + object. Don't borrow 把 as a disposal marker: in Cantonese 把 baa2 is a classifier for things with a handle (一把遮 'an umbrella'). Note also 放入 'put into' for Mandarin 放進."}
+pron:
+  - {ref: 2, text: "倒 is dou3 'pour' (倒落去, 倒入), but dou2 'tip out, throw away' (倒咗佢, line 15; 倒垃圾)."}
+  - {ref: 12, text: "撈 'mix' is lou1 (撈勻, 撈麵); laau4 is 'scoop out (of water)'."}
+  - {ref: 17, text: "粒 is usually nap1 in speech (一粒鐘, 一粒糖), lap1 in careful reading."}
+new_words:
+  - {jyutping: "zoeng1", hanzi: 將, en: "(puts the object before the verb, like Mandarin 把)"}
+  - {jyutping: "cung1", hanzi: 沖, en: "pour (hot water) on, rinse"}
+  - {jyutping: "wan1", hanzi: 溫, en: "warm (up)"}
+  - {jyutping: "nap1", hanzi: 粒, en: "(classifier for small round things)"}
+  - {jyutping: "nap1 zung1", hanzi: 粒鐘, en: "an hour (colloquial)"}
+  - {jyutping: "baai2", hanzi: 擺, en: "put, place, stand"}
+  - {jyutping: "lou1", hanzi: 撈, en: "mix"}
+  - {jyutping: "seoi3", hanzi: 碎, en: "broken, in bits"}
+  - {jyutping: "zung1 tau4", hanzi: 鐘頭, en: "hour"}
+  - {jyutping: "si1 mat6", hanzi: 絲襪, en: "(silk) stockings"}
+  - {jyutping: "si1 mat6 naai5 caa4", hanzi: 絲襪奶茶, en: "silk-stocking milk tea"}
+  - {jyutping: "caa4 doi2", hanzi: 茶袋, en: "cloth tea bag (strainer)"}
+  - {jyutping: "m4 zeon2", hanzi: 唔准, en: "not allowed"}
+  - {jyutping: "hoi1 gung1", hanzi: 開工, en: "start work"}
+  - {jyutping: "bou6", hanzi: 步, en: "step"}
+  - {jyutping: "dou3", hanzi: 倒, en: "pour"}
+  - {jyutping: "bok3 zeoi2", hanzi: 駁嘴, en: "talk back, answer back"}
+  - {jyutping: "cou1", hanzi: 粗, en: "coarse, thick"}
+  - {jyutping: "jau3", hanzi: 幼, en: "fine, thin"}
+  - {jyutping: "sik1", hanzi: 色, en: "colour"}
+  - {jyutping: "bei2 lai6", hanzi: 比例, en: "proportion"}
+  - {jyutping: "cyun4", hanzi: 傳, en: "pass on, hand down"}
+  - {jyutping: "gwan2", hanzi: 滾, en: "boil"}
+  - {jyutping: "maan6 fo2", hanzi: 慢火, en: "low heat"}
+  - {jyutping: "caa4 bou1", hanzi: 茶煲, en: "tea pot (for brewing)"}
+  - {jyutping: "fe1 sik1", hanzi: 啡色, en: "brown"}
+  - {jyutping: "bin3", hanzi: 變, en: "change, turn into"}
+  - {jyutping: "geoi2", hanzi: 舉, en: "raise, lift"}
+  - {jyutping: "zou6 sou1", hanzi: 做騷, en: "put on a show, show off"}
+  - {jyutping: "sap1", hanzi: 濕, en: "wet"}
+  - {jyutping: "luk6 can1", hanzi: 淥親, en: "scald oneself"}
+  - {jyutping: "hok6 sik1", hanzi: 學識, en: "learn (and master)"}
+  - {jyutping: "lou4", hanzi: 爐, en: "stove"}
+  - {jyutping: "guk6", hanzi: 焗, en: "steep covered; bake; stuffy"}
+  - {jyutping: "wan4", hanzi: 勻, en: "even(ly)"}
+  - {jyutping: "sin1 naai5", hanzi: 鮮奶, en: "fresh milk"}
+  - {jyutping: "hei1", hanzi: 稀, en: "thin, watery"}
+  - {jyutping: "gun3 tau2", hanzi: 罐頭, en: "tin, can"}
+  - {jyutping: "cing1 seoi2", hanzi: 清水, en: "clean water"}
+  - {jyutping: "faan1 gaan2", hanzi: 番梘, en: "soap"}
+exercises:
+  translate:
+    - {hanzi: "將本書擺返上枱。", jyutping: "zoeng1 bun2 syu1 baai2 faan1 soeng5 toi2.", en: "Put the book back on the table."}
+    - {hanzi: "用滾水沖一沖啲筷子先。", jyutping: "jung6 gwan2 seoi2 cung1 jat1 cung1 di1 faai3 zi2 sin1.", en: "Rinse the chopsticks with boiling water first."}
+    - {hanzi: "你攞杯奶茶去三號枱。", jyutping: "nei5 lo2 bui1 naai5 caa4 heoi3 saam1 hou6 toi2.", en: "Take a milk tea to table three."}
+    - {hanzi: "我喺度等咗你成個鐘頭。", jyutping: "ngo5 hai2 dou6 dang2 zo2 nei5 seng4 go3 zung1 tau4.", en: "I've been waiting here for you for a whole hour."}
+    - {hanzi: "啲奶同茶要撈勻先好飲。", jyutping: "di1 naai5 tung4 caa4 jiu3 lou1 wan4 sin1 hou2 jam2.", en: "The milk and the tea have to be mixed evenly to taste good."}
+  fill:
+    - {hanzi: "___啲茶葉放入茶袋，再放入茶煲。", jyutping: "___ di1 caa4 jip6 fong3 jap6 caa4 doi2, zoi3 fong3 jap6 caa4 bou1.", answer: "zoeng1", answer_hanzi: 將, en: "Put the tea leaves into the bag, then into the pot."}
+    - {hanzi: "新茶袋用得耐，就會___啡色。", jyutping: "san1 caa4 doi2 jung6 dak1 noi6, zau6 wui5 ___ fe1 sik1.", answer: "bin3", answer_hanzi: 變, en: "Use a new tea bag long enough and it turns brown."}
+    - {hanzi: "杯唔熱，要擺喺熱水度___住。", jyutping: "bui1 m4 jit6, jiu3 baai2 hai2 jit6 seoi2 dou6 ___ zyu6.", answer: "wan1", answer_hanzi: 溫, en: "If the cups aren't hot, stand them in hot water to keep warm."}
+    - {hanzi: "咪成日___嘴，聽我講先！", jyutping: "mai5 seng4 jat6 ___ zeoi2, teng1 ngo5 gong2 sin1!", answer: "bok3", answer_hanzi: 駁, en: "Stop talking back all the time and listen to me first!"}
+    - {hanzi: "洗茶袋要用清水，千祈唔好用___。", jyutping: "sai2 caa4 doi2 jiu3 jung6 cing1 seoi2, cin1 kei4 m4 hou2 jung6 ___.", answer: "faan1 gaan2", answer_hanzi: 番梘, en: "Wash the tea bag in clean water, and never use soap."}
