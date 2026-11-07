@@ -3,13 +3,16 @@
 # (if one line uses hyphens, every multi-syllable word in it must). Check with `make lint`.
 id: 1
 title: {en: "", jyutping: "", hanzi: ""}
-genre: dialogue          # dialogue | article | letter | interview | tale | diary | debate | speech | essay | document | song | news | story | play | review
+genre: dialogue          # dialogue | chat | article | letter | interview | tale | diary | debate | speech | essay | document | song | news | story | play | review
 review: false
+intro: ""                # optional, from about P20: what the lesson trains (shown in italics)
 setting: ""
 dialogue:
   - {n: 1, speaker: "", hanzi: "", jyutping: "", en: ""}
 notes:
-  - {ref: 1, topic: vocab, text: ""}      # topic: vocab | grammar | pronunciation | culture | register
+  - {ref: 1, topic: vocab, text: ""}      # topic: vocab | grammar | pronunciation | culture | register | vs-mandarin
+pron:                    # 1–3 pronunciation remarks, keyed by line, shown in a box after the dialogue
+  - {ref: 1, text: ""}
 new_words:
   - {jyutping: "", hanzi: "", en: ""}
 exercises:

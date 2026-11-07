@@ -177,7 +177,8 @@ for f in perf_files:
             ex.append(e)
     lessons.append({'id': lid, 'title': title(d['title']), 'review': d.get('review', False),
                     'genre': d.get('genre', 'dialogue'), 'setting': d.get('setting', ''), 'lines': lines,
-                    'notes': d.get('notes') or [], 'new_words': new_words, 'exercises': ex})
+                    'notes': d.get('notes') or [], 'pron': d.get('pron') or [], 'intro': d.get('intro', ''),
+                    'new_words': new_words, 'exercises': ex})
 lessons.sort(key=lambda L: L['id'])
 
 # ---- themes (thematic vocabulary)

@@ -459,6 +459,9 @@ h1, .hello .big, .todaycard .lt, .wotd .wh, .item .tt, .tcard .th, .wchip b, .vt
 .linkish:hover { color: var(--brand); text-decoration: underline; }
 /* lesson end */
 .finish { gap: .8rem; }
+.pronbox { margin: 1rem 0 .5rem; padding: .7rem .9rem; border-radius: var(--r); border: 1px dashed var(--brand); }
+.pronbox h3 { margin: 0 0 .3rem; font-size: 1rem; } .pronbox ul { margin: 0; padding-left: 1.1rem; } .pronbox li { margin: .25rem 0; }
+.lintro { margin: 0 0 .4rem; }
 .wave-intro { margin: 0; padding: .7rem .9rem; border-radius: var(--r); background: var(--brand-soft); }
 .card.wave { color: var(--text); }
 button.card.wave { text-align: left; }
@@ -718,7 +721,7 @@ const isP = id => id > PART2;
 const lnum = id => isP(id) ? 'P' + (id - PART2) : String(id);
 const lname = id => isP(id) ? `進修 ${id - PART2}` : `Lesson ${id}`;
 const waveOff = id => isP(id) ? 35 : 49;
-const GENRES = { dialogue: 'Dialogue', article: 'Article', letter: 'Letter', interview: 'Interview', tale: 'Tale', diary: 'Diary', debate: 'Debate', speech: 'Speech', essay: 'Essay', document: 'Document', song: 'Song', review: 'Review', news: 'News', story: 'Story', play: 'Play' };
+const GENRES = { dialogue: 'Dialogue', article: 'Article', letter: 'Letter', interview: 'Interview', tale: 'Tale', diary: 'Diary', debate: 'Debate', speech: 'Speech', essay: 'Essay', document: 'Document', song: 'Song', chat: 'Chat', review: 'Review', news: 'News', story: 'Story', play: 'Play' };
 // Part 2 on the lessons home: a notebook-cover card, then a grid of the 70 planned lessons
 function partTwo(byId, next) {
   const ids = [...Array(PTOTAL)].map((_, i) => PART2 + i + 1);
@@ -869,7 +872,7 @@ function showLesson(L) {
       ${(() => { const v = [...new Set(L.lines.filter(x => x.audio).map(x => x.voice).filter(Boolean))]; return v.length ? `<span class="sub" style="font-size:.85rem">Voice: ${v.map(esc).join(', ')}</span>` : ''; })()}</div>
     ${chips.length ? `<nav class="lnav" aria-label="Sections">${chips.map(([id, t]) => `<button data-jump="${id}">${t}</button>`).join('')}</nav>` : ''}
     ${WAVE ? `<p class="wave-intro">Each line shows the English. Say it in Cantonese out loud, then tap <b>Show Cantonese</b> to check. Tap a word to open its card; the notes are in the normal lesson.</p>`
-      : `<p class="setting" style="margin:0">${esc(L.setting)}</p>`}
+      : `${L.intro ? `<p class="lintro"><i>${esc(L.intro)}</i></p>` : ''}<p class="setting" style="margin:0">${esc(L.setting)}</p>`}
     ${(() => { const w = L.id - waveOff(L.id); return !WAVE && isP(w) === isP(L.id) && DATA.lessons.some(l => l.id === w) ? `<button class="card wave" data-go="wave-${w}"><span class="eyebrow">${L.review ? 'Review · second wave' : 'Second wave'}${waveAt[w] ? ' · done ✓' : ''}</span><span>With this lesson, also redo <b>${lname(w)}</b> in active mode: read the English, say it in Cantonese.</span></button>` : ''; })()}
     ${toolbar(!WAVE)}
     <div class="lines" id="dlg">${L.lines.map((ln, li) => { REVEAL['l' + li] = [ln.en, ln.zh]; return `
@@ -880,6 +883,7 @@ function showLesson(L) {
       </div>`; }).join('')}</div>
     ${!WAVE && (notesBy[0] || []).length ? `<div class="under recap"><span class="sub">Recap notes</span>${notesBy[0].map(k => `<button class="nlink" data-note="${k}" aria-label="Note ${k}">${k}</button>`).join('')}</div>` : ''}
     ${active ? `<div class="row"><button class="btn small quiet" id="show-all">Show all the Cantonese</button></div>` : ''}
+    ${!WAVE && (L.pron || []).length ? `<aside class="pronbox" aria-label="Pronunciation"><h3><span class="han">發音</span> Pronunciation</h3><ul>${[...L.pron].sort((a, b) => a.ref - b.ref).map(p => `<li><span class="tag">Line ${p.ref}</span> ${fmt(p.text)}</li>`).join('')}</ul></aside>` : ''}
     ${WAVE ? '' : `
     <details class="allnotes" id="sec-notes"><summary><span class="han">注解</span> All notes (${L.notes.length})</summary>
     <ol class="notes">${L.notes.map((n, i) => `<li class="note" id="note-${i + 1}"><span class="nn">${i + 1}</span><p><span class="tag ${esc(n.topic)}">${n.ref ? 'Line ' + n.ref : 'Recap'} · ${esc(n.topic.replace('-', ' '))}</span>${fmt(n.text)}</p></li>`).join('')}</ol></details>

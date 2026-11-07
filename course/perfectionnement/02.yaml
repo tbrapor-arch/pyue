@@ -1,0 +1,101 @@
+# 進修 2. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 2
+title: {en: "Iced lemon tea, less sweet", jyutping: "dung3 ning4 caa4 siu2 tim4", hanzi: "凍檸茶少甜"}
+genre: document
+review: false
+setting: "Sunday morning. 蓮姐 has copied out 梁記's laminated menu for Hugo and added her own notes in red pen, so he can order like a local. Menu lines and her notes alternate."
+dialogue:
+  - {n: 1, speaker: Menu, hanzi: "梁記冰室　早餐（朝早七點至十一點）", jyutping: "loeng4 gei3 bing1 sat1 zou2 caan1 (ziu1 zou2 cat1 dim2 zi3 sap6 jat1 dim2)", en: "Leung Kee Café: Breakfast (7 to 11 a.m.)"}
+  - {n: 2, speaker: Menu, hanzi: "A餐：火腿通粉、炒蛋、牛油多士，跟熱飲。", jyutping: "A caan1: fo2 teoi2 tung1 fan2, caau2 daan2, ngau4 jau4 do1 si2, gan1 jit6 jam2.", en: "Set A: macaroni with ham, scrambled eggs, buttered toast, with a hot drink."}
+  - {n: 3, speaker: Lin-ze, hanzi: "「跟」即係包埋，唔使另外俾錢。熱飲轉凍飲，就要加兩蚊。", jyutping: "\"gan1\" zik1 hai6 baau1 maai4, m4 sai2 ling6 ngoi6 bei2 cin2. jit6 jam2 zyun3 dung3 jam2, zau6 jiu3 gaa1 loeng5 man1.", en: "'跟' means it's included; you don't pay for it separately. If you change the hot drink to a cold one, it's two dollars more."}
+  - {n: 4, speaker: Menu, hanzi: "B餐：沙嗲牛肉麵、煎雙蛋、菠蘿油。", jyutping: "B caan1: saa3 de1 ngau4 juk6 min6, zin1 soeng1 daan2, bo1 lo4 jau4.", en: "Set B: noodles with satay beef, two fried eggs, a pineapple bun with butter."}
+  - {n: 5, speaker: Lin-ze, hanzi: "菠蘿油冇菠蘿㗎：係熱辣辣嘅菠蘿包，夾一大嚿凍牛油。", jyutping: "bo1 lo4 jau4 mou5 bo1 lo4 gaa3: hai6 jit6 laat6 laat6 ge3 bo1 lo4 baau1, gaap3 jat1 daai6 gau6 dung3 ngau4 jau4.", en: "There's no pineapple in a 'pineapple butter': it's a piping-hot pineapple bun with a big slab of cold butter inside."}
+  - {n: 6, speaker: Menu, hanzi: "常餐：餐肉煎蛋公仔麵、奶油多，跟咖啡或奶茶。", jyutping: "soeng4 caan1: caan1 juk6 zin1 daan2 gung1 zai2 min6, naai5 jau4 do1, gan1 gaa3 fe1 waak6 naai5 caa4.", en: "Daily set: instant noodles with luncheon meat and a fried egg, toast with condensed milk and butter, with coffee or milk tea."}
+  - {n: 7, speaker: Lin-ze, hanzi: "常餐日日都有，最抵食。「公仔麵」本身係一個牌子，而家所有即食麵都噉叫。", jyutping: "soeng4 caan1 jat6 jat6 dou1 jau5, zeoi3 dai2 sik6. \"gung1 zai2 min6\" bun2 san1 hai6 jat1 go3 paai4 zi2, ji4 gaa1 so2 jau5 zik1 sik6 min6 dou1 gam2 giu3.", en: "The daily set is on every day and it's the best value. '公仔麵' was originally a brand; now all instant noodles are called that."}
+  - {n: 8, speaker: Menu, hanzi: "飲品：奶茶、咖啡、鴛鴦、檸茶、阿華田（凍飲加兩蚊）", jyutping: "jam2 ban2: naai5 caa4, gaa3 fe1, jyun1 joeng1, ning4 caa4, aa3 waa4 tin4 (dung3 jam2 gaa1 loeng5 man1)", en: "Drinks: milk tea, coffee, yuenyeung, lemon tea, Ovaltine (cold drinks $2 extra)"}
+  - {n: 9, speaker: Lin-ze, hanzi: "鴛鴦係一半咖啡、一半奶茶。味道好特別：第一次飲，有啲人鍾意，有啲人頂唔順。", jyutping: "jyun1 joeng1 hai6 jat1 bun3 gaa3 fe1, jat1 bun3 naai5 caa4. mei6 dou6 hou2 dak6 bit6: dai6 jat1 ci3 jam2, jau5 di1 jan4 zung1 ji3, jau5 di1 jan4 ding2 m4 seon6.", en: "Yuenyeung is half coffee, half milk tea. It tastes very unusual: the first time, some people love it and some can't stand it."}
+  - {n: 10, speaker: Lin-ze, hanzi: "落單要講清楚：少甜、走甜、少冰、走冰。「走」喺度唔係「行」，係「唔要」嘅意思。", jyutping: "lok6 daan1 jiu3 gong2 cing1 co2: siu2 tim4, zau2 tim4, siu2 bing1, zau2 bing1. \"zau2\" hai2 dou6 m4 hai6 \"haang4\", hai6 \"m4 jiu3\" ge3 ji3 si1.", en: "When you order, say it clearly: less sweet, no sugar, less ice, no ice. Here '走' doesn't mean 'walk', it means 'without'."}
+  - {n: 11, speaker: Lin-ze, hanzi: "「茶走」就係用煉奶代替糖同淡奶，甜啲滑啲。阿伯一日飲三杯。", jyutping: "\"caa4 zau2\" zau6 hai6 jung6 lin6 naai5 doi6 tai3 tong4 tung4 taam5 naai5, tim4 di1 waat6 di1. aa3 baak3 jat1 jat6 jam2 saam1 bui1.", en: "'茶走' means using condensed milk instead of sugar and evaporated milk: sweeter and smoother. The old man drinks three a day."}
+  - {n: 12, speaker: Lin-ze, hanzi: "叫嘢要快：「凍檸茶少甜，唔該！」講完就得，唔使講「請問可唔可以」。", jyutping: "giu3 je5 jiu3 faai3: \"dung3 ning4 caa4 siu2 tim4, m4 goi1!\" gong2 jyun4 zau6 dak1, m4 sai2 gong2 \"cing2 man6 ho2 m4 ho2 ji5\".", en: "Order fast: 'Iced lemon tea, less sweet, thanks!' That's all; no need for 'excuse me, could I possibly'."}
+  - {n: 13, speaker: Menu, hanzi: "小食：西多士、芝士火腿三文治、雞批、蛋撻（一個、半打）", jyutping: "siu2 sik6: sai1 do1 si2, zi1 si2 fo2 teoi2 saam1 man4 zi6, gai1 pai1, daan6 taat1 (jat1 go3, bun3 daa1)", en: "Snacks: French toast, ham and cheese sandwich, chicken pie, egg tarts (one / half a dozen)"}
+  - {n: 14, speaker: Lin-ze, hanzi: "西多士又有牛油又有糖漿，好甜。食完一碟，成個下晝都唔想郁。", jyutping: "sai1 do1 si2 jau6 jau5 ngau4 jau4 jau6 jau5 tong4 zoeng1, hou2 tim4. sik6 jyun4 jat1 dip2, seng4 go3 haa6 zau3 dou1 m4 soeng2 juk1.", en: "French toast has butter and syrup, it's very sweet. Eat a plateful and you won't want to move all afternoon."}
+  - {n: 15, speaker: Lin-ze, hanzi: "蛋撻十點左右出爐。遲過十一點嚟，實賣晒。", jyutping: "daan6 taat1 sap6 dim2 zo2 jau2 ceot1 lou4. ci4 gwo3 sap6 jat1 dim2 lai4, sat6 maai6 saai3.", en: "The egg tarts come out of the oven at about ten. Come after eleven and they'll definitely be sold out."}
+  - {n: 16, speaker: Menu, hanzi: "下午茶：三點至五點半，全部套餐減五蚊。", jyutping: "haa6 ng5 caa4: saam1 dim2 zi3 ng5 dim2 bun3, cyun4 bou6 tou3 caan1 gaam2 ng5 man1.", en: "Afternoon tea: 3 to 5:30, all set meals $5 off."}
+  - {n: 17, speaker: Lin-ze, hanzi: "下午茶最多人，十幾蚊有個餐，又有嘢食又有嘢飲。", jyutping: "haa6 ng5 caa4 zeoi3 do1 jan4, sap6 gei2 man1 jau5 go3 caan1, jau6 jau5 je5 sik6 jau6 jau5 je5 jam2.", en: "Afternoon tea is the busiest: for ten-odd dollars you get a set with something to eat and something to drink."}
+  - {n: 18, speaker: Lin-ze, hanzi: "「十幾蚊」即係十一至十九蚊；「十蚊幾」即係十蚊多少少。差好遠㗎！", jyutping: "\"sap6 gei2 man1\" zik1 hai6 sap6 jat1 zi3 sap6 gau2 man1; \"sap6 man1 gei2\" zik1 hai6 sap6 man1 do1 siu2 siu2. caa1 hou2 jyun5 gaa3!", en: "'十幾蚊' means eleven to nineteen dollars; '十蚊幾' means a bit over ten. Big difference!"}
+  - {n: 19, speaker: Menu, hanzi: "本店不設加一，只收現金。", jyutping: "bun2 dim3 bat1 cit3 gaa1 jat1, zi2 sau1 jin6 gam1.", en: "No service charge. Cash only."}
+  - {n: 20, speaker: Lin-ze, hanzi: "「不設加一」即係冇百分之十服務費。我哋唔收卡，阿伯話卡數佢睇唔明。", jyutping: "\"bat1 cit3 gaa1 jat1\" zik1 hai6 mou5 baak3 fan6 zi1 sap6 fuk6 mou6 fai3. ngo5 dei6 m4 sau1 kaat1, aa3 baak3 waa6 kaat1 sou3 keoi5 tai2 m4 ming4.", en: "'不設加一' means there's no ten per cent service charge. We don't take cards: the old man says he can't make sense of card statements."}
+  - {n: 21, speaker: Lin-ze, hanzi: "埋單唔使喺枱度俾錢，攞張單去門口收銀嗰度俾。", jyutping: "maai4 daan1 m4 sai2 hai2 toi2 dou6 bei2 cin2, lo2 zoeng1 daan1 heoi3 mun4 hau2 sau1 ngan2 go2 dou6 bei2.", en: "When you pay, don't pay at the table: take the slip to the till by the door."}
+  - {n: 22, speaker: Lin-ze, hanzi: "有乜唔明就問我，唔好問阿伯：佢淨係識講「隨便」。——蓮姐", jyutping: "jau5 mat1 m4 ming4 zau6 man6 ngo5, m4 hou2 man6 aa3 baak3: keoi5 zing6 hai6 sik1 gong2 \"ceoi4 bin2\". —— lin4 ze2", en: "If there's anything you don't understand, ask me, not the old man: all he ever says is 'whatever'. — Lin-ze"}
+notes:
+  - {ref: 2, topic: vocab, text: "跟 gan1 = comes with (a set): 跟熱飲 'with a hot drink'. 通粉 tung1 fan2 = macaroni. 多士 do1 si2 = toast (from English); 牛油多 'butter toast', 奶油多 'toast with butter and condensed milk', shortened from 多士."}
+  - {ref: 3, topic: vocab, text: "包埋 baau1 maai4 = included (lit. 'wrapped in too'). 另外 ling6 ngoi6 = separately, extra; also 'besides, in addition' at the start of a sentence: 另外，… 'also, …'. 蚊 man1 = dollar (spoken); written 元."}
+  - {ref: 5, topic: culture, text: "菠蘿包 'pineapple bun' has no pineapple: the crackly sugar top looks like a pineapple's skin. 菠蘿油 adds a thick slab of cold butter. 嚿 gau6 is the classifier for lumps: 一嚿牛油, 一嚿石. 熱辣辣 jit6 laat6 laat6 = piping hot (ABB pattern)."}
+  - {ref: 7, topic: vocab, text: "抵食 dai2 sik6 = good value (food); 抵 = worth it: 好抵 'a bargain'. 本身 bun2 san1 = in itself, originally: 公仔麵本身係一個牌子. 牌子 paai4 zi2 = brand. 所有 so2 jau5 = all (before a noun) + 都 before the verb: 所有即食麵都噉叫."}
+  - {ref: 9, topic: culture, text: "鴛鴦 jyun1 joeng1 'mandarin ducks' (always seen in pairs): coffee and milk tea mixed in one glass. 頂唔順 ding2 m4 seon6 = can't stand it, can't take any more (more in P4). 味道 mei6 dou6 = taste, flavour."}
+  - {ref: 10, topic: vs-mandarin, text: "走 zau2 in Cantonese is 'go away, leave', and on a menu 'leave out, without': 走冰 'no ice', 走蔥 'no spring onion'. 'Walk' is 行 haang4. In Mandarin 走 means 'walk' and 'without' is 去冰 or 不加冰. 落單 lok6 daan1 = place an order."}
+  - {ref: 11, topic: pronunciation, text: "Changed tone (變音): many words rise to tone 2 (sometimes tone 1) in common speech, often to mark something familiar or concrete. 糖 tong4 'sugar' but 糖 tong2 'a sweet'; 碟 dip6 → 一碟 dip2 'a plateful' (line 14); 蛋 daan6 → 炒蛋, 煎蛋 daan2; 銀 ngan4 → 收銀 sau1 ngan2 (line 21). Learn the risen form with the word."}
+  - {ref: 11, topic: vocab, text: "用 A 代替 B 'use A instead of B': 代替 doi6 tai3 = replace, stand in for. 煉奶 lin6 naai5 = condensed milk; 淡奶 taam5 naai5 = evaporated milk. 滑 waat6 = smooth, silky."}
+  - {ref: 12, topic: register, text: "In a café, orders are short and direct: drink + changes + 唔該. Long polite forms like 請問可唔可以… sound odd here, though they're fine in a shop or office."}
+  - {ref: 14, topic: vocab, text: "糖漿 tong4 zoeng1 = syrup. 郁 juk1 = move: 唔好郁 'don't move', 郁吓 'move a bit'. 下晝 haa6 zau3 = afternoon (spoken); 下午 haa6 ng5 is the written word, used in 下午茶."}
+  - {ref: 15, topic: vocab, text: "出爐 ceot1 lou4 = come out of the oven, fresh-baked. 遲過 ci4 gwo3 = later than: 遲過十一點 'after eleven'. 實 sat6 before a verb = definitely, for sure: 實賣晒 'they'll be sold out for sure'."}
+  - {ref: 18, topic: grammar, text: "幾 gei2 after a number = 'and a few, -odd': 十幾蚊 '11 to 19 dollars', 二十幾歲 'twenty-something'. After the unit it means a little more: 十蚊幾 'ten dollars and a bit'. The same with 多: 一百多 'a hundred and something'. 少少 siu2 siu2 = a little."}
+  - {ref: 19, topic: register, text: "Signs use written Chinese, read with Cantonese sounds: 本店 'this shop', 不設 'does not have', 只收 'accepts only'. Spoken: 我哋間舖冇加一，淨係收現金. 加一 gaa1 jat1 = the 10 % service charge. 現金 jin6 gam1 = cash."}
+  - {ref: 21, topic: culture, text: "埋單 maai4 daan1 = ask for the bill, pay. In a 冰室 the waiter writes a slip (張單); you pay at the till (收銀) by the door on your way out. 服務費 fuk6 mou6 fai3 (line 20) = service charge."}
+pron:
+  - {ref: 13, text: "撻 taat1 (tart) and 批 pai1 (pie) are English loans; 三文治 saam1 man4 zi6 is 'sandwich'."}
+  - {ref: 14, text: "碟 'plate' rises to dip2 after a number: 一碟, 兩碟."}
+new_words:
+  - {jyutping: "tung1 fan2", hanzi: 通粉, en: "macaroni"}
+  - {jyutping: "do1 si2", hanzi: 多士, en: "toast"}
+  - {jyutping: "fo2 teoi2", hanzi: 火腿, en: "ham"}
+  - {jyutping: "ling6 ngoi6", hanzi: 另外, en: "separately; besides, also"}
+  - {jyutping: "saa3 de1", hanzi: 沙嗲, en: "satay"}
+  - {jyutping: "bo1 lo4 jau4", hanzi: 菠蘿油, en: "pineapple bun with butter"}
+  - {jyutping: "gau6", hanzi: 嚿, en: "lump, chunk (classifier)"}
+  - {jyutping: "jit6 laat6 laat6", hanzi: 熱辣辣, en: "piping hot"}
+  - {jyutping: "soeng4 caan1", hanzi: 常餐, en: "daily set meal"}
+  - {jyutping: "dai2 sik6", hanzi: 抵食, en: "good value (food)"}
+  - {jyutping: "bun2 san1", hanzi: 本身, en: "in itself, originally"}
+  - {jyutping: "paai4 zi2", hanzi: 牌子, en: "brand"}
+  - {jyutping: "so2 jau5", hanzi: 所有, en: "all"}
+  - {jyutping: "jyun1 joeng1", hanzi: 鴛鴦, en: "coffee mixed with milk tea; mandarin ducks"}
+  - {jyutping: "mei6 dou6", hanzi: 味道, en: "taste, flavour"}
+  - {jyutping: "dak6 bit6", hanzi: 特別, en: "special, unusual"}
+  - {jyutping: "ding2 m4 seon6", hanzi: 頂唔順, en: "can't stand it"}
+  - {jyutping: "zau2 bing1", hanzi: 走冰, en: "no ice"}
+  - {jyutping: "lin6 naai5", hanzi: 煉奶, en: "condensed milk"}
+  - {jyutping: "doi6 tai3", hanzi: 代替, en: "replace, instead of"}
+  - {jyutping: "taam5 naai5", hanzi: 淡奶, en: "evaporated milk"}
+  - {jyutping: "waat6", hanzi: 滑, en: "smooth; slippery"}
+  - {jyutping: "zi1 si2", hanzi: 芝士, en: "cheese"}
+  - {jyutping: "tong4 zoeng1", hanzi: 糖漿, en: "syrup"}
+  - {jyutping: "juk1", hanzi: 郁, en: "move"}
+  - {jyutping: "ceot1 lou4", hanzi: 出爐, en: "come out of the oven"}
+  - {jyutping: "sat6", hanzi: 實, en: "definitely, for sure"}
+  - {jyutping: "tou3 caan1", hanzi: 套餐, en: "set meal"}
+  - {jyutping: "jin6 gam1", hanzi: 現金, en: "cash"}
+  - {jyutping: "fuk6 mou6 fai3", hanzi: 服務費, en: "service charge"}
+  - {jyutping: "sau1 ngan2", hanzi: 收銀, en: "till, checkout"}
+  - {jyutping: "ceoi4 bin2", hanzi: 隨便, en: "whatever, as you like"}
+  - {jyutping: "ngau4 jau4", hanzi: 牛油, en: "butter"}
+  - {jyutping: "tim4", hanzi: 甜, en: "sweet"}
+  - {jyutping: "dip2", hanzi: 碟, en: "plate, plateful"}
+  - {jyutping: "daan6 taat1", hanzi: 蛋撻, en: "egg tart"}
+  - {jyutping: "sai1 do1 si2", hanzi: 西多士, en: "Hong Kong French toast"}
+  - {jyutping: "haa6 ng5 caa4", hanzi: 下午茶, en: "afternoon tea"}
+  - {jyutping: "gaa1 jat1", hanzi: 加一, en: "10 % service charge"}
+  - {jyutping: "zin1", hanzi: 煎, en: "fry (in a pan)"}
+exercises:
+  translate:
+    - {hanzi: "凍奶茶走甜，唔該！", jyutping: "dung3 naai5 caa4 zau2 tim4, m4 goi1!", en: "Iced milk tea, no sugar, please!"}
+    - {hanzi: "呢個套餐跟咖啡，唔使另外俾錢。", jyutping: "ni1 go3 tou3 caan1 gan1 gaa3 fe1, m4 sai2 ling6 ngoi6 bei2 cin2.", en: "This set comes with coffee; you don't pay for it separately."}
+    - {hanzi: "佢淨係食咗一嚿菠蘿油，就話好飽。", jyutping: "keoi5 zing6 hai6 sik6 zo2 jat1 gau6 bo1 lo4 jau4, zau6 waa6 hou2 baau2.", en: "He only ate one pineapple butter bun and says he's full."}
+    - {hanzi: "呢間舖只收現金，所有客都要去收銀俾錢。", jyutping: "ni1 gaan1 pou3 zi2 sau1 jin6 gam1, so2 jau5 haak3 dou1 jiu3 heoi3 sau1 ngan2 bei2 cin2.", en: "This shop takes cash only; every customer has to pay at the till."}
+    - {hanzi: "鴛鴦嘅味道好特別，我第一次飲就頂唔順。", jyutping: "jyun1 joeng1 ge3 mei6 dou6 hou2 dak6 bit6, ngo5 dai6 jat1 ci3 jam2 zau6 ding2 m4 seon6.", en: "Yuenyeung has a very unusual taste; the first time I drank it, I couldn't stand it."}
+  fill:
+    - {hanzi: "蛋撻十點___，你遲過十一點嚟就冇喇。", jyutping: "daan6 taat1 sap6 dim2 ___, nei5 ci4 gwo3 sap6 jat1 dim2 lai4 zau6 mou5 laa3.", answer: "ceot1 lou4", answer_hanzi: 出爐, en: "The egg tarts come out at ten; if you come after eleven there are none left."}
+    - {hanzi: "茶走就係用煉奶___糖。", jyutping: "caa4 zau2 zau6 hai6 jung6 lin6 naai5 ___ tong4.", answer: "doi6 tai3", answer_hanzi: 代替, en: "'茶走' means using condensed milk instead of sugar."}
+    - {hanzi: "一個餐___蚊，好___食！", jyutping: "jat1 go3 caan1 ___ man1, hou2 ___ sik6!", answer: "sap6 gei2 / dai2", answer_hanzi: 十幾 / 抵, en: "A set meal for ten-odd dollars, what a bargain!"}
+    - {hanzi: "食完西多士，我成個下晝都唔想___。", jyutping: "sik6 jyun4 sai1 do1 si2, ngo5 seng4 go3 haa6 zau3 dou1 m4 soeng2 ___.", answer: "juk1", answer_hanzi: 郁, en: "After the French toast, I didn't want to move all afternoon."}
+    - {hanzi: "你想飲咩？——___啦，你揀。", jyutping: "nei5 soeng2 jam2 me1? —— ___ laa1, nei5 gaan2.", answer: "ceoi4 bin2", answer_hanzi: 隨便, en: "What do you want to drink? — Whatever, you choose."}

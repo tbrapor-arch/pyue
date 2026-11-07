@@ -1,0 +1,95 @@
+# 進修 3. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 3
+title: {en: "One family, one language", jyutping: "jat1 gaa1 jan4 m4 gong2 loeng5 gaa1 syut3 waa6", hanzi: "一家人唔講兩家說話"}
+genre: chat
+review: false
+setting: "Sunday evening. The Leung family's WhatsApp group 「梁家」. Trying to send Hugo the wifi password, 梁伯 has added him to the group by mistake. 梁伯 sends voice messages; his son 嘉偉 writes from Manchester, where it's morning."
+dialogue:
+  - {n: 1, speaker: Leung Pak, hanzi: "（語音）雨果，wifi密碼喺雪櫃門度，你自己睇吓。", jyutping: "(jyu5 jam1) jyu5 gwo2, wifi mat6 maa5 hai2 syut3 gwai6 mun4 dou6, nei5 zi6 gei2 tai2 haa5.", en: "(Voice message) Hugo, the wifi password is on the fridge door, have a look yourself."}
+  - {n: 2, speaker: Kayan, hanzi: "阿爸，呢個係家庭群組嚟㗎！你add咗邊個入嚟呀？", jyutping: "aa3 baa4, ni1 go3 hai6 gaa1 ting4 kwan4 zou2 lai4 gaa3! nei5 add zo2 bin1 go3 jap6 lai4 aa3?", en: "Dad, this is the family group! Who have you added?"}
+  - {n: 3, speaker: Hugo, hanzi: "Hello大家好，我係樓上新租客雨果。唔好意思，應該係梁伯撳錯咗。", jyutping: "Hello daai6 gaa1 hou2, ngo5 hai6 lau4 soeng6 san1 zou1 haak3 jyu5 gwo2. m4 hou2 ji3 si1, jing1 goi1 hai6 loeng4 baak3 gam6 co3 zo2.", en: "Hello everyone, I'm Hugo, the new tenant upstairs. Sorry, Uncle Leung must have pressed the wrong button."}
+  - {n: 4, speaker: Ka-wai, hanzi: "哈哈，阿爸又撳錯。上次佢send咗張相去保險公司。", jyutping: "haa1 haa1, aa3 baa4 jau6 gam6 co3. soeng6 ci3 keoi5 send zo2 zoeng1 soeng2 heoi3 bou2 him2 gung1 si1.", en: "Ha ha, Dad's pressed the wrong thing again. Last time he sent a photo to the insurance company."}
+  - {n: 5, speaker: Kayan, hanzi: "唔緊要，Hugo，welcome！我係梁伯個女嘉欣，佢係我哥哥嘉偉，而家喺Manchester。", jyutping: "m4 gan2 jiu3, Hugo, welcome! ngo5 hai6 loeng4 baak3 go3 neoi2 gaa1 jan1, keoi5 hai6 ngo5 go4 go1 gaa1 wai5, ji4 gaa1 hai2 Manchester.", en: "Never mind, Hugo, welcome! I'm Uncle Leung's daughter Kayan; he's my brother Ka-wai, now in Manchester."}
+  - {n: 6, speaker: Ka-wai, hanzi: "你好！呢度啱啱朝早七點，落緊雨，同平時一樣。", jyutping: "nei5 hou2! ni1 dou6 ngaam1 ngaam1 ziu1 zou2 cat1 dim2, lok6 gan2 jyu5, tung4 ping4 si4 jat1 joeng6.", en: "Hi! It's just gone seven in the morning here, and it's raining, as usual."}
+  - {n: 7, speaker: Hugo, hanzi: "你好！原本我都想去英國搵工，點知最後嚟咗香港，一住就三年。", jyutping: "nei5 hou2! jyun4 bun2 ngo5 dou1 soeng2 heoi3 jing1 gwok3 wan2 gung1, dim2 zi1 zeoi3 hau6 lai4 zo2 hoeng1 gong2, jat1 zyu6 zau6 saam1 nin4.", en: "Hi! I'd originally wanted to look for work in England too, but in the end I came to Hong Kong, and I've been here three years."}
+  - {n: 8, speaker: Ka-wai, hanzi: "你嚟香港，我去英國，啱啱調轉。😂", jyutping: "nei5 lai4 hoeng1 gong2, ngo5 heoi3 jing1 gwok3, ngaam1 ngaam1 diu6 zyun2.", en: "You came to Hong Kong, I went to England: exactly the other way round. 😂"}
+  - {n: 9, speaker: Leung Pak, hanzi: "（語音）阿偉，你琴日點解唔覆我？我打咗三次電話俾你。", jyutping: "(jyu5 jam1) aa3 wai5, nei5 kam4 jat6 dim2 gaai2 m4 fuk1 ngo5? ngo5 daa2 zo2 saam1 ci3 din6 waa2 bei2 nei5.", en: "(Voice message) Wai, why didn't you answer me yesterday? I phoned you three times."}
+  - {n: 10, speaker: Ka-wai, hanzi: "阿爸，時差呀！你打嚟嗰陣，我仲瞓緊覺。", jyutping: "aa3 baa4, si4 caa1 aa3! nei5 daa2 lai4 go2 zan6, ngo5 zung6 fan3 gan2 gaau3.", en: "Dad, the time difference! When you rang, I was still asleep."}
+  - {n: 11, speaker: Kayan, hanzi: "阿爸話佢好擔心你喎，叫你得閒就聯絡吓佢。", jyutping: "aa3 baa4 waa6 keoi5 hou2 daam1 sam1 nei5 wo5, giu3 nei5 dak1 haan4 zau6 lyun4 lok3 haa5 keoi5.", en: "Dad says he's very worried about you, and he wants you to get in touch when you're free."}
+  - {n: 12, speaker: Ka-wai, hanzi: "知道。阿爸，下個禮拜六我同你video call，好冇？", jyutping: "zi1 dou3. aa3 baa4, haa6 go3 lai5 baai3 luk6 ngo5 tung4 nei5 video call, hou2 mou5?", en: "Got it. Dad, I'll video-call you next Saturday, OK?"}
+  - {n: 13, speaker: Leung Pak, hanzi: "（語音）好。蓮姐話你瘦咗喎，你有冇食飯㗎？", jyutping: "(jyu5 jam1) hou2. lin4 ze2 waa6 nei5 sau3 zo2 wo5, nei5 jau5 mou5 sik6 faan6 gaa3?", en: "(Voice message) OK. Lin-ze says you've lost weight. Are you eating properly?"}
+  - {n: 14, speaker: Ka-wai, hanzi: "佢點知我瘦咗？佢都成年冇見過我！", jyutping: "keoi5 dim2 zi1 ngo5 sau3 zo2? keoi5 dou1 seng4 nin4 mou5 gin3 gwo3 ngo5!", en: "How does she know I've lost weight? She hasn't seen me for a year!"}
+  - {n: 15, speaker: Kayan, hanzi: "佢話係睇你上個禮拜post嗰張相睇到嘅。", jyutping: "keoi5 waa6 hai6 tai2 nei5 soeng6 go3 lai5 baai3 post go2 zoeng1 soeng2 tai2 dou2 ge3.", en: "She says she saw it in the photo you posted last week."}
+  - {n: 16, speaker: Ka-wai, hanzi: "蓮姐睇我IG？😱", jyutping: "lin4 ze2 tai2 ngo5 IG?", en: "Lin-ze looks at my Instagram? 😱"}
+  - {n: 17, speaker: Kayan, hanzi: "放心，佢淨係睇，好少留言。上次佢留咗個言，係一個生日蛋糕。", jyutping: "fong3 sam1, keoi5 zing6 hai6 tai2, hou2 siu2 lau4 jin4. soeng6 ci3 keoi5 lau4 zo2 go3 jin4, hai6 jat1 go3 saang1 jat6 daan6 gou1.", en: "Relax, she only looks; she hardly ever comments. The one time she left a comment, it was a birthday cake."}
+  - {n: 18, speaker: Hugo, hanzi: "蓮姐乜都知。今朝佢仲話我今年會拍拖喎。", jyutping: "lin4 ze2 mat1 dou1 zi1. gam1 ziu1 keoi5 zung6 waa6 ngo5 gam1 nin4 wui5 paak3 to1 wo5.", en: "Lin-ze knows everything. This morning she even told me I'd find a girlfriend this year."}
+  - {n: 19, speaker: Kayan, hanzi: "佢講嘅嘢，你要留意吓：一半係真，一半係佢自己作出嚟嘅。", jyutping: "keoi5 gong2 ge3 je5, nei5 jiu3 lau4 ji3 haa5: jat1 bun3 hai6 zan1, jat1 bun3 hai6 keoi5 zi6 gei2 zok3 ceot1 lai4 ge3.", en: "What she says, be careful with it: half is true, and half she makes up herself."}
+  - {n: 20, speaker: Ka-wai, hanzi: "Hugo，你住喺阿爸樓上，幫我睇住佢啦。佢一個人住，又唔肯去睇醫生。", jyutping: "Hugo, nei5 zyu6 hai2 aa3 baa4 lau4 soeng6, bong1 ngo5 tai2 zyu6 keoi5 laa1. keoi5 jat1 go3 jan4 zyu6, jau6 m4 hang2 heoi3 tai2 ji1 sang1.", en: "Hugo, you live above Dad, keep an eye on him for me, will you? He lives alone, and he won't see a doctor."}
+  - {n: 21, speaker: Hugo, hanzi: "冇問題。不過我睇佢好精神，今朝仲同我講咗成個鐘馬經。", jyutping: "mou5 man6 tai4. bat1 gwo3 ngo5 tai2 keoi5 hou2 zing1 san4, gam1 ziu1 zung6 tung4 ngo5 gong2 zo2 seng4 go3 zung1 maa5 ging1.", en: "No problem. But he looks full of beans to me: this morning he talked racing tips at me for a whole hour."}
+  - {n: 22, speaker: Kayan, hanzi: "唔該你呀Hugo。有咩事，你直接打俾我都得。", jyutping: "m4 goi1 nei5 aa3 Hugo. jau5 me1 si6, nei5 zik6 zip3 daa2 bei2 ngo5 dou1 dak1.", en: "Thanks, Hugo. If anything happens, just call me directly."}
+  - {n: 23, speaker: Leung Pak, hanzi: "（語音）阿欣，點樣send相㗎？我想影相俾阿偉睇吓個新租客。", jyutping: "(jyu5 jam1) aa3 jan1, dim2 joeng2 send soeng2 gaa3? ngo5 soeng2 jing2 soeng2 bei2 aa3 wai5 tai2 haa5 go3 san1 zou1 haak3.", en: "(Voice message) Kayan, how do you send a photo? I want to take a picture of the new tenant for Wai."}
+  - {n: 24, speaker: Kayan, hanzi: "阿爸，唔使喇！你再撳錯，成個群組都會見到你自拍。", jyutping: "aa3 baa4, m4 sai2 laa3! nei5 zoi3 gam6 co3, seng4 go3 kwan4 zou2 dou1 wui5 gin3 dou2 nei5 zi6 paak3.", en: "Dad, no need! If you press the wrong thing again, the whole group will see your selfie."}
+  - {n: 25, speaker: Leung Pak, hanzi: "（一張相：梁伯自己個鼻哥窿，好大）", jyutping: "(jat1 zoeng1 soeng2: loeng4 baak3 zi6 gei2 go3 bei6 go1 lung1, hou2 daai6)", en: "(A photo: a close-up of Uncle Leung's own nostril, very large)"}
+  - {n: 26, speaker: Ka-wai, hanzi: "😂😂😂 阿爸，多謝晒，好清楚。", jyutping: "aa3 baa4, do1 ze6 saai3, hou2 cing1 co2.", en: "😂😂😂 Thanks, Dad, very clear."}
+notes:
+  - {ref: 1, topic: vocab, text: "語音 jyu5 jam1 = voice message (in chat apps); also 'speech sound'. 密碼 mat6 maa5 = password, PIN. 雪櫃 syut3 gwai6 = fridge, lit. 'snow cupboard'."}
+  - {ref: 2, topic: grammar, text: "係…嚟㗎 hai6 … lai4 gaa3 says what kind of thing something is, often with surprise or a correction: 呢個係家庭群組嚟㗎 'this is a family group, you know!'. 群組 kwan4 zou2 = (chat) group. 家庭 gaa1 ting4 = family, household."}
+  - {ref: 3, topic: grammar, text: "Code-mixing: Hong Kong speech drops English words straight into Cantonese grammar, and the Cantonese endings stay: add咗 'added', send咗 (line 4), post嗰張相 (line 15). The English word keeps Cantonese tones in fast speech (send sen1). Written chats mix freely; formal writing doesn't."}
+  - {ref: 3, topic: vocab, text: "撳 gam6 = press (a button), push down: 撳錯 'press the wrong one', 撳鐘 'ring the bell'. V錯 = do wrongly: 打錯 'wrong number', 聽錯 'mishear'. 應該 jing1 goi1 here = must be, probably."}
+  - {ref: 5, topic: grammar, text: "Possession with a classifier instead of 嘅: 梁伯個女 'Uncle Leung's daughter', 你個租客 (P1). Common with people and single things. 唔緊要 m4 gan2 jiu3 = never mind, it doesn't matter."}
+  - {ref: 7, topic: vocab, text: "原本 jyun4 bun2 = originally, at first (and then things changed). 點知 dim2 zi1 = but then, who'd have thought: 原本想去英國，點知嚟咗香港. 一住就三年 'stayed, and that was three years': 一 V 就 + length."}
+  - {ref: 8, topic: vocab, text: "調轉 diu6 zyun2 = the other way round, reversed: 調轉頭 'turn round'. 平時 ping4 si4 (line 6) = usually, normally."}
+  - {ref: 9, topic: vocab, text: "覆 fuk1 = reply to (a message, a call): 覆我 'get back to me', 覆電話 'return a call'. 時差 si4 caa1 (line 10) = time difference, jet lag."}
+  - {ref: 11, topic: grammar, text: "Reported speech: X話… 'X says (that) …', then 喎 wo5 at the end to show the words are someone else's: 阿爸話佢好擔心你喎 'Dad says he's very worried about you'. 叫 + person + verb = tell someone to: 叫你聯絡吓佢 'says you should get in touch'. 擔心 daam1 sam1 = worry; 聯絡 lyun4 lok3 = contact."}
+  - {ref: 13, topic: grammar, text: "Two layers of reporting: 梁伯 passes on what 蓮姐 said: 蓮姐話你瘦咗喎. 喎 wo5 (hearsay) is different from 喎 wo3 'oh, I notice' (P1 line 2): listen for the tone."}
+  - {ref: 15, topic: grammar, text: "係…嘅 picks out how or when something happened: 係睇相睇到嘅 'it was from the photo that she saw it'. 成年 seng4 nin4 (line 14) = a whole year."}
+  - {ref: 18, topic: vocab, text: "拍拖 paak3 to1 = date, go out with someone, lit. 'side by side (like boats) and towed'. 佢哋拍緊拖 'they're going out'; 拍咗兩年拖 'have been together two years' (the object 拖 splits off; more in P22)."}
+  - {ref: 19, topic: vocab, text: "留意 lau4 ji3 = pay attention to, watch out for: 留意吓 'be careful'. 作 zok3 = make up, invent: 作出嚟 'made up'. The topic comes first again: 佢講嘅嘢，你要留意吓."}
+  - {ref: 20, topic: vocab, text: "睇住 tai2 zyu6 = keep an eye on, look after. 唔肯 m4 hang2 = refuse to, won't. 精神 zing1 san4 (line 20) = lively, full of energy. 馬經 maa5 ging1 = racing tips, form guide."}
+  - {ref: 11, topic: vs-mandarin, text: "Mandarin has no particle like 喎 for hearsay: it says 爸爸說他很擔心你, or adds 聽說. Cantonese can do both: 聽講 (P1) at the start, 喎 at the end. 話 is the verb 'say' in Cantonese; in Mandarin 話 is only a noun ('words, speech')."}
+pron:
+  - {ref: 9, text: "覆 'reply' is fuk1; don't confuse it with 復 fuk6 'again, return'."}
+  - {ref: 2, text: "群 kwan4: the kw- start is like English 'qu-'; 群組 kwan4 zou2."}
+  - {ref: 25, text: "鼻哥窿 bei6 go1 lung1 'nostril': 窿 'hole' is lung1, high level."}
+new_words:
+  - {jyutping: "jyu5 jam1", hanzi: 語音, en: "voice message"}
+  - {jyutping: "mat6 maa5", hanzi: 密碼, en: "password"}
+  - {jyutping: "syut3 gwai6", hanzi: 雪櫃, en: "fridge"}
+  - {jyutping: "gaa1 ting4", hanzi: 家庭, en: "family, household"}
+  - {jyutping: "kwan4 zou2", hanzi: 群組, en: "(chat) group"}
+  - {jyutping: "gam6", hanzi: 撳, en: "press (a button)"}
+  - {jyutping: "bou2 him2", hanzi: 保險, en: "insurance"}
+  - {jyutping: "jyun4 bun2", hanzi: 原本, en: "originally, at first"}
+  - {jyutping: "dim2 zi1", hanzi: 點知, en: "but then, who'd have thought"}
+  - {jyutping: "fuk1", hanzi: 覆, en: "reply to"}
+  - {jyutping: "si4 caa1", hanzi: 時差, en: "time difference, jet lag"}
+  - {jyutping: "lyun4 lok3", hanzi: 聯絡, en: "contact, get in touch"}
+  - {jyutping: "soeng2", hanzi: 相, en: "photo"}
+  - {jyutping: "lau4 ji3", hanzi: 留意, en: "pay attention to"}
+  - {jyutping: "zok3", hanzi: 作, en: "make up, invent"}
+  - {jyutping: "tai2 zyu6", hanzi: 睇住, en: "keep an eye on"}
+  - {jyutping: "maa5 ging1", hanzi: 馬經, en: "racing tips, form guide"}
+  - {jyutping: "jing2 soeng2", hanzi: 影相, en: "take a photo"}
+  - {jyutping: "zi6 paak3", hanzi: 自拍, en: "selfie"}
+  - {jyutping: "bei6 go1 lung1", hanzi: 鼻哥窿, en: "nostril"}
+  - {jyutping: "bou2 him2 gung1 si1", hanzi: 保險公司, en: "insurance company"}
+  - {jyutping: "tai2 ji1 sang1", hanzi: 睇醫生, en: "see a doctor"}
+  - {jyutping: "mou5 man6 tai4", hanzi: 冇問題, en: "no problem"}
+  - {jyutping: "go4 go1", hanzi: 哥哥, en: "elder brother"}
+  - {jyutping: "jap6 lai4", hanzi: 入嚟, en: "come in, into (here)"}
+  - {jyutping: "lau4 jin4", hanzi: 留言, en: "leave a comment, message"}
+  - {jyutping: "daan6 gou1", hanzi: 蛋糕, en: "cake"}
+  - {jyutping: "zik6 zip3", hanzi: 直接, en: "directly"}
+exercises:
+  translate:
+    - {hanzi: "佢話佢今晚唔得閒喎。", jyutping: "keoi5 waa6 keoi5 gam1 maan5 m4 dak1 haan4 wo5.", en: "She says she's busy tonight."}
+    - {hanzi: "我原本想覆你，點知撳錯咗。", jyutping: "ngo5 jyun4 bun2 soeng2 fuk1 nei5, dim2 zi1 gam6 co3 zo2.", en: "I meant to reply to you, but I pressed the wrong button."}
+    - {hanzi: "阿媽叫我得閒就聯絡吓佢。", jyutping: "aa3 maa1 giu3 ngo5 dak1 haan4 zau6 lyun4 lok3 haa5 keoi5.", en: "Mum tells me to get in touch with her when I'm free."}
+    - {hanzi: "呢張相你send咗俾邊個？", jyutping: "ni1 zoeng1 soeng2 nei5 send zo2 bei2 bin1 go3?", en: "Who did you send this photo to?"}
+    - {hanzi: "我哥哥平時好精神，今日唔知點解好攰。", jyutping: "ngo5 go4 go1 ping4 si4 hou2 zing1 san4, gam1 jat6 m4 zi1 dim2 gaai2 hou2 gui6.", en: "My brother is usually full of energy; I don't know why he's so tired today."}
+  fill:
+    - {hanzi: "蓮姐話你瘦咗___。", jyutping: "lin4 ze2 waa6 nei5 sau3 zo2 ___.", answer: "wo5", answer_hanzi: 喎, en: "Lin-ze says you've lost weight."}
+    - {hanzi: "佢一個人住，又唔___去睇醫生。", jyutping: "keoi5 jat1 go3 jan4 zyu6, jau6 m4 ___ heoi3 tai2 ji1 sang1.", answer: "hang2", answer_hanzi: 肯, en: "He lives alone and won't go to the doctor."}
+    - {hanzi: "你住喺佢樓上，幫我___佢啦。", jyutping: "nei5 zyu6 hai2 keoi5 lau4 soeng6, bong1 ngo5 ___ keoi5 laa1.", answer: "tai2 zyu6", answer_hanzi: 睇住, en: "You live above him; keep an eye on him for me."}
+    - {hanzi: "呢度係家庭___嚟㗎！", jyutping: "ni1 dou6 hai6 gaa1 ting4 ___ lai4 gaa3!", answer: "kwan4 zou2", answer_hanzi: 群組, en: "This is a family group, you know!"}
+    - {hanzi: "佢講嘅嘢一半係真，一半係佢自己___出嚟嘅。", jyutping: "keoi5 gong2 ge3 je5 jat1 bun3 hai6 zan1, jat1 bun3 hai6 keoi5 zi6 gei2 ___ ceot1 lai4 ge3.", answer: "zok3", answer_hanzi: 作, en: "Half of what she says is true, and half she makes up."}

@@ -1,0 +1,95 @@
+# 進修 1. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 1
+title: {en: "A stranger in town", jyutping: "jan4 sang1 lou6 bat1 suk6", hanzi: "人生路不熟"}
+genre: dialogue
+review: false
+setting: "A Saturday afternoon in September. 梁記冰室, an old café on a side street in Sham Shui Po. Hugo comes in dragging two suitcases. 蓮姐, the waitress, is wiping tables; 梁伯, the owner, is reading the racing page."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "唔該，請問呢度係咪梁記冰室呀？", jyutping: "m4 goi1, cing2 man6 ni1 dou6 hai6 mai6 loeng4 gei3 bing1 sat1 aa3?", en: "Excuse me, is this Leung Kee Café?"}
+  - {n: 2, speaker: Lin-ze, hanzi: "係呀，招牌咪寫住囉。拖住兩個喼，你唔似嚟飲茶喎。", jyutping: "hai6 aa3, ziu1 paai4 mai6 se2 zyu6 lo1. to1 zyu6 loeng5 go3 gip1, nei5 m4 ci5 lai4 jam2 caa4 wo3.", en: "Yes, it says so on the sign, doesn't it? Dragging two suitcases, you don't look like you've come for tea."}
+  - {n: 3, speaker: Hugo, hanzi: "我叫雨果，係法國人。我同梁生講好咗，租樓上嗰間房。", jyutping: "ngo5 giu3 jyu5 gwo2, hai6 faat3 gwok3 jan4. ngo5 tung4 loeng4 saang1 gong2 hou2 zo2, zou1 lau4 soeng6 go2 gaan1 fong2.", en: "My name is Hugo, I'm French. I've agreed with Mr Leung to rent the room upstairs."}
+  - {n: 4, speaker: Lin-ze, hanzi: "哦，你就係嗰個鬼佬租客！梁伯，你個租客嚟咗喇！", jyutping: "o4, nei5 zau6 hai6 go2 go3 gwai2 lou2 zou1 haak3! loeng4 baak3, nei5 go3 zou1 haak3 lai4 zo2 laa3!", en: "Oh, so you're the gweilo tenant! Uncle Leung, your tenant's here!"}
+  - {n: 5, speaker: Leung Pak, hanzi: "咁早到嘅？我仲以為你六點先嚟。（對蓮姐）呢位係雨果，之前喺中環做嘢。", jyutping: "gam3 zou2 dou3 ge2? ngo5 zung6 ji5 wai4 nei5 luk6 dim2 sin1 lai4. (deoi3 lin4 ze2) ni1 wai2 hai6 jyu5 gwo2, zi1 cin4 hai2 zung1 waan4 zou6 je5.", en: "Here already? I thought you wouldn't come till six. (To Lin-ze) This is Hugo; he used to work in Central."}
+  - {n: 6, speaker: Lin-ze, hanzi: "中環？做銀行㗎？咁你做乜搬嚟深水埗呀？", jyutping: "zung1 waan4? zou6 ngan4 hong4 gaa4? gam2 nei5 zou6 mat1 bun1 lai4 sam1 seoi2 bou2 aa3?", en: "Central? In a bank? Then why on earth move to Sham Shui Po?"}
+  - {n: 7, speaker: Hugo, hanzi: "銀行份工，我辭咗喇。最近成日覺得好攰，想轉吓環境。", jyutping: "ngan4 hong4 fan6 gung1, ngo5 ci4 zo2 laa3. zeoi3 gan6 sing4 jat6 gok3 dak1 hou2 gui6, soeng2 zyun3 haa5 waan4 ging2.", en: "The bank job, I've quit it. Lately I've felt exhausted all the time; I want a change of scene."}
+  - {n: 8, speaker: Lin-ze, hanzi: "你廣東話講得幾好喎！喺邊度學㗎？", jyutping: "nei5 gwong2 dung1 waa2 gong2 dak1 gei2 hou2 wo3! hai2 bin1 dou6 hok6 gaa3?", en: "Your Cantonese is pretty good! Where did you learn it?"}
+  - {n: 9, speaker: Hugo, hanzi: "喺法國學咗兩年，之後嚟到香港再自己學。不過好多嘢我都仲聽唔明。", jyutping: "hai2 faat3 gwok3 hok6 zo2 loeng5 nin4, zi1 hau6 lai4 dou3 hoeng1 gong2 zoi3 zi6 gei2 hok6. bat1 gwo3 hou2 do1 je5 ngo5 dou1 zung6 teng1 m4 ming4.", en: "Two years in France, then I went on by myself after I came to Hong Kong. But there's still a lot I don't understand."}
+  - {n: 10, speaker: Leung Pak, hanzi: "唔使驚，佢講嘢咁快，連我都聽唔明。", jyutping: "m4 sai2 geng1, keoi5 gong2 je5 gam3 faai3, lin4 ngo5 dou1 teng1 m4 ming4.", en: "Don't worry, she talks so fast even I can't follow her."}
+  - {n: 11, speaker: Lin-ze, hanzi: "死老鬼！（對雨果）我叫蓮姐，喺度做咗三十年。成條街嘅人，冇一個我唔識。", jyutping: "sei2 lou5 gwai2! (deoi3 jyu5 gwo2) ngo5 giu3 lin4 ze2, hai2 dou6 zou6 zo2 saam1 sap6 nin4. seng4 tiu4 gaai1 ge3 jan4, mou5 jat1 go3 ngo5 m4 sik1.", en: "You old devil! (To Hugo) I'm Lin-ze, I've worked here thirty years. The people on this street, there isn't one I don't know."}
+  - {n: 12, speaker: Lin-ze, hanzi: "等我估吓：你三十歲左右，未結婚，你阿媽仲未知你辭咗工，係咪？", jyutping: "dang2 ngo5 gu2 haa5: nei5 saam1 sap6 seoi3 zo2 jau2, mei6 git3 fan1, nei5 aa3 maa1 zung6 mei6 zi1 nei5 ci4 zo2 gung1, hai6 mai6?", en: "Let me guess: you're about thirty, not married, and your mum doesn't know yet that you've quit your job, right?"}
+  - {n: 13, speaker: Hugo, hanzi: "嘩，你點知㗎？三樣都啱！", jyutping: "waa3, nei5 dim2 zi1 gaa3? saam1 joeng6 dou1 ngaam1!", en: "Wow, how do you know? All three are right!"}
+  - {n: 14, speaker: Lin-ze, hanzi: "睇你個樣咪知囉。（細聲對梁伯）佢一個月俾幾多租你呀？", jyutping: "tai2 nei5 go3 joeng2 mai6 zi1 lo1. (sai3 seng1 deoi3 loeng4 baak3) keoi5 jat1 go3 jyut6 bei2 gei2 do1 zou1 nei5 aa3?", en: "It's written all over your face. (Quietly to Leung Pak) How much rent is he paying you a month?"}
+  - {n: 15, speaker: Leung Pak, hanzi: "唔關你事。（對雨果）間房呢，細係細啲，不過有窗，又有冷氣。", jyutping: "m4 gwaan1 nei5 si6. (deoi3 jyu5 gwo2) gaan1 fong2 ne1, sai3 hai6 sai3 di1, bat1 gwo3 jau5 coeng1, jau6 jau5 laang5 hei3.", en: "None of your business. (To Hugo) The room, well, it's a bit small, sure, but it has a window and air conditioning."}
+  - {n: 16, speaker: Hugo, hanzi: "得喇，有張床瞓就夠。洗手間喺邊度？", jyutping: "dak1 laa3, jau5 zoeng1 cong4 fan3 zau6 gau3. sai2 sau2 gaan1 hai2 bin1 dou6?", en: "That's fine, a bed to sleep in is all I need. Where's the toilet?"}
+  - {n: 17, speaker: Leung Pak, hanzi: "喺走廊盡頭，要同我共用。樓上成個單位，我租咗二十幾年；業主姓何，好少嚟。", jyutping: "hai2 zau2 long4 zeon6 tau4, jiu3 tung4 ngo5 gung6 jung6. lau4 soeng6 seng4 go3 daan1 wai2, ngo5 zou1 zo2 ji6 sap6 gei2 nin4; jip6 zyu2 sing3 ho4, hou2 siu2 lai4.", en: "At the end of the corridor; you share it with me. The whole flat upstairs, I've rented it for twenty-odd years. The landlord is called Ho; he hardly ever comes."}
+  - {n: 18, speaker: Hugo, hanzi: "咁即係我租你嘅，定係租佢嘅？", jyutping: "gam2 zik1 hai6 ngo5 zou1 nei5 ge3, ding6 hai6 zou1 keoi5 ge3?", en: "So does that mean I'm renting from you, or from him?"}
+  - {n: 19, speaker: Leung Pak, hanzi: "租我嘅。你交租俾我，我交租俾何生，好簡單。", jyutping: "zou1 ngo5 ge3. nei5 gaau1 zou1 bei2 ngo5, ngo5 gaau1 zou1 bei2 ho4 saang1, hou2 gaan2 daan1.", en: "From me. You pay rent to me, I pay rent to Mr Ho. Simple."}
+  - {n: 20, speaker: Lin-ze, hanzi: "簡單？聽講何生出年又要加租喎，你知唔知呀？", jyutping: "gaan2 daan1? teng1 gong2 ho4 saang1 ceot1 nin2 jau6 jiu3 gaa1 zou1 wo5, nei5 zi1 m4 zi1 aa3?", en: "Simple? I hear Mr Ho wants to put the rent up again next year. Did you know?"}
+  - {n: 21, speaker: Leung Pak, hanzi: "你又聽邊個講㗎？咪亂講啦。", jyutping: "nei5 jau6 teng1 bin1 go3 gong2 gaa3? mai5 lyun6 gong2 laa1.", en: "Who've you been listening to this time? Stop talking rubbish."}
+  - {n: 22, speaker: Lin-ze, hanzi: "成條街都噉講。（對雨果）你食咗飯未呀？放低啲行李先，我整碗餐蛋麵俾你。", jyutping: "seng4 tiu4 gaai1 dou1 gam2 gong2. (deoi3 jyu5 gwo2) nei5 sik6 zo2 faan6 mei6 aa3? fong3 dai1 di1 hang4 lei5 sin1, ngo5 zing2 wun2 caan1 daan2 min6 bei2 nei5.", en: "The whole street says so. (To Hugo) Have you eaten? Put your luggage down first, I'll make you a bowl of noodles with luncheon meat and egg."}
+  - {n: 23, speaker: Hugo, hanzi: "唔該晒！我嚟咗香港三年，第一次感覺好似返咗屋企噉。", jyutping: "m4 goi1 saai3! ngo5 lai4 zo2 hoeng1 gong2 saam1 nin4, dai6 jat1 ci3 gam2 gok3 hou2 ci5 faan1 zo2 uk1 kei2 gam2.", en: "Thanks so much! I've been in Hong Kong three years, and it's the first time I've felt as if I were home."}
+  - {n: 24, speaker: Leung Pak, hanzi: "未食就講埋啲肉麻嘢。食完之後，我帶你上去睇房。", jyutping: "mei6 sik6 zau6 gong2 maai4 di1 juk6 maa4 je5. sik6 jyun4 zi1 hau6, ngo5 daai3 nei5 soeng5 heoi3 tai2 fong2.", en: "He hasn't even eaten and he's already saying soppy things. When you've finished, I'll take you up to see the room."}
+notes:
+  - {ref: 1, topic: culture, text: "冰室 bing1 sat1 'ice room': the older name for a Hong Kong café, from the days when cold drinks were the novelty. Many 冰室 have since become 茶餐廳 caa4 caan1 teng1. 梁記 'Leung's': 記 after a surname is the classic name for a family shop."}
+  - {ref: 2, topic: grammar, text: "咪…囉 mai6 … lo1 = 'obviously …, isn't it?': 咪寫住囉 'it's written there, isn't it'. 喎 wo3 at the end marks something you've just noticed: 你唔似嚟飲茶喎 'you don't look like you're here for tea'. 喼 gip1 = suitcase (from English 'grip'); 拖 to1 = drag, pull along."}
+  - {ref: 3, topic: vocab, text: "講好 gong2 hou2 = agree on, settle (lit. 'talk until it's good'): 我哋講好咗 'we've agreed'. 租 zou1 = rent (verb and noun): 租房 'rent a room', 交租 'pay the rent' (line 19)."}
+  - {ref: 4, topic: register, text: "鬼佬 gwai2 lou2, lit. 'ghost guy' = a Western man. Everyday and often friendly, but it can sound rude; foreigners use it of themselves as a joke. The polite word is 外國人 ngoi6 gwok3 jan4. 租客 zou1 haak3 = tenant."}
+  - {ref: 5, topic: grammar, text: "先 sin1 after a time and before the verb means 'only then, not before': 你六點先嚟 'you'd only come at six'. 以為 ji5 wai4 = think (wrongly): 我仲以為… 'and I thought …'. 之前 zi1 cin4 = before, previously: 之前喺中環做嘢 'used to work in Central'."}
+  - {ref: 6, topic: vocab, text: "做乜 zou6 mat1 = why on earth, what for: more surprised than 點解 dim2 gaai2. 做銀行 'work in a bank': 做 + a trade, as in 做飲食 'work in catering'."}
+  - {ref: 7, topic: grammar, text: "Topic–comment: the thing you talk about comes first, then what you say about it. 銀行份工，我辭咗喇 'the bank job, I've quit it'. English would keep the object after the verb; Cantonese puts it first whenever it's already in the conversation. 辭 ci4 = resign from: 辭工 / 辭職 'quit one's job'. 轉環境 'change one's surroundings'."}
+  - {ref: 9, topic: vocab, text: "之後 zi1 hau6 = after that, afterwards: 學咗兩年，之後… 'learnt for two years, then …'. Also after a clause: 食完之後 'after eating' (line 24). 聽唔明 'hear but not understand'."}
+  - {ref: 10, topic: grammar, text: "連…都 lin4 … dou1 = even: 連我都聽唔明 'even I can't follow'. 咁 gam3 + adjective = so: 咁快 'so fast'."}
+  - {ref: 11, topic: grammar, text: "Topic first again: 成條街嘅人，冇一個我唔識 'the people on this street, there's not one I don't know'. 死老鬼 sei2 lou5 gwai2, lit. 'dead old ghost': a rude-sounding but affectionate jibe between old friends. Don't try it on strangers."}
+  - {ref: 12, topic: grammar, text: "嘅 is usually left out between a pronoun and a family member or a close place: 你阿媽 'your mum', 我屋企 'my home', 佢老公 'her husband'. With other nouns it stays: 你嘅喼 'your suitcase'. 左右 zo2 jau2 after a number = about: 三十歲左右."}
+  - {ref: 15, topic: grammar, text: "A係A, 不過… 'A, sure, but …': 細係細啲，不過有窗 'it's small, sure, but it has a window'. The topic 間房 is marked with 呢 ne1, a pause that means 'as for the room …'."}
+  - {ref: 17, topic: vocab, text: "單位 daan1 wai2 = a flat (in a building); also 'unit, organisation'. 業主 jip6 zyu2 = landlord, owner. 共用 gung6 jung6 = share (a room, a toilet). 走廊盡頭 'the end of the corridor'."}
+  - {ref: 20, topic: vocab, text: "聽講 teng1 gong2 = I hear (that), apparently. 出年 ceot1 nin2 = next year (also 明年 ming4 nin4). 加租 gaa1 zou1 = raise the rent. Here 喎 is wo5, passing on what others say; P3 comes back to it."}
+  - {ref: 10, topic: vs-mandarin, text: "The same line in Mandarin: 別怕，他說話這麼快，連我都聽不懂. Four everyday swaps to recognise in writing: 佢 keoi5 ↔ 他 'he, she', 係 hai6 ↔ 是 'be', 唔 m4 ↔ 不 'not', 嘅 ge3 ↔ 的. Spoken Cantonese uses the left-hand words; signs, news and letters often use the right-hand ones, read with Cantonese sounds (P13)."}
+pron:
+  - {ref: 2, text: "喼 gip1 (suitcase) is high level; don't confuse it with 劫 gip3 'rob'."}
+  - {ref: 5, text: "位 is wai6, but after 呢/嗰 ('this/that person') it usually rises: 呢位 ni1 wai2."}
+  - {ref: 20, text: "出年 ceot1 nin2: 年 rises to nin2 in 出年 and 舊年 'last year', but stays nin4 in 今年."}
+new_words:
+  - {jyutping: "bing1 sat1", hanzi: 冰室, en: "old-style café"}
+  - {jyutping: "ziu1 paai4", hanzi: 招牌, en: "shop sign"}
+  - {jyutping: "gip1", hanzi: 喼, en: "suitcase"}
+  - {jyutping: "zou1", hanzi: 租, en: "rent"}
+  - {jyutping: "zou1 haak3", hanzi: 租客, en: "tenant"}
+  - {jyutping: "zi1 cin4", hanzi: 之前, en: "before, previously"}
+  - {jyutping: "zou6 mat1", hanzi: 做乜, en: "why on earth, what for"}
+  - {jyutping: "ci4", hanzi: 辭, en: "resign from, quit"}
+  - {jyutping: "zeoi3 gan6", hanzi: 最近, en: "lately, recently"}
+  - {jyutping: "zi1 hau6", hanzi: 之後, en: "after, afterwards"}
+  - {jyutping: "sai3 seng1", hanzi: 細聲, en: "quietly, in a low voice"}
+  - {jyutping: "coeng1", hanzi: 窗, en: "window"}
+  - {jyutping: "cong4", hanzi: 床, en: "bed"}
+  - {jyutping: "zau2 long4", hanzi: 走廊, en: "corridor"}
+  - {jyutping: "zeon6 tau4", hanzi: 盡頭, en: "end (of a corridor, road)"}
+  - {jyutping: "gung6 jung6", hanzi: 共用, en: "share, use together"}
+  - {jyutping: "daan1 wai2", hanzi: 單位, en: "flat; unit"}
+  - {jyutping: "jip6 zyu2", hanzi: 業主, en: "landlord, owner"}
+  - {jyutping: "gaa1 zou1", hanzi: 加租, en: "raise the rent"}
+  - {jyutping: "fong3 dai1", hanzi: 放低, en: "put down"}
+  - {jyutping: "hang4 lei5", hanzi: 行李, en: "luggage"}
+  - {jyutping: "gam2 gok3", hanzi: 感覺, en: "feel; feeling"}
+  - {jyutping: "juk6 maa4", hanzi: 肉麻, en: "soppy, cringe-making"}
+  - {jyutping: "lyun6 gong2", hanzi: 亂講, en: "talk nonsense"}
+  - {jyutping: "sei2 lou5 gwai2", hanzi: 死老鬼, en: "old devil (affectionate jibe)"}
+  - {jyutping: "m4 gwaan1 nei5 si6", hanzi: 唔關你事, en: "none of your business"}
+  - {jyutping: "lau4 soeng6", hanzi: 樓上, en: "upstairs"}
+  - {jyutping: "zing2", hanzi: 整, en: "make, fix"}
+  - {jyutping: "sam1 seoi2 bou2", hanzi: 深水埗, en: "Sham Shui Po (district)"}
+  - {jyutping: "ci4 gung1", hanzi: 辭工, en: "quit one's job"}
+exercises:
+  translate:
+    - {hanzi: "呢份工，我做咗兩年之後就辭咗。", jyutping: "ni1 fan6 gung1, ngo5 zou6 zo2 loeng5 nin4 zi1 hau6 zau6 ci4 zo2.", en: "This job, I quit it after two years."}
+    - {hanzi: "聽講業主出年又要加租。", jyutping: "teng1 gong2 jip6 zyu2 ceot1 nin2 jau6 jiu3 gaa1 zou1.", en: "I hear the landlord wants to raise the rent again next year."}
+    - {hanzi: "佢講嘢咁細聲，連佢阿媽都聽唔到。", jyutping: "keoi5 gong2 je5 gam3 sai3 seng1, lin4 keoi5 aa3 maa1 dou1 teng1 m4 dou2.", en: "He speaks so quietly that even his mum can't hear him."}
+    - {hanzi: "我仲以為你唔識講廣東話。", jyutping: "ngo5 zung6 ji5 wai4 nei5 m4 sik1 gong2 gwong2 dung1 waa2.", en: "And I thought you couldn't speak Cantonese."}
+    - {hanzi: "間房細係細啲，不過好近地鐵站。", jyutping: "gaan1 fong2 sai3 hai6 sai3 di1, bat1 gwo3 hou2 kan5 dei6 tit3 zaam6.", en: "The room is a bit small, sure, but it's very close to the MTR station."}
+  fill:
+    - {hanzi: "你食咗飯未？食完___，我帶你去睇房。", jyutping: "nei5 sik6 zo2 faan6 mei6? sik6 jyun4 ___, ngo5 daai3 nei5 heoi3 tai2 fong2.", answer: "zi1 hau6", answer_hanzi: 之後, en: "Have you eaten? After eating, I'll take you to see the room."}
+    - {hanzi: "我___你六點先嚟，點知你咁早到。", jyutping: "ngo5 ___ nei5 luk6 dim2 sin1 lai4, dim2 zi1 nei5 gam3 zou2 dou3.", answer: "ji5 wai4", answer_hanzi: 以為, en: "I thought you'd only come at six, but you're here so early."}
+    - {hanzi: "你每個月要交___俾業主。", jyutping: "nei5 mui5 go3 jyut6 jiu3 gaau1 ___ bei2 jip6 zyu2.", answer: "zou1", answer_hanzi: 租, en: "You have to pay rent to the landlord every month."}
+    - {hanzi: "___你係租我嘅，唔係租佢嘅。", jyutping: "___ nei5 hai6 zou1 ngo5 ge3, m4 hai6 zou1 keoi5 ge3.", answer: "zik1 hai6", answer_hanzi: 即係, en: "That means you're renting from me, not from him."}
+    - {hanzi: "___我覺得好攰，想轉吓___。", jyutping: "___ ngo5 gok3 dak1 hou2 gui6, soeng2 zyun3 haa5 ___.", answer: "zeoi3 gan6 / waan4 ging2", answer_hanzi: 最近 / 環境, en: "Lately I've been feeling tired; I want a change of scene."}
