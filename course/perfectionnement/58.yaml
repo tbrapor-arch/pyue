@@ -1,0 +1,94 @@
+# 進修 58. Written Cantonese (Hong Kong and Kuala Lumpur), LSHK Jyutping. Not checked by a native speaker yet.
+id: 58
+title: {en: "The Southern Seas", jyutping: "naam4 joeng2", hanzi: "南洋"}
+intro: "The band plays Kuala Lumpur: Malaysian Cantonese with its Malay and English loans (巴剎, 鐳, lah), code-mixing again, and the words of migration and of the tropics."
+genre: trip
+review: false
+setting: "Saturday 23 October 2027. 天台派對 has been invited to play a Hong Kong indie night in Kuala Lumpur, the city where their idols 南洋派對 once played. Hugo, Hiu-ching and the band land in the morning. Their host, 阿莊, a KL promoter whose family has spoken Cantonese for four generations, meets them at Petaling Street."
+dialogue:
+  - {n: 1, speaker: A-zong, hanzi: "歡迎嚟到吉隆坡！你哋落機未食嘢吖嘛？我帶你哋去巴剎食早餐先。", jyutping: "fun1 jing4 lai4 dou3 gat1 lung4 bo1! nei5 dei6 lok6 gei1 mei6 sik6 je5 aa1 maa3? ngo5 daai3 nei5 dei6 heoi3 baa1 saat3 sik6 zou2 caan1 sin1.", en: "Welcome to Kuala Lumpur! You haven't eaten since you landed, right? I'll take you to the pasar for breakfast first."}
+  - {n: 2, speaker: Hugo, hanzi: "巴剎？即係乜嘢？", jyutping: "baa1 saat3? zik1 hai6 mat1 je5?", en: "Pasar? What's that?"}
+  - {n: 3, speaker: A-zong, hanzi: "巴剎係馬來話，即係街市。我哋講廣東話，夾埋好多馬來話同英文，好自然㗎啦。", jyutping: "baa1 saat3 hai6 maa5 loi4 waa2, zik1 hai6 gaai1 si5. ngo5 dei6 gong2 gwong2 dung1 waa2, gaap3 maai4 hou2 do1 maa5 loi4 waa2 tung4 jing1 man2, hou2 zi6 jin4 gaa3 laa1.", en: "Pasar is Malay: it means market. Our Cantonese mixes in lots of Malay and English; it's completely natural."}
+  - {n: 4, speaker: Ken, hanzi: "你哋講嘢個口音好似香港六七十年代嘅電影。", jyutping: "nei5 dei6 gong2 je5 go3 hau2 jam1 hou2 ci5 hoeng1 gong2 luk6 cat1 sap6 nin4 doi6 ge3 din6 jing2.", en: "Your accent sounds like Hong Kong films from the sixties and seventies."}
+  - {n: 5, speaker: A-zong, hanzi: "因為我哋由細到大睇港產片同電視劇學廣東話。不過我太公係由廣東鄉下嚟嘅，一百年前下南洋，喺錫礦做苦力。", jyutping: "jan1 wai6 ngo5 dei6 jau4 sai3 dou3 daai6 tai2 gong2 caan2 pin2 tung4 din6 si6 kek6 hok6 gwong2 dung1 waa2. bat1 gwo3 ngo5 taai3 gung1 hai6 jau4 gwong2 dung1 hoeng1 haa2 lai4 ge3, jat1 baak3 nin4 cin4 haa6 naam4 joeng4, hai2 sek3 kwong3 zou6 fu2 lik6.", en: "Because we grew up learning Cantonese from Hong Kong films and TV dramas. But my great-grandfather came from a village in Guangdong; a hundred years ago he went down to the Southern Seas and worked as a labourer in the tin mines."}
+  - {n: 6, speaker: Hiu-ching, hanzi: "咁你屋企講廣東話，定係其他方言？", jyutping: "gam2 nei5 uk1 kei2 gong2 gwong2 dung1 waa2, ding6 hai6 kei4 taa1 fong1 jin4?", en: "So does your family speak Cantonese, or another dialect?"}
+  - {n: 7, speaker: A-zong, hanzi: "阿公講客家話，阿嫲講廣府話。吉隆坡啲華人，好多都係客家、福建、潮州人，不過出到街，大家都講廣東話。", jyutping: "aa3 gung1 gong2 haak3 gaa1 waa2, aa3 maa4 gong2 gwong2 fu2 waa2. gat1 lung4 bo1 di1 waa4 jan4, hou2 do1 dou1 hai6 haak3 gaa1, fuk1 gin3, ciu4 zau1 jan4, bat1 gwo3 ceot1 dou3 gaai1, daai6 gaa1 dou1 gong2 gwong2 dung1 waa2.", en: "My grandad spoke Hakka, my grandma Cantonese. Many of KL's Chinese are Hakka, Hokkien or Teochew, but out on the street everyone speaks Cantonese."}
+  - {n: 8, speaker: A-zim, hanzi: "（喺巴剎）呢杯係乜嘢？好似我哋嘅奶茶，但係有好多泡。", jyutping: "(hai2 baa1 saat3) ni1 bui1 hai6 mat1 je5? hou2 ci5 ngo5 dei6 ge3 naai5 caa4, daan6 hai6 jau5 hou2 do1 pou5.", en: "(At the market) What's this? It looks like our milk tea, but it's very frothy."}
+  - {n: 9, speaker: A-zong, hanzi: "呢個係拉茶。將杯茶由高處倒落另一個杯，一拉一倒，拉到起泡。同你哋撞茶差唔多。", jyutping: "ni1 go3 hai6 laai1 caa4. zoeng1 bui1 caa4 jau4 gou1 cyu3 dou3 lok6 ling6 jat1 go3 bui1, jat1 laai1 jat1 dou3, laai1 dou3 hei2 pou5. tung4 nei5 dei6 zong6 caa4 caa1 m4 do1.", en: "This is teh tarik, pulled tea. You pour the tea from high up into another cup, pull and pour, until it froths. Not so different from your 'pulled' milk tea."}
+  - {n: 10, speaker: Hugo, hanzi: "梁伯一定要試吓。不過佢實話港式奶茶好飲啲。", jyutping: "loeng4 baak3 jat1 ding6 jiu3 si3 haa5. bat1 gwo3 keoi5 sat6 waa6 gong2 sik1 naai5 caa4 hou2 jam2 di1.", en: "梁伯 has to try this. But he'll surely say Hong Kong milk tea is better."}
+  - {n: 11, speaker: A-zong, hanzi: "好飲啲？你哋嗰杯幾多鐳？我哋呢杯兩個半馬幣咋。", jyutping: "hou2 jam2 di1? nei5 dei6 go2 bui1 gei2 do1 lui1? ngo5 dei6 ni1 bui1 loeng5 go3 bun3 maa5 bai6 zaa3.", en: "Better? How much money is yours? Ours is only two and a half ringgit."}
+  - {n: 12, speaker: Sai-So, hanzi: "鐳？「鐳」即係錢？", jyutping: "lui1? \"lui1\" zik1 hai6 cin2?", en: "Lui? 'Lui' means money?"}
+  - {n: 13, speaker: A-zong, hanzi: "係呀，冇鐳就冇得食 lah！（大家笑）", jyutping: "hai6 aa3, mou5 lui1 zau6 mou5 dak1 sik6 lah! (daai6 gaa1 siu3)", en: "Yep, no money, no food, lah! (Everyone laughs)"}
+  - {n: 14, speaker: Hiu-ching, hanzi: "嘩，好熱，又好濕。啱啱仲出晒太陽，而家就落雷雨。", jyutping: "waa3, hou2 jit6, jau6 hou2 sap1. ngaam1 ngaam1 zung6 ceot1 saai3 taai3 joeng4, ji4 gaa1 zau6 lok6 leoi4 jyu5.", en: "Wow, it's so hot and humid. A moment ago it was blazing sun, and now there's a thunderstorm."}
+  - {n: 15, speaker: A-zong, hanzi: "熱帶天氣就係咁。下晝落一場雷雨，晚黑就涼爽啲，啱晒你哋演出。", jyutping: "jit6 daai3 tin1 hei3 zau6 hai6 gam2. haa6 zau3 lok6 jat1 coeng4 leoi4 jyu5, maan5 hak1 zau6 loeng4 song2 di1, ngaam1 saai3 nei5 dei6 jin2 ceot1.", en: "That's tropical weather. A thunderstorm in the afternoon, and by evening it's cooler: just right for your show."}
+  - {n: 16, speaker: Hugo, hanzi: "（晚上，喺場地後台）外面坐滿人。佢哋真係聽得明我哋啲香港俚語？", jyutping: "(maan5 soeng6, hai2 coeng4 dei6 hau6 toi4) ngoi6 min6 co5 mun5 jan4. keoi5 dei6 zan1 hai6 teng1 dak1 ming4 ngo5 dei6 di1 hoeng1 gong2 lei5 jyu5?", en: "(That evening, backstage) It's packed out there. Can they really understand our Hong Kong slang?"}
+  - {n: 17, speaker: A-zong, hanzi: "聽得明！啲樂迷識唱嘅廣東歌，可能仲多過你哋。南洋派對嚟過，成場一齊合唱，我永遠記得。", jyutping: "teng1 dak1 ming4! di1 ngok6 mai4 sik1 coeng3 ge3 gwong2 dung1 go1, ho2 nang4 zung6 do1 gwo3 nei5 dei6. naam4 joeng2 paai3 deoi3 lai4 gwo3, seng4 coeng4 jat1 cai4 hap6 coeng3, ngo5 wing5 jyun5 gei3 dak1.", en: "They can! The fans here may know more Cantonese songs than you do. When 南洋派對 came, the whole crowd sang along together; I'll never forget it."}
+  - {n: 18, speaker: A-zim, hanzi: "（上台）吉隆坡，你好！我哋係天台派對，由香港深水埗嚟！", jyutping: "(soeng5 toi4) gat1 lung4 bo1, nei5 hou2! ngo5 dei6 hai6 tin1 toi4 paai3 deoi3, jau4 hoeng1 gong2 sam1 seoi2 bou2 lai4!", en: "(Going on stage) Hello, Kuala Lumpur! We're 天台派對, from Sham Shui Po, Hong Kong!"}
+  - {n: 19, speaker: Hugo, hanzi: "唱到《九龍夜車》，全場跟住拍手；唱到《冇人提起》，好多人靜靜咁喊。", jyutping: "coeng3 dou3 \"gau2 lung4 je6 ce1\", cyun4 coeng4 gan1 zyu6 paak3 sau2; coeng3 dou3 \"mou5 jan4 tai4 hei2\", hou2 do1 jan4 zing6 zing6 gam2 haam3.", en: "When we got to 'Kowloon Night Bus', the whole crowd clapped along; when we got to 'Nobody Brings It Up', many people quietly cried."}
+  - {n: 20, speaker: A-zong, hanzi: "（散場之後）有個阿伯同我講，佢個仔喺香港讀書，聽完呢首歌，好想打俾佢。", jyutping: "(saan3 coeng4 zi1 hau6) jau5 go3 aa3 baak3 tung4 ngo5 gong2, keoi5 go3 zai2 hai2 hoeng1 gong2 duk6 syu1, teng1 jyun4 ni1 sau2 go1, hou2 soeng2 daa2 bei2 keoi5.", en: "(After the show) An old man told me his son is studying in Hong Kong; after hearing that song, he really wanted to call him."}
+  - {n: 21, speaker: Ken, hanzi: "原來廣東話嘅世界咁大。我揸咗二十年小巴，都未出過咁遠。", jyutping: "jyun4 loi4 gwong2 dung1 waa2 ge3 sai3 gaai3 gam3 daai6. ngo5 zaa1 zo2 ji6 sap6 nin4 siu2 baa1, dou1 mei6 ceot1 gwo3 gam3 jyun5.", en: "So the Cantonese world is this big. I've driven a minibus for twenty years and never been this far."}
+  - {n: 22, speaker: Hiu-ching, hanzi: "（喺酒店天台望住雙子塔）阿果，你話香港、廣州、吉隆坡，邊度嘅廣東話最正宗？", jyutping: "(hai2 zau2 dim3 tin1 toi4 mong6 zyu6 soeng1 zi2 taap3) aa3 gwo2, nei5 waa6 hoeng1 gong2, gwong2 zau1, gat1 lung4 bo1, bin1 dou6 ge3 gwong2 dung1 waa2 zeoi3 zing3 zung1?", en: "(On the hotel roof, looking at the Twin Towers) A-Gwo, Hong Kong, Guangzhou, Kuala Lumpur: whose Cantonese is the most authentic?"}
+  - {n: 23, speaker: Hugo, hanzi: "我覺得冇最正宗。邊度有人用佢講心底話，邊度嘅廣東話都係真嘅。", jyutping: "ngo5 gok3 dak1 mou5 zeoi3 zing3 zung1. bin1 dou6 jau5 jan4 jung6 keoi5 gong2 sam1 dai2 waa2, bin1 dou6 ge3 gwong2 dung1 waa2 dou1 hai6 zan1 ge3.", en: "I don't think there's a most authentic one. Wherever people use it to say what's in their hearts, that Cantonese is real."}
+  - {n: 24, speaker: Hiu-ching, hanzi: "嘩，你個鬼佬腔講出咁深嘅道理。", jyutping: "waa3, nei5 go3 gwai2 lou2 hong1 gong2 ceot1 gam3 sam1 ge3 dou6 lei5.", en: "Wow, such deep thoughts in that foreigner's accent of yours."}
+notes:
+  - {ref: 1, topic: culture, text: "Kuala Lumpur (吉隆坡 gat1 lung4 bo1, 'KL') in Malaysia (馬來西亞 maa5 loi4 sai1 aa3) has a large Cantonese-speaking Chinese community. Petaling Street is called 茨廠街 'tapioca-factory street'. 落機 lok6 gei1 = get off the plane, land."}
+  - {ref: 3, topic: culture, text: "Malaysian Cantonese borrows from Malay: 巴剎 baa1 saat3 (pasar) 'market'; 鐳 lui1 'money' (line 11); 馬打 'police' (mata-mata); 甘榜 'village' (kampung); and sentence-final 'lah'. 夾埋 'mix in'. Hong Kong Cantonese borrows from English instead (P46)."}
+  - {ref: 4, topic: vocab, text: "年代 'decade': 六七十年代 'the sixties and seventies'. 港產片 gong2 caan2 pin2 (line 5) = Hong Kong-made films; 電視劇 din6 si6 kek6 = TV drama. 由細到大 jau4 sai3 dou3 daai6 = from childhood."}
+  - {ref: 5, topic: culture, text: "下南洋 'go down to the Southern Seas': from the 19th century, millions from Guangdong and Fujian emigrated to Southeast Asia, many as labourers (苦力 fu2 lik6, the origin of English 'coolie') in tin mines (錫礦). 太公 taai3 gung1 = great-grandfather."}
+  - {ref: 6, topic: vocab, text: "方言 fong1 jin4 = dialect. 其他 'other'. Hakka (客家 haak3 gaa1; 客家話 'Hakka language'), Hokkien (福建 fuk1 gin3) and Teochew (潮州 ciu4 zau1) are the other big Chinese languages in Malaysia. 廣府話 gwong2 fu2 waa2 = Cantonese proper. 阿公 aa3 gung1 = grandfather (mother's father in HK; any grandfather in KL)."}
+  - {ref: 9, topic: culture, text: "拉茶 laai1 caa4 'pulled tea' (teh tarik): sweet milk tea poured between two cups from a height until frothy (起泡 hei2 pou5; 泡 pou5 'froth, bubbles'). 由高處 'from high up'. 另一個 ling6 jat1 go3 'another one'."}
+  - {ref: 11, topic: vocab, text: "馬幣 'ringgit' (Malaysian currency). 咋 zaa3 'only' (㗎咋, P41)."}
+  - {ref: 14, topic: vocab, text: "雷雨 leoi4 jyu5 = thunderstorm. 熱帶 jit6 daai3 (line 15) = tropical. 涼爽 loeng4 song2 'cool and pleasant'. 晚黑 'evening' (P5). 啱晒 ngaam1 saai3 'just right'."}
+  - {ref: 16, topic: vocab, text: "後台 'backstage'. 坐滿人 'full of people sitting'. 散場 saan3 coeng4 (line 20) 'when the show lets out'. 聽得明 'can understand' (potential, P4)."}
+  - {ref: 17, topic: vocab, text: "樂迷 ngok6 mai4 = music fans. 合唱 hap6 coeng3 = sing together, chorus; 廣東歌 gwong2 dung1 go1 = Cantonese songs. 拍手 paak3 sau2 (line 19) = clap. 永遠 'for ever'. 成場 'the whole crowd'."}
+  - {ref: 19, topic: grammar, text: "唱到… 'when (we) got to…': V到 + point reached. 靜靜咁喊 'cried quietly' (manner 咁, P45)."}
+  - {ref: 22, topic: vocab, text: "雙子塔 'the Twin Towers' (Petronas); 塔 taap3 'tower'. 正宗 zing3 zung1 'authentic'. 遠 jyun5 (line 21) 'far'; 深 sam1 (line 24) 'deep'. 心底話 (line 23) 'words from the bottom of the heart' (心底, P34). 道理 'reasoning, sense'."}
+  - {ref: 3, topic: vs-mandarin, text: "Malaysian Chinese use Mandarin at school, Cantonese in KL's streets and shops, and their home dialect with grandparents. Many switch between all three in one conversation, adding Malay and English words. Mandarin there also borrows Malay (巴剎 bāshā), so the loans are shared across languages."}
+pron:
+  - {ref: 11, text: "鐳 'money' (Malaysian) is lui1, high level."}
+  - {ref: 3, text: "巴剎 baa1 saat3: both syllables follow the Malay 'pa-sar' rhythm."}
+  - {ref: 9, text: "起泡 hei2 pou5 'froth': 泡 is pou5 for bubbles; paau3 in 泡茶 'make tea'."}
+new_words:
+  - {jyutping: "gat1 lung4 bo1", hanzi: 吉隆坡, en: "Kuala Lumpur"}
+  - {jyutping: "maa5 loi4 sai1 aa3", hanzi: 馬來西亞, en: "Malaysia"}
+  - {jyutping: "lok6 gei1", hanzi: 落機, en: "get off the plane"}
+  - {jyutping: "gong2 caan2 pin2", hanzi: 港產片, en: "Hong Kong films"}
+  - {jyutping: "din6 si6 kek6", hanzi: 電視劇, en: "TV drama"}
+  - {jyutping: "jau4 sai3 dou3 daai6", hanzi: 由細到大, en: "from childhood"}
+  - {jyutping: "taai3 gung1", hanzi: 太公, en: "great-grandfather"}
+  - {jyutping: "fu2 lik6", hanzi: 苦力, en: "labourer, coolie"}
+  - {jyutping: "fong1 jin4", hanzi: 方言, en: "dialect"}
+  - {jyutping: "aa3 gung1", hanzi: 阿公, en: "grandfather"}
+  - {jyutping: "haak3 gaa1", hanzi: 客家, en: "Hakka"}
+  - {jyutping: "fuk1 gin3", hanzi: 福建, en: "Fujian; Hokkien"}
+  - {jyutping: "ciu4 zau1", hanzi: 潮州, en: "Chaozhou; Teochew"}
+  - {jyutping: "gwong2 fu2 waa2", hanzi: 廣府話, en: "Cantonese (proper)"}
+  - {jyutping: "jit6 daai3", hanzi: 熱帶, en: "tropical"}
+  - {jyutping: "leoi4 jyu5", hanzi: 雷雨, en: "thunderstorm"}
+  - {jyutping: "ngok6 mai4", hanzi: 樂迷, en: "music fans"}
+  - {jyutping: "hap6 coeng3", hanzi: 合唱, en: "sing together"}
+  - {jyutping: "taap3", hanzi: 塔, en: "tower"}
+  - {jyutping: "hei2 pou5", hanzi: 起泡, en: "froth up"}
+  - {jyutping: "loeng4 song2", hanzi: 涼爽, en: "cool and pleasant"}
+  - {jyutping: "ngaam1 saai3", hanzi: 啱晒, en: "just right"}
+  - {jyutping: "saan3 coeng4", hanzi: 散場, en: "(show) end, crowd leaves"}
+  - {jyutping: "jyun5", hanzi: 遠, en: "far"}
+  - {jyutping: "sam1", hanzi: 深, en: "deep"}
+  - {jyutping: "zing3 zung1", hanzi: 正宗, en: "authentic"}
+  - {jyutping: "paak3 sau2", hanzi: 拍手, en: "clap"}
+  - {jyutping: "haak3 gaa1 waa2", hanzi: 客家話, en: "Hakka (language)"}
+  - {jyutping: "gwong2 dung1 go1", hanzi: 廣東歌, en: "Cantonese songs"}
+  - {jyutping: "ling6 jat1", hanzi: 另一, en: "another"}
+exercises:
+  translate:
+    - {hanzi: "佢太公一百年前下南洋做苦力。", jyutping: "keoi5 taai3 gung1 jat1 baak3 nin4 cin4 haa6 naam4 joeng4 zou6 fu2 lik6.", en: "His great-grandfather went to Southeast Asia a hundred years ago to work as a labourer."}
+    - {hanzi: "我由細到大睇港產片學廣東話。", jyutping: "ngo5 jau4 sai3 dou3 daai6 tai2 gong2 caan2 pin2 hok6 gwong2 dung1 waa2.", en: "I learned Cantonese from Hong Kong films growing up."}
+    - {hanzi: "你屋企講廣東話，定係其他方言？", jyutping: "nei5 uk1 kei2 gong2 gwong2 dung1 waa2, ding6 hai6 kei4 taa1 fong1 jin4?", en: "Does your family speak Cantonese, or another dialect?"}
+    - {hanzi: "熱帶天氣，下晝成日落雷雨。", jyutping: "jit6 daai3 tin1 hei3, haa6 zau3 sing4 jat6 lok6 leoi4 jyu5.", en: "In tropical weather, there are thunderstorms most afternoons."}
+    - {hanzi: "成場樂迷一齊合唱。", jyutping: "seng4 coeng4 ngok6 mai4 jat1 cai4 hap6 coeng3.", en: "The whole crowd of fans sang together."}
+  fill:
+    - {hanzi: "我哋___機未食嘢。", jyutping: "ngo5 dei6 ___ gei1 mei6 sik6 je5.", answer: "lok6", answer_hanzi: 落, en: "We haven't eaten since we landed."}
+    - {hanzi: "吉隆坡啲華人好多係___人。", jyutping: "gat1 lung4 bo1 di1 waa4 jan4 hou2 do1 hai6 ___ jan4.", answer: "haak3 gaa1", answer_hanzi: 客家, en: "Many of KL's Chinese are Hakka."}
+    - {hanzi: "我___講客家話，阿嫲講廣府話。", jyutping: "ngo5 ___ gong2 haak3 gaa1 waa2, aa3 maa4 gong2 gwong2 fu2 waa2.", answer: "aa3 gung1", answer_hanzi: 阿公, en: "My grandad speaks Hakka, my grandma Cantonese."}
+    - {hanzi: "啲樂迷識唱嘅廣東歌多___你哋。", jyutping: "di1 ngok6 mai4 sik1 coeng3 ge3 gwong2 dung1 go1 do1 ___ nei5 dei6.", answer: "gwo3", answer_hanzi: 過, en: "The fans know more Cantonese songs than you."}
+    - {hanzi: "佢由細到大睇___學廣東話。", jyutping: "keoi5 jau4 sai3 dou3 daai6 tai2 ___ hok6 gwong2 dung1 waa2.", answer: "din6 si6 kek6", answer_hanzi: 電視劇, en: "She learned Cantonese from TV dramas growing up."}
