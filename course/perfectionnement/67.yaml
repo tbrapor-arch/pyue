@@ -1,0 +1,89 @@
+# 進修 67. Original lyrics written for this course. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 67
+title: {en: "Fifty-five years", jyutping: "ng5 sap6 ng5 nin4", hanzi: "五十五年"}
+intro: "天台派對's song for 梁記's anniversary, written on the roof: fifty-five years of a café told in verses and a chorus, with the words of time, ageing and handing over."
+genre: song
+review: false
+setting: "Friday 10 December 2027, late at night on the roof above 梁記. 阿占 reads out the new song for the anniversary. 梁記 opened in 1972; 梁伯's father lit the stove for the first time that year."
+dialogue:
+  - {n: 1, speaker: Jim, hanzi: "呢首歌嘅主題好簡單：一間舖，一杯奶茶，五十五年。前奏用阿果把 bass 先入。", jyutping: "ni1 sau2 go1 ge3 zyu2 tai4 hou2 gaan2 daan1: jat1 gaan1 pou3, jat1 bui1 naai5 caa4, ng5 sap6 ng5 nin4. cin4 zau3 jung6 aa3 gwo2 baa2 bass sin1 jap6.", en: "This song's theme is simple: one shop, one milk tea, fifty-five years. The intro starts with A-Gwo's bass."}
+  - {n: 2, speaker: Verse 1, hanzi: "一九七二，北河街，有個後生仔開張，", jyutping: "jat1 gau2 cat1 ji6, bak1 ho4 gaai1, jau5 go3 hau6 saang1 zai2 hoi1 zoeng1,", en: "1972, Pei Ho Street, a young man opened up shop,"}
+  - {n: 3, speaker: Verse 1, hanzi: "天未光就開爐，水滾嘅聲叫醒成條街。", jyutping: "tin1 mei6 gwong1 zau6 hoi1 lou4, seoi2 gwan2 ge3 seng1 giu3 seng2 seng4 tiu4 gaai1.", en: "lit the stove before dawn, and the sound of boiling water woke the whole street."}
+  - {n: 4, speaker: Verse 1, hanzi: "個仔十三歲，企喺凳度學撞茶，", jyutping: "go3 zai2 sap6 saam1 seoi3, kei5 hai2 dang3 dou6 hok6 zong6 caa4,", en: "His son, thirteen, stood on a stool to learn to pull the tea,"}
+  - {n: 5, speaker: Verse 1, hanzi: "細路仔嘅手，慢慢熬成師傅。", jyutping: "sai3 lou6 zai2 ge3 sau2, maan6 maan2 ngou4 sing4 si1 fu2.", en: "and a child's hands slowly toughened into a master's."}
+  - {n: 6, speaker: Chorus, hanzi: "五十五年，一杯奶茶，", jyutping: "ng5 sap6 ng5 nin4, jat1 bui1 naai5 caa4,", en: "Fifty-five years, one cup of milk tea,"}
+  - {n: 7, speaker: Chorus, hanzi: "招牌舊咗，啲味依舊。", jyutping: "ziu1 paai4 gau6 zo2, di1 mei6 ji1 gau6.", en: "the sign has aged, the taste is still the same."}
+  - {n: 8, speaker: Chorus, hanzi: "熟口熟面，早晨，你好，", jyutping: "suk6 hau2 suk6 min6, zou2 san4, nei5 hou2,", en: "Familiar faces, good morning, how are you,"}
+  - {n: 9, speaker: Chorus, hanzi: "歲月行過，我哋仲喺度。", jyutping: "seoi3 jyut6 haang4 gwo3, ngo5 dei6 zung6 hai2 dou6.", en: "the years walk past, and we're still here."}
+  - {n: 10, speaker: Verse 2, hanzi: "打風落雨，拉閘又開閘，", jyutping: "daa2 fung1 lok6 jyu5, laai1 zaap6 jau6 hoi1 zaap6,", en: "Typhoons and rain, shutters down and up again,"}
+  - {n: 11, speaker: Verse 2, hanzi: "九七換咗旗，零三沙士戴口罩，", jyutping: "gau2 cat1 wun6 zo2 kei4, ling4 saam1 saa1 si2 daai3 hau2 zaau3,", en: "'97 the flag changed, '03 SARS and masks,"}
+  - {n: 12, speaker: Verse 2, hanzi: "嗰年夏天，街外好嘈，舖頭入面好靜，", jyutping: "go2 nin4 haa6 tin1, gaai1 ngoi6 hou2 cou4, pou3 tau2 jap6 min6 hou2 zing6,", en: "that summer, it was loud out on the street, and very quiet inside the shop,"}
+  - {n: 13, speaker: Verse 2, hanzi: "後來封咗城，張張枱都冇人坐。", jyutping: "hau6 loi4 fung1 zo2 sing4, zoeng1 zoeng1 toi2 dou1 mou5 jan4 co5.", en: "then the city shut down, and not a single table was taken."}
+  - {n: 14, speaker: Verse 2, hanzi: "業主加租，個心頂住，", jyutping: "jip6 zyu2 gaa1 zou1, go3 sam1 ding2 zyu6,", en: "The landlord raised the rent, the heart held on,"}
+  - {n: 15, speaker: Verse 2, hanzi: "一條片，成個香港都識咗講「多啲茶葉」。", jyutping: "jat1 tiu4 pin2, seng4 go3 hoeng1 gong2 dou1 sik1 zo2 gong2 \"do1 di1 caa4 jip6\".", en: "one clip, and all of Hong Kong learned to say 'more tea leaves'."}
+  - {n: 16, speaker: Bridge, hanzi: "白頭嘅師傅，皺紋好似茶漬，", jyutping: "baak6 tau4 ge3 si1 fu2, zau3 man4 hou2 ci5 caa4 zik1,", en: "The white-haired master, wrinkles like tea stains,"}
+  - {n: 17, speaker: Bridge, hanzi: "將個茶壺交俾個女，交俾個鬼佬，", jyutping: "zoeng1 go3 caa4 wu2 gaau1 bei2 go3 neoi2, gaau1 bei2 go3 gwai2 lou2,", en: "hands the teapot to his daughter, and to the foreigner,"}
+  - {n: 18, speaker: Bridge, hanzi: "接棒唔係為咗贏，係為咗聽朝五點，", jyutping: "zip3 paang5 m4 hai6 wai6 zo2 jeng4, hai6 wai6 zo2 ting1 ziu1 ng5 dim2,", en: "taking the baton isn't about winning, it's about five o'clock tomorrow morning,"}
+  - {n: 19, speaker: Bridge, hanzi: "條街醒嗰陣，仲有一壺茶等緊佢。", jyutping: "tiu4 gaai1 seng2 go2 zan6, zung6 jau5 jat1 wu4 caa4 dang2 gan2 keoi5.", en: "so when the street wakes up, there's still a pot of tea waiting for it."}
+  - {n: 20, speaker: Chorus, hanzi: "五十五年，一杯奶茶，光陰飄過，香味照舊。", jyutping: "ng5 sap6 ng5 nin4, jat1 bui1 naai5 caa4, gwong1 jam1 piu1 gwo3, hoeng1 mei6 ziu3 gau6.", en: "Fifty-five years, one cup of milk tea, time drifts by, the fragrance stays the same."}
+  - {n: 21, speaker: Leung Pak, hanzi: "（聽完，靜咗好耐）……「皺紋好似茶漬」，邊個寫㗎？", jyutping: "(teng1 jyun4, zing6 zo2 hou2 noi6) …… \"zau3 man4 hou2 ci5 caa4 zik1\", bin1 go3 se2 gaa3?", en: "(After listening, silent for a long time) …'Wrinkles like tea stains': who wrote that?"}
+  - {n: 22, speaker: Hugo, hanzi: "我。梁伯，你唔鍾意？", jyutping: "ngo5. loeng4 baak3, nei5 m4 zung1 ji3?", en: "Me. 梁伯, don't you like it?"}
+  - {n: 23, speaker: Leung Pak, hanzi: "唔係唔鍾意……係寫得太準。我阿爸最後嗰幾年，塊面真係咁。", jyutping: "m4 hai6 m4 zung1 ji3 …… hai6 se2 dak1 taai3 zeon2. ngo5 aa3 baa4 zeoi3 hau6 go2 gei2 nin4, faai3 min6 zan1 hai6 gam2.", en: "It's not that I don't like it… it's too accurate. In my father's last few years, his face was exactly like that."}
+  - {n: 24, speaker: Jim, hanzi: "咁周年嗰晚，你肯唔肯上嚟同我哋唱副歌？", jyutping: "gam2 zau1 nin4 go2 maan5, nei5 hang2 m4 hang2 soeng5 lai4 tung4 ngo5 dei6 coeng3 fu3 go1?", en: "So on the anniversary night, will you come up and sing the chorus with us?"}
+  - {n: 25, speaker: Leung Pak, hanzi: "我唱粵曲㗎，唔唱你哋啲嘢……（停咗一停）不過副歌得四句，我試吓。", jyutping: "ngo5 coeng3 jyut6 kuk1 gaa3, m4 coeng3 nei5 dei6 di1 je5 …… (ting4 zo2 jat1 ting4) bat1 gwo3 fu3 go1 dak1 sei3 geoi3, ngo5 si3 haa5.", en: "I sing Cantonese opera, not your stuff… (Pausing) But the chorus is only four lines. I'll give it a try."}
+notes:
+  - {ref: 1, topic: vocab, text: "主題 zyu2 tai4 = theme. 前奏 cin4 zau3 = intro (of a song); 主歌 'verse', 副歌 'chorus' (P20), 尾聲 'outro'. 簡單 'simple'."}
+  - {ref: 2, topic: culture, text: "北河街 Pei Ho Street in Sham Shui Po, 梁記's street (P13). 開張 'open (a shop)' (P16)."}
+  - {ref: 3, topic: vocab, text: "開爐 'light the stove'. 水滾 seoi2 gwan2 = water boils. 叫醒 giu3 seng2 'wake up (someone)'; 醒 seng2 (line 19) 'wake up'."}
+  - {ref: 4, topic: culture, text: "撞茶 'pull the tea' (P40): pouring milk tea through a cloth filter between pots. A thirteen-year-old standing on a stool to reach the counter was common in family shops."}
+  - {ref: 5, topic: vocab, text: "熬 ngou4 = endure, simmer for a long time: 熬成師傅 'toughened into a master'. A song can play on the cooking sense."}
+  - {ref: 7, topic: vocab, text: "依舊 ji1 gau6 = still the same (literary). 熟口熟面 suk6 hau2 suk6 min6 (line 8) = familiar faces. 歲月 seoi3 jyut6 (line 9) = the years, time passing."}
+  - {ref: 10, topic: vocab, text: "拉閘 laai1 zaap6 'pull the shutter down' (close); 開閘 'open the shutter'. 鐵閘 'metal shutter'."}
+  - {ref: 11, topic: culture, text: "九七換咗旗 'in '97 the flag changed' (旗 kei4 'flag'; the handover). 沙士 saa1 si2 = SARS, the 2003 epidemic that killed 299 people in Hong Kong; 口罩 hau2 zaau3 = face mask. 嗰年夏天 (line 12) is 2019 (P45), said without saying it, as songs often do."}
+  - {ref: 13, topic: vocab, text: "封城 fung1 sing4 'lockdown' (lit. 'seal the city'). 街外 gaai1 ngoi6 (line 12) 'out in the street'. 張張枱 'every table' (doubled classifier, P48). 頂住 ding2 zyu6 (line 14) = hold on, bear up."}
+  - {ref: 16, topic: vocab, text: "白頭 baak6 tau4 = white-haired. 皺紋 zau3 man4 = wrinkles. 茶漬 'tea stains' (P40)."}
+  - {ref: 17, topic: grammar, text: "將個茶壺交俾個女 'hands the teapot to his daughter': 將 + object + 交俾 + person (P57)."}
+  - {ref: 18, topic: grammar, text: "接棒 zip3 paang5 'take the baton' = take over (a job, a role). 唔係為咗 A，係為咗 B 'not for A, but for B' (P31)."}
+  - {ref: 20, topic: vocab, text: "光陰 gwong1 jam1 = time (literary). 飄 piu1 = drift, float. 香味照舊 'the fragrance is the same as ever'."}
+pron:
+  - {ref: 5, text: "熬 'endure, simmer' is ngou4."}
+  - {ref: 18, text: "接棒 zip3 paang5: 棒 is paang5 in speech (pong5 in some readings)."}
+  - {ref: 11, text: "沙士 saa1 si2: the English 'SARS' rendered in Cantonese sounds."}
+new_words:
+  - {jyutping: "zyu2 tai4", hanzi: 主題, en: "theme"}
+  - {jyutping: "cin4 zau3", hanzi: 前奏, en: "intro (music)"}
+  - {jyutping: "zyu2 go1", hanzi: 主歌, en: "verse (song)"}
+  - {jyutping: "mei5 sing1", hanzi: 尾聲, en: "outro, ending"}
+  - {jyutping: "seoi2 gwan2", hanzi: 水滾, en: "water boils"}
+  - {jyutping: "ngou4", hanzi: 熬, en: "endure; simmer"}
+  - {jyutping: "ji1 gau6", hanzi: 依舊, en: "still the same"}
+  - {jyutping: "suk6 hau2 suk6 min6", hanzi: 熟口熟面, en: "familiar (face)"}
+  - {jyutping: "seoi3 jyut6", hanzi: 歲月, en: "the years, time"}
+  - {jyutping: "laai1 zaap6", hanzi: 拉閘, en: "pull down the shutter"}
+  - {jyutping: "tit3 zaap6", hanzi: 鐵閘, en: "metal shutter"}
+  - {jyutping: "saa1 si2", hanzi: 沙士, en: "SARS"}
+  - {jyutping: "hau2 zaau3", hanzi: 口罩, en: "face mask"}
+  - {jyutping: "ding2 zyu6", hanzi: 頂住, en: "hold on, bear up"}
+  - {jyutping: "baak6 tau4", hanzi: 白頭, en: "white-haired"}
+  - {jyutping: "zau3 man4", hanzi: 皺紋, en: "wrinkles"}
+  - {jyutping: "zip3 paang5", hanzi: 接棒, en: "take the baton"}
+  - {jyutping: "gwong1 jam1", hanzi: 光陰, en: "time (literary)"}
+  - {jyutping: "piu1", hanzi: 飄, en: "drift, float"}
+  - {jyutping: "giu3 seng2", hanzi: 叫醒, en: "wake (someone) up"}
+  - {jyutping: "seng2", hanzi: 醒, en: "wake up"}
+  - {jyutping: "kei4", hanzi: 旗, en: "flag"}
+  - {jyutping: "fung1 sing4", hanzi: 封城, en: "lockdown"}
+  - {jyutping: "gaai1 ngoi6", hanzi: 街外, en: "out in the street"}
+exercises:
+  translate:
+    - {hanzi: "招牌舊咗，啲味依舊。", jyutping: "ziu1 paai4 gau6 zo2, di1 mei6 ji1 gau6.", en: "The sign has aged; the taste is still the same."}
+    - {hanzi: "佢將個茶壺交俾個女接棒。", jyutping: "keoi5 zoeng1 go3 caa4 wu2 gaau1 bei2 go3 neoi2 zip3 paang5.", en: "He hands the teapot to his daughter to take over."}
+    - {hanzi: "零三年沙士，個個都戴口罩。", jyutping: "ling4 saam1 nin4 saa1 si2, go3 go3 dou1 daai3 hau2 zaau3.", en: "During SARS in 2003, everyone wore a mask."}
+    - {hanzi: "歲月行過，我哋仲喺度。", jyutping: "seoi3 jyut6 haang4 gwo3, ngo5 dei6 zung6 hai2 dou6.", en: "The years walk past, and we're still here."}
+    - {hanzi: "呢首歌嘅主題好簡單。", jyutping: "ni1 sau2 go1 ge3 zyu2 tai4 hou2 gaan2 daan1.", en: "This song's theme is very simple."}
+  fill:
+    - {hanzi: "夜晚___，朝早開閘。", jyutping: "je6 maan5 ___, ziu1 zou2 hoi1 zaap6.", answer: "laai1 zaap6", answer_hanzi: 拉閘, en: "Shutter down at night, up in the morning."}
+    - {hanzi: "佢塊面嘅___好似茶漬。", jyutping: "keoi5 faai3 min6 ge3 ___ hou2 ci5 caa4 zik1.", answer: "zau3 man4", answer_hanzi: 皺紋, en: "The wrinkles on his face are like tea stains."}
+    - {hanzi: "業主加租，個心___。", jyutping: "jip6 zyu2 gaa1 zou1, go3 sam1 ___.", answer: "ding2 zyu6", answer_hanzi: 頂住, en: "The landlord raised the rent; the heart held on."}
+    - {hanzi: "啲客都係熟口___。", jyutping: "di1 haak3 dou1 hai6 suk6 hau2 ___.", answer: "suk6 min6", answer_hanzi: 熟面, en: "The customers are all familiar faces."}
+    - {hanzi: "首歌用 bass 做___。", jyutping: "sau2 go1 jung6 bass zou6 ___.", answer: "cin4 zau3", answer_hanzi: 前奏, en: "The song uses bass for the intro."}
