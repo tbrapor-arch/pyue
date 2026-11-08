@@ -1,0 +1,97 @@
+# 進修 15. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 15
+title: {en: "Falling behind is worse than squandering a fortune", jyutping: "zap1 syu1 haang4 tau4, caam2 gwo3 baai6 gaa1", hanzi: "執輸行頭，慘過敗家"}
+intro: "A family argument turned debate: practise giving reasons, conceding a point and setting conditions (雖然…但係, 就算…都, 除非, 唔係嘅話)."
+genre: debate
+review: false
+setting: "Early November, after closing. Kayan has called a 'family meeting' about the rent rise and brought a laptop. 梁伯 has brought nothing but his arms folded. Hugo has been made referee and keeps score on a napkin; 蓮姐 clears the tables and listens to everything."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "阿爸，我有個建議。如果要交四萬二租，梁記一定要發展，唔係嘅話，捱唔到出年夏天。", jyutping: "aa3 baa4, ngo5 jau5 go3 gin3 ji5. jyu4 gwo2 jiu3 gaau1 sei3 maan6 ji6 zou1, loeng4 gei3 jat1 ding6 jiu3 faat3 zin2, m4 hai6 ge3 waa2, ngaai4 m4 dou3 ceot1 nin2 haa6 tin1.", en: "Dad, I've got a proposal. If we're paying forty-two thousand in rent, Leung Kee has to develop; otherwise we won't last till next summer."}
+  - {n: 2, speaker: Leung Pak, hanzi: "發展？我哋做咗五十幾年，從來唔使發展。", jyutping: "faat3 zin2? ngo5 dei6 zou6 zo2 ng5 sap6 gei2 nin4, cung4 loi4 m4 sai2 faat3 zin2.", en: "Develop? We've been going over fifty years and never needed to develop."}
+  - {n: 3, speaker: Hugo, hanzi: "好，規矩係噉：每人講一個理由，講得好就得一分。嘉欣先。", jyutping: "hou2, kwai1 geoi2 hai6 gam2: mui5 jan4 gong2 jat1 go3 lei5 jau4, gong2 dak1 hou2 zau6 dak1 jat1 fan1. gaa1 jan1 sin1.", en: "Right, the rules are these: each of you gives one reason at a time, and a good one gets a point. Kayan first."}
+  - {n: 4, speaker: Kayan, hanzi: "第一：收八達通。而家啲後生身上冇現金，佢哋行過門口，見到「只收現金」就走。", jyutping: "dai6 jat1: sau1 baat3 daat6 tung1. ji4 gaa1 di1 hau6 saang1 san1 soeng6 mou5 jin6 gam1, keoi5 dei6 haang4 gwo3 mun4 hau2, gin3 dou2 \"zi2 sau1 jin6 gam1\" zau6 zau2.", en: "One: take Octopus. Young people today carry no cash; they walk past the door, see 'cash only' and leave."}
+  - {n: 5, speaker: Leung Pak, hanzi: "收八達通，間間都要俾手續費。而且我啲熟客全部俾現金。", jyutping: "sau1 baat3 daat6 tung1, gaan1 gaan1 dou1 jiu3 bei2 sau2 zuk6 fai3. ji4 ce2 ngo5 di1 suk6 haak3 cyun4 bou6 bei2 jin6 gam1.", en: "Every shop that takes Octopus pays a fee. And all my regulars pay cash."}
+  - {n: 6, speaker: Kayan, hanzi: "雖然有手續費，但係多咗新客，計數仲係賺。", jyutping: "seoi1 jin4 jau5 sau2 zuk6 fai3, daan6 hai6 do1 zo2 san1 haak3, gai3 sou3 zung6 hai6 zaan6.", en: "There is a fee, sure, but with more new customers, when you do the sums we still come out ahead."}
+  - {n: 7, speaker: Hugo, hanzi: "嘉欣一分。梁伯，到你。", jyutping: "gaa1 jan1 jat1 fan1. loeng4 baak3, dou3 nei5.", en: "One point to Kayan. Uncle Leung, your turn."}
+  - {n: 8, speaker: Leung Pak, hanzi: "第二：冰室係冰室，唔係手機。就算全世界都用app，人哋嚟我度，係想坐低飲杯茶。", jyutping: "dai6 ji6: bing1 sat1 hai6 bing1 sat1, m4 hai6 sau2 gei1. zau6 syun3 cyun4 sai3 gaai3 dou1 jung6 app, jan4 dei6 lai4 ngo5 dou6, hai6 soeng2 co5 dai1 jam2 bui1 caa4.", en: "Two: a café is a café, not a phone. Even if the whole world uses apps, people come to my place because they want to sit down and have a cup of tea."}
+  - {n: 9, speaker: Lin-ze, hanzi: "（抹緊枱）講得好！呢句要加分。", jyutping: "(maat3 gan2 toi2) gong2 dak1 hou2! ni1 geoi3 jiu3 gaa1 fan1.", en: "(Wiping a table) Well said! That line deserves extra points."}
+  - {n: 10, speaker: Hugo, hanzi: "蓮姐，你唔係評判。不過……梁伯都一分。", jyutping: "lin4 ze2, nei5 m4 hai6 ping4 pun3. bat1 gwo3 …… loeng4 baak3 dou1 jat1 fan1.", en: "Lin-ze, you're not the judge. But… a point to Uncle Leung too."}
+  - {n: 11, speaker: Kayan, hanzi: "第三：外賣app。好多人返工冇時間行出嚟，佢哋喺公司都想飲梁記奶茶。", jyutping: "dai6 saam1: ngoi6 maai6 app. hou2 do1 jan4 faan1 gung1 mou5 si4 gaan3 haang4 ceot1 lai4, keoi5 dei6 hai2 gung1 si1 dou1 soeng2 jam2 loeng4 gei3 naai5 caa4.", en: "Three: takeaway apps. Lots of people at work have no time to come out; they'd like Leung Kee milk tea at the office too."}
+  - {n: 12, speaker: Leung Pak, hanzi: "外賣app抽三成佣，仲要我加價。奶茶送到去，凍晒、淡晒，反而壞咗個招牌。", jyutping: "ngoi6 maai6 app cau1 saam1 sing4 jung2, zung6 jiu3 ngo5 gaa1 gaa3. naai5 caa4 sung3 dou3 heoi3, dung3 saai3, taam5 saai3, faan2 ji4 waai6 zo2 go3 ziu1 paai4.", en: "Delivery apps take thirty per cent commission, and on top of that I'd have to raise prices. By the time the tea arrives it's cold and weak: that would hurt our name instead."}
+  - {n: 13, speaker: Hugo, hanzi: "呢點我同意梁伯。我喺中環叫過外賣奶茶，同梁記差好遠。", jyutping: "ni1 dim2 ngo5 tung4 ji3 loeng4 baak3. ngo5 hai2 zung1 waan4 giu3 gwo3 ngoi6 maai6 naai5 caa4, tung4 loeng4 gei3 caa1 hou2 jyun5.", en: "On this point I agree with Uncle Leung. I've ordered takeaway milk tea in Central; it's nowhere near Leung Kee's."}
+  - {n: 14, speaker: Kayan, hanzi: "你係評判，唔可以揀邊！好，第四：禮拜五夜晚開遲啲，有音樂，吸引後生。", jyutping: "nei5 hai6 ping4 pun3, m4 ho2 ji5 gaan2 bin1! hou2, dai6 sei3: lai5 baai3 ng5 je6 maan5 hoi1 ci4 di1, jau5 jam1 ngok6, kap1 jan5 hau6 saang1.", en: "You're the judge, you can't take sides! Fine, four: open later on Friday nights, with music, to bring in young people."}
+  - {n: 15, speaker: Leung Pak, hanzi: "除非你自己企喺度，唔係我唔會開到咁夜。我六十八歲，唔係十八歲。", jyutping: "ceoi4 fei1 nei5 zi6 gei2 kei5 hai2 dou6, m4 hai6 ngo5 m4 wui5 hoi1 dou3 gam3 je6. ngo5 luk6 sap6 baat3 seoi3, m4 hai6 sap6 baat3 seoi3.", en: "Unless you stand behind the counter yourself, I'm not opening that late. I'm sixty-eight, not eighteen."}
+  - {n: 16, speaker: Kayan, hanzi: "我可以幫手，阿果都可以。佢隊band仲可以喺度表演。", jyutping: "ngo5 ho2 ji5 bong1 sau2, aa3 gwo2 dou1 ho2 ji5. keoi5 deoi2 band zung6 ho2 ji5 hai2 dou6 biu2 jin2.", en: "I can help, and so can A-Gwo. His band could even play here."}
+  - {n: 17, speaker: Hugo, hanzi: "（扮冇聽到）……而家三比二，嘉欣領先。", jyutping: "(baan6 mou5 teng1 dou2) …… ji4 gaa1 saam1 bei2 ji6, gaa1 jan1 ling5 sin1.", en: "(Pretending not to hear) …It's three–two now, Kayan's ahead."}
+  - {n: 18, speaker: Leung Pak, hanzi: "你哋兩個一早夾埋！我反對。", jyutping: "nei5 dei6 loeng5 go3 jat1 zou2 gaap3 maai4! ngo5 faan2 deoi3.", en: "You two cooked this up together! I object."}
+  - {n: 19, speaker: Lin-ze, hanzi: "阿伯，執輸行頭，慘過敗家。對面間茶餐廳都收八達通喇，你唔考慮吓？", jyutping: "aa3 baak3, zap1 syu1 haang4 tau4, caam2 gwo3 baai6 gaa1. deoi3 min6 gaan1 caa4 caan1 teng1 dou1 sau1 baat3 daat6 tung1 laa3, nei5 m4 haau2 leoi6 haa5?", en: "Uncle, falling behind is worse than squandering a fortune. Even the café opposite takes Octopus now. Won't you consider it?"}
+  - {n: 20, speaker: Leung Pak, hanzi: "（諗咗好耐）……咁我俾你揀兩樣，試一個月。揀邊兩樣，你自己選擇。", jyutping: "(nam2 zo2 hou2 noi6) …… gam2 ngo5 bei2 nei5 gaan2 loeng5 joeng6, si3 jat1 go3 jyut6. gaan2 bin1 loeng5 joeng6, nei5 zi6 gei2 syun2 zaak6.", en: "(After a long pause) …All right, I'll let you pick two things and try them for a month. Which two, that's your choice."}
+  - {n: 21, speaker: Kayan, hanzi: "真係？好！八達通，同禮拜五夜晚。", jyutping: "zan1 hai6? hou2! baat3 daat6 tung1, tung4 lai5 baai3 ng5 je6 maan5.", en: "Really? Great! Octopus, and Friday nights."}
+  - {n: 22, speaker: Leung Pak, hanzi: "不過有條件：唔准改餐牌，唔准加價，唔准喺天台開show。", jyutping: "bat1 gwo3 jau5 tiu4 gin2: m4 zeon2 goi2 caan1 paai2, m4 zeon2 gaa1 gaa3, m4 zeon2 hai2 tin1 toi4 hoi1 show.", en: "But on conditions: no changing the menu, no raising prices, and no shows on the roof."}
+  - {n: 23, speaker: Hugo, hanzi: "好，我宣佈：打和！雙方都有好處。", jyutping: "hou2, ngo5 syun1 bou3: daa2 wo4! soeng1 fong1 dou1 jau5 hou2 cyu3.", en: "Right, I declare it a draw! Both sides gain something."}
+  - {n: 24, speaker: Lin-ze, hanzi: "打和？阿伯一世人都未試過讓步，今日算係佢輸咗。", jyutping: "daa2 wo4? aa3 baak3 jat1 sai3 jan4 dou1 mei6 si3 gwo3 joeng6 bou6, gam1 jat6 syun3 hai6 keoi5 syu1 zo2.", en: "A draw? The old man has never given an inch in his life; today, he's lost."}
+  - {n: 25, speaker: Leung Pak, hanzi: "我冇輸！我係……妥協。", jyutping: "ngo5 mou5 syu1! ngo5 hai6 …… to5 hip3.", en: "I didn't lose! I… compromised."}
+notes:
+  - {ref: 1, topic: grammar, text: "唔係嘅話 'otherwise' (P5): 一定要發展，唔係嘅話，捱唔到出年夏天. 建議 gin3 ji5 = proposal, suggestion; to suggest. 發展 faat3 zin2 = develop, expand; development."}
+  - {ref: 3, topic: vocab, text: "規矩 kwai1 geoi2 = rules, the way things are done; also 'well-mannered'. 理由 lei5 jau4 = reason (for an argument; 原因, P9, is the cause of something). 分 fan1 = point (in a score): 得一分 'score a point', 加分 'extra points' (line 9)."}
+  - {ref: 4, topic: culture, text: "八達通 baat3 daat6 tung1 = the Octopus card: Hong Kong's stored-value card for transport and shops, used since 1997. Many old cafés were cash-only (只收現金, P2) until recently."}
+  - {ref: 5, topic: vocab, text: "手續費 sau2 zuk6 fai3 = (transaction) fee, handling charge. 而且 ji4 ce2 = and also, moreover: adds a second, stronger point. 間間 'every shop': doubling a classifier = every (P6 次次)."}
+  - {ref: 6, topic: grammar, text: "雖然…但係 seoi1 jin4 … daan6 hai6 'although …, (still) …': both halves are said, unlike English. 計數 gai3 sou3 = do the sums, work it out: 計數仲係賺 'we still come out ahead'."}
+  - {ref: 8, topic: grammar, text: "就算…都 zau6 syun3 … dou1 'even if …': 就算全世界都用app，人哋嚟我度，係想坐低飲杯茶. 人哋 jan4 dei6 = people, others. 我度 'my place' (度 'place' after a person)."}
+  - {ref: 10, topic: vocab, text: "評判 ping4 pun3 = judge (in a contest), referee. 揀邊 gaan2 bin1 'take sides' (line 14). 領先 ling5 sin1 = be ahead, lead (line 17). 三比二 'three–two'."}
+  - {ref: 12, topic: vocab, text: "抽佣 cau1 jung2 = take a commission: 抽三成佣 'take a 30 % cut' (the object splits). 淡 taam5 = weak, watery. 反而 faan2 ji4 = on the contrary, instead: 反而壞咗個招牌 'would harm our name instead'."}
+  - {ref: 15, topic: grammar, text: "除非 ceoi4 fei1 'unless', often closed by 唔係 / 先: 除非你自己企喺度，唔係我唔會開到咁夜 'unless you stand there yourself, I won't …'. Also 除非…先… 'only if …': 除非你幫手，我先開. 企 kei5 = stand."}
+  - {ref: 18, topic: vocab, text: "一早 jat1 zou2 = long ago, already. 夾埋 gaap3 maai4 = gang up, collude (from 夾 'fit together', P12). 反對 faan2 deoi3 = object, oppose."}
+  - {ref: 19, topic: culture, text: "執輸行頭，慘過敗家: lit. 'to come last in grabbing is worse than squandering the family fortune' = don't fall behind. Hong Kong's competitive saying. 考慮 haau2 leoi6 = consider."}
+  - {ref: 20, topic: vocab, text: "選擇 syun2 zaak6 = choose; choice (more formal than 揀). 俾你揀 'let you choose': 俾 here = let, allow."}
+  - {ref: 23, topic: vocab, text: "宣佈 syun1 bou3 = announce, declare. 打和 daa2 wo4 = draw, tie. 好處 hou2 cyu3 = benefit, advantage; 壞處 'drawback'."}
+  - {ref: 24, topic: vocab, text: "一世人 jat1 sai3 jan4 = one's whole life (成世人, P6). 讓步 joeng6 bou6 = give way, concede. 妥協 to5 hip3 = compromise (line 25). 輸 syu1 = lose."}
+  - {ref: 6, topic: vs-mandarin, text: "雖然…但係 = 雖然…但是, 就算…都 = 就算/即使…也, 除非…唔係 = 除非…否則/不然. Same logic, different glue words. 執輸 'lose out by being slow' has no Mandarin twin (吃虧, 落後)."}
+pron:
+  - {ref: 9, text: "抹 maat3 'wipe': 抹枱 'wipe the table'; it rhymes with 八 baat3."}
+  - {ref: 19, text: "執輸行頭 zap1 syu1 haang4 tau4: 行頭 'the front of the line'."}
+  - {ref: 12, text: "佣 'commission' is jung2; 用 'use' is jung6."}
+new_words:
+  - {jyutping: "faat3 zin2", hanzi: 發展, en: "develop; development"}
+  - {jyutping: "kwai1 geoi2", hanzi: 規矩, en: "rules"}
+  - {jyutping: "fan1", hanzi: 分, en: "point (score)"}
+  - {jyutping: "baat3 daat6 tung1", hanzi: 八達通, en: "Octopus card"}
+  - {jyutping: "sau2 zuk6 fai3", hanzi: 手續費, en: "fee, handling charge"}
+  - {jyutping: "ji4 ce2", hanzi: 而且, en: "and also, moreover"}
+  - {jyutping: "ping4 pun3", hanzi: 評判, en: "judge, referee"}
+  - {jyutping: "cau1 jung2", hanzi: 抽佣, en: "take a commission"}
+  - {jyutping: "taam5", hanzi: 淡, en: "weak, watery"}
+  - {jyutping: "faan2 ji4", hanzi: 反而, en: "on the contrary, instead"}
+  - {jyutping: "ling5 sin1", hanzi: 領先, en: "be ahead, lead"}
+  - {jyutping: "ceoi4 fei1", hanzi: 除非, en: "unless"}
+  - {jyutping: "faan2 deoi3", hanzi: 反對, en: "object, oppose"}
+  - {jyutping: "zap1 syu1", hanzi: 執輸, en: "lose out (by being slow)"}
+  - {jyutping: "baai6 gaa1", hanzi: 敗家, en: "squander the family fortune"}
+  - {jyutping: "haau2 leoi6", hanzi: 考慮, en: "consider"}
+  - {jyutping: "syun2 zaak6", hanzi: 選擇, en: "choose; choice"}
+  - {jyutping: "syun1 bou3", hanzi: 宣佈, en: "announce"}
+  - {jyutping: "daa2 wo4", hanzi: 打和, en: "draw, tie"}
+  - {jyutping: "hou2 cyu3", hanzi: 好處, en: "benefit, advantage"}
+  - {jyutping: "joeng6 bou6", hanzi: 讓步, en: "give way, concede"}
+  - {jyutping: "to5 hip3", hanzi: 妥協, en: "compromise"}
+  - {jyutping: "je6 maan5", hanzi: 夜晚, en: "night, evening"}
+  - {jyutping: "san1 soeng6", hanzi: 身上, en: "on one (carrying)"}
+  - {jyutping: "co5 dai1", hanzi: 坐低, en: "sit down"}
+  - {jyutping: "gaap3 maai4", hanzi: 夾埋, en: "gang up, collude"}
+  - {jyutping: "zap1 syu1 haang4 tau4", hanzi: 執輸行頭, en: "fall behind (by being slow)"}
+  - {jyutping: "jat1 sai3", hanzi: 一世, en: "a lifetime"}
+  - {jyutping: "maat3", hanzi: 抹, en: "wipe"}
+  - {jyutping: "gai3 sou3", hanzi: 計數, en: "do the sums"}
+exercises:
+  translate:
+    - {hanzi: "雖然佢好忙，但係佢日日都嚟。", jyutping: "seoi1 jin4 keoi5 hou2 mong4, daan6 hai6 keoi5 jat6 jat6 dou1 lai4.", en: "Although he's very busy, he comes every day."}
+    - {hanzi: "就算落雨，我都要去。", jyutping: "zau6 syun3 lok6 jyu5, ngo5 dou1 jiu3 heoi3.", en: "Even if it rains, I'm going."}
+    - {hanzi: "除非你請我食飯，唔係我唔幫你。", jyutping: "ceoi4 fei1 nei5 ceng2 ngo5 sik6 faan6, m4 hai6 ngo5 m4 bong1 nei5.", en: "Unless you buy me dinner, I won't help you."}
+    - {hanzi: "呢間舖平啲，而且近啲。", jyutping: "ni1 gaan1 pou3 peng4 di1, ji4 ce2 kan5 di1.", en: "This shop is cheaper, and it's closer too."}
+    - {hanzi: "加價唔會多咗客，反而會少咗客。", jyutping: "gaa1 gaa3 m4 wui5 do1 zo2 haak3, faan2 ji4 wui5 siu2 zo2 haak3.", en: "Raising prices won't bring more customers; on the contrary, it'll lose some."}
+  fill:
+    - {hanzi: "___有手續費，___多咗新客。", jyutping: "___ jau5 sau2 zuk6 fai3, ___ do1 zo2 san1 haak3.", answer: "seoi1 jin4 / daan6 hai6", answer_hanzi: 雖然 / 但係, en: "There's a fee, but there are more new customers."}
+    - {hanzi: "你再___吓，我唔使你即刻答。", jyutping: "nei5 zoi3 ___ haa5, ngo5 m4 sai2 nei5 zik1 hak1 daap3.", answer: "haau2 leoi6", answer_hanzi: 考慮, en: "Think it over; you don't have to answer right away."}
+    - {hanzi: "兩隊都係一比一，___。", jyutping: "loeng5 deoi2 dou1 hai6 jat1 bei2 jat1, ___.", answer: "daa2 wo4", answer_hanzi: 打和, en: "Both teams are one–one: a draw."}
+    - {hanzi: "你哋兩個一早___埋，我唔信你哋。", jyutping: "nei5 dei6 loeng5 go3 jat1 zou2 ___ maai4, ngo5 m4 seon3 nei5 dei6.", answer: "gaap3", answer_hanzi: 夾, en: "You two were in this together from the start; I don't trust you."}
+    - {hanzi: "買一送一，好___！", jyutping: "maai5 jat1 sung3 jat1, hou2 ___!", answer: "dai2", answer_hanzi: 抵, en: "Buy one, get one free: what a deal!"}
