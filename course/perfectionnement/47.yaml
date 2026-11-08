@@ -1,0 +1,99 @@
+# 進修 47. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 47
+title: {en: "Hopping mad like a live shrimp", jyutping: "saang1 haa1 gam2 tiu3", hanzi: "生蝦咁跳"}
+intro: "The landlord walks into 梁記 at last: rhetorical questions (唔通, 使乜, 點會) and manner with 咁 again, and the words for grudges, jealousy and old memories."
+genre: play
+review: false
+setting: "Thursday 8 July 2027, three in the afternoon. A man of about 68 in a suit and a gold watch has been sitting in booth four for an hour over one iced lemon tea. 蓮姐 and Hugo watch him from the counter. 梁伯 is in the kitchen; Kayan is doing the accounts."
+dialogue:
+  - {n: 1, speaker: Lin-ze, hanzi: "（細聲）四號卡位嗰個阿伯，著西裝，戴隻金色嘅錶，坐咗成個鐘，淨係飲咗杯凍檸茶。", jyutping: "(sai3 seng1) sei3 hou6 kaa1 wai2 go2 go3 aa3 baak3, zoek3 sai1 zong1, daai3 zek3 gam1 sik1 ge3 biu1, co5 zo2 seng4 go3 zung1, zing6 hai6 jam2 zo2 bui1 dung3 ning2 caa4.", en: "(Quietly) That old man in booth four, in a suit, with a gold watch: he's been sitting there an hour and only had one iced lemon tea."}
+  - {n: 2, speaker: Hugo, hanzi: "會唔會係記者？條片爆咗之後，成日有人嚟影相。", jyutping: "wui5 m4 wui5 hai6 gei3 ze2? tiu4 pin2 baau3 zo2 zi1 hau6, sing4 jat6 jau5 jan4 lai4 jing2 soeng2.", en: "Could he be a journalist? Ever since the clip blew up, people keep coming to take photos."}
+  - {n: 3, speaker: Mr Ho, hanzi: "（行埋嚟）唔該，我想見梁國華。", jyutping: "(haang4 maai4 lai4) m4 goi1, ngo5 soeng2 gin3 loeng4 gwok3 waa4.", en: "(Coming over) Excuse me, I'd like to see Leung Kwok-wah."}
+  - {n: 4, speaker: Kayan, hanzi: "我係佢個女。請問你係……？", jyutping: "ngo5 hai6 keoi5 go3 neoi2. cing2 man6 nei5 hai6 ……?", en: "I'm his daughter. May I ask who you are…?"}
+  - {n: 5, speaker: Mr Ho, hanzi: "我姓何，何志明，呢間舖嘅業主。", jyutping: "ngo5 sing3 ho4, ho4 zi3 ming4, ni1 gaan1 pou3 ge3 jip6 zyu2.", en: "My name is Ho, Ho Chi-ming. I own this shop."}
+  - {n: 6, speaker: Kayan, hanzi: "何生！你點會親自嚟？平時都係經紀同我哋傾。", jyutping: "ho4 saang1! nei5 dim2 wui5 can1 zi6 lai4? ping4 si4 dou1 hai6 ging1 kei2 tung4 ngo5 dei6 king1.", en: "Mr Ho! How come you've come in person? We usually deal with your agent."}
+  - {n: 7, speaker: Leung Pak, hanzi: "（由廚房行出嚟，忽然企定）……何志明。你仲有面嚟？", jyutping: "(jau4 cyu4 fong2 haang4 ceot1 lai4, fat1 jin4 kei5 ding6) …… ho4 zi3 ming4. nei5 zung6 jau5 min2 lai4?", en: "(Coming out of the kitchen, suddenly stopping dead) …Ho Chi-ming. You've got the nerve to come here?"}
+  - {n: 8, speaker: Mr Ho, hanzi: "國華，好耐冇見。五十年喇。", jyutping: "gwok3 waa4, hou2 noi6 mou5 gin3. ng5 sap6 nin4 laa3.", en: "Kwok-wah, long time no see. Fifty years."}
+  - {n: 9, speaker: Leung Pak, hanzi: "（生蝦咁跳）五十二年！一九七五年，喺書院，你搶咗阿玲！", jyutping: "(saang1 haa1 gam2 tiu3) ng5 sap6 ji6 nin4! jat1 gau2 cat1 ng5 nin4, hai2 syu1 jyun2, nei5 coeng2 zo2 aa3 ling4!", en: "(Hopping mad) Fifty-two years! 1975, at school, you stole 阿玲 from me!"}
+  - {n: 10, speaker: Lin-ze, hanzi: "（細聲同雨果講）阿玲？我喺度做咗三十年都未聽過！原來梁伯都識呷醋！", jyutping: "(sai3 seng1 tung4 jyu5 gwo2 gong2) aa3 ling4? ngo5 hai2 dou6 zou6 zo2 saam1 sap6 nin4 dou1 mei6 teng1 gwo3! jyun4 loi4 loeng4 baak3 dou1 sik1 haap3 cou3!", en: "(Whispering to Hugo) 阿玲? Thirty years I've worked here and never heard of her! So even 梁伯 gets jealous!"}
+  - {n: 11, speaker: Mr Ho, hanzi: "國華，我冇搶。係佢自己揀嘅。", jyutping: "gwok3 waa4, ngo5 mou5 coeng2. hai6 keoi5 zi6 gei2 gaan2 ge3.", en: "Kwok-wah, I didn't steal anyone. She chose for herself."}
+  - {n: 12, speaker: Leung Pak, hanzi: "佢自己揀？你屋企有錢，請佢去半島飲下午茶；我得一架單車，點同你比呀？", jyutping: "keoi5 zi6 gei2 gaan2? nei5 uk1 kei2 jau5 cin2, ceng2 keoi5 heoi3 bun3 dou2 jam2 haa6 ng5 caa4; ngo5 dak1 jat1 gaa3 daan1 ce1, dim2 tung4 nei5 bei2 aa3?", en: "She chose? Your family was rich; you took her to afternoon tea at the Peninsula. All I had was a bicycle. How could I compete with you?"}
+  - {n: 13, speaker: Kayan, hanzi: "阿爸，冷靜啲，你個心臟呀！", jyutping: "aa3 baa4, laang5 zing6 di1, nei5 go3 sam1 zong6 aa3!", en: "Dad, calm down: your heart!"}
+  - {n: 14, speaker: Leung Pak, hanzi: "我冷靜唔到！唔通你加租都係為咗報仇？", jyutping: "ngo5 laang5 zing6 m4 dou2! m4 tung1 nei5 gaa1 zou1 dou1 hai6 wai6 zo2 bou3 sau4?", en: "I can't calm down! Don't tell me you raised the rent to get revenge?"}
+  - {n: 15, speaker: Mr Ho, hanzi: "點會呀！啲舖係我老豆留低嘅，我前年先接手，連租客個名都未睇清楚。", jyutping: "dim2 wui5 aa3! di1 pou3 hai6 ngo5 lou5 dau6 lau4 dai1 ge3, ngo5 cin4 nin2 sin1 zip3 sau2, lin4 zou1 haak3 go3 meng2 dou1 mei6 tai2 cing1 co2.", en: "Of course not! The shops were left to me by my father; I only took them over the year before last, and I hadn't even looked properly at the tenants' names."}
+  - {n: 16, speaker: Leung Pak, hanzi: "你估我會信？使乜扮！", jyutping: "nei5 gu2 ngo5 wui5 seon3? sai2 mat1 baan6!", en: "You think I'll believe that? Stop pretending!"}
+  - {n: 17, speaker: Mr Ho, hanzi: "我喺電視見到嗰段片，先知梁記係你。所以我今日嚟……", jyutping: "ngo5 hai2 din6 si6 gin3 dou2 go2 dyun6 pin2, sin1 zi1 loeng4 gei3 hai6 nei5. so2 ji5 ngo5 gam1 jat6 lai4 ……", en: "I only realised 梁記 was yours when I saw that clip on TV. So today I came…"}
+  - {n: 18, speaker: Leung Pak, hanzi: "嚟睇我笑話？", jyutping: "lai4 tai2 ngo5 siu3 waa2?", en: "To laugh at me?"}
+  - {n: 19, speaker: Mr Ho, hanzi: "唔係。嚟同你講聲對唔住。仲有……阿玲嘅事，有啲嘢你唔知。", jyutping: "m4 hai6. lai4 tung4 nei5 gong2 seng1 deoi3 m4 zyu6. zung6 jau5 …… aa3 ling4 ge3 si6, jau5 di1 je5 nei5 m4 zi1.", en: "No. To say sorry to you. And… about 阿玲, there are things you don't know."}
+  - {n: 20, speaker: Leung Pak, hanzi: "有乜嘢我唔知？你講！", jyutping: "jau5 mat1 je5 ngo5 m4 zi1? nei5 gong2!", en: "What don't I know? Tell me!"}
+  - {n: 21, speaker: Mr Ho, hanzi: "（沉默咗好耐）而家唔係時候。我會寫封信俾你。（放低張卡片，靜靜雞咁走咗）", jyutping: "(cam4 mak6 zo2 hou2 noi6) ji4 gaa1 m4 hai6 si4 hau6. ngo5 wui5 se2 fung1 seon3 bei2 nei5. (fong3 dai1 zoeng1 kaat1 pin2, zing6 zing2 gai1 gam2 zau2 zo2)", en: "(Silent for a long time) Now isn't the time. I'll write you a letter. (Puts down his card and slips out quietly)"}
+  - {n: 22, speaker: Kayan, hanzi: "阿爸，你從來冇講過阿玲。佢係你嘅初戀？", jyutping: "aa3 baa4, nei5 cung4 loi4 mou5 gong2 gwo3 aa3 ling4. keoi5 hai6 nei5 ge3 co1 lyun2?", en: "Dad, you've never once mentioned 阿玲. Was she your first love?"}
+  - {n: 23, speaker: Leung Pak, hanzi: "你阿媽知。……我仲記住佢著校服嘅樣子。有一次校長捉到我哋拍拖，罰我哋兩個企喺走廊。", jyutping: "nei5 aa3 maa1 zi1. …… ngo5 zung6 gei3 zyu6 keoi5 zoek3 haau6 fuk6 ge3 joeng6 zi2. jau5 jat1 ci3 haau6 zoeng2 zuk1 dou2 ngo5 dei6 paak3 to1, fat6 ngo5 dei6 loeng5 go3 kei5 hai2 zau2 long4.", en: "Your mother knew. …I still remember her in her school uniform. Once the headmaster caught us going out and made the two of us stand in the corridor."}
+  - {n: 24, speaker: Hugo, hanzi: "梁伯，你係咪嬲咗佢五十年？", jyutping: "loeng4 baak3, nei5 hai6 mai6 nau1 zo2 keoi5 ng5 sap6 nin4?", en: "梁伯, have you been angry with him for fifty years?"}
+  - {n: 25, speaker: Leung Pak, hanzi: "冇嬲咁耐……我淨係見到佢，忽然間乜嘢都記返晒。去，攞杯水嚟。", jyutping: "mou5 nau1 gam3 noi6 …… ngo5 zing6 hai6 gin3 dou2 keoi5, fat1 jin4 gaan1 mat1 je5 dou1 gei3 faan1 saai3. heoi3, lo2 bui1 seoi2 lai4.", en: "Not that long… It's just that seeing him, suddenly everything came back. Go on, get me a glass of water."}
+  - {n: 26, speaker: Kayan, hanzi: "（細聲同雨果講）你話佢會唔會原諒何生？何生想講嘅真相，到底係乜嘢？", jyutping: "(sai3 seng1 tung4 jyu5 gwo2 gong2) nei5 waa6 keoi5 wui5 m4 wui5 jyun4 loeng6 ho4 saang1? ho4 saang1 soeng2 gong2 ge3 zan1 soeng3, dou3 dai2 hai6 mat1 je5?", en: "(Whispering to Hugo) Do you think he'll forgive Mr Ho? And the truth Mr Ho wants to tell: what on earth is it?"}
+notes:
+  - {ref: 1, topic: vocab, text: "西裝 sai1 zong1 = (Western) suit. 錶 biu1 = watch; 金色 gam1 sik1 = gold-coloured. 阿伯 aa3 baak3 = old man, uncle (polite for an older man). 凍檸茶 'iced lemon tea' (檸茶 ning2 caa4, with a changed tone)."}
+  - {ref: 2, topic: vocab, text: "爆 baau3 = explode, blow up; (of a clip) go viral: 條片爆咗. 記者 gei3 ze2 = journalist. 呷醋 haap3 cou3 (line 10) 'sip vinegar' = be jealous."}
+  - {ref: 6, topic: grammar, text: "Rhetorical 點會 'how could…?': 你點會親自嚟？ 'how come you've come in person?' (surprise); 點會呀！ (line 15) 'of course not!'. 親自 can1 zi6 = in person. 經紀 'agent'."}
+  - {ref: 7, topic: vocab, text: "忽然 fat1 jin4 = suddenly (忽然間 fat1 jin4 gaan1, line 25). 企定 'stand still'. 有面 jau5 min2 'have the face, have the nerve': 你仲有面嚟？"}
+  - {ref: 9, topic: culture, text: "生蝦咁跳 saang1 haa1 gam2 tiu3 'jumping like a live shrimp' = hopping mad. Manner 咁 again (P45): noun phrase + 咁 + verb. 書院 syu1 jyun2 = 'college', the name of many old secondary schools."}
+  - {ref: 12, topic: culture, text: "Afternoon tea at the Peninsula Hotel (半島 bun3 dou2) has been a Hong Kong luxury since the 1920s. 有錢 jau5 cin2 = rich. 比 bei2 = compete, compare: 點同你比？"}
+  - {ref: 14, topic: grammar, text: "唔通 (P34) 'surely not…? don't tell me…': 唔通你加租都係為咗報仇？ 報仇 bou3 sau4 = take revenge."}
+  - {ref: 15, topic: vocab, text: "接手 zip3 sau2 = take over (a business, a job). 前年 cin4 nin2 'the year before last'. 老豆 'dad' (P6)."}
+  - {ref: 16, topic: grammar, text: "使乜扮！ 'no need to pretend!' (P34): 使乜 + verb as a rhetorical order. 你估我會信？ 'you think I'll believe that?': a question that expects no."}
+  - {ref: 18, topic: vocab, text: "睇人笑話 'laugh at someone's misfortune' (笑話, P4). 講聲對唔住 (line 19) 'say sorry' (講聲 gong2 seng1 'say a word'). 卡片 kaat1 pin2 (line 21) = (business) card."}
+  - {ref: 21, topic: vocab, text: "沉默 cam4 mak6 = (fall) silent. 唔係時候 'not the time'. 卡片 'card'."}
+  - {ref: 23, topic: vocab, text: "記住 gei3 zyu6 = remember, keep in mind. 校服 haau6 fuk6 = school uniform; 校長 haau6 zoeng2 = headmaster. 樣子 joeng6 zi2 = look, appearance. 初戀 co1 lyun2 (line 22) = first love."}
+  - {ref: 24, topic: vocab, text: "嬲 nau1 'be angry (at)' (known) can take an object and a length of time: 嬲咗佢五十年. 記返晒 (line 25) 'it all comes back' (返 'back again', P11). 原諒 jyun4 loeng6 (line 26) = forgive; 真相 zan1 soeng3 = the truth (of what happened); 到底 dou3 dai2 = on earth, after all."}
+  - {ref: 24, topic: vs-mandarin, text: "Cantonese 嬲 nau1 = Mandarin 生氣. Cantonese also has 生氣 sang1 hei3, but mainly in writing or in the sense 'lively, vital' (好有生氣). 嬲 is also used with an object: 我嬲佢 'I'm angry with him' (Mandarin 我生他的氣)."}
+pron:
+  - {ref: 1, text: "錶 'watch' is biu1, high level; 表 biu2 is 'show, form'."}
+  - {ref: 7, text: "有面 jau5 min2: 面 rises to min2 for 'face, honour' (and in 面頭, P39), but stays min6 in 前面, 後面 and 面子."}
+  - {ref: 12, text: "半島 bun3 dou2: 島 is dou2."}
+new_words:
+  - {jyutping: "sai1 zong1", hanzi: 西裝, en: "suit"}
+  - {jyutping: "biu1", hanzi: 錶, en: "watch"}
+  - {jyutping: "ning2 caa4", hanzi: 檸茶, en: "lemon tea"}
+  - {jyutping: "baau3", hanzi: 爆, en: "explode, go viral"}
+  - {jyutping: "can1 zi6", hanzi: 親自, en: "in person"}
+  - {jyutping: "fat1 jin4", hanzi: 忽然, en: "suddenly"}
+  - {jyutping: "jau5 min2", hanzi: 有面, en: "have the nerve; be honoured"}
+  - {jyutping: "saang1 haa1 gam2 tiu3", hanzi: 生蝦咁跳, en: "hopping mad"}
+  - {jyutping: "syu1 jyun2", hanzi: 書院, en: "college (school name)"}
+  - {jyutping: "jau5 cin2", hanzi: 有錢, en: "rich"}
+  - {jyutping: "bun3 dou2", hanzi: 半島, en: "peninsula; the Peninsula Hotel"}
+  - {jyutping: "bei2", hanzi: 比, en: "compare, compete"}
+  - {jyutping: "bou3 sau4", hanzi: 報仇, en: "take revenge"}
+  - {jyutping: "zip3 sau2", hanzi: 接手, en: "take over"}
+  - {jyutping: "cam4 mak6", hanzi: 沉默, en: "silent; silence"}
+  - {jyutping: "gei3 zyu6", hanzi: 記住, en: "remember"}
+  - {jyutping: "haau6 fuk6", hanzi: 校服, en: "school uniform"}
+  - {jyutping: "haau6 zoeng2", hanzi: 校長, en: "headmaster"}
+  - {jyutping: "joeng6 zi2", hanzi: 樣子, en: "look, appearance"}
+  - {jyutping: "sang1 hei3", hanzi: 生氣, en: "angry (formal); vitality"}
+  - {jyutping: "gam1 sik1", hanzi: 金色, en: "gold (colour)"}
+  - {jyutping: "aa3 baak3", hanzi: 阿伯, en: "old man, uncle"}
+  - {jyutping: "gei3 ze2", hanzi: 記者, en: "journalist"}
+  - {jyutping: "haap3 cou3", hanzi: 呷醋, en: "be jealous"}
+  - {jyutping: "fat1 jin4 gaan1", hanzi: 忽然間, en: "all of a sudden"}
+  - {jyutping: "cin4 nin2", hanzi: 前年, en: "the year before last"}
+  - {jyutping: "gong2 seng1", hanzi: 講聲, en: "say a word, let know"}
+  - {jyutping: "kaat1 pin2", hanzi: 卡片, en: "card"}
+  - {jyutping: "co1 lyun2", hanzi: 初戀, en: "first love"}
+  - {jyutping: "jyun4 loeng6", hanzi: 原諒, en: "forgive"}
+  - {jyutping: "zan1 soeng3", hanzi: 真相, en: "the truth"}
+  - {jyutping: "dou3 dai2", hanzi: 到底, en: "on earth, after all"}
+exercises:
+  translate:
+    - {hanzi: "佢一見到我就生蝦咁跳。", jyutping: "keoi5 jat1 gin3 dou2 ngo5 zau6 saang1 haa1 gam2 tiu3.", en: "The moment he saw me he went hopping mad."}
+    - {hanzi: "你點會親自嚟？", jyutping: "nei5 dim2 wui5 can1 zi6 lai4?", en: "How come you came in person?"}
+    - {hanzi: "唔通你唔記得我？", jyutping: "m4 tung1 nei5 m4 gei3 dak1 ngo5?", en: "Don't tell me you don't remember me?"}
+    - {hanzi: "我仲記住佢著校服嘅樣子。", jyutping: "ngo5 zung6 gei3 zyu6 keoi5 zoek3 haau6 fuk6 ge3 joeng6 zi2.", en: "I still remember how she looked in her school uniform."}
+    - {hanzi: "佢忽然間沉默咗。", jyutping: "keoi5 fat1 jin4 gaan1 cam4 mak6 zo2.", en: "He suddenly fell silent."}
+  fill:
+    - {hanzi: "___扮！我知你係邊個。", jyutping: "___ baan6! ngo5 zi1 nei5 hai6 bin1 go3.", answer: "sai2 mat1", answer_hanzi: 使乜, en: "Stop pretending! I know who you are."}
+    - {hanzi: "我前年先___，未睇清楚啲租客。", jyutping: "ngo5 cin4 nin2 sin1 ___, mei6 tai2 cing1 co2 di1 zou1 haak3.", answer: "zip3 sau2", answer_hanzi: 接手, en: "I only took over the year before last; I hadn't looked properly at the tenants."}
+    - {hanzi: "你加租係咪為咗___？", jyutping: "nei5 gaa1 zou1 hai6 mai6 wai6 zo2 ___?", answer: "bou3 sau4", answer_hanzi: 報仇, en: "Did you raise the rent to get revenge?"}
+    - {hanzi: "佢仲有___嚟？", jyutping: "keoi5 zung6 jau5 ___ lai4?", answer: "min2", answer_hanzi: 面, en: "He's got the nerve to come?"}
+    - {hanzi: "佢___咗我五十年。", jyutping: "keoi5 ___ zo2 ngo5 ng5 sap6 nin4.", answer: "nau1", answer_hanzi: 嬲, en: "He's been angry with me for fifty years."}

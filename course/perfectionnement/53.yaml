@@ -1,0 +1,94 @@
+# 進修 53. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 53
+title: {en: "Foshan", jyutping: "fat6 saan1", hanzi: "佛山"}
+intro: "Two old schoolmates take Hugo to Foshan and Shunde: kung fu, lion dance, Cantonese opera and milk desserts. Manner with 咁 again (大大聲咁唱, 慢慢咁食), and the words of performers and audiences."
+genre: trip
+review: false
+setting: "Saturday 11 September 2027. 何生 has kept his promise: he takes 梁伯 and Hugo by high-speed train to Guangzhou South, then by metro to Foshan, the old Cantonese city of martial arts and opera. Morning at the Ancestral Temple, afternoon in Shunde."
+dialogue:
+  - {n: 1, speaker: Mr Ho, hanzi: "搭高鐵去廣州南，再轉地鐵，一個半鐘就到佛山。以前我哋搭船要成日。", jyutping: "daap3 gou1 tit3 heoi3 gwong2 zau1 naam4, zoi3 zyun3 dei6 tit3, jat1 go3 bun3 zung1 zau6 dou3 fat6 saan1. ji5 cin4 ngo5 dei6 daap3 syun4 jiu3 seng4 jat6.", en: "High-speed train to Guangzhou South, then the metro: an hour and a half to Foshan. We used to take a whole day by boat."}
+  - {n: 2, speaker: Leung Pak, hanzi: "一九七四年學校旅行，我哋兩個坐喺船尾，你暈船嘔到一塌糊塗。", jyutping: "jat1 gau2 cat1 sei3 nin4 hok6 haau6 leoi5 hang4, ngo5 dei6 loeng5 go3 co5 hai2 syun4 mei5, nei5 wan4 syun4 au2 dou3 jat1 taap3 wu4 tou4.", en: "On the 1974 school trip, the two of us sat at the back of the boat, and you were so seasick you threw up all over the place."}
+  - {n: 3, speaker: Hugo, hanzi: "嘩，呢間廟好大！拜乜嘢神㗎？", jyutping: "waa3, ni1 gaan1 miu2 hou2 daai6! baai3 mat1 je5 san4 gaa3?", en: "Wow, this temple's huge! Which god do they worship?"}
+  - {n: 4, speaker: Mr Ho, hanzi: "呢度係祖廟，拜北帝，同長洲一樣。不過而家啲遊客多數係嚟睇黃飛鴻同葉問嘅紀念館。", jyutping: "ni1 dou6 hai6 zou2 miu2, baai3 bak1 dai3, tung4 coeng4 zau1 jat1 joeng6. bat1 gwo3 ji4 gaa1 di1 jau4 haak3 do1 sou3 hai6 lai4 tai2 wong4 fei1 hung4 tung4 jip6 man6 ge3 gei2 nim6 gun2.", en: "This is the Ancestral Temple, dedicated to Pak Tai, like on Cheung Chau. But these days most visitors come for the Wong Fei-hung and Ip Man memorial halls."}
+  - {n: 5, speaker: Hugo, hanzi: "黃飛鴻我知！電影入面嗰個功夫師傅。", jyutping: "wong4 fei1 hung4 ngo5 zi1! din6 jing2 jap6 min6 go2 go3 gung1 fu1 si1 fu2.", en: "I know Wong Fei-hung! The kung fu master in the films."}
+  - {n: 6, speaker: Leung Pak, hanzi: "佢係佛山人，真有其人㗎。開武館，又係醫師。佢班徒弟舞獅好出名。", jyutping: "keoi5 hai6 fat6 saan1 jan4, zan1 jau5 kei4 jan4 gaa3. hoi1 mou5 gun2, jau6 hai6 ji1 si1. keoi5 baan1 tou4 dai2 mou5 si1 hou2 ceot1 meng2.", en: "He was a real person from Foshan. He ran a martial-arts school and was a doctor too. His disciples were famous for lion dancing."}
+  - {n: 7, speaker: Hugo, hanzi: "（鑼鼓聲響起）你哋睇！啲獅子跳到咁高！", jyutping: "(lo4 gu2 seng1 hoeng2 hei2) nei5 dei6 tai2! di1 si1 zi2 tiu3 dou3 gam3 gou1!", en: "(Drums and gongs strike up) Look! The lions jump so high!"}
+  - {n: 8, speaker: Mr Ho, hanzi: "呢啲係醒獅。每隻獅有兩個演員，一個做頭，一個做尾，要練好多年先有默契。", jyutping: "ni1 di1 hai6 sing2 si1. mui5 zek3 si1 jau5 loeng5 go3 jin2 jyun4, jat1 go3 zou6 tau4, jat1 go3 zou6 mei5, jiu3 lin6 hou2 do1 nin4 sin1 jau5 mak6 kai3.", en: "That's the southern lion dance. Each lion has two performers, one at the head and one at the tail; it takes years of practice to be in sync."}
+  - {n: 9, speaker: Leung Pak, hanzi: "你睇佢眨眼、搲痕，好似隻真獅子咁。", jyutping: "nei5 tai2 keoi5 zaam2 ngaan5, waa2 han4, hou2 ci5 zek3 zan1 si1 zi2 gam2.", en: "Look at it blinking and scratching itself, just like a real lion."}
+  - {n: 10, speaker: Mr Ho, hanzi: "前面就係萬福台，三百幾年前起嘅戲台。佛山係粵劇嘅老家。", jyutping: "cin4 min6 zau6 hai6 maan6 fuk1 toi4, saam1 baak3 gei2 nin4 cin4 hei2 ge3 hei3 toi4. fat6 saan1 hai6 jyut6 kek6 ge3 lou5 gaa1.", en: "Ahead is the Wanfu Stage, an opera stage built over three hundred years ago. Foshan is the old home of Cantonese opera."}
+  - {n: 11, speaker: Leung Pak, hanzi: "阿何，你記唔記得我哋喺學校表演粵曲，我做小生，你做花旦？", jyutping: "aa3 ho4, nei5 gei3 m4 gei3 dak1 ngo5 dei6 hai2 hok6 haau6 biu2 jin2 jyut6 kuk1, ngo5 zou6 siu2 sang1, nei5 zou6 faa1 daan2?", en: "Ho, do you remember when we performed Cantonese opera at school, me as the young male lead and you as the leading lady?"}
+  - {n: 12, speaker: Mr Ho, hanzi: "點會唔記得！冇女仔肯做，校長叫我扮。我化咗妝，阿玲笑到喊。", jyutping: "dim2 wui5 m4 gei3 dak1! mou5 neoi5 zai2 hang2 zou6, haau6 zoeng2 giu3 ngo5 baan6. ngo5 faa3 zo2 zong1, aa3 ling4 siu3 dou3 haam3.", en: "How could I forget! No girl would do it, so the headmaster made me play the part. I put on make-up and 阿玲 laughed till she cried."}
+  - {n: 13, speaker: Hugo, hanzi: "何生扮花旦？！", jyutping: "ho4 saang1 baan6 faa1 daan2?!", en: "Mr Ho played the leading lady?!"}
+  - {n: 14, speaker: Leung Pak, hanzi: "佢唱得仲好過我。我淨係識大大聲咁唱，佢就識好溫柔咁唱。", jyutping: "keoi5 coeng3 dak1 zung6 hou2 gwo3 ngo5. ngo5 zing6 hai6 sik1 daai6 daai6 seng1 gam2 coeng3, keoi5 zau6 sik1 hou2 wan1 jau4 gam2 coeng3.", en: "He sang better than me. I could only sing loudly; he knew how to sing gently."}
+  - {n: 15, speaker: Hugo, hanzi: "（坐低欣賞台上嘅演出）我聽唔明晒，不過啲水袖好靚。演員一郁，全場都靜晒。", jyutping: "(co5 dai1 jan1 soeng2 toi4 soeng6 ge3 jin2 ceot1) ngo5 teng1 m4 ming4 saai3, bat1 gwo3 di1 seoi2 zau6 hou2 leng3. jin2 jyun4 jat1 juk1, cyun4 coeng4 dou1 zing6 saai3.", en: "(Sitting down to enjoy the performance on stage) I don't understand all of it, but the long water sleeves are beautiful. When the actors move, the whole audience goes silent."}
+  - {n: 16, speaker: Mr Ho, hanzi: "粵劇係一門慢慢欣賞嘅藝術。啲後生而家少咗人睇，不過越嚟越多年輕演員肯學。", jyutping: "jyut6 kek6 hai6 jat1 mun4 maan6 maan2 jan1 soeng2 ge3 ngai6 seot6. di1 hau6 saang1 ji4 gaa1 siu2 zo2 jan4 tai2, bat1 gwo3 jyut6 lai4 jyut6 do1 nin4 hing1 jin2 jyun4 hang2 hok6.", en: "Cantonese opera is an art you savour slowly. Fewer young people watch it now, but more and more young performers are willing to learn."}
+  - {n: 17, speaker: Mr Ho, hanzi: "嚟到佛山，一定要去順德食嘢。順德人最識食。", jyutping: "lai4 dou3 fat6 saan1, jat1 ding6 jiu3 heoi3 seon6 dak1 sik6 je5. seon6 dak1 jan4 zeoi3 sik1 sik6.", en: "If you come to Foshan, you have to eat in Shunde. Shunde people know their food best."}
+  - {n: 18, speaker: Leung Pak, hanzi: "（喺大良一間甜品舖）雙皮奶！上面一層奶皮，下面又一層，所以叫雙皮。", jyutping: "(hai2 daai6 loeng4 jat1 gaan1 tim4 ban2 pou3) soeng1 pei4 naai5! soeng6 min6 jat1 cang4 naai5 pei4, haa6 min6 jau6 jat1 cang4, so2 ji5 giu3 soeng1 pei4.", en: "(At a dessert shop in Daliang) Double-skin milk! A skin of milk on top and another one below: hence 'double skin'."}
+  - {n: 19, speaker: Hugo, hanzi: "好滑！比法國嘅 panna cotta 仲嫩。", jyutping: "hou2 waat6! bei2 faat3 gwok3 ge3 panna cotta zung6 nyun6.", en: "So smooth! Even more delicate than a French panna cotta."}
+  - {n: 20, speaker: Mr Ho, hanzi: "仲有薑撞奶：熱奶撞落薑汁度，一陣就凝固，好神奇。", jyutping: "zung6 jau5 goeng1 zong6 naai5: jit6 naai5 zong6 lok6 goeng1 zap1 dou6, jat1 zan6 zau6 jing4 gu3, hou2 san4 kei4.", en: "And ginger milk curd: hot milk poured onto ginger juice, and in a moment it sets. Amazing."}
+  - {n: 21, speaker: Leung Pak, hanzi: "（慢慢咁食完，放低匙羹）阿何，份新租約，我簽。", jyutping: "(maan6 maan2 gam2 sik6 jyun4, fong3 dai1 ci4 gang1) aa3 ho4, fan6 san1 zou1 joek3, ngo5 cim1.", en: "(Finishing slowly and putting down his spoon) Ho, the new lease: I'll sign."}
+  - {n: 22, speaker: Mr Ho, hanzi: "真係？", jyutping: "zan1 hai6?", en: "Really?"}
+  - {n: 23, speaker: Leung Pak, hanzi: "不過有個條件：以後你每個月都要嚟梁記飲一次茶，唔准俾錢。", jyutping: "bat1 gwo3 jau5 go3 tiu4 gin2: ji5 hau6 nei5 mui5 go3 jyut6 dou1 jiu3 lai4 loeng4 gei3 jam2 jat1 ci3 caa4, m4 zeon2 bei2 cin2.", en: "But on one condition: from now on you come to 梁記 for tea once a month, and you're not allowed to pay."}
+  - {n: 24, speaker: Mr Ho, hanzi: "咁我咪又蝕底？……好，一言為定。", jyutping: "gam2 ngo5 mai6 jau6 sit6 dai2? …… hou2, jat1 jin4 wai4 ding6.", en: "So I lose out again? …All right, it's a deal."}
+  - {n: 25, speaker: Hugo, hanzi: "（細聲）原來兩個老友和好，係靠一碗雙皮奶。", jyutping: "(sai3 seng1) jyun4 loi4 loeng5 go3 lou5 jau5 wo4 hou2, hai6 kaau3 jat1 wun2 soeng1 pei4 naai5.", en: "(Quietly) So two old friends made up thanks to a bowl of double-skin milk."}
+notes:
+  - {ref: 2, topic: vocab, text: "暈船 wan4 syun4 = seasick (暈, P29). 嘔 au2 = vomit. 一塌糊塗 jat1 taap3 wu4 tou4 = a total mess. 船尾 'stern, back of the boat'."}
+  - {ref: 4, topic: culture, text: "Foshan's Ancestral Temple (祖廟), dedicated to Pak Tai (北帝, P48), now houses memorial halls (紀念館) to two Foshan martial artists: 黃飛鴻 Wong Fei-hung (1847–1925), hero of countless films, and 葉問 Ip Man (1893–1972), the Wing Chun master who later taught in Hong Kong."}
+  - {ref: 6, topic: vocab, text: "真有其人 'a real person'. 武館 mou5 gun2 = martial-arts school; 徒弟 tou4 dai2 = disciple, apprentice; 醫師 ji1 si1 = doctor (traditional). 舞獅 mou5 si1 = lion dance; 醒獅 sing2 si1 (line 8) = the southern 'awakened lion' style."}
+  - {ref: 8, topic: vocab, text: "演員 jin2 jyun4 = performer, actor. 一個做頭，一個做尾 'one does the head, one the tail'."}
+  - {ref: 9, topic: vocab, text: "眨眼 zaam2 ngaan5 = blink. 搲痕 waa2 han4 = scratch an itch."}
+  - {ref: 10, topic: culture, text: "萬福台 Wanfu Stage, built in 1658, is one of the oldest opera stages in Guangdong. 戲台 'opera stage'. 粵劇 jyut6 kek6 = Cantonese opera (staged), as opposed to 粵曲 (P37), sung on its own; 大戲 is the everyday name. 嶺南 'south of the mountains' = the Cantonese region."}
+  - {ref: 11, topic: culture, text: "Opera roles: 小生 siu2 sang1 = young male lead; 花旦 faa1 daan2 = young female lead. Men playing female roles was common in school and amateur opera. 表演 'perform'."}
+  - {ref: 14, topic: grammar, text: "Manner with 咁 (P45): reduplicated or modified adjective + 咁 + verb. 大大聲咁唱 'sing loudly'; 好溫柔咁唱 'sing gently' (溫柔 wan1 jau4); 慢慢咁食 (line 21) 'eat slowly'. 唱得好過我 'sings better than me' (V得 + adj + 過, P40)."}
+  - {ref: 15, topic: vocab, text: "欣賞 jan1 soeng2 = appreciate, enjoy (art, a view, a person's qualities). 演出 'performance' (P46). 水袖 seoi2 zau6 'water sleeves': the long white silk cuffs of opera costumes. 靜晒 'go completely silent'."}
+  - {ref: 16, topic: vocab, text: "藝術 ngai6 seot6 = art. 一門 'a (branch of art, subject)' (門 as classifier)."}
+  - {ref: 17, topic: culture, text: "順德 seon6 dak1 Shunde, a district of Foshan famous for its cooks, was named a UNESCO City of Gastronomy in 2014. 大良 daai6 loeng4 (line 18) is its old town; its milk desserts use buffalo milk."}
+  - {ref: 18, topic: vocab, text: "甜品 tim4 ban2 = dessert. 雙皮奶 soeng1 pei4 naai5 = double-skin milk pudding; 奶皮 'milk skin'. 嫩 nyun6 (line 19) = tender, delicate. 薑撞奶 'ginger milk curd' (撞 'pour onto'); 汁 zap1 = juice; 凝固 jing4 gu3 = set, solidify; 神奇 san4 kei4 = magical, amazing."}
+  - {ref: 25, topic: vocab, text: "和好 wo4 hou2 = make up, be reconciled. 靠 'thanks to, rely on' (P42)."}
+  - {ref: 6, topic: vs-mandarin, text: "師傅 si1 fu2 is used much more widely in Cantonese than in Mandarin: for kung fu masters, cooks, drivers, repairmen, even fortune-tellers (P32). Mandarin 師傅 covers craftsmen and drivers; for a martial-arts teacher it is often written 師父 'master-father', pronounced the same in Mandarin (shīfu)."}
+pron:
+  - {ref: 6, text: "徒弟 tou4 dai2: 弟 rises here."}
+  - {ref: 15, text: "欣賞 jan1 soeng2: 欣 is jan1, not han1."}
+  - {ref: 18, text: "雙皮奶 soeng1 pei4 naai5; but 酥皮 sou1 pei2 (P41) rises."}
+new_words:
+  - {jyutping: "wan4 syun4", hanzi: 暈船, en: "seasick"}
+  - {jyutping: "au2", hanzi: 嘔, en: "vomit"}
+  - {jyutping: "jat1 taap3 wu4 tou4", hanzi: 一塌糊塗, en: "a total mess"}
+  - {jyutping: "mou5 gun2", hanzi: 武館, en: "martial-arts school"}
+  - {jyutping: "tou4 dai2", hanzi: 徒弟, en: "disciple, apprentice"}
+  - {jyutping: "ji1 si1", hanzi: 醫師, en: "doctor (traditional)"}
+  - {jyutping: "mou5 si1", hanzi: 舞獅, en: "lion dance"}
+  - {jyutping: "sing2 si1", hanzi: 醒獅, en: "southern lion dance"}
+  - {jyutping: "jin2 jyun4", hanzi: 演員, en: "performer, actor"}
+  - {jyutping: "zaam2 ngaan5", hanzi: 眨眼, en: "blink"}
+  - {jyutping: "waa2 han4", hanzi: 搲痕, en: "scratch an itch"}
+  - {jyutping: "jyut6 kek6", hanzi: 粵劇, en: "Cantonese opera"}
+  - {jyutping: "daai6 hei3", hanzi: 大戲, en: "Cantonese opera (everyday)"}
+  - {jyutping: "siu2 sang1", hanzi: 小生, en: "young male lead"}
+  - {jyutping: "faa1 daan2", hanzi: 花旦, en: "young female lead"}
+  - {jyutping: "wan1 jau4", hanzi: 溫柔, en: "gentle"}
+  - {jyutping: "jan1 soeng2", hanzi: 欣賞, en: "appreciate, enjoy"}
+  - {jyutping: "seoi2 zau6", hanzi: 水袖, en: "water sleeves (opera)"}
+  - {jyutping: "ngai6 seot6", hanzi: 藝術, en: "art"}
+  - {jyutping: "seon6 dak1", hanzi: 順德, en: "Shunde"}
+  - {jyutping: "daai6 loeng4", hanzi: 大良, en: "Daliang (Shunde)"}
+  - {jyutping: "tim4 ban2", hanzi: 甜品, en: "dessert"}
+  - {jyutping: "soeng1 pei4 naai5", hanzi: 雙皮奶, en: "double-skin milk pudding"}
+  - {jyutping: "nyun6", hanzi: 嫩, en: "tender, delicate"}
+  - {jyutping: "zap1", hanzi: 汁, en: "juice"}
+  - {jyutping: "jing4 gu3", hanzi: 凝固, en: "set, solidify"}
+  - {jyutping: "san4 kei4", hanzi: 神奇, en: "amazing, magical"}
+  - {jyutping: "wo4 hou2", hanzi: 和好, en: "make up, be reconciled"}
+exercises:
+  translate:
+    - {hanzi: "佢好溫柔咁唱歌。", jyutping: "keoi5 hou2 wan1 jau4 gam2 coeng3 go1.", en: "She sings gently."}
+    - {hanzi: "我暈船，嘔到一塌糊塗。", jyutping: "ngo5 wan4 syun4, au2 dou3 jat1 taap3 wu4 tou4.", en: "I got seasick and threw up all over the place."}
+    - {hanzi: "我哋坐低慢慢欣賞演出。", jyutping: "ngo5 dei6 co5 dai1 maan6 maan2 jan1 soeng2 jin2 ceot1.", en: "We sat down to enjoy the performance at our leisure."}
+    - {hanzi: "黃飛鴻係真有其人，開過武館。", jyutping: "wong4 fei1 hung4 hai6 zan1 jau5 kei4 jan4, hoi1 gwo3 mou5 gun2.", en: "Wong Fei-hung was a real person; he ran a martial-arts school."}
+    - {hanzi: "兩個老友終於和好。", jyutping: "loeng5 go3 lou5 jau5 zung1 jyu1 wo4 hou2.", en: "The two old friends finally made up."}
+  fill:
+    - {hanzi: "我淨係識大大聲___唱。", jyutping: "ngo5 zing6 hai6 sik1 daai6 daai6 seng1 ___ coeng3.", answer: "gam2", answer_hanzi: 咁, en: "I only know how to sing loudly."}
+    - {hanzi: "每隻獅有兩個___，一個做頭，一個做尾。", jyutping: "mui5 zek3 si1 jau5 loeng5 go3 ___, jat1 go3 zou6 tau4, jat1 go3 zou6 mei5.", answer: "jin2 jyun4", answer_hanzi: 演員, en: "Each lion has two performers, one at the head and one at the tail."}
+    - {hanzi: "熱奶撞落薑汁度，一陣就___。", jyutping: "jit6 naai5 zong6 lok6 goeng1 zap1 dou6, jat1 zan6 zau6 ___.", answer: "jing4 gu3", answer_hanzi: 凝固, en: "Hot milk poured onto ginger juice sets in a moment."}
+    - {hanzi: "佛山係___嘅老家。", jyutping: "fat6 saan1 hai6 ___ ge3 lou5 gaa1.", answer: "jyut6 kek6", answer_hanzi: 粵劇, en: "Foshan is the home of Cantonese opera."}
+    - {hanzi: "雙皮奶比 panna cotta 仲___。", jyutping: "soeng1 pei4 naai5 bei2 panna cotta zung6 ___.", answer: "nyun6", answer_hanzi: 嫩, en: "Double-skin milk is even more delicate than panna cotta."}

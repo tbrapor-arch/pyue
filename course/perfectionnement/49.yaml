@@ -1,0 +1,58 @@
+# 進修 49. Review of P43–P48: no new words. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 49
+title: {en: "Review: a BBQ on the sand", jyutping: "fuk6 zaap6", hanzi: "復習"}
+genre: review
+review: true
+setting: "Saturday 31 July 2027, evening, a beach on Cheung Chau. The band, Kayan, Hiu-ching and 梁伯 are having a BBQ on the sand to celebrate the podcast and the peace-bun order. As the sun goes down, a man in a straw hat walks along the beach: 何生, who has a holiday home on the island."
+dialogue:
+  - {n: 1, speaker: Ken, hanzi: "魚蛋燶咗！邊個燒嘅？", jyutping: "jyu4 daan2 nung1 zo2! bin1 go3 siu1 ge3?", en: "The fish balls are burnt! Who was grilling them?"}
+  - {n: 2, speaker: Hugo, hanzi: "我……我掛住傾偈。不過燶燶哋好食啲，好似葡撻咁。", jyutping: "ngo5 …… ngo5 gwaa3 zyu6 king1 gai2. bat1 gwo3 nung1 nung1 dei2 hou2 sik6 di1, hou2 ci5 pou4 taat1 gam2.", en: "I… I was busy chatting. But a bit burnt tastes better, like a Portuguese tart."}
+  - {n: 3, speaker: A-zim, hanzi: "你個鬼佬腔又嚟喇！「燶燶哋」都講得咁生動。", jyutping: "nei5 go3 gwai2 lou2 hong1 jau6 lai4 laa3! \"nung1 nung1 dei2\" dou1 gong2 dak1 gam3 sang1 dung6.", en: "There's that foreigner's accent again! Even 'a bit burnt' you say so vividly."}
+  - {n: 4, speaker: Hiu-ching, hanzi: "佢篇文好多人睇㗎，你唔好笑佢。", jyutping: "keoi5 pin1 man2 hou2 do1 jan4 tai2 gaa3, nei5 m4 hou2 siu3 keoi5.", en: "Lots of people read his essay; don't laugh at him."}
+  - {n: 5, speaker: Sai-So, hanzi: "仲有，個 podcast 播咗之後，我哋個 page 粉絲日日都多咗。", jyutping: "zung6 jau5, go3 podcast bo3 zo2 zi1 hau6, ngo5 dei6 go3 page fan2 si1 jat6 jat6 dou1 do1 zo2.", en: "Also, since the podcast went out, our page has gained followers every day."}
+  - {n: 6, speaker: Kayan, hanzi: "仲有你哋首《冇人提起》，我阿哥喺英國聽咗，喊咗成晚。", jyutping: "zung6 jau5 nei5 dei6 sau2 \"mou5 jan4 tai4 hei2\", ngo5 aa3 go1 hai2 jing1 gwok3 teng1 zo2, haam3 zo2 seng4 maan5.", en: "And your song 'Nobody Brings It Up': my brother listened to it in England and cried all night."}
+  - {n: 7, speaker: Leung Pak, hanzi: "（靜靜雞咁飲咗啲啤酒）……佢都有打俾我。我哋傾咗十分鐘，冇嗌交。", jyutping: "(zing6 zing2 gai1 gam2 jam2 zo2 di1 be1 zau2) …… keoi5 dou1 jau5 daa2 bei2 ngo5. ngo5 dei6 king1 zo2 sap6 fan1 zung1, mou5 aai3 gaau1.", en: "(Quietly drinking some beer) …He called me too. We talked for ten minutes without arguing."}
+  - {n: 8, speaker: Kayan, hanzi: "十分鐘！係咁嘅咩？阿爸，你進步咗好多。", jyutping: "sap6 fan1 zung1! hai6 gam2 ge3 me1? aa3 baa4, nei5 zeon3 bou6 zo2 hou2 do1.", en: "Ten minutes! Really? Dad, you've come a long way."}
+  - {n: 9, speaker: Hiu-ching, hanzi: "你哋睇，太陽落山喇。好舒服。", jyutping: "nei5 dei6 tai2, taai3 joeng4 lok6 saan1 laa3. hou2 syu1 fuk6.", en: "Look, the sun's going down. So pleasant."}
+  - {n: 10, speaker: Ken, hanzi: "嗰個著白衫、行得好慢嘅阿伯，係咪行緊過嚟？", jyutping: "go2 go3 zoek3 baak6 saam1, haang4 dak1 hou2 maan6 ge3 aa3 baak3, hai6 mai6 haang4 gan2 gwo3 lai4?", en: "That old man in the white shirt, walking very slowly: is he walking over here?"}
+  - {n: 11, speaker: Kayan, hanzi: "（細聲）唔係嘛，係何生！阿爸，你唔好生蝦咁跳呀。", jyutping: "(sai3 seng1) m4 hai6 maa3, hai6 ho4 saang1! aa3 baa4, nei5 m4 hou2 saang1 haa1 gam2 tiu3 aa3.", en: "(Quietly) No way, it's Mr Ho! Dad, don't go hopping mad."}
+  - {n: 12, speaker: Mr Ho, hanzi: "國華……我喺長洲有間屋，夏天成日嚟住。", jyutping: "gwok3 waa4 …… ngo5 hai2 coeng4 zau1 jau5 gaan1 uk1, haa6 tin1 sing4 jat6 lai4 zyu6.", en: "Kwok-wah… I have a house on Cheung Chau; I often stay here in summer."}
+  - {n: 13, speaker: Leung Pak, hanzi: "（沉默咗好耐）……你唔係話寫信俾我咩？", jyutping: "(cam4 mak6 zo2 hou2 noi6) …… nei5 m4 hai6 waa6 se2 seon3 bei2 ngo5 me1?", en: "(After a long silence) …Didn't you say you'd write me a letter?"}
+  - {n: 14, speaker: Mr Ho, hanzi: "寫緊。有啲嘢唔容易寫，我想寫清楚先寄。", jyutping: "se2 gan2. jau5 di1 je5 m4 jung4 ji6 se2, ngo5 soeng2 se2 cing1 co2 sin1 gei3.", en: "I'm writing it. Some things aren't easy to put down; I want to write them properly before I send it."}
+  - {n: 15, speaker: Hugo, hanzi: "何生，你唔係想企喺度啩？坐低食啲嘢先啦。", jyutping: "ho4 saang1, nei5 m4 hai6 soeng2 kei5 hai2 dou6 gwaa3? co5 dai1 sik6 di1 je5 sin1 laa1.", en: "Mr Ho, you're not planning to stand there, are you? Sit down and have something to eat first."}
+  - {n: 16, speaker: Mr Ho, hanzi: "係，我唔想企喺度……（望住梁伯）如果國華唔介意。", jyutping: "hai6, ngo5 m4 soeng2 kei5 hai2 dou6 …… (mong6 zyu6 loeng4 baak3) jyu4 gwo2 gwok3 waa4 m4 gaai3 ji3.", en: "Right, I don't want to stand here… (Looking at 梁伯) If Kwok-wah doesn't mind."}
+  - {n: 17, speaker: Leung Pak, hanzi: "……坐啦。今日係佢哋後生仔請，唔係我。", jyutping: "…… co5 laa1. gam1 jat6 hai6 keoi5 dei6 hau6 saang1 zai2 ceng2, m4 hai6 ngo5.", en: "…Sit. The young ones are paying today, not me."}
+  - {n: 18, speaker: A-zim, hanzi: "何生，你飲唔飲啤酒定係汽水？", jyutping: "ho4 saang1, nei5 jam2 m4 jam2 be1 zau2 ding6 hai6 hei3 seoi2?", en: "Mr Ho, beer or a soft drink?"}
+  - {n: 19, speaker: Mr Ho, hanzi: "汽水得喇。醫生叫我少飲酒，我個心臟都唔係幾好。", jyutping: "hei3 seoi2 dak1 laa3. ji1 sang1 giu3 ngo5 siu2 jam2 zau2, ngo5 go3 sam1 zong6 dou1 m4 hai6 gei2 hou2.", en: "A soft drink's fine. My doctor told me to drink less; my heart isn't great either."}
+  - {n: 20, speaker: Leung Pak, hanzi: "（忽然笑咗出嚟）你都係？我做咗通波仔。", jyutping: "(fat1 jin4 siu3 zo2 ceot1 lai4) nei5 dou1 hai6? ngo5 zou6 zo2 tung1 bo1 zai2.", en: "(Suddenly bursting out laughing) You too? I've had an angioplasty."}
+  - {n: 21, speaker: Mr Ho, hanzi: "我兩年前做咗。我哋兩個老人家，都係做得太耐。", jyutping: "ngo5 loeng5 nin4 cin4 zou6 zo2. ngo5 dei6 loeng5 go3 lou5 jan4 gaa1, dou1 hai6 zou6 dak1 taai3 noi6.", en: "I had mine two years ago. We two old men both worked too long."}
+  - {n: 22, speaker: Hiu-ching, hanzi: "（細聲同雨果講）佢哋一講起心臟，就好似兩個老同學咁傾得埋。", jyutping: "(sai3 seng1 tung4 jyu5 gwo2 gong2) keoi5 dei6 jat1 gong2 hei2 sam1 zong6, zau6 hou2 ci5 loeng5 go3 lou5 tung4 hok6 gam2 king1 dak1 maai4.", en: "(Whispering to Hugo) The moment they start on their hearts, they get on like two old schoolmates."}
+  - {n: 23, speaker: Hugo, hanzi: "佢哋本身就係老同學。不過阿玲嘅事，仲未講。", jyutping: "keoi5 dei6 bun2 san1 zau6 hai6 lou5 tung4 hok6. bat1 gwo3 aa3 ling4 ge3 si6, zung6 mei6 gong2.", en: "They are old schoolmates. But the business about 阿玲 still hasn't been told."}
+  - {n: 24, speaker: Leung Pak, hanzi: "（攞啲魚蛋俾何生）食啦，燶燶哋，好食啲。", jyutping: "(lo2 di1 jyu4 daan2 bei2 ho4 saang1) sik6 laa1, nung1 nung1 dei2, hou2 sik6 di1.", en: "(Giving Mr Ho some fish balls) Eat. A bit burnt; tastes better."}
+notes:
+  - {ref: 0, topic: grammar, text: "This review brings back P43–P48 with no new words. Look for: doubling (燶燶哋, 日日), purpose and extent, manner with 咁 (靜靜雞咁, 生蝦咁跳), attributive adjectives (白衫), 有 + verb (佢都有打俾我), code-mixing (podcast, page), and negative-question answers (lines 15–16)."}
+  - {ref: 2, topic: grammar, text: "燶燶哋 'a bit burnt' (AA哋, P22): doubling softens the adjective. 掛住 + verb 'be too busy doing': 掛住傾偈."}
+  - {ref: 5, topic: grammar, text: "podcast and page are code-mixed nouns (P46)."}
+  - {ref: 7, topic: grammar, text: "靜靜雞咁 + verb 'quietly' (P45). 佢都有打俾我 'he did call me': 有 + verb for emphasis (P43)."}
+  - {ref: 10, topic: grammar, text: "白衫 'white shirt': a one-syllable adjective goes straight before the noun (P43). 戴帽、著白衫嘅阿伯: a longer description takes 嘅."}
+  - {ref: 15, topic: grammar, text: "你唔係想企喺度啩？ 'you're not planning to stand there, are you?' — 係，我唔想… 'right, I don't want to': 係 agrees with the negative (P39)."}
+  - {ref: 22, topic: grammar, text: "一講起…就… 'the moment they start talking about…' (P45). 傾得埋 'get on, can talk to each other'."}
+  - {ref: 24, topic: vocab, text: "梁伯 repeats Hugo's line 2: the first step towards peace."}
+  - {ref: 11, topic: grammar, text: "唔係嘛 'no way, you're kidding': surprise with 嘛 maa3. 唔好生蝦咁跳 'don't go hopping mad' (P47)."}
+  - {ref: 13, topic: grammar, text: "你唔係話…咩？ 'didn't you say…?': a rhetorical question expecting 'yes' (P34, P47)."}
+  - {ref: 21, topic: grammar, text: "我哋兩個老人家 'the two of us old men': pronoun + number + classifier + noun, a very common way to group people (我哋三個, 你哋兩個)."}
+pron: []
+new_words: []
+exercises:
+  translate:
+    - {hanzi: "啲魚蛋燶燶哋，好食啲。", jyutping: "di1 jyu4 daan2 nung1 nung1 dei2, hou2 sik6 di1.", en: "The fish balls are a bit burnt; they taste better."}
+    - {hanzi: "佢靜靜雞咁飲咗啲啤酒。", jyutping: "keoi5 zing6 zing2 gai1 gam2 jam2 zo2 di1 be1 zau2.", en: "He quietly drank some beer."}
+    - {hanzi: "我哋個 page 粉絲日日都多咗。", jyutping: "ngo5 dei6 go3 page fan2 si1 jat6 jat6 dou1 do1 zo2.", en: "Our page gets more followers every day."}
+    - {hanzi: "佢一講起心臟就停唔到口。", jyutping: "keoi5 jat1 gong2 hei2 sam1 zong6 zau6 ting4 m4 dou2 hau2.", en: "Once he starts talking about his heart, he can't stop."}
+    - {hanzi: "你唔係想走啩？— 係，我唔想走。", jyutping: "nei5 m4 hai6 soeng2 zau2 gwaa3? — hai6, ngo5 m4 soeng2 zau2.", en: "You're not planning to leave, are you? — Right, I don't want to."}
+  fill:
+    - {hanzi: "魚蛋燶___哋，好食啲。", jyutping: "jyu4 daan2 nung1 ___ dei2, hou2 sik6 di1.", answer: "nung1", answer_hanzi: 燶, en: "The fish balls are a bit burnt; they taste better."}
+    - {hanzi: "佢都___打俾我。", jyutping: "keoi5 dou1 ___ daa2 bei2 ngo5.", answer: "jau5", answer_hanzi: 有, en: "He did call me too."}
+    - {hanzi: "阿爸，你唔好生蝦___跳呀。", jyutping: "aa3 baa4, nei5 m4 hou2 saang1 haa1 ___ tiu3 aa3.", answer: "gam2", answer_hanzi: 咁, en: "Dad, don't go hopping mad."}
+    - {hanzi: "個 podcast 播咗___，多咗好多粉絲。", jyutping: "go3 podcast bo3 zo2 ___, do1 zo2 hou2 do1 fan2 si1.", answer: "zi1 hau6", answer_hanzi: 之後, en: "Since the podcast went out we've gained lots of followers."}
+    - {hanzi: "佢哋本身就係老___。", jyutping: "keoi5 dei6 bun2 san1 zau6 hai6 lou5 ___.", answer: "tung4 hok6", answer_hanzi: 同學, en: "They are old schoolmates."}

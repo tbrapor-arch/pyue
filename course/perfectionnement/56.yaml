@@ -1,0 +1,59 @@
+# 進修 56. Review of P50–P55: no new words. Written Cantonese, LSHK Jyutping. Lines marked （法文） are spoken in French. Not checked by a native speaker yet.
+id: 56
+title: {en: "Review: farewell hotpot", jyutping: "fuk6 zaap6", hanzi: "復習"}
+genre: review
+review: true
+setting: "Friday 8 October 2027, after closing. Hugo's parents fly home tomorrow. 梁伯 has set up a hotpot in booth one for a farewell dinner: 蓮姐, Kayan, Hiu-ching, 強哥 and 何生 are there too. Hugo is interpreting again, carefully this time."
+dialogue:
+  - {n: 1, speaker: Leung Pak, hanzi: "嚟，大家坐埋嚟！打風嗰晚我哋打邊爐，今晚送你哋走，都係打邊爐。", jyutping: "lai4, daai6 gaa1 co5 maai4 lai4! daa2 fung1 go2 maan5 ngo5 dei6 daa2 bin1 lou4, gam1 maan5 sung3 nei5 dei6 zau2, dou1 hai6 daa2 bin1 lou4.", en: "Come on, everyone gather round! We had hotpot on typhoon night, and tonight, to see you off, hotpot again."}
+  - {n: 2, speaker: Mum, hanzi: "（法文）佢講乜？", jyutping: "(faat3 man2) keoi5 gong2 mat1?", en: "(In French) What's he saying?"}
+  - {n: 3, speaker: Hugo, hanzi: "（法文）佢話打風嗰晚大家都係咁食，今晚為咗送你哋，又再食一次。", jyutping: "(faat3 man2) keoi5 waa6 daa2 fung1 go2 maan5 daai6 gaa1 dou1 hai6 gam2 sik6, gam1 maan5 wai6 zo2 sung3 nei5 dei6, jau6 zoi3 sik6 jat1 ci3.", en: "(In French) He says this is how everyone ate on typhoon night, and tonight, to see you off, we're doing it again."}
+  - {n: 4, speaker: Lin-ze, hanzi: "今次翻譯得好齊喎。上個禮拜你淨係轉述一句，大鑊到冇人敢出聲。", jyutping: "gam1 ci3 faan1 jik6 dak1 hou2 cai4 wo3. soeng6 go3 lai5 baai3 nei5 zing6 hai6 zyun2 seot6 jat1 geoi3, daai6 wok6 dou3 mou5 jan4 gam2 ceot1 seng1.", en: "That was a full translation this time. Last week you passed on one sentence, and it was such a disaster no one dared speak."}
+  - {n: 5, speaker: Dad, hanzi: "（法文）我想試吓沙嗲牛肉。佢哋係點樣食㗎？", jyutping: "(faat3 man2) ngo5 soeng2 si3 haa5 saa3 de1 ngau4 juk6. keoi5 dei6 hai6 dim2 joeng2 sik6 gaa3?", en: "(In French) I'd like to try the satay beef. How do they eat it?"}
+  - {n: 6, speaker: Keung-go, hanzi: "夾啲牛肉落去，等佢變咗色之後，即刻夾返出嚟。唔好煮太耐，唔係唔好食。", jyutping: "gaap3 di1 ngau4 juk6 lok6 heoi3, dang2 keoi5 bin3 zo2 sik1 zi1 hau6, zik1 hak1 gaap3 faan1 ceot1 lai4. m4 hou2 zyu2 taai3 noi6, m4 hai6 m4 hou2 sik6.", en: "Put some beef in with your chopsticks; once it's changed colour, take it straight out. Don't cook it too long, or it won't taste good."}
+  - {n: 7, speaker: Hiu-ching, hanzi: "阿果，你阿爸食得好開心咁，你阿媽就好小心咁食。", jyutping: "aa3 gwo2, nei5 aa3 baa4 sik6 dak1 hou2 hoi1 sam1 gam2, nei5 aa3 maa1 zau6 hou2 siu2 sam1 gam2 sik6.", en: "A-Gwo, your dad's eating so happily, and your mum's eating so carefully."}
+  - {n: 8, speaker: Mum, hanzi: "（法文）我怕辣。你問吓佢，有冇唔辣嘅？", jyutping: "(faat3 man2) ngo5 paa3 laat6. nei5 man6 haa5 keoi5, jau5 mou5 m4 laat6 ge3?", en: "(In French) I'm afraid of spicy food. Ask him if there's anything not spicy."}
+  - {n: 9, speaker: Hugo, hanzi: "梁伯，我阿媽怕辣，佢問有冇唔辣嘅。", jyutping: "loeng4 baak3, ngo5 aa3 maa1 paa3 laat6, keoi5 man6 jau5 mou5 m4 laat6 ge3.", en: "梁伯, my mum's afraid of spicy food; she's asking if there's anything that isn't spicy."}
+  - {n: 10, speaker: Leung Pak, hanzi: "有！呢一邊唔辣。你同佢講：你想食辣定係唔辣，自己揀。", jyutping: "jau5! ni1 jat1 bin1 m4 laat6. nei5 tung4 keoi5 gong2: nei5 soeng2 sik6 laat6 ding6 hai6 m4 laat6, zi6 gei2 gaan2.", en: "Yes! This side isn't spicy. Tell her: spicy or not spicy, it's her choice."}
+  - {n: 11, speaker: Mr Ho, hanzi: "國華，雖然我哋識咗五十年，但係我今晚先第一次喺梁記打邊爐。", jyutping: "gwok3 waa4, seoi1 jin4 ngo5 dei6 sik1 zo2 ng5 sap6 nin4, daan6 hai6 ngo5 gam1 maan5 sin1 dai6 jat1 ci3 hai2 loeng4 gei3 daa2 bin1 lou4.", en: "Kwok-wah, although we've known each other fifty years, tonight's my first hotpot at 梁記."}
+  - {n: 12, speaker: Leung Pak, hanzi: "就算你係業主，都要排隊。（大家笑）", jyutping: "zau6 syun3 nei5 hai6 jip6 zyu2, dou1 jiu3 paai4 deoi2. (daai6 gaa1 siu3)", en: "Even if you're the landlord, you still have to queue. (Everyone laughs)"}
+  - {n: 13, speaker: Kayan, hanzi: "叔叔，你返法國之前，有冇買手信？", jyutping: "suk1 suk1, nei5 faan1 faat3 gwok3 zi1 cin4, jau5 mou5 maai5 sau2 seon3?", en: "Uncle, have you bought any gifts to take home before you go back to France?"}
+  - {n: 14, speaker: Dad, hanzi: "（法文）有，我買咗好多舊唱片。我書店啲客實鍾意。", jyutping: "(faat3 man2) jau5, ngo5 maai5 zo2 hou2 do1 gau6 coeng3 pin2. ngo5 syu1 dim3 di1 haak3 sat6 zung1 ji3.", en: "(In French) Yes, I bought lots of old records. The customers at my bookshop will love them."}
+  - {n: 15, speaker: Hugo, hanzi: "佢話佢買咗好多舊唱片，佢書店啲客實鍾意喎。", jyutping: "keoi5 waa6 keoi5 maai5 zo2 hou2 do1 gau6 coeng3 pin2, keoi5 syu1 dim3 di1 haak3 sat6 zung1 ji3 wo3.", en: "He says he bought lots of old records, and the customers at his bookshop are sure to love them."}
+  - {n: 16, speaker: Mum, hanzi: "（法文）我呢個禮拜俾雨淋咗兩次，又俾蚊咬，不過我好開心。", jyutping: "(faat3 man2) ngo5 ni1 go3 lai5 baai3 bei2 jyu5 lam4 zo2 loeng5 ci3, jau6 bei2 man1 ngaau5, bat1 gwo3 ngo5 hou2 hoi1 sam1.", en: "(In French) This week I got caught in the rain twice and bitten by mosquitoes, but I'm very happy."}
+  - {n: 17, speaker: Hugo, hanzi: "我阿媽話，佢雖然俾雨淋、俾蚊咬，但係好開心。", jyutping: "ngo5 aa3 maa1 waa6, keoi5 seoi1 jin4 bei2 jyu5 lam4, bei2 man1 ngaau5, daan6 hai6 hou2 hoi1 sam1.", en: "My mum says that although she got rained on and bitten by mosquitoes, she's very happy."}
+  - {n: 18, speaker: Lin-ze, hanzi: "咁你阿媽之後仲嚟唔嚟？", jyutping: "gam2 nei5 aa3 maa1 zi1 hau6 zung6 lai4 m4 lai4?", en: "So will your mum come again?"}
+  - {n: 19, speaker: Mum, hanzi: "（法文）我下次再嚟，或者聖誕。我要睇住我個仔，唔可以再俾佢瞞住我。", jyutping: "(faat3 man2) ngo5 haa6 ci3 zoi3 lai4, waak6 ze2 sing3 daan3. ngo5 jiu3 tai2 zyu6 ngo5 go3 zai2, m4 ho2 ji5 zoi3 bei2 keoi5 mun4 zyu6 ngo5.", en: "(In French) I'll come again another time, or at Christmas. I have to keep an eye on my son; I can't let him hide things from me again."}
+  - {n: 20, speaker: Hugo, hanzi: "佢話下次或者聖誕再嚟……同埋，佢唔會再俾我瞞住佢。", jyutping: "keoi5 waa6 haa6 ci3 waak6 ze2 sing3 daan3 zoi3 lai4 …… tung4 maai4, keoi5 m4 wui5 zoi3 bei2 ngo5 mun4 zyu6 keoi5.", en: "She says she'll come again another time or at Christmas… and she won't let me hide things from her again."}
+  - {n: 21, speaker: Leung Pak, hanzi: "（攞起杯）好！大家飲杯……唔係，我飲唔得，我飲茶。祝你哋身體健康！", jyutping: "(lo2 hei2 bui1) hou2! daai6 gaa1 jam2 bui1 …… m4 hai6, ngo5 jam2 m4 dak1, ngo5 jam2 caa4. zuk1 nei5 dei6 san1 tai2 gin6 hong1!", en: "(Raising his cup) Right! A toast, everyone… no, I can't drink, I'll have tea. Stay healthy!"}
+  - {n: 22, speaker: Mum, hanzi: "（法文）你同佢講：多謝佢，佢令我個仔喺香港有屋企。", jyutping: "(faat3 man2) nei5 tung4 keoi5 gong2: do1 ze6 keoi5, keoi5 ling6 ngo5 go3 zai2 hai2 hoeng1 gong2 jau5 uk1 kei2.", en: "(In French) Tell him: thank you; he's given my son a home in Hong Kong."}
+  - {n: 23, speaker: Hugo, hanzi: "（靜咗一陣，有啲想喊）梁伯，我阿媽話多謝你，你令我喺香港有屋企。", jyutping: "(zing6 zo2 jat1 zan6, jau5 di1 soeng2 haam3) loeng4 baak3, ngo5 aa3 maa1 waa6 do1 ze6 nei5, nei5 ling6 ngo5 hai2 hoeng1 gong2 jau5 uk1 kei2.", en: "(After a moment, close to tears) 梁伯, my mum says thank you: you've given me a home in Hong Kong."}
+  - {n: 24, speaker: Leung Pak, hanzi: "（扮冇嘢咁夾咗啲牛肉俾佢）食啦，唔好喊。聽朝五點，仲要開門。", jyutping: "(baan6 mou5 je5 gam2 gaap3 zo2 di1 ngau4 juk6 bei2 keoi5) sik6 laa1, m4 hou2 haam3. ting1 ziu1 ng5 dim2, zung6 jiu3 hoi1 mun4.", en: "(Pretending nothing's the matter, passing him some beef) Eat, and don't cry. Five tomorrow morning, we've still got to open the shop."}
+notes:
+  - {ref: 0, topic: grammar, text: "This review brings back P50–P55 with no new words. Look for: reported speech (佢話…喎, 佢問…, lines 3, 9, 15, 17, 20), 之前 / 之後 (lines 6, 13, 18), the 俾 passive (lines 16–19), 怕 (line 8), concessives 雖然…但係 / 就算…都 (lines 11–12, 17), manner with 咁 (lines 7, 24), and 定係 vs 或者 (lines 10, 19)."}
+  - {ref: 3, topic: grammar, text: "為咗送你哋 'to see you off' (purpose, P31). Hugo's French is given in Cantonese, as in P55."}
+  - {ref: 4, topic: vocab, text: "翻譯得好齊 'translated it all' (齊 'complete'). 大鑊到冇人敢出聲 'such a disaster no one dared speak' (大鑊, P55; extent 到, P44)."}
+  - {ref: 6, topic: grammar, text: "等佢變色之後，即刻… 'as soon as it changes colour, immediately…' (之後, P50). 唔係 'or else'."}
+  - {ref: 7, topic: grammar, text: "Manner with 咁 (P45, P53): 食得好開心咁 'eating happily' (V得 + adj + 咁, an alternative pattern); 好小心咁食 'eat carefully'."}
+  - {ref: 8, topic: vs-mandarin, text: "怕辣 'can't take spicy food': 怕 + object (P51). 驚辣 is also heard, but 怕 is more natural for a lasting dislike."}
+  - {ref: 10, topic: grammar, text: "你想食辣定係唔辣？ 'spicy or not spicy?': 定係 in a question (P54)."}
+  - {ref: 11, topic: grammar, text: "雖然 A，但係 B (P52); 就算 A，都 B (line 12) 'even if you're the landlord, you still have to queue'."}
+  - {ref: 16, topic: grammar, text: "俾雨淋 / 俾蚊咬 (P37, P51): the adversative passive. 唔可以再俾佢瞞住我 (line 19) 'can't let him hide things from me': 俾 here means 'let, allow'."}
+  - {ref: 19, topic: grammar, text: "或者 in a statement (P54): 下次再嚟，或者聖誕."}
+  - {ref: 21, topic: grammar, text: "飲唔得 'can't drink' (V唔得, P4): 梁伯's doctor forbids alcohol since his operation (P33). 祝你哋身體健康 'wishing you good health' (P30)."}
+  - {ref: 24, topic: grammar, text: "扮冇嘢咁 'pretending nothing's the matter': 扮 + clause + 咁 + verb, manner again (P45)."}
+pron: []
+new_words: []
+exercises:
+  translate:
+    - {hanzi: "佢話佢夏天再嚟喎。", jyutping: "keoi5 waa6 keoi5 haa6 tin1 zoi3 lai4 wo3.", en: "She says she'll come again in summer."}
+    - {hanzi: "你返法國之前，記得買手信。", jyutping: "nei5 faan1 faat3 gwok3 zi1 cin4, gei3 dak1 maai5 sau2 seon3.", en: "Remember to buy gifts before you go back to France."}
+    - {hanzi: "我阿媽怕辣。", jyutping: "ngo5 aa3 maa1 paa3 laat6.", en: "My mum can't take spicy food."}
+    - {hanzi: "雖然俾雨淋，但係佢好開心。", jyutping: "seoi1 jin4 bei2 jyu5 lam4, daan6 hai6 keoi5 hou2 hoi1 sam1.", en: "Although she got rained on, she's very happy."}
+    - {hanzi: "你想食辣定係唔辣？", jyutping: "nei5 soeng2 sik6 laat6 ding6 hai6 m4 laat6?", en: "Do you want spicy or not spicy?"}
+  fill:
+    - {hanzi: "佢___有冇唔辣嘅湯。", jyutping: "keoi5 ___ jau5 mou5 m4 laat6 ge3 tong1.", answer: "man6", answer_hanzi: 問, en: "She's asking whether there's a broth that isn't spicy."}
+    - {hanzi: "___你係業主，都要排隊。", jyutping: "___ nei5 hai6 jip6 zyu2, dou1 jiu3 paai4 deoi2.", answer: "zau6 syun3", answer_hanzi: 就算, en: "Even if you're the landlord, you still have to queue."}
+    - {hanzi: "佢好小心___食。", jyutping: "keoi5 hou2 siu2 sam1 ___ sik6.", answer: "gam2", answer_hanzi: 咁, en: "She eats very carefully."}
+    - {hanzi: "我呢個禮拜___蚊咬咗好多次。", jyutping: "ngo5 ni1 go3 lai5 baai3 ___ man1 ngaau5 zo2 hou2 do1 ci3.", answer: "bei2", answer_hanzi: 俾, en: "I've been bitten by mosquitoes many times this week."}
+    - {hanzi: "我夏天再嚟，___聖誕。", jyutping: "ngo5 haa6 tin1 zoi3 lai4, ___ sing3 daan3.", answer: "waak6 ze2", answer_hanzi: 或者, en: "I'll come again in summer, or at Christmas."}

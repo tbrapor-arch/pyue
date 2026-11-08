@@ -1,0 +1,96 @@
+# 進修 54. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 54
+title: {en: "Emigrate or stay?", jyutping: "ji4 man4 ding6 lau4 dai1", hanzi: "移民定留低？"}
+intro: "A family debate on a video call: should 梁伯 join his son in England? 'Or' in questions (定係, 抑或) versus 'or' in statements (或者), 寧願 'would rather', and the words of welfare, loneliness and roots."
+genre: debate
+review: false
+setting: "Sunday 19 September 2027, nine in the evening in Hong Kong, two in the afternoon in Manchester. After closing, Kayan props her phone against the sugar jar. On the screen: her brother 嘉偉, his wife, and their baby daughter, born last spring. 梁伯 sits in booth one; Hugo has been asked to 'keep time, like a referee'."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "今晚嘅辯論題目：梁伯應該移民去英國，定係留喺香港？正方嘉偉，反方嘉欣，每人講三分鐘。", jyutping: "gam1 maan5 ge3 bin6 leon6 tai4 muk6: loeng4 baak3 jing1 goi1 ji4 man4 heoi3 jing1 gwok3, ding6 hai6 lau4 hai2 hoeng1 gong2? zing3 fong1 gaa1 wai5, faan2 fong1 gaa1 jan1, mui5 jan4 gong2 saam1 fan1 zung1.", en: "Tonight's debate: should 梁伯 emigrate to England, or stay in Hong Kong? For the motion, Ka-wai; against, Kayan. Three minutes each."}
+  - {n: 2, speaker: Ka-wai, hanzi: "阿爸，第一：你個心臟要人睇住。英國醫療免費，係最好嘅福利之一。", jyutping: "aa3 baa4, dai6 jat1: nei5 go3 sam1 zong6 jiu3 jan4 tai2 zyu6. jing1 gwok3 ji1 liu4 min5 fai3, hai6 zeoi3 hou2 ge3 fuk1 lei6 zi1 jat1.", en: "Dad, first: your heart needs looking after. Healthcare in England is free; it's one of the best benefits there."}
+  - {n: 3, speaker: Kayan, hanzi: "免費係免費，不過睇專科要輪候幾個月。香港公立醫院都慢，但係起碼醫生講廣東話。", jyutping: "min5 fai3 hai6 min5 fai3, bat1 gwo3 tai2 zyun1 fo1 jiu3 leon4 hau6 gei2 go3 jyut6. hoeng1 gong2 gung1 laap6 ji1 jyun2 dou1 maan6, daan6 hai6 hei2 maa5 ji1 sang1 gong2 gwong2 dung1 waa2.", en: "Free, sure, but seeing a specialist means waiting months. Hong Kong's public hospitals are slow too, but at least the doctors speak Cantonese."}
+  - {n: 4, speaker: Ka-wai, hanzi: "第二：你個外孫女得幾個月大。你想喺手機度睇住佢大，抑或喺佢身邊？", jyutping: "dai6 ji6: nei5 go3 ngoi6 syun1 neoi2 dak1 gei2 go3 jyut6 daai6. nei5 soeng2 hai2 sau2 gei1 dou6 tai2 zyu6 keoi5 daai6, jik1 waak6 hai2 keoi5 san1 bin1?", en: "Second: your granddaughter is only a few months old. Do you want to watch her grow up on a phone screen, or be by her side?"}
+  - {n: 5, speaker: Hugo, hanzi: "等等，嘉偉，你個囡囡係「孫女」，唔係「外孫女」。外孫係女兒生嘅。", jyutping: "dang2 dang2, gaa1 wai5, nei5 go3 neoi4 neoi1 hai6 \"syun1 neoi2\", m4 hai6 \"ngoi6 syun1 neoi2\". ngoi6 syun1 hai6 neoi5 ji4 saang1 ge3.", en: "Wait, Ka-wai: your little girl is his 孫女, not 外孫女. 外孫 are children born to a daughter."}
+  - {n: 6, speaker: Ka-wai, hanzi: "……阿果，你仲識過我。（笑）總之，佢係你孫女！", jyutping: "…… aa3 gwo2, nei5 zung6 sik1 gwo3 ngo5. (siu3) zung2 zi1, keoi5 hai6 nei5 syun1 neoi2!", en: "…A-Gwo, you know more than I do. (Laughing) Anyway, she's your granddaughter!"}
+  - {n: 7, speaker: Kayan, hanzi: "反駁：阿爸唔識英文。佢去到，個個鄰居佢都唔識，冇人同佢傾偈，會好孤獨。", jyutping: "faan2 bok3: aa3 baa4 m4 sik1 jing1 man2. keoi5 heoi3 dou3, go3 go3 leon4 geoi1 keoi5 dou1 m4 sik1, mou5 jan4 tung4 keoi5 king1 gai2, wui5 hou2 gu1 duk6.", en: "Rebuttal: Dad doesn't speak English. Once there, he won't know a single neighbour, no one to chat with: he'll be very lonely."}
+  - {n: 8, speaker: Ka-wai, hanzi: "唔會呀！曼城而家好多港人，華人社區有茶樓、有超市，仲有人開咗間港式茶餐廳。", jyutping: "m4 wui5 aa3! maan6 sing4 ji4 gaa1 hou2 do1 gong2 jan4, waa4 jan4 se5 keoi1 jau5 caa4 lau4, jau5 ciu1 si5, zung6 jau5 jan4 hoi1 zo2 gaan1 gong2 sik1 caa4 caan1 teng1.", en: "No he won't! There are lots of Hongkongers in Manchester now; the Chinese community has dim sum restaurants, supermarkets, and someone's even opened a Hong Kong cha chaan teng."}
+  - {n: 9, speaker: Leung Pak, hanzi: "佢啲奶茶好唔好飲？", jyutping: "keoi5 di1 naai5 caa4 hou2 m4 hou2 jam2?", en: "Is their milk tea any good?"}
+  - {n: 10, speaker: Ka-wai, hanzi: "……麻麻。所以我哋需要你嚟呀！", jyutping: "…… maa4 maa2. so2 ji5 ngo5 dei6 seoi1 jiu3 nei5 lai4 aa3!", en: "…So-so. That's why we need you to come!"}
+  - {n: 11, speaker: Kayan, hanzi: "第三：梁記啱啱簽咗十年租約。阿爸走咗，我哋點算？你寧願佢喺英國悶死，定係喺度沖奶茶沖到老？", jyutping: "dai6 saam1: loeng4 gei3 ngaam1 ngaam1 cim1 zo2 sap6 nin4 zou1 joek3. aa3 baa4 zau2 zo2, ngo5 dei6 dim2 syun3? nei5 ning4 jyun6 keoi5 hai2 jing1 gwok3 mun6 sei2, ding6 hai6 hai2 dou6 cung1 naai5 caa4 cung1 dou3 lou5?", en: "Third: 梁記 has just signed a ten-year lease. If Dad leaves, what do we do? Would you rather he be bored to death in England, or make milk tea here until he's old?"}
+  - {n: 12, speaker: Ka-wai, hanzi: "我寧願佢健健康康，多陪我哋幾年。香港啲生活費同物價越嚟越貴，英國起碼有地方、有花園、空氣清新。", jyutping: "ngo5 ning4 jyun6 keoi5 gin6 gin6 hong1 hong1, do1 pui4 ngo5 dei6 gei2 nin4. hoeng1 gong2 di1 sang1 wut6 fai3 tung4 mat6 gaa3 jyut6 lai4 jyut6 gwai3, jing1 gwok3 hei2 maa5 jau5 dei6 fong1, jau5 faa1 jyun2, hung1 hei3 cing1 san1.", en: "I'd rather he stays healthy and spends a few more years with us. Living costs and prices in Hong Kong keep going up; in England at least there's space, a garden, fresh air."}
+  - {n: 13, speaker: Kayan, hanzi: "仲有成日陰天落雨。阿爸最怕凍。", jyutping: "zung6 jau5 sing4 jat6 jam1 tin1 lok6 jyu5. aa3 baa4 zeoi3 paa3 dung3.", en: "And constant grey skies and rain. Dad hates the cold."}
+  - {n: 14, speaker: Ka-wai, hanzi: "（靜咗一陣）你哋都知，我唔係淨係為咗天氣先走。", jyutping: "(zing6 zo2 jat1 zan6) nei5 dei6 dou1 zi1, ngo5 m4 hai6 zing6 hai6 wai6 zo2 tin1 hei3 sin1 zau2.", en: "(After a pause) You all know I didn't leave just because of the weather."}
+  - {n: 15, speaker: Kayan, hanzi: "我知。你嘅原因，我尊重。不過阿爸嘅根喺度，佢嘅老友、佢間舖、阿媽，都喺度。", jyutping: "ngo5 zi1. nei5 ge3 jyun4 jan1, ngo5 zyun1 zung6. bat1 gwo3 aa3 baa4 ge3 gan1 hai2 dou6, keoi5 ge3 lou5 jau5, keoi5 gaan1 pou3, aa3 maa1, dou1 hai2 dou6.", en: "I know. I respect your reasons. But Dad's roots are here: his old friends, his shop, Mum, they're all here."}
+  - {n: 16, speaker: Hugo, hanzi: "夠鐘！梁伯，到你講結論。你想去英國，抑或留低？", jyutping: "gau3 zung1! loeng4 baak3, dou3 nei5 gong2 git3 leon6. nei5 soeng2 heoi3 jing1 gwok3, jik1 waak6 lau4 dai1?", en: "Time! 梁伯, your conclusion. Do you want to go to England, or stay?"}
+  - {n: 17, speaker: Leung Pak, hanzi: "你哋兩個講得都有道理。阿偉，你喺嗰邊落地生根，係啱嘅。", jyutping: "nei5 dei6 loeng5 go3 gong2 dak1 dou1 jau5 dou6 lei5. aa3 wai5, nei5 hai2 go2 bin1 lok6 dei6 saang1 gan1, hai6 ngaam1 ge3.", en: "You both make good points. Wai, putting down roots over there is the right thing for you."}
+  - {n: 18, speaker: Leung Pak, hanzi: "不過老人家講落葉歸根。我呢片葉，喺深水埗生，就喺深水埗跌落嚟。", jyutping: "bat1 gwo3 lou5 jan4 gaa1 gong2 lok6 jip6 gwai1 gan1. ngo5 ni1 pin3 jip6, hai2 sam1 seoi2 bou2 saang1, zau6 hai2 sam1 seoi2 bou2 dit3 lok6 lai4.", en: "But the old saying goes: fallen leaves return to their roots. This leaf grew in Sham Shui Po, and it will fall in Sham Shui Po."}
+  - {n: 19, speaker: Ka-wai, hanzi: "……我就知你會咁講。", jyutping: "…… ngo5 zau6 zi1 nei5 wui5 gam2 gong2.", en: "…I knew you'd say that."}
+  - {n: 20, speaker: Leung Pak, hanzi: "我唔移民，不過我可以去探你哋。冬天唔得，太凍；夏天或者聖誕，你揀。", jyutping: "ngo5 m4 ji4 man4, bat1 gwo3 ngo5 ho2 ji5 heoi3 taam3 nei5 dei6. dung1 tin1 m4 dak1, taai3 dung3; haa6 tin1 waak6 ze2 sing3 daan3, nei5 gaan2.", en: "I won't emigrate, but I can visit you. Not in winter, too cold; summer or Christmas, you choose."}
+  - {n: 21, speaker: Kayan, hanzi: "聖誕係冬天嚟㗎，阿爸。", jyutping: "sing3 daan3 hai6 dung1 tin1 lai4 gaa3, aa3 baa4.", en: "Christmas is in winter, Dad."}
+  - {n: 22, speaker: Leung Pak, hanzi: "……咁就夏天。我要親手抱吓我個孫女。", jyutping: "…… gam2 zau6 haa6 tin1. ngo5 jiu3 can1 sau2 pou5 haa5 ngo5 go3 syun1 neoi2.", en: "…Summer, then. I want to hold my granddaughter in my own arms."}
+  - {n: 23, speaker: Ka-wai, hanzi: "（喊住笑）好。我同老婆而家就去睇機票。", jyutping: "(haam3 zyu6 siu3) hou2. ngo5 tung4 lou5 po4 ji4 gaa1 zau6 heoi3 tai2 gei1 piu3.", en: "(Laughing through tears) OK. My wife and I will go and look at tickets right now."}
+  - {n: 24, speaker: Hugo, hanzi: "咁今晚嘅辯論，邊個贏？", jyutping: "gam2 gam1 maan5 ge3 bin6 leon6, bin1 go3 jeng4?", en: "So who won tonight's debate?"}
+  - {n: 25, speaker: Leung Pak, hanzi: "個 BB 贏。", jyutping: "go3 BB jeng4.", en: "The baby won."}
+notes:
+  - {ref: 1, topic: grammar, text: "'Or' in questions: A 定係 B (P8) or A 抑或 B (P32): 移民去英國，定係留喺香港？ 'Or' in statements: A 或者 B (P10): 夏天或者聖誕 'summer or Christmas' (line 20). Using 或者 in a question makes it a yes/no question: 你想要茶或者咖啡？ 'would you like tea or coffee (or anything)?'."}
+  - {ref: 1, topic: vocab, text: "辯論 bin6 leon6 = debate. 題目 'topic'. 正方 zing3 fong1 / 反方 faan2 fong1 = for / against the motion. 反駁 faan2 bok3 (line 7) = rebut. 結論 git3 leon6 (line 16) = conclusion."}
+  - {ref: 2, topic: vocab, text: "醫療 ji1 liu4 = medical care; 私家 si1 gaa1 = private: 私家醫院 'private hospital'. 免費 min5 fai3 = free of charge. 福利 fuk1 lei6 = welfare, benefits. …之一 zi1 jat1 'one of …'."}
+  - {ref: 3, topic: vocab, text: "專科 zyun1 fo1 = specialist (department). 輪候 leon4 hau6 = wait in a queue (for a service). 免費係免費，不過… 'free it may be, but…' (A 係 A, P40)."}
+  - {ref: 4, topic: culture, text: "Grandchildren: 孫 / 孫女 are a son's children; 外孫 ngoi6 syun1 / 外孫女 'outside grandchildren' are a daughter's. Hugo is right: 嘉偉's daughter is 梁伯's 孫女. 囡囡 neoi4 neoi1 (line 5) = baby girl, little daughter; 女兒 neoi5 ji4 = daughter (formal). 身邊 san1 bin1 (line 4) = by one's side."}
+  - {ref: 7, topic: vocab, text: "孤獨 gu1 duk6 = lonely, alone. 鄰居 'neighbour'. 悶 mun6 (line 11) = bored, boring: 悶死 'bored to death'."}
+  - {ref: 8, topic: culture, text: "Since 2021 more than 150,000 Hongkongers have moved to the UK on the BN(O) visa route; Manchester, Reading, Sutton and Birmingham have growing communities. 港人 gong2 jan4 = Hongkongers; 華人 waa4 jan4 = ethnic Chinese; 社區 se5 keoi1 = community."}
+  - {ref: 11, topic: grammar, text: "寧願 (P16) A，定係 B? 'would you rather A, or B?'; 我寧願佢健健康康 'I'd rather he stays healthy' (line 12). 點算 'what are we to do?'."}
+  - {ref: 12, topic: vocab, text: "生活費 sang1 wut6 fai3 = cost of living; 物價 mat6 gaa3 = prices (of goods). 清新 cing1 san1 = fresh (air). 健健康康 'healthy' (AABB, P48). 陰天 jam1 tin1 (line 13) = overcast weather."}
+  - {ref: 15, topic: vocab, text: "根 gan1 = root. 尊重 'respect' (known)."}
+  - {ref: 17, topic: culture, text: "Two sayings in opposition: 落地生根 lok6 dei6 saang1 gan1 'land and grow roots' (settle for good in a new place) and 落葉歸根 lok6 jip6 gwai1 gan1 'fallen leaves return to the root' (come home in old age). 有道理 'make sense, have a point'."}
+  - {ref: 22, topic: vocab, text: "親手 can1 sau2 'with one's own hands'. 抱 pou5 = hold in one's arms, hug. 聖誕 sing3 daan3 (line 20) = Christmas."}
+  - {ref: 1, topic: vs-mandarin, text: "Cantonese 定係 = Mandarin 還是 (questions only). Cantonese 或者 = Mandarin 或者 (statements). Mandarin speakers often use 還是 in statements too (我還是去吧 'I'd better go'); Cantonese 定係 can't do that, it only means 'or' in a question."}
+pron:
+  - {ref: 5, text: "囡囡 neoi4 neoi1: the second syllable rises to high level."}
+  - {ref: 18, text: "落葉歸根 lok6 jip6 gwai1 gan1; 葉 is jip6, not ip6 (no initial is dropped in careful speech)."}
+  - {ref: 22, text: "抱 'hold in arms' is pou5 in speech; dictionaries give bou6 as well."}
+new_words:
+  - {jyutping: "bin6 leon6", hanzi: 辯論, en: "debate"}
+  - {jyutping: "zing3 fong1", hanzi: 正方, en: "for the motion"}
+  - {jyutping: "faan2 fong1", hanzi: 反方, en: "against the motion"}
+  - {jyutping: "ji1 liu4", hanzi: 醫療, en: "medical care"}
+  - {jyutping: "min5 fai3", hanzi: 免費, en: "free of charge"}
+  - {jyutping: "fuk1 lei6", hanzi: 福利, en: "welfare, benefits"}
+  - {jyutping: "zyun1 fo1", hanzi: 專科, en: "specialist (department)"}
+  - {jyutping: "leon4 hau6", hanzi: 輪候, en: "wait in a queue"}
+  - {jyutping: "ngoi6 syun1", hanzi: 外孫, en: "daughter's child"}
+  - {jyutping: "neoi4 neoi1", hanzi: 囡囡, en: "baby girl"}
+  - {jyutping: "faan2 bok3", hanzi: 反駁, en: "rebut"}
+  - {jyutping: "gu1 duk6", hanzi: 孤獨, en: "lonely"}
+  - {jyutping: "gong2 jan4", hanzi: 港人, en: "Hongkongers"}
+  - {jyutping: "waa4 jan4", hanzi: 華人, en: "ethnic Chinese"}
+  - {jyutping: "se5 keoi1", hanzi: 社區, en: "community"}
+  - {jyutping: "mun6", hanzi: 悶, en: "bored; boring"}
+  - {jyutping: "sang1 wut6 fai3", hanzi: 生活費, en: "cost of living"}
+  - {jyutping: "mat6 gaa3", hanzi: 物價, en: "prices"}
+  - {jyutping: "cing1 san1", hanzi: 清新, en: "fresh"}
+  - {jyutping: "jam1 tin1", hanzi: 陰天, en: "overcast weather"}
+  - {jyutping: "gan1", hanzi: 根, en: "root"}
+  - {jyutping: "git3 leon6", hanzi: 結論, en: "conclusion"}
+  - {jyutping: "lok6 dei6 saang1 gan1", hanzi: 落地生根, en: "settle for good"}
+  - {jyutping: "lok6 jip6 gwai1 gan1", hanzi: 落葉歸根, en: "return home in old age"}
+  - {jyutping: "zi1 jat1", hanzi: 之一, en: "one of"}
+  - {jyutping: "can1 sau2", hanzi: 親手, en: "with one's own hands"}
+  - {jyutping: "pou5", hanzi: 抱, en: "hold in one's arms, hug"}
+  - {jyutping: "sing3 daan3", hanzi: 聖誕, en: "Christmas"}
+  - {jyutping: "neoi5 ji4", hanzi: 女兒, en: "daughter"}
+  - {jyutping: "san1 bin1", hanzi: 身邊, en: "by one's side"}
+  - {jyutping: "si1 gaa1", hanzi: 私家, en: "private"}
+exercises:
+  translate:
+    - {hanzi: "你想移民，定係留低？", jyutping: "nei5 soeng2 ji4 man4, ding6 hai6 lau4 dai1?", en: "Do you want to emigrate, or stay?"}
+    - {hanzi: "我哋夏天或者聖誕去探佢。", jyutping: "ngo5 dei6 haa6 tin1 waak6 ze2 sing3 daan3 heoi3 taam3 keoi5.", en: "We'll visit him in summer or at Christmas."}
+    - {hanzi: "我寧願輪候，都唔想去私家醫院。", jyutping: "ngo5 ning4 jyun6 leon4 hau6, dou1 m4 soeng2 heoi3 si1 gaa1 ji1 jyun2.", en: "I'd rather wait my turn than go to a private hospital."}
+    - {hanzi: "佢一個人喺外國，好孤獨。", jyutping: "keoi5 jat1 go3 jan4 hai2 ngoi6 gwok3, hou2 gu1 duk6.", en: "He's all alone abroad; he's very lonely."}
+    - {hanzi: "你哋兩個講得都有道理。", jyutping: "nei5 dei6 loeng5 go3 gong2 dak1 dou1 jau5 dou6 lei5.", en: "You both have a point."}
+  fill:
+    - {hanzi: "你想飲茶___咖啡？", jyutping: "nei5 soeng2 jam2 caa4 ___ gaa3 fe1?", answer: "ding6 hai6", answer_hanzi: 定係, en: "Would you like tea or coffee?"}
+    - {hanzi: "我聽日___後日去。", jyutping: "ngo5 ting1 jat6 ___ hau6 jat6 heoi3.", answer: "waak6 ze2", answer_hanzi: 或者, en: "I'll go tomorrow or the day after."}
+    - {hanzi: "英國醫療免費，係最好嘅___之一。", jyutping: "jing1 gwok3 ji1 liu4 min5 fai3, hai6 zeoi3 hou2 ge3 ___ zi1 jat1.", answer: "fuk1 lei6", answer_hanzi: 福利, en: "Free healthcare is one of England's best benefits."}
+    - {hanzi: "老人家講落葉___。", jyutping: "lou5 jan4 gaa1 gong2 lok6 jip6 ___.", answer: "gwai1 gan1", answer_hanzi: 歸根, en: "The old saying: fallen leaves return to their roots."}
+    - {hanzi: "香港啲___越嚟越貴。", jyutping: "hoeng1 gong2 di1 ___ jyut6 lai4 jyut6 gwai3.", answer: "mat6 gaa3", answer_hanzi: 物價, en: "Prices in Hong Kong keep going up."}

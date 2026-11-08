@@ -1,0 +1,101 @@
+# 進修 52. Written Cantonese in a careful, slightly formal register, LSHK Jyutping. Not checked by a native speaker yet.
+id: 52
+title: {en: "Old pals", jyutping: "lou5 jau5 gwai2 gwai2", hanzi: "老友鬼鬼"}
+intro: "何生's letter to 梁伯: his side of 1975, an apology and an offer. Concessives (雖然…但係, 就算…都, 儘管, 不過) and the words of guilt, pride and forgiveness."
+genre: letter
+review: false
+setting: "Friday 27 August 2027. A thick envelope arrives at 梁記, addressed by hand to 梁國華兄. Inside, a letter and an old photo. 梁伯 reads it alone in booth one, then hands it to Kayan without a word."
+dialogue:
+  - {n: 1, speaker: Letter, hanzi: "國華兄：", jyutping: "gwok3 waa4 hing1:", en: "Dear Kwok-wah,"}
+  - {n: 2, speaker: Letter, hanzi: "上個月喺梁記，我話會寫信俾你。寫咗成個月，改咗好多次，雖然寫得唔好，但係都係真心話。", jyutping: "soeng6 go3 jyut6 hai2 loeng4 gei3, ngo5 waa6 wui5 se2 seon3 bei2 nei5. se2 zo2 seng4 go3 jyut6, goi2 zo2 hou2 do1 ci3, seoi1 jin4 se2 dak1 m4 hou2, daan6 hai6 dou1 hai6 zan1 sam1 waa6.", en: "Last month at 梁記 I said I would write to you. I've been writing for a whole month and changed it many times; though it isn't well written, it is the truth."}
+  - {n: 3, speaker: Letter, hanzi: "一九七五年，我的確請阿玲去半島飲下午茶。我承認，嗰陣我好羨慕你：你冇錢，但係個個都鍾意你。", jyutping: "jat1 gau2 cat1 ng5 nin4, ngo5 dik1 kok3 ceng2 aa3 ling4 heoi3 bun3 dou2 jam2 haa6 ng5 caa4. ngo5 sing4 jing6, go2 zan6 ngo5 hou2 sin6 mou6 nei5: nei5 mou5 cin2, daan6 hai6 go3 go3 dou1 zung1 ji3 nei5.", en: "In 1975 I did take 阿玲 to afternoon tea at the Peninsula. I admit that back then I envied you: you had no money, but everyone liked you."}
+  - {n: 4, speaker: Letter, hanzi: "不過，佢同我出街，唔係因為鍾意我。佢屋企人嫌你屋企開茶餐廳，話唔門當戶對，逼佢同你分手。", jyutping: "bat1 gwo3, keoi5 tung4 ngo5 ceot1 gaai1, m4 hai6 jan1 wai6 zung1 ji3 ngo5. keoi5 uk1 kei2 jan4 jim4 nei5 uk1 kei2 hoi1 caa4 caan1 teng1, waa6 m4 mun4 dong1 wu6 deoi3, bik1 keoi5 tung4 nei5 fan1 sau2.", en: "But she didn't go out with me because she liked me. Her family looked down on yours for running a cha chaan teng, said you weren't of the same standing, and forced her to break up with you."}
+  - {n: 5, speaker: Letter, hanzi: "我知道真相，但係我冇講。我太年輕，又妒忌你，覺得佢揀咗我，就係我贏。", jyutping: "ngo5 zi1 dou3 zan1 soeng3, daan6 hai6 ngo5 mou5 gong2. ngo5 taai3 nin4 hing1, jau6 dou3 gei6 nei5, gok3 dak1 keoi5 gaan2 zo2 ngo5, zau6 hai6 ngo5 jeng4.", en: "I knew the truth, but I said nothing. I was too young, and jealous of you; I thought that if she chose me, I'd won."}
+  - {n: 6, speaker: Letter, hanzi: "第二年我去咗英國留學，佢跟屋企人移民加拿大。我哋之後好少聯絡。", jyutping: "dai6 ji6 nin4 ngo5 heoi3 zo2 jing1 gwok3 lau4 hok6, keoi5 gan1 uk1 kei2 jan4 ji4 man4 gaa1 naa4 daai6. ngo5 dei6 zi1 hau6 hou2 siu2 lyun4 lok3.", en: "The next year I went to study in England, and she emigrated to Canada with her family. After that we were rarely in touch."}
+  - {n: 7, speaker: Letter, hanzi: "去年，阿玲喺溫哥華過咗身。臨終之前，佢寫咗封信俾我，叫我將呢張相片轉交俾你。", jyutping: "heoi3 nin4, aa3 ling4 hai2 wan1 go1 waa4 gwo3 zo2 san1. lam4 zung1 zi1 cin4, keoi5 se2 zo2 fung1 seon3 bei2 ngo5, giu3 ngo5 zoeng1 ni1 zoeng1 soeng3 pin2 zyun2 gaau1 bei2 nei5.", en: "Last year 阿玲 passed away in Vancouver. Before she died, she wrote to me and asked me to pass this photo on to you."}
+  - {n: 8, speaker: Letter, hanzi: "相入面係你哋兩個，著住校服，喺學校門口。背後佢寫咗一句：「我從來冇怪過國華。」", jyutping: "soeng2 jap6 min6 hai6 nei5 dei6 loeng5 go3, zoek3 zyu6 haau6 fuk6, hai2 hok6 haau6 mun4 hau2. bui3 hau6 keoi5 se2 zo2 jat1 geoi3: \"ngo5 cung4 loi4 mou5 gwaai3 gwo3 gwok3 waa4.\"", en: "In the photo it's the two of you, in school uniform, at the school gate. On the back she wrote one line: 'I never blamed Kwok-wah.'"}
+  - {n: 9, speaker: Letter, hanzi: "我收到呢張相差唔多一年，一直唔敢搵你。我好慚愧：五十年嚟，我收埋咗一個本來屬於你嘅答案。", jyutping: "ngo5 sau1 dou2 ni1 zoeng1 soeng2 caa1 m4 do1 jat1 nin4, jat1 zik6 m4 gam2 wan2 nei5. ngo5 hou2 caam4 kwai5: ng5 sap6 nin4 lai4, ngo5 sau1 maai4 zo2 jat1 go3 bun2 loi4 suk6 jyu1 nei5 ge3 daap3 on3.", en: "I've had this photo for nearly a year and never dared to find you. I'm deeply ashamed: for fifty years I've hidden an answer that was rightfully yours."}
+  - {n: 10, speaker: Letter, hanzi: "至於加租，儘管我唔係有心針對你，責任都喺我。我接手老豆啲物業之後，全部交俾經紀打理，佢跟市價加，我冇睇清楚。", jyutping: "zi3 jyu1 gaa1 zou1, zeon2 gun2 ngo5 m4 hai6 jau5 sam1 zam1 deoi3 nei5, zaak3 jam6 dou1 hai2 ngo5. ngo5 zip3 sau2 lou5 dau6 di1 mat6 jip6 zi1 hau6, cyun4 bou6 gaau1 bei2 ging1 kei2 daa2 lei5, keoi5 gan1 si5 gaa3 gaa1, ngo5 mou5 tai2 cing1 co2.", en: "As for the rent rise: although I didn't mean to target you, the responsibility is mine. After I took over my father's properties, I left them all to an agent; he raised rents to market levels, and I didn't look properly."}
+  - {n: 11, speaker: Letter, hanzi: "我知道就算減租，都補償唔到你屋企呢一年嘅辛苦。不過，我想表示少少誠意：", jyutping: "ngo5 zi1 dou3 zau6 syun3 gaam2 zou1, dou1 bou2 soeng4 m4 dou2 nei5 uk1 kei2 ni1 jat1 nin4 ge3 san1 fu2. bat1 gwo3, ngo5 soeng2 biu2 si6 siu2 siu2 sing4 ji3:", en: "I know that even cutting the rent can't make up for what your family has been through this year. But I'd like to show a little good faith:"}
+  - {n: 12, speaker: Letter, hanzi: "由十月開始，租金減返原價三萬，而且簽一份十年嘅新租約，十年內凍結租金。", jyutping: "jau4 sap6 jyut6 hoi1 ci2, zou1 gam1 gaam2 faan1 jyun4 gaa3 saam1 maan6, ji4 ce2 cim1 jat1 fan6 sap6 nin4 ge3 san1 zou1 joek3, sap6 nin4 noi6 dung3 git3 zou1 gam1.", en: "From October, the rent goes back down to the original 30,000, and we sign a new ten-year lease, with the rent frozen for those ten years."}
+  - {n: 13, speaker: Letter, hanzi: "我知你個人有自尊，可能會拒絕。如果你唔接受，我都明白。你考慮清楚先答覆我。", jyutping: "ngo5 zi1 nei5 go3 jan4 jau5 zi6 zyun1, ho2 nang4 wui5 keoi5 zyut6. jyu4 gwo2 nei5 m4 zip3 sau6, ngo5 dou1 ming4 baak6. nei5 haau2 leoi6 cing1 co2 sin1 daap3 fuk1 ngo5.", en: "I know you're a proud man and may refuse. If you don't accept, I'll understand. Think it over before you reply."}
+  - {n: 14, speaker: Letter, hanzi: "我哋都七十歲咁上下，剩返嘅日子唔多。如果你肯原諒我，我想請你去佛山飲餐茶，好似後生嗰陣咁。", jyutping: "ngo5 dei6 dou1 cat1 sap6 seoi3 gam3 soeng6 haa2, zing6 faan1 ge3 jat6 zi2 m4 do1. jyu4 gwo2 nei5 hang2 jyun4 loeng6 ngo5, ngo5 soeng2 ceng2 nei5 heoi3 fat6 saan1 jam2 caan1 caa4, hou2 ci5 hau6 saang1 go2 zan6 gam2.", en: "We're both around seventy; we don't have many days left. If you're willing to forgive me, I'd like to take you to Foshan for dim sum, like when we were young."}
+  - {n: 15, speaker: Letter, hanzi: "老友 何志明 二零二七年八月二十五日", jyutping: "lou5 jau5 ho4 zi3 ming4 ji6 ling4 ji6 cat1 nin4 baat3 jyut6 ji6 sap6 ng5 jat6", en: "Your old friend, Ho Chi-ming. 25 August 2027"}
+  - {n: 16, speaker: Kayan, hanzi: "（睇完，望住張相）阿爸，相入面嘅你……好後生。", jyutping: "(tai2 jyun4, mong6 zyu6 zoeng1 soeng2) aa3 baa4, soeng2 jap6 min6 ge3 nei5 …… hou2 hau6 saang1.", en: "(Having read it, looking at the photo) Dad, you in the photo… you're so young."}
+  - {n: 17, speaker: Leung Pak, hanzi: "五十年……佢從來冇怪過我。我仲以為佢係嫌我窮。", jyutping: "ng5 sap6 nin4 …… keoi5 cung4 loi4 mou5 gwaai3 gwo3 ngo5. ngo5 zung6 ji5 wai4 keoi5 hai6 jim4 ngo5 kung4.", en: "Fifty years… she never blamed me. And I thought she'd dumped me for being poor."}
+  - {n: 18, speaker: Kayan, hanzi: "咁你會唔會接受何生嘅提議？", jyutping: "gam2 nei5 wui5 m4 wui5 zip3 sau6 ho4 saang1 ge3 tai4 ji5?", en: "So will you accept Mr Ho's offer?"}
+  - {n: 19, speaker: Leung Pak, hanzi: "雖然我好想話唔要，但係我唔係得自己一個。梁記係大家嘅。", jyutping: "seoi1 jin4 ngo5 hou2 soeng2 waa6 m4 jiu3, daan6 hai6 ngo5 m4 hai6 dak1 zi6 gei2 jat1 go3. loeng4 gei3 hai6 daai6 gaa1 ge3.", en: "Although I'd really like to say no, I'm not on my own. 梁記 belongs to everyone."}
+  - {n: 20, speaker: Kayan, hanzi: "咁佛山飲茶呢？", jyutping: "gam2 fat6 saan1 jam2 caa4 ne1?", en: "And dim sum in Foshan?"}
+  - {n: 21, speaker: Leung Pak, hanzi: "……佢請，梗係去。就算原諒唔晒，飲餐茶都得嘅。不過要帶埋阿果，佢未去過佛山。", jyutping: "…… keoi5 ceng2, gang2 hai6 heoi3. zau6 syun3 jyun4 loeng6 m4 saai3, jam2 caan1 caa4 dou1 dak1 ge2. bat1 gwo3 jiu3 daai3 maai4 aa3 gwo2, keoi5 mei6 heoi3 gwo3 fat6 saan1.", en: "…If he's paying, of course I'll go. Even if I can't forgive everything, a dim sum is fine. But A-Gwo comes too; he's never been to Foshan."}
+notes:
+  - {ref: 1, topic: culture, text: "兄 hing1 'elder brother' after a name is an old-fashioned, respectful way for men of the same generation to address each other in letters: 國華兄. 老友 lou5 jau5 (line 15) = old friend; 老友鬼鬼 'old pals' is the warm, teasing version."}
+  - {ref: 2, topic: grammar, text: "Concessives (P29): 雖然 A，但係 B 'although A, B': 雖然寫得唔好，但係都係真心話. Note the 都 that often follows 但係."}
+  - {ref: 3, topic: vocab, text: "的確 'indeed'. 羨慕 sin6 mou6 = envy, admire (mild, often positive); 妒忌 dou3 gei6 (line 5) = be jealous (negative)."}
+  - {ref: 4, topic: culture, text: "門當戶對 mun4 dong1 wu6 deoi3 'doors matching, households equal' = families of the same social standing, the old condition for a good marriage. 嫌 'look down on, find fault with'. 逼 bik1 'force'. 分手 fan1 sau2 'break up'."}
+  - {ref: 6, topic: vocab, text: "留學 lau4 hok6 = study abroad. 加拿大 gaa1 naa4 daai6 = Canada; 溫哥華 wan1 go1 waa4 (line 7) = Vancouver, home to a large Hong Kong community since the 1970s–90s emigration waves."}
+  - {ref: 7, topic: vocab, text: "臨終 lam4 zung1 = on one's deathbed: 臨終之前. 相片 soeng3 pin2 = photo (formal; spoken 相 soeng2, line 8). 轉交 zyun2 gaau1 = pass on (to someone)."}
+  - {ref: 8, topic: vocab, text: "怪 gwaai3 = blame: 我從來冇怪過國華. 背後 bui3 hau6 'on the back, behind'."}
+  - {ref: 9, topic: vocab, text: "慚愧 caam4 kwai5 = ashamed. 本來 'originally, by rights'; 屬於 'belong to'; 答案 daap3 on3 'answer'."}
+  - {ref: 10, topic: grammar, text: "儘管 zeon2 gun2 'although, even though' is more formal than 雖然: 儘管我唔係有心針對你，責任都喺我. 至於 zi3 jyu1 'as for'. 有心 jau5 sam1 'intentionally'; 針對 zam1 deoi3 'target'."}
+  - {ref: 10, topic: vocab, text: "物業 mat6 jip6 = property, real estate. 打理 daa2 lei5 = look after, manage. 市價 si5 gaa3 = market price."}
+  - {ref: 11, topic: grammar, text: "就算 A，都 B 'even if A, still B' (P29): 就算減租，都補償唔到… 補償 bou2 soeng4 = compensate, make up for; 誠意 sing4 ji3 = sincerity, good faith."}
+  - {ref: 12, topic: vocab, text: "減租 gaam2 zou1 = lower the rent. 原價 jyun4 gaa3 = original price. 凍結 dung3 git3 = freeze (rent, prices). 而且 'and also, moreover'."}
+  - {ref: 13, topic: vocab, text: "自尊 zi6 zyun1 = self-respect, pride. 拒絕 keoi5 zyut6 = refuse; 接受 zip3 sau6 = accept. 答覆 daap3 fuk1 = reply (formal). 提議 tai4 ji5 (line 18) 'proposal, offer'. 剩返 zing6 faan1 (line 14) 'remaining, left'. 佛山 fat6 saan1 = Foshan, a Cantonese city 20 km from Guangzhou. 去年 heoi3 nin4 (line 7) = last year (written; spoken 舊年)."}
+  - {ref: 21, topic: grammar, text: "就算原諒唔晒，飲餐茶都得 'even if I can't forgive it all, a dim sum is fine'. 原諒唔晒 'can't forgive completely' (V唔晒, P4)."}
+pron:
+  - {ref: 9, text: "慚愧 caam4 kwai5: 愧 is kwai5 for most speakers (some say kwai3)."}
+  - {ref: 10, text: "儘管 zeon2 gun2: 儘 is zeon2, not zeon6 as in 盡量."}
+  - {ref: 7, text: "相片 soeng3 pin2 (formal), but 張相 zoeng1 soeng2 in speech: same character, different tone."}
+new_words:
+  - {jyutping: "hing1", hanzi: 兄, en: "elder brother (in address)"}
+  - {jyutping: "lou5 jau5", hanzi: 老友, en: "old friend"}
+  - {jyutping: "lou5 jau5 gwai2 gwai2", hanzi: 老友鬼鬼, en: "old pals"}
+  - {jyutping: "sin6 mou6", hanzi: 羨慕, en: "envy, admire"}
+  - {jyutping: "dou3 gei6", hanzi: 妒忌, en: "be jealous"}
+  - {jyutping: "mun4 dong1 wu6 deoi3", hanzi: 門當戶對, en: "of equal social standing"}
+  - {jyutping: "lau4 hok6", hanzi: 留學, en: "study abroad"}
+  - {jyutping: "gaa1 naa4 daai6", hanzi: 加拿大, en: "Canada"}
+  - {jyutping: "wan1 go1 waa4", hanzi: 溫哥華, en: "Vancouver"}
+  - {jyutping: "lam4 zung1", hanzi: 臨終, en: "on one's deathbed"}
+  - {jyutping: "soeng3 pin2", hanzi: 相片, en: "photo (formal)"}
+  - {jyutping: "zyun2 gaau1", hanzi: 轉交, en: "pass on"}
+  - {jyutping: "gwaai3", hanzi: 怪, en: "blame"}
+  - {jyutping: "caam4 kwai5", hanzi: 慚愧, en: "ashamed"}
+  - {jyutping: "zeon2 gun2", hanzi: 儘管, en: "although, even though"}
+  - {jyutping: "mat6 jip6", hanzi: 物業, en: "property"}
+  - {jyutping: "daa2 lei5", hanzi: 打理, en: "manage, look after"}
+  - {jyutping: "si5 gaa3", hanzi: 市價, en: "market price"}
+  - {jyutping: "bou2 soeng4", hanzi: 補償, en: "compensate"}
+  - {jyutping: "sing4 ji3", hanzi: 誠意, en: "sincerity, good faith"}
+  - {jyutping: "gaam2 zou1", hanzi: 減租, en: "lower the rent"}
+  - {jyutping: "jyun4 gaa3", hanzi: 原價, en: "original price"}
+  - {jyutping: "dung3 git3", hanzi: 凍結, en: "freeze"}
+  - {jyutping: "zi6 zyun1", hanzi: 自尊, en: "self-respect, pride"}
+  - {jyutping: "keoi5 zyut6", hanzi: 拒絕, en: "refuse"}
+  - {jyutping: "zip3 sau6", hanzi: 接受, en: "accept"}
+  - {jyutping: "daap3 fuk1", hanzi: 答覆, en: "reply (formal)"}
+  - {jyutping: "nin4 hing1", hanzi: 年輕, en: "young"}
+  - {jyutping: "bik1", hanzi: 逼, en: "force"}
+  - {jyutping: "fan1 sau2", hanzi: 分手, en: "break up"}
+  - {jyutping: "bui3 hau6", hanzi: 背後, en: "behind, on the back"}
+  - {jyutping: "daap3 on3", hanzi: 答案, en: "answer"}
+  - {jyutping: "zi3 jyu1", hanzi: 至於, en: "as for"}
+  - {jyutping: "jau5 sam1", hanzi: 有心, en: "intentionally; thoughtful"}
+  - {jyutping: "zam1 deoi3", hanzi: 針對, en: "target"}
+  - {jyutping: "tai4 ji5", hanzi: 提議, en: "proposal, suggest"}
+  - {jyutping: "zing6 faan1", hanzi: 剩返, en: "remaining, left"}
+  - {jyutping: "fat6 saan1", hanzi: 佛山, en: "Foshan"}
+  - {jyutping: "heoi3 nin4", hanzi: 去年, en: "last year"}
+exercises:
+  translate:
+    - {hanzi: "雖然佢冇錢，但係個個都鍾意佢。", jyutping: "seoi1 jin4 keoi5 mou5 cin2, daan6 hai6 go3 go3 dou1 zung1 ji3 keoi5.", en: "Although he had no money, everyone liked him."}
+    - {hanzi: "就算減租，都補償唔到我哋嘅辛苦。", jyutping: "zau6 syun3 gaam2 zou1, dou1 bou2 soeng4 m4 dou2 ngo5 dei6 ge3 san1 fu2.", en: "Even cutting the rent can't make up for our hardship."}
+    - {hanzi: "佢從來冇怪過你。", jyutping: "keoi5 cung4 loi4 mou5 gwaai3 gwo3 nei5.", en: "She never blamed you."}
+    - {hanzi: "我好慚愧，收埋咗呢張相咁耐。", jyutping: "ngo5 hou2 caam4 kwai5, sau1 maai4 zo2 ni1 zoeng1 soeng2 gam3 noi6.", en: "I'm deeply ashamed to have hidden this photo for so long."}
+    - {hanzi: "你考慮清楚先答覆我。", jyutping: "nei5 haau2 leoi6 cing1 co2 sin1 daap3 fuk1 ngo5.", en: "Think it over before you reply."}
+  fill:
+    - {hanzi: "___我唔係有心，責任都喺我。", jyutping: "___ ngo5 m4 hai6 jau5 sam1, zaak3 jam6 dou1 hai2 ngo5.", answer: "zeon2 gun2", answer_hanzi: 儘管, en: "Although I didn't mean it, the responsibility is mine."}
+    - {hanzi: "十年內___租金。", jyutping: "sap6 nin4 noi6 ___ zou1 gam1.", answer: "dung3 git3", answer_hanzi: 凍結, en: "The rent is frozen for ten years."}
+    - {hanzi: "佢屋企人話唔___，逼佢分手。", jyutping: "keoi5 uk1 kei2 jan4 waa6 m4 ___, bik1 keoi5 fan1 sau2.", answer: "mun4 dong1 wu6 deoi3", answer_hanzi: 門當戶對, en: "Her family said they weren't of equal standing and forced her to break up."}
+    - {hanzi: "我嗰陣好___你。", jyutping: "ngo5 go2 zan6 hou2 ___ nei5.", answer: "sin6 mou6", answer_hanzi: 羨慕, en: "Back then I really envied you."}
+    - {hanzi: "我知你有自尊，可能會___。", jyutping: "ngo5 zi1 nei5 jau5 zi6 zyun1, ho2 nang4 wui5 ___.", answer: "keoi5 zyut6", answer_hanzi: 拒絕, en: "I know you're proud and may refuse."}

@@ -1,0 +1,105 @@
+# 進修 44. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 44
+title: {en: "Paddling the dragon boat", jyutping: "paa4 lung4 zau1", hanzi: "扒龍舟"}
+intro: "Race day at Stanley: purpose again (為咗, 去 + verb) and results with 到 ('so tired that…'), plus the words of a team on the water."
+genre: dialogue
+review: false
+setting: "Wednesday 9 June 2027, the Tuen Ng (Dragon Boat) Festival. Stanley main beach, eight in the morning. Hiu-ching's family has entered a boat from Cheung Chau, with her uncle 方叔 as coach. Hugo has trained with them for four weekends. Kayan and the band have come to cheer."
+dialogue:
+  - {n: 1, speaker: Uncle Fong, hanzi: "大家埋位！救生衣著好，槳拎穩。阿果，你坐第三排，跟住前面嗰個嘅拍子。", jyutping: "daai6 gaa1 maai4 wai2! gau3 sang1 ji1 zoek3 hou2, zoeng2 ling1 wan2. aa3 gwo2, nei5 co5 dai6 saam1 paai4, gan1 zyu6 cin4 min6 go2 go3 ge3 paak3 zi2.", en: "Everyone in position! Life jackets on, hold your paddles firmly. A-Gwo, you're in the third row: follow the stroke of the person in front."}
+  - {n: 2, speaker: Hugo, hanzi: "收到，教練！訓練咗四個禮拜，我隻手臂而家仲痛。", jyutping: "sau1 dou3, gaau3 lin6! fan3 lin6 zo2 sei3 go3 lai5 baai3, ngo5 zek3 sau2 bei3 ji4 gaa1 zung6 tung3.", en: "Got it, coach! Four weeks of training, and my arm still hurts."}
+  - {n: 3, speaker: Hiu-ching, hanzi: "扒龍舟唔係淨係靠手臂力，要用腰同成個身。你成日用晒手臂，梗係痛到瞓唔着啦。", jyutping: "paa4 lung4 zau1 m4 hai6 zing6 hai6 kaau3 sau2 bei3 lik6, jiu3 jung6 jiu1 tung4 seng4 go3 san1. nei5 sing4 jat6 jung6 saai3 sau2 bei3, gang2 hai6 tung3 dou3 fan3 m4 zoek6 laa1.", en: "Paddling isn't just arm strength: you use your waist and your whole body. You keep using only your arms, so of course they hurt so much you can't sleep."}
+  - {n: 4, speaker: Hugo, hanzi: "點解端午節一定要扒龍舟？", jyutping: "dim2 gaai2 dyun1 ng5 zit3 jat1 ding6 jiu3 paa4 lung4 zau1?", en: "Why do people race dragon boats at Tuen Ng?"}
+  - {n: 5, speaker: Hiu-ching, hanzi: "傳說係為咗紀念詩人屈原。佢跳咗落江，啲漁民扒船出去搵佢，又掟糉落水，等啲魚唔好食佢。", jyutping: "cyun4 syut3 hai6 wai6 zo2 gei2 nim6 si1 jan4 wat1 jyun4. keoi5 tiu3 zo2 lok6 gong1, di1 jyu4 man4 paa4 syun4 ceot1 heoi3 wan2 keoi5, jau6 deng3 zung2 lok6 seoi2, dang2 di1 jyu2 m4 hou2 sik6 keoi5.", en: "The legend says it's to remember the poet Qu Yuan. He threw himself into the river; the fishermen paddled out to look for him, and threw rice dumplings into the water so the fish wouldn't eat him."}
+  - {n: 6, speaker: Uncle Fong, hanzi: "不過我哋長洲人扒龍舟，仲係為咗拜天后，保佑出海平安。", jyutping: "bat1 gwo3 ngo5 dei6 coeng4 zau1 jan4 paa4 lung4 zau1, zung6 hai6 wai6 zo2 baai3 tin1 hau6, bou2 jau6 ceot1 hoi2 ping4 on1.", en: "But for us Cheung Chau people, we also paddle to honour Tin Hau, so she'll keep us safe at sea."}
+  - {n: 7, speaker: Hugo, hanzi: "如果知道要咁辛苦，我就唔嚟赤柱曬太陽喇。", jyutping: "jyu4 gwo2 zi1 dou3 jiu3 gam3 san1 fu2, ngo5 zau6 m4 lai4 cek3 cyu5 saai3 taai3 joeng4 laa3.", en: "If I'd known it would be this hard, I wouldn't have come to Stanley to sunbathe."}
+  - {n: 8, speaker: Hiu-ching, hanzi: "你嚟赤柱係為咗扒龍舟，唔係為咗曬太陽！熱身先。", jyutping: "nei5 lai4 cek3 cyu5 hai6 wai6 zo2 paa4 lung4 zau1, m4 hai6 wai6 zo2 saai3 taai3 joeng4! jit6 san1 sin1.", en: "You came to Stanley to paddle, not to sunbathe! Warm up first."}
+  - {n: 9, speaker: Uncle Fong, hanzi: "記住：鼓手打一下鼓，你哋扒一下。全隊要齊，一個快咗，成條船都會亂。", jyutping: "gei3 zyu6: gu2 sau2 daa2 jat1 haa5 gu2, nei5 dei6 paa4 jat1 haa5. cyun4 deoi2 jiu3 cai4, jat1 go3 faai3 zo2, seng4 tiu4 syun4 dou1 wui5 lyun6.", en: "Remember: one beat of the drum, one stroke. The whole team has to be together; if one person's too fast, the whole boat falls apart."}
+  - {n: 10, speaker: Hugo, hanzi: "掌舵嗰個呢？", jyutping: "zoeng2 to4 go2 go3 ne1?", en: "And the one steering?"}
+  - {n: 11, speaker: Hiu-ching, hanzi: "掌舵係我阿叔個仔，坐喺龍尾。佢話向左就向左，唔好問。", jyutping: "zoeng2 to4 hai6 ngo5 aa3 suk1 go3 zai2, co5 hai2 lung4 mei5. keoi5 waa6 hoeng3 zo2 zau6 hoeng3 zo2, m4 hou2 man6.", en: "My uncle's son steers, sitting at the tail. If he says left, it's left; don't ask questions."}
+  - {n: 12, speaker: Kayan, hanzi: "（喺岸上大叫）阿果，加油！天台派對全隊嚟咗撐你！", jyutping: "(hai2 ngon6 soeng6 daai6 giu3) aa3 gwo2, gaa1 jau4! tin1 toi4 paai3 deoi3 cyun4 deoi2 lai4 zo2 caang1 nei5!", en: "(Shouting from the shore) Go, A-Gwo! The whole of 天台派對 has come to support you!"}
+  - {n: 13, speaker: Uncle Fong, hanzi: "準備……起步！一、二！一、二！用力！", jyutping: "zeon2 bei6 …… hei2 bou6! jat1, ji6! jat1, ji6! jung6 lik6!", en: "Ready… go! One, two! One, two! Pull!"}
+  - {n: 14, speaker: Hiu-ching, hanzi: "阿果，慢咗！跟拍子，唔好望岸上！", jyutping: "aa3 gwo2, maan6 zo2! gan1 paak3 zi2, m4 hou2 mong6 ngon6 soeng6!", en: "A-Gwo, you're behind! Follow the beat; don't look at the shore!"}
+  - {n: 15, speaker: Uncle Fong, hanzi: "仲有一百米！前面兩艘船，追上佢哋！", jyutping: "zung6 jau5 jat1 baak3 mai5! cin4 min6 loeng5 sau1 syun4, zeoi1 soeng5 keoi5 dei6!", en: "A hundred metres to go! Two boats ahead: catch them!"}
+  - {n: 16, speaker: Hugo, hanzi: "（喘晒氣）我……我扒到隻手冇晒感覺……", jyutping: "(cyun2 saai3 hei3) ngo5 …… ngo5 paa4 dou3 zek3 sau2 mou5 saai3 gam2 gok3 ……", en: "(Panting) I've… I've paddled till I can't feel my arm…"}
+  - {n: 17, speaker: Uncle Fong, hanzi: "衝線！好！超越咗一艘！我哋第三！", jyutping: "cung1 sin3! hou2! ciu1 jyut6 zo2 jat1 sau1! ngo5 dei6 dai6 saam1!", en: "Over the line! Yes! We passed one! We're third!"}
+  - {n: 18, speaker: Hiu-ching, hanzi: "季軍！上年我哋第五，今年有你，名次好咗兩個。", jyutping: "gwai3 gwan1! soeng6 nin2 ngo5 dei6 dai6 ng5, gam1 nin4 jau5 nei5, ming4 ci3 hou2 zo2 loeng5 go3.", en: "Third place! Last year we were fifth; this year, with you, we've gone up two places."}
+  - {n: 19, speaker: Hugo, hanzi: "我攰到連槳都拎唔起，仲成身濕晒。", jyutping: "ngo5 gui6 dou3 lin4 zoeng2 dou1 ling1 m4 hei2, zung6 seng4 san1 sap1 saai3.", en: "I'm so tired I can't even lift the paddle, and I'm soaked from head to toe."}
+  - {n: 20, speaker: Uncle Fong, hanzi: "濕晒先好！龍舟水嚟喇。（行雷，落大雨）", jyutping: "sap1 saai3 sin1 hou2! lung4 zau1 seoi2 lai4 laa3. (haang4 leoi4, lok6 daai6 jyu5)", en: "Soaked is good! Here comes the dragon-boat rain. (Thunder, a downpour)"}
+  - {n: 21, speaker: Hiu-ching, hanzi: "端午前後成日落大雨，老人家叫「龍舟水」。", jyutping: "dyun1 ng5 cin4 hau6 sing4 jat6 lok6 daai6 jyu5, lou5 jan4 gaa1 giu3 \"lung4 zau1 seoi2\".", en: "Around Tuen Ng it rains heavily all the time; old people call it 'dragon-boat water'."}
+  - {n: 22, speaker: Kayan, hanzi: "（跑埋嚟）快啲過嚟遮度！我帶咗糉嚟，婆婆自己包嘅。", jyutping: "(paau2 maai4 lai4) faai3 di1 gwo3 lai4 ze1 dou6! ngo5 daai3 zo2 zung2 lai4, po4 po2 zi6 gei2 baau1 ge3.", en: "(Running over) Quick, come under the umbrella! I've brought rice dumplings that Grandma wrapped herself."}
+  - {n: 23, speaker: Uncle Fong, hanzi: "阿果，扒得唔錯。下次想唔想再嚟？", jyutping: "aa3 gwo2, paa4 dak1 m4 co3. haa6 ci3 soeng2 m4 soeng2 zoi3 lai4?", en: "A-Gwo, you paddled well. Want to come again next time?"}
+  - {n: 24, speaker: Hugo, hanzi: "想！不過我要先訓練手臂……同埋腰骨。", jyutping: "soeng2! bat1 gwo3 ngo5 jiu3 sin1 fan3 lin6 sau2 bei3 …… tung4 maai4 jiu1 gwat1.", en: "Yes! But first I need to train my arms… and my back."}
+notes:
+  - {ref: 1, topic: vocab, text: "埋位 maai4 wai2 'take your places'. 拎穩 'hold firmly' (穩 wan2 'steady, firm'). 救生衣 gau3 sang1 ji1 = life jacket. 槳 zoeng2 = paddle, oar. 教練 gaau3 lin6 (line 2) = coach; 訓練 fan3 lin6 = train, training."}
+  - {ref: 3, topic: grammar, text: "Extent with 到 (P26): 痛到瞓唔着 'hurt so much he can't sleep'; 扒到隻手冇晒感覺 'paddled till his arm went numb' (line 16); 攰到連槳都拎唔起 'so tired he can't even lift the paddle' (line 19). The part after 到 is a full clause."}
+  - {ref: 3, topic: vocab, text: "扒 paa4 = paddle, row: 扒龍舟 paa4 lung4 zau1 'race a dragon boat'. 手臂 sau2 bei3 = arm; 力 lik6 = strength: 手臂力. 腰骨 jiu1 gwat1 (line 24) = lower back."}
+  - {ref: 4, topic: culture, text: "端午節 dyun1 ng5 zit3 = the Tuen Ng (Dragon Boat) Festival, the 5th day of the 5th lunar month. 糉 zung2 = sticky-rice dumpling wrapped in leaves; 婆婆自己包 'Grandma wrapped them herself' (line 22)."}
+  - {ref: 5, topic: grammar, text: "Purpose (P31): 為咗紀念屈原 'in order to remember Qu Yuan'; 為咗拜天后 (line 6); 你嚟赤柱係為咗扒龍舟，唔係為咗… 'you came to Stanley to paddle, not to…' (line 8). 嚟 + place + verb also shows purpose: 嚟赤柱曬太陽 (line 7). 等…唔好… 'so that … don't …'."}
+  - {ref: 5, topic: culture, text: "屈原 Qu Yuan, a poet (詩人 si1 jan4) of the 3rd century BC, drowned himself in protest. 紀念 gei2 nim6 = commemorate, remember. 掟 deng3 'throw'; 江 gong1 'river'."}
+  - {ref: 6, topic: culture, text: "Fishing communities (漁民) in Hong Kong also race to honour 天后 tin1 hau6, the sea goddess, and ask her to protect them (保佑 bou2 jau6, P32) at sea. Stanley (赤柱 cek3 cyu5) holds one of the biggest races. 曬太陽 saai3 taai3 joeng4 (line 7) = sunbathe."}
+  - {ref: 9, topic: vocab, text: "全隊 'the whole team' (隊 deoi2, P38). 齊 = together, in sync (P27). 快咗 / 慢咗 'too fast / too slow' (line 14): adjective + 咗 for an excess compared with the norm."}
+  - {ref: 10, topic: vocab, text: "掌舵 zoeng2 to4 = steer, hold the rudder (舵 to4). 龍頭 lung4 tau4 / 龍尾 lung4 mei5 = the dragon's head / tail of the boat. 阿叔 aa3 suk1 (line 11) = uncle (father's younger brother)."}
+  - {ref: 13, topic: vocab, text: "用力 jung6 lik6 = use strength, pull hard. 起步 'start' (P18)."}
+  - {ref: 15, topic: vocab, text: "艘 sau1 = classifier for boats (written; spoken 隻 or 條). 米 mai5 = metre. 喘氣 cyun2 hei3 (line 16) = pant: 喘晒氣."}
+  - {ref: 18, topic: vocab, text: "岸 ngon6 'shore' (line 12: 岸上); 撐 caang1 'support, cheer for'; 遮 ze1 'umbrella' (line 22). 季軍 gwai3 gwan1 = third place (冠軍, 亞軍, 季軍). 名次 ming4 ci3 = ranking, place. 上年 soeng6 nin2 'last year'."}
+  - {ref: 20, topic: culture, text: "龍舟水 lung4 zau1 seoi2 'dragon-boat water': the heavy rains around Tuen Ng, at the start of the summer storm season. 行雷 haang4 leoi4 = thunder."}
+  - {ref: 3, topic: vs-mandarin, text: "Cantonese 扒 paa4 = Mandarin 划 (划龍舟). Cantonese also uses 划 waa4 in some words (划艇 'canoe'), but 扒龍舟 is the everyday phrase. 糉 = Mandarin 粽子."}
+pron:
+  - {ref: 3, text: "扒 'paddle' is paa4, low falling; 扒 paa2 is 'steak' (豬扒)."}
+  - {ref: 10, text: "掌舵 zoeng2 to4; 舵 is also read taai5 in some speakers' 舵手."}
+  - {ref: 4, text: "糉 'rice dumpling' is zung2, rising."}
+new_words:
+  - {jyutping: "gau3 sang1 ji1", hanzi: 救生衣, en: "life jacket"}
+  - {jyutping: "zoeng2", hanzi: 槳, en: "paddle, oar"}
+  - {jyutping: "gaau3 lin6", hanzi: 教練, en: "coach"}
+  - {jyutping: "fan3 lin6", hanzi: 訓練, en: "train, training"}
+  - {jyutping: "sau2 bei3", hanzi: 手臂, en: "arm"}
+  - {jyutping: "paa4 lung4 zau1", hanzi: 扒龍舟, en: "race a dragon boat"}
+  - {jyutping: "lung4 zau1", hanzi: 龍舟, en: "dragon boat"}
+  - {jyutping: "paa4", hanzi: 扒, en: "paddle, row"}
+  - {jyutping: "lik6", hanzi: 力, en: "strength"}
+  - {jyutping: "dyun1 ng5 zit3", hanzi: 端午節, en: "Dragon Boat Festival"}
+  - {jyutping: "dyun1 ng5", hanzi: 端午, en: "Tuen Ng"}
+  - {jyutping: "si1 jan4", hanzi: 詩人, en: "poet"}
+  - {jyutping: "gei2 nim6", hanzi: 紀念, en: "commemorate"}
+  - {jyutping: "zung2", hanzi: 糉, en: "rice dumpling"}
+  - {jyutping: "tin1 hau6", hanzi: 天后, en: "Tin Hau (sea goddess)"}
+  - {jyutping: "bou2 jau6", hanzi: 保佑, en: "protect, bless (of a god)"}
+  - {jyutping: "cek3 cyu5", hanzi: 赤柱, en: "Stanley"}
+  - {jyutping: "jit6 san1", hanzi: 熱身, en: "warm up"}
+  - {jyutping: "zoeng2 to4", hanzi: 掌舵, en: "steer"}
+  - {jyutping: "lung4 mei5", hanzi: 龍尾, en: "dragon's tail (of the boat)"}
+  - {jyutping: "lung4 tau4", hanzi: 龍頭, en: "dragon's head"}
+  - {jyutping: "aa3 suk1", hanzi: 阿叔, en: "uncle (father's younger brother)"}
+  - {jyutping: "jung6 lik6", hanzi: 用力, en: "pull hard, use strength"}
+  - {jyutping: "sau1", hanzi: 艘, en: "classifier for boats"}
+  - {jyutping: "gwai3 gwan1", hanzi: 季軍, en: "third place"}
+  - {jyutping: "ming4 ci3", hanzi: 名次, en: "ranking, place"}
+  - {jyutping: "lung4 zau1 seoi2", hanzi: 龍舟水, en: "Tuen Ng rains"}
+  - {jyutping: "haang4 leoi4", hanzi: 行雷, en: "thunder"}
+  - {jyutping: "daai6 jyu5", hanzi: 大雨, en: "heavy rain"}
+  - {jyutping: "jiu1 gwat1", hanzi: 腰骨, en: "lower back"}
+  - {jyutping: "maai4 wai2", hanzi: 埋位, en: "take one's place"}
+  - {jyutping: "wan2", hanzi: 穩, en: "steady, firm"}
+  - {jyutping: "gong1", hanzi: 江, en: "river"}
+  - {jyutping: "deng3", hanzi: 掟, en: "throw"}
+  - {jyutping: "saai3 taai3 joeng4", hanzi: 曬太陽, en: "sunbathe"}
+  - {jyutping: "ngon6", hanzi: 岸, en: "shore, bank"}
+  - {jyutping: "caang1", hanzi: 撐, en: "support, cheer for"}
+  - {jyutping: "mai5", hanzi: 米, en: "metre"}
+  - {jyutping: "cyun2 hei3", hanzi: 喘氣, en: "pant"}
+  - {jyutping: "ze1", hanzi: 遮, en: "umbrella"}
+exercises:
+  translate:
+    - {hanzi: "我訓練咗四個禮拜，為咗扒龍舟。", jyutping: "ngo5 fan3 lin6 zo2 sei3 go3 lai5 baai3, wai6 zo2 paa4 lung4 zau1.", en: "I trained for four weeks in order to race the dragon boat."}
+    - {hanzi: "佢攰到連槳都拎唔起。", jyutping: "keoi5 gui6 dou3 lin4 zoeng2 dou1 ling1 m4 hei2.", en: "He's so tired he can't even lift the paddle."}
+    - {hanzi: "全隊要齊，跟住鼓手嘅拍子。", jyutping: "cyun4 deoi2 jiu3 cai4, gan1 zyu6 gu2 sau2 ge3 paak3 zi2.", en: "The whole team has to be in sync, following the drummer's beat."}
+    - {hanzi: "端午前後成日行雷落大雨。", jyutping: "dyun1 ng5 cin4 hau6 sing4 jat6 haang4 leoi4 lok6 daai6 jyu5.", en: "Around Tuen Ng there's thunder and heavy rain all the time."}
+    - {hanzi: "我哋今年攞咗季軍，名次好咗。", jyutping: "ngo5 dei6 gam1 nin4 lo2 zo2 gwai3 gwan1, ming4 ci3 hou2 zo2.", en: "This year we came third; our ranking has improved."}
+  fill:
+    - {hanzi: "扒龍舟係為咗___屈原。", jyutping: "paa4 lung4 zau1 hai6 wai6 zo2 ___ wat1 jyun4.", answer: "gei2 nim6", answer_hanzi: 紀念, en: "Dragon-boat racing is to commemorate Qu Yuan."}
+    - {hanzi: "我手臂痛___瞓唔着。", jyutping: "ngo5 sau2 bei3 tung3 ___ fan3 m4 zoek6.", answer: "dou3", answer_hanzi: 到, en: "My arm hurts so much I can't sleep."}
+    - {hanzi: "落水之前要著好___。", jyutping: "lok6 seoi2 zi1 cin4 jiu3 zoek3 hou2 ___.", answer: "gau3 sang1 ji1", answer_hanzi: 救生衣, en: "Put your life jacket on before going in the water."}
+    - {hanzi: "坐喺龍尾___嘅係我阿叔個仔。", jyutping: "co5 hai2 lung4 mei5 ___ ge3 hai6 ngo5 aa3 suk1 go3 zai2.", answer: "zoeng2 to4", answer_hanzi: 掌舵, en: "The one steering at the tail is my uncle's son."}
+    - {hanzi: "比賽之前要___先。", jyutping: "bei2 coi3 zi1 cin4 jiu3 ___ sin1.", answer: "jit6 san1", answer_hanzi: 熱身, en: "You have to warm up before the race."}

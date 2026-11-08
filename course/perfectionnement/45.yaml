@@ -1,0 +1,105 @@
+# 進修 45. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 45
+title: {en: "Summer 2019", jyutping: "ji6 ling4 jat1 gau2 nin4 haa6 tin1", hanzi: "二零一九年夏天"}
+intro: "Kayan tells Hugo about the summer of 2019 and what it did to her family: manner adverbs with 咁 (靜靜雞咁 'quietly'), time clauses (…嘅時候, …之後, 一…就), and the words for marches, arrests and silence."
+genre: story
+review: false
+setting: "Wednesday 16 June 2027, late at night, on the roof of the building above 梁記. The day is an anniversary nobody mentions in the shop. Kayan has brought two cans of lemon tea up to the roof. Hugo asks why her brother left for England."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "你阿哥點解會走？佢成日喺視像講笑，但係我覺得佢好掛住香港。", jyutping: "nei5 aa3 go1 dim2 gaai2 wui5 zau2? keoi5 sing4 jat6 hai2 si6 zoeng6 gong2 siu3, daan6 hai6 ngo5 gok3 dak1 keoi5 hou2 gwaa3 zyu6 hoeng1 gong2.", en: "Why did your brother leave? He's always joking on video calls, but I feel he misses Hong Kong terribly."}
+  - {n: 2, speaker: Kayan, hanzi: "（靜咗好耐）八年前，今日，二零一九年六月十六號。我同阿哥一齊出咗去遊行。", jyutping: "(zing6 zo2 hou2 noi6) baat3 nin4 cin4, gam1 jat6, ji6 ling4 jat1 gau2 nin4 luk6 jyut6 sap6 luk6 hou6. ngo5 tung4 aa3 go1 jat1 cai4 ceot1 zo2 heoi3 jau4 hang4.", en: "(After a long silence) Eight years ago today, 16 June 2019. My brother and I went out to march together."}
+  - {n: 3, speaker: Kayan, hanzi: "嗰陣政府想修例，好多人反對。一個禮拜之前已經有一次大遊行，到十六號，大會話有成二百萬人。", jyutping: "go2 zan6 zing3 fu2 soeng2 sau1 lai6, hou2 do1 jan4 faan2 deoi3. jat1 go3 lai5 baai3 zi1 cin4 ji5 ging1 jau5 jat1 ci3 daai6 jau4 hang4, dou3 sap6 luk6 hou6, daai6 wui2 waa6 jau5 sing4 ji6 baak3 maan6 jan4.", en: "Back then the government wanted to amend a law, and lots of people opposed it. A week earlier there had already been a huge march; by the sixteenth, the organisers said there were around two million people."}
+  - {n: 4, speaker: Kayan, hanzi: "嗰日好熱，成條馬路都係人，行一步停三步。啲陌生人互相派水，好似一家人咁。", jyutping: "go2 jat6 hou2 jit6, seng4 tiu4 maa5 lou6 dou1 hai6 jan4, haang4 jat1 bou6 ting4 saam1 bou6. di1 mak6 saang1 jan4 wu6 soeng1 paai3 seoi2, hou2 ci5 jat1 gaa1 jan4 gam2.", en: "It was very hot that day; the whole road was full of people, one step forward and three steps' wait. Strangers handed each other water, like one family."}
+  - {n: 5, speaker: Hugo, hanzi: "你阿爸知唔知？", jyutping: "nei5 aa3 baa4 zi1 m4 zi1?", en: "Did your dad know?"}
+  - {n: 6, speaker: Kayan, hanzi: "我哋靜靜雞咁出門口，唔敢話佢知。點知我哋一返到屋企，佢已經坐喺餐枱度等緊。", jyutping: "ngo5 dei6 zing6 zing2 gai1 gam2 ceot1 mun4 hau2, m4 gam2 waa6 keoi5 zi1. dim2 zi1 ngo5 dei6 jat1 faan1 dou3 uk1 kei2, keoi5 ji5 ging1 co5 hai2 caan1 toi2 dou6 dang2 gan2.", en: "We slipped out quietly and didn't dare tell him. But the moment we got home, there he was, sitting at the dining table, waiting."}
+  - {n: 7, speaker: Kayan, hanzi: "佢好大聲咁鬧：「你哋唔好搞事！街上一亂，冇客；你哋俾人拉，邊個救你？」", jyutping: "keoi5 hou2 daai6 seng1 gam2 naau6: \"nei5 dei6 m4 hou2 gaau2 si6! gaai1 soeng6 jat1 lyun6, mou5 haak3; nei5 dei6 bei2 jan4 laai1, bin1 go3 gau3 nei5?\"", en: "He shouted at us: 'Don't you go making trouble! When the streets are in chaos there are no customers; and if you get arrested, who'll save you?'"}
+  - {n: 8, speaker: Kayan, hanzi: "阿哥話：「我哋係和平遊行，唔係搞事。」佢哋兩個嗌到成條街都聽到。", jyutping: "aa3 go1 waa6: \"ngo5 dei6 hai6 wo4 ping4 jau4 hang4, m4 hai6 gaau2 si6.\" keoi5 dei6 loeng5 go3 aai3 dou3 seng4 tiu4 gaai1 dou1 teng1 dou2.", en: "My brother said: 'It was a peaceful march, not trouble-making.' The two of them shouted so loudly the whole street could hear."}
+  - {n: 9, speaker: Kayan, hanzi: "蓮姐第二朝同我講：「一九六七年暴動嘅時候，我都係你咁上下年紀。嗰陣嘅人，都係覺得自己啱。」", jyutping: "lin4 ze2 dai6 ji6 ziu1 tung4 ngo5 gong2: \"jat1 gau2 luk6 cat1 nin4 bou6 dung6 ge3 si4 hau6, ngo5 dou1 hai6 nei5 gam3 soeng6 haa2 nin4 gei2. go2 zan6 ge3 jan4, dou1 hai6 gok3 dak1 zi6 gei2 ngaam1.\"", en: "The next morning 蓮姐 told me: 'During the 1967 riots I was about your age. People back then also all thought they were right.'"}
+  - {n: 10, speaker: Hugo, hanzi: "你覺得佢係咪想勸你？", jyutping: "nei5 gok3 dak1 keoi5 hai6 mai6 soeng2 hyun3 nei5?", en: "Do you think she was trying to talk you out of it?"}
+  - {n: 11, speaker: Kayan, hanzi: "我唔肯定。佢可能只係想話：每一代都有自己嘅夏天。", jyutping: "ngo5 m4 hang2 ding6. keoi5 ho2 nang4 zi2 hai6 soeng2 waa6: mui5 jat1 doi6 dou1 jau5 zi6 gei2 ge3 haa6 tin1.", en: "I'm not sure. Maybe she just meant: every generation has its own summer."}
+  - {n: 12, speaker: Kayan, hanzi: "後來，衝突越嚟越多，催淚彈、暴力，兩邊都有。我見到深水埗街口啲煙，就唔敢再去。", jyutping: "hau6 loi4, cung1 dat6 jyut6 lai4 jyut6 do1, ceoi1 leoi6 daan2, bou6 lik6, loeng5 bin1 dou1 jau5. ngo5 gin3 dou2 sam1 seoi2 bou2 gaai1 hau2 di1 jin1, zau6 m4 gam2 zoi3 heoi3.", en: "Later the clashes grew and grew: tear gas, violence, from both sides. When I saw the smoke at a street corner in Sham Shui Po, I didn't dare go out again."}
+  - {n: 13, speaker: Kayan, hanzi: "阿哥繼續去。佢一個好朋友俾人拘捕，罪名係暴動，判咗四年。上年先出獄。", jyutping: "aa3 go1 gai3 zuk6 heoi3. keoi5 jat1 go3 hou2 pang4 jau5 bei2 jan4 keoi1 bou6, zeoi6 ming4 hai6 bou6 dung6, pun3 zo2 sei3 nin4. soeng6 nin2 sin1 ceot1 juk6.", en: "My brother kept going. One of his close friends was arrested and charged with rioting, and sentenced to four years. He only got out last year."}
+  - {n: 14, speaker: Hugo, hanzi: "你阿哥有冇探過佢？", jyutping: "nei5 aa3 go1 jau5 mou5 taam3 gwo3 keoi5?", en: "Did your brother visit him?"}
+  - {n: 15, speaker: Kayan, hanzi: "有，探過幾次監。每次探完，佢返到嚟都唔講嘢，慢慢咁行入房，閂埋門。", jyutping: "jau5, taam3 gwo3 gei2 ci3 gaam1. mui5 ci3 taam3 jyun4, keoi5 faan1 dou3 lai4 dou1 m4 gong2 je5, maan6 maan2 gam2 haang4 jap6 fong2, saan1 maai4 mun4.", en: "Yes, he visited him in prison a few times. Every time, he'd come home without a word, walk slowly into his room and shut the door."}
+  - {n: 16, speaker: Kayan, hanzi: "二零二零年國安法生效之後，好多團體一個跟一個解散。二零二一年，阿哥決定移民英國。", jyutping: "ji6 ling4 ji6 ling4 nin4 gwok3 on1 faat3 sang1 haau6 zi1 hau6, hou2 do1 tyun4 tai2 jat1 go3 gan1 jat1 go3 gaai2 saan3. ji6 ling4 ji6 jat1 nin4, aa3 go1 kyut3 ding6 ji4 man4 jing1 gwok3.", en: "After the National Security Law took effect in 2020, many groups disbanded one after another. In 2021 my brother decided to emigrate to Britain."}
+  - {n: 17, speaker: Kayan, hanzi: "嗰兩年，我哋屋企冇再一齊食過一餐飯。阿爸同阿哥冷戰，我喺中間，邊個都唔敢幫。", jyutping: "go2 loeng5 nin4, ngo5 dei6 uk1 kei2 mou5 zoi3 jat1 cai4 sik6 gwo3 jat1 caan1 faan6. aa3 baa4 tung4 aa3 go1 laang5 zin3, ngo5 hai2 zung1 gaan1, bin1 go3 dou1 m4 gam2 bong1.", en: "For those two years, our family didn't eat a single meal together. Dad and my brother had a cold war; I was in the middle and didn't dare take either side."}
+  - {n: 18, speaker: Hugo, hanzi: "你而家點睇？你後唔後悔出去遊行？", jyutping: "nei5 ji4 gaa1 dim2 tai2? nei5 hau6 m4 hau6 fui3 ceot1 heoi3 jau4 hang4?", en: "How do you see it now? Do you regret going out to march?"}
+  - {n: 19, speaker: Kayan, hanzi: "唔後悔。不過我都明白阿爸嘅恐懼：佢一個人養大兩個仔女，佢驚失去我哋。", jyutping: "m4 hau6 fui3. bat1 gwo3 ngo5 dou1 ming4 baak6 aa3 baa4 ge3 hung2 geoi6: keoi5 jat1 go3 jan4 joeng5 daai6 loeng5 go3 zai2 neoi2, keoi5 geng1 sat1 heoi3 ngo5 dei6.", en: "No. But I understand Dad's fear too: he raised two children on his own, and he was afraid of losing us."}
+  - {n: 20, speaker: Kayan, hanzi: "而家冇人再提起，好似冇發生過咁。但係每個人心入面都有一道傷痕。", jyutping: "ji4 gaa1 mou5 jan4 zoi3 tai4 hei2, hou2 ci5 mou5 faat3 sang1 gwo3 gam2. daan6 hai6 mui5 go3 jan4 sam1 jap6 min6 dou1 jau5 jat1 dou6 soeng1 han4.", en: "Nobody brings it up any more, as if it never happened. But everyone carries a scar inside."}
+  - {n: 21, speaker: Hugo, hanzi: "我係外人，我唔識講啱定錯。不過多謝你肯講俾我聽。", jyutping: "ngo5 hai6 ngoi6 jan4, ngo5 m4 sik1 gong2 ngaam1 ding6 co3. bat1 gwo3 do1 ze6 nei5 hang2 gong2 bei2 ngo5 teng1.", en: "I'm an outsider; I can't say who was right or wrong. But thank you for being willing to tell me."}
+  - {n: 22, speaker: Kayan, hanzi: "你知唔知，阿爸入醫院嗰晚，係呢幾年嚟佢第一次同阿哥講多謝。", jyutping: "nei5 zi1 m4 zi1, aa3 baa4 jap6 ji1 jyun2 go2 maan5, hai6 ni1 gei2 nin4 lai4 keoi5 dai6 jat1 ci3 tung4 aa3 go1 gong2 do1 ze6.", en: "You know, the night Dad went into hospital was the first time in years he said thank you to my brother."}
+  - {n: 23, speaker: Hugo, hanzi: "（望住對面啲燈）咁，或者個夏天仲未完。", jyutping: "(mong6 zyu6 deoi3 min6 di1 dang1) gam2, waak6 ze2 go3 haa6 tin1 zung6 mei6 jyun4.", en: "(Looking at the lights across the street) Then maybe that summer isn't over yet."}
+  - {n: 24, speaker: Kayan, hanzi: "（靜靜雞咁抹咗下眼）飲埋罐檸檬茶先啦，暖晒喇。", jyutping: "(zing6 zing2 gai1 gam2 maat3 zo2 haa5 ngaan5) jam2 maai4 gun3 ning4 mung1 caa4 sin1 laa1, nyun5 saai3 laa3.", en: "(Quietly wiping her eyes) Finish your lemon tea first; it's gone warm."}
+notes:
+  - {ref: 2, topic: culture, text: "In June 2019 large marches opposed amendments (修例 sau1 lai6, 'amend a law') that would have allowed extradition to mainland China: on 9 June organisers counted over a million people and police 240,000; on 16 June organisers said nearly two million, police 338,000. 遊行 jau4 hang4 = march, demonstration; 示威 si6 wai1 = protest."}
+  - {ref: 3, topic: vocab, text: "大會 'the organisers' (P38). 成 + number 'as many as, a full': 成二百萬人 'as many as two million people'."}
+  - {ref: 4, topic: vocab, text: "馬路 maa5 lou6 = road. 互相 wu6 soeng1 = each other. 派水 'hand out water' (派, P31). 一家人 'one family'."}
+  - {ref: 6, topic: grammar, text: "Manner with 咁 gam2: adverbial expression + 咁 + verb. 靜靜雞咁出門口 'slipped out quietly' (靜靜雞 zing6 zing2 gai1 'on the quiet'); 好大聲咁鬧 'scolded loudly' (line 7); 慢慢咁行入房 'walked slowly into the room' (line 15). 餐枱 'dining table'."}
+  - {ref: 6, topic: grammar, text: "Time clauses: 一…就 'as soon as' (一返到屋企，佢已經…); …嘅時候 'when' (一九六七年暴動嘅時候, line 9); …之後 'after' (國安法生效之後, line 16); …之前 'before' (一個禮拜之前, line 3)."}
+  - {ref: 7, topic: vocab, text: "搞事 gaau2 si6 = make trouble. 拉 laai1 = (colloquial) arrest; the formal word is 拘捕 keoi1 bou6 (line 13). 救 gau3 'save, rescue'."}
+  - {ref: 8, topic: vocab, text: "和平 wo4 ping4 = peaceful; peace. 嗌到成條街都聽到 'shouted so the whole street could hear' (extent 到, P44)."}
+  - {ref: 9, topic: culture, text: "In 1967 Hong Kong saw months of leftist riots (暴動, P6) against British rule, with bombs and deaths. 蓮姐 was a teenager then. 咁上下 'about, roughly' (P36)."}
+  - {ref: 11, topic: vocab, text: "勸 (line 10) = persuade, try to talk someone out of something. 肯定 'be sure'. 一代 'a generation'."}
+  - {ref: 12, topic: vocab, text: "衝突 cung1 dat6 = clash, conflict. 催淚彈 ceoi1 leoi6 daan2 = tear gas (canister). 暴力 bou6 lik6 = violence. 兩邊都有 'on both sides': Kayan's way of not taking a side in public."}
+  - {ref: 13, topic: culture, text: "More than 10,000 people were arrested in 2019–20; many were convicted of rioting (暴動罪), which carries up to ten years. 罪名 zeoi6 ming4 = the charge; 判 pun3 = sentence: 判咗四年. 出獄 ceot1 juk6 = be released from prison; 坐監 co5 gaam1 = be in jail; 探監 taam3 gaam1 = visit someone in prison (line 15, split: 探過幾次監)."}
+  - {ref: 16, topic: culture, text: "The National Security Law (國安法 gwok3 on1 faat3) took effect (生效 sang1 haau6) on 30 June 2020. In 2021 dozens of unions, NGOs and political groups disbanded (解散 gaai2 saan3), and Britain opened a visa route for BN(O) passport holders, which more than 150,000 Hongkongers have used. 團體 tyun4 tai2 = group, organisation."}
+  - {ref: 24, topic: vocab, text: "檸檬茶 ning4 mung1 caa4 = lemon tea; 罐 gun3 = can, tin (also a classifier: 一罐). 暖 nyun5 = warm: 暖晒 'gone warm'."}
+  - {ref: 17, topic: vocab, text: "冷戰 laang5 zin3 = cold war, not speaking to each other. 父子 fu6 zi2 = father and son. 養大 joeng5 daai6 (line 19) = raise (a child); 失去 sat1 heoi3 = lose. 後悔 hau6 fui3 (line 18) = regret. 恐懼 hung2 geoi6 (line 19) = fear (formal). 傷痕 soeng1 han4 (line 20) = scar; 提起 tai4 hei2 = bring up, mention; 發生 faat3 sang1 = happen; 一道傷痕 'a scar' (道 classifier). 中間 zung1 gaan1 (line 17) = in the middle. 外人 ngoi6 jan4 (line 21) = outsider. 一代 jat1 doi6 (line 11) = a generation."}
+pron:
+  - {ref: 6, text: "靜靜雞 zing6 zing2 gai1: the second 靜 rises."}
+  - {ref: 12, text: "催淚彈 ceoi1 leoi6 daan2: 彈 'shell, bomb' is daan2; taan4 means 'play (an instrument)'."}
+  - {ref: 13, text: "拘捕 keoi1 bou6 and 被捕 bei6 bou6: 捕 is bou6, not pou2."}
+new_words:
+  - {jyutping: "jau4 hang4", hanzi: 遊行, en: "march, demonstration"}
+  - {jyutping: "si6 wai1", hanzi: 示威, en: "protest"}
+  - {jyutping: "sau1 lai6", hanzi: 修例, en: "amend a law"}
+  - {jyutping: "maa5 lou6", hanzi: 馬路, en: "road"}
+  - {jyutping: "wu6 soeng1", hanzi: 互相, en: "each other"}
+  - {jyutping: "zing6 zing2 gai1", hanzi: 靜靜雞, en: "quietly, on the quiet"}
+  - {jyutping: "gaau2 si6", hanzi: 搞事, en: "make trouble"}
+  - {jyutping: "laai1", hanzi: 拉, en: "arrest (colloquial); pull"}
+  - {jyutping: "wo4 ping4", hanzi: 和平, en: "peaceful; peace"}
+  - {jyutping: "cung1 dat6", hanzi: 衝突, en: "clash, conflict"}
+  - {jyutping: "ceoi1 leoi6 daan2", hanzi: 催淚彈, en: "tear gas"}
+  - {jyutping: "bou6 lik6", hanzi: 暴力, en: "violence"}
+  - {jyutping: "keoi1 bou6", hanzi: 拘捕, en: "arrest (formal)"}
+  - {jyutping: "zeoi6 ming4", hanzi: 罪名, en: "charge (criminal)"}
+  - {jyutping: "pun3", hanzi: 判, en: "sentence (in court)"}
+  - {jyutping: "ceot1 juk6", hanzi: 出獄, en: "be released from prison"}
+  - {jyutping: "taam3 gaam1", hanzi: 探監, en: "visit someone in prison"}
+  - {jyutping: "co5 gaam1", hanzi: 坐監, en: "be in jail"}
+  - {jyutping: "gwok3 on1 faat3", hanzi: 國安法, en: "National Security Law"}
+  - {jyutping: "sang1 haau6", hanzi: 生效, en: "take effect"}
+  - {jyutping: "gaai2 saan3", hanzi: 解散, en: "disband"}
+  - {jyutping: "laang5 zin3", hanzi: 冷戰, en: "cold war"}
+  - {jyutping: "hau6 fui3", hanzi: 後悔, en: "regret"}
+  - {jyutping: "hung2 geoi6", hanzi: 恐懼, en: "fear"}
+  - {jyutping: "tai4 hei2", hanzi: 提起, en: "bring up, mention"}
+  - {jyutping: "soeng1 han4", hanzi: 傷痕, en: "scar"}
+  - {jyutping: "dong1 nin4", hanzi: 當年, en: "in those days, that year"}
+  - {jyutping: "jat1 doi6", hanzi: 一代, en: "a generation"}
+  - {jyutping: "tyun4 tai2", hanzi: 團體, en: "group, organisation"}
+  - {jyutping: "ngoi6 jan4", hanzi: 外人, en: "outsider"}
+  - {jyutping: "gau3", hanzi: 救, en: "save, rescue"}
+  - {jyutping: "gun3", hanzi: 罐, en: "can, tin"}
+  - {jyutping: "nyun5", hanzi: 暖, en: "warm"}
+  - {jyutping: "sat1 heoi3", hanzi: 失去, en: "lose"}
+  - {jyutping: "joeng5 daai6", hanzi: 養大, en: "raise (a child)"}
+  - {jyutping: "ning4 mung1 caa4", hanzi: 檸檬茶, en: "lemon tea"}
+  - {jyutping: "fu6 zi2", hanzi: 父子, en: "father and son"}
+  - {jyutping: "faat3 sang1", hanzi: 發生, en: "happen"}
+  - {jyutping: "zung1 gaan1", hanzi: 中間, en: "middle, between"}
+  - {jyutping: "jat1 dou6", hanzi: 一道, en: "a (scar, wall, door: classifier)"}
+exercises:
+  translate:
+    - {hanzi: "佢靜靜雞咁出咗門口。", jyutping: "keoi5 zing6 zing2 gai1 gam2 ceot1 zo2 mun4 hau2.", en: "She slipped out quietly."}
+    - {hanzi: "我一返到屋企，佢就鬧我。", jyutping: "ngo5 jat1 faan1 dou3 uk1 kei2, keoi5 zau6 naau6 ngo5.", en: "The moment I got home, he told me off."}
+    - {hanzi: "佢哋兩父子冷戰咗兩年。", jyutping: "keoi5 dei6 loeng5 fu6 zi2 laang5 zin3 zo2 loeng5 nin4.", en: "Father and son didn't speak to each other for two years."}
+    - {hanzi: "佢唔後悔當年嘅決定。", jyutping: "keoi5 m4 hau6 fui3 dong1 nin4 ge3 kyut3 ding6.", en: "She doesn't regret her decision back then."}
+    - {hanzi: "國安法生效之後，好多團體解散。", jyutping: "gwok3 on1 faat3 sang1 haau6 zi1 hau6, hou2 do1 tyun4 tai2 gaai2 saan3.", en: "After the National Security Law took effect, many groups disbanded."}
+  fill:
+    - {hanzi: "佢慢慢___行入房。", jyutping: "keoi5 maan6 maan2 ___ haang4 jap6 fong2.", answer: "gam2", answer_hanzi: 咁, en: "He walked slowly into his room."}
+    - {hanzi: "一九六七年暴動___，我都係你咁上下年紀。", jyutping: "jat1 gau2 luk6 cat1 nin4 bou6 dung6 ___, ngo5 dou1 hai6 nei5 gam3 soeng6 haa2 nin4 gei2.", answer: "ge3 si4 hau6", answer_hanzi: 嘅時候, en: "During the 1967 riots I was about your age."}
+    - {hanzi: "佢俾人___，罪名係暴動。", jyutping: "keoi5 bei2 jan4 ___, zeoi6 ming4 hai6 bou6 dung6.", answer: "keoi1 bou6", answer_hanzi: 拘捕, en: "He was arrested and charged with rioting."}
+    - {hanzi: "而家冇人再___，好似冇發生過咁。", jyutping: "ji4 gaa1 mou5 jan4 zoi3 ___, hou2 ci5 mou5 faat3 sang1 gwo3 gam2.", answer: "tai4 hei2", answer_hanzi: 提起, en: "Nobody mentions it any more, as if it never happened."}
+    - {hanzi: "佢想___我唔好去。", jyutping: "keoi5 soeng2 ___ ngo5 m4 hou2 heoi3.", answer: "hyun3", answer_hanzi: 勸, en: "She wanted to persuade me not to go."}

@@ -1,0 +1,98 @@
+# 進修 55. Written Cantonese, LSHK Jyutping. Lines marked （法文） are spoken in French and given here in Cantonese. Not checked by a native speaker yet.
+id: 55
+title: {en: "Big trouble", jyutping: "daai6 wok6", hanzi: "大鑊"}
+intro: "Hugo's parents arrive, and he interprets between his mother and 梁伯, badly: reported speech (佢話…, 佢問…, 佢叫…, hearsay 喎), and the words of secrets, surprises and making up."
+genre: dialogue
+review: false
+setting: "Saturday 2 October 2027. Hugo's mother has flown in from Lyon and his father from Marseille; they divorced years ago and have not travelled together since. His mother still believes he works at the bank in Central. Lines marked （法文） are in French."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "阿果，你阿爸阿媽到咗門口喇！", jyutping: "aa3 gwo2, nei5 aa3 baa4 aa3 maa1 dou3 zo2 mun4 hau2 laa3!", en: "A-Gwo, your mum and dad are at the door!"}
+  - {n: 2, speaker: Hugo, hanzi: "（細聲）大鑊……我阿媽仲以為我喺銀行做嘢。", jyutping: "(sai3 seng1) daai6 wok6 …… ngo5 aa3 maa1 zung6 ji5 wai4 ngo5 hai2 ngan4 hong4 zou6 je5.", en: "(Quietly) Big trouble… my mum still thinks I work at the bank."}
+  - {n: 3, speaker: Lin-ze, hanzi: "吓？一年喇你仲未講？你真係瞞得好實喎。今日你要幫佢哋傳話，小心佢黑口黑面。", jyutping: "haa2? jat1 nin4 laa3 nei5 zung6 mei6 gong2? nei5 zan1 hai6 mun4 dak1 hou2 sat6 wo3. gam1 jat6 nei5 jiu3 bong1 keoi5 dei6 cyun4 waa6, siu2 sam1 keoi5 hak1 hau2 hak1 min6.", en: "What? It's been a year and you still haven't told her? You've really kept it under wraps. Today you'll have to interpret for them: watch out, she'll be scowling."}
+  - {n: 4, speaker: Mum, hanzi: "（法文）呢間就係你成日講嘅茶餐廳？好得意！", jyutping: "(faat3 man2) ni1 gaan1 zau6 hai6 nei5 sing4 jat6 gong2 ge3 caa4 caan1 teng1? hou2 dak1 ji3!", en: "(In French) So this is the café you're always talking about? How charming!"}
+  - {n: 5, speaker: Hugo, hanzi: "梁伯，我阿媽話你間舖好得意喎。", jyutping: "loeng4 baak3, ngo5 aa3 maa1 waa6 nei5 gaan1 pou3 hou2 dak1 ji3 wo3.", en: "梁伯, my mum says your shop is charming."}
+  - {n: 6, speaker: Leung Pak, hanzi: "多謝！你同佢講，你喺度住咗成年，好乖，日日幫手。", jyutping: "do1 ze6! nei5 tung4 keoi5 gong2, nei5 hai2 dou6 zyu6 zo2 seng4 nin4, hou2 gwaai1, jat6 jat6 bong1 sau2.", en: "Thank you! Tell her you've lived here a whole year, you're a good lad, and you help every day."}
+  - {n: 7, speaker: Hugo, hanzi: "（法文）媽，梁伯話我住喺度，返工好方便。", jyutping: "(faat3 man2) maa1, loeng4 baak3 waa6 ngo5 zyu6 hai2 dou6, faan1 gung1 hou2 fong1 bin6.", en: "(In French) Mum, 梁伯 says living here makes it easy for me to get to work."}
+  - {n: 8, speaker: Mum, hanzi: "（法文）你問吓佢，你喺銀行份工辛唔辛苦？", jyutping: "(faat3 man2) nei5 man6 haa5 keoi5, nei5 hai2 ngan4 hong4 fan6 gung1 san1 m4 san1 fu2?", en: "(In French) Ask him whether your job at the bank is hard."}
+  - {n: 9, speaker: Hugo, hanzi: "梁伯，我阿媽問你……生意好唔好。", jyutping: "loeng4 baak3, ngo5 aa3 maa1 man6 nei5 …… saang1 ji3 hou2 m4 hou2.", en: "梁伯, my mum asks… whether business is good."}
+  - {n: 10, speaker: Leung Pak, hanzi: "好！自從佢辭咗職，日日喺度教法文、夾 band，啲客多咗好多。", jyutping: "hou2! zi6 cung4 keoi5 ci4 zo2 zik1, jat6 jat6 hai2 dou6 gaau3 faat3 man2, gaap3 band, di1 haak3 do1 zo2 hou2 do1.", en: "Good! Ever since he quit his job and started teaching French and playing in his band here every day, we've had many more customers."}
+  - {n: 11, speaker: Hugo, hanzi: "（法文）梁伯話……生意好好。", jyutping: "(faat3 man2) loeng4 baak3 waa6 …… saang1 ji3 hou2 hou2.", en: "(In French) 梁伯 says… business is very good."}
+  - {n: 12, speaker: Dad, hanzi: "（法文）佢講咗咁長，你淨係轉述咗一句？", jyutping: "(faat3 man2) keoi5 gong2 zo2 gam3 coeng4, nei5 zing6 hai6 zyun2 seot6 zo2 jat1 geoi3?", en: "(In French) He said all that and you passed on one sentence?"}
+  - {n: 13, speaker: Lok-zai, hanzi: "（插嘴，拎住手機跑過嚟）姨姨，你睇！阿果哥哥喺 band 度彈 bass，好型㗎！", jyutping: "(caap3 zeoi2, ling1 zyu6 sau2 gei1 paau2 gwo3 lai4) ji1 ji1, nei5 tai2! aa3 gwo2 go4 go1 hai2 band dou6 taan4 bass, hou2 jing4 gaa3!", en: "(Butting in, running over with a phone) Auntie, look! Big brother A-Gwo plays bass in a band; he's so cool!"}
+  - {n: 14, speaker: Mum, hanzi: "（望住段片，好似受咗驚嚇，法文）樂隊？Bass？你唔係喺銀行咩？", jyutping: "(mong6 zyu6 dyun6 pin2, hou2 ci5 sau6 zo2 ging1 haak3, faat3 man2) ngok6 deoi2? bass? nei5 m4 hai6 hai2 ngan4 hong4 me1?", en: "(Watching the clip, as if in shock, in French) A band? Bass? Aren't you at the bank?"}
+  - {n: 15, speaker: Hugo, hanzi: "（投降）媽……我舊年九月已經辭咗職。", jyutping: "(tau4 hong4) maa1 …… ngo5 gau6 nin2 gau2 jyut6 ji5 ging1 ci4 zo2 zik1.", en: "(Giving up) Mum… I quit my job last September."}
+  - {n: 16, speaker: Mum, hanzi: "（靜咗好耐）你話你辭咗職？成年都唔同我講？我唔係不滿你辭職，我係心痛你一個人捱。", jyutping: "(zing6 zo2 hou2 noi6) nei5 waa6 nei5 ci4 zo2 zik1? seng4 nin4 dou1 m4 tung4 ngo5 gong2? ngo5 m4 hai6 bat1 mun5 nei5 ci4 zik1, ngo5 hai6 sam1 tung3 nei5 jat1 go3 jan4 ngaai4.", en: "(After a long silence) You're saying you quit? And you didn't tell me for a whole year? It's not that I mind you quitting; it hurts me that you went through it alone."}
+  - {n: 17, speaker: Leung Pak, hanzi: "佢講乜？佢臉色好差，係咪好嬲？", jyutping: "keoi5 gong2 mat1? keoi5 lim5 sik1 hou2 caa1, hai6 mai6 hou2 nau1?", en: "What's she saying? She looks pale: is she very angry?"}
+  - {n: 18, speaker: Hugo, hanzi: "佢問我點解唔同佢講。佢話佢唔係嬲，係失望。", jyutping: "keoi5 man6 ngo5 dim2 gaai2 m4 tung4 keoi5 gong2. keoi5 waa6 keoi5 m4 hai6 nau1, hai6 sat1 mong6.", en: "She's asking why I didn't tell her. She says she isn't angry, she's disappointed."}
+  - {n: 19, speaker: Dad, hanzi: "（幫口，法文）其實我一早知㗎喇。佢叫我唔好講，驚你擔心。你見到佢咁開心，應該安心喇。", jyutping: "(bong1 hau2, faat3 man2) kei4 sat6 ngo5 jat1 zou2 zi1 gaa3 laa3. keoi5 giu3 ngo5 m4 hou2 gong2, geng1 nei5 daam1 sam1. nei5 gin3 dou2 keoi5 gam3 hoi1 sam1, jing1 goi1 on1 sam1 laa3.", en: "(Taking his side, in French) Actually, I've known for ages. He told me not to say, in case you worried. Seeing how happy he is, you should be reassured."}
+  - {n: 20, speaker: Lin-ze, hanzi: "（睇住兩個人嘅面口）大鑊，前度兩公婆嗌交喇！成間舖冷晒場。", jyutping: "(tai2 zyu6 loeng5 go3 jan4 ge3 min6 hau2) daai6 wok6, cin4 dou6 loeng5 gung1 po2 aai3 gaau1 laa3! seng4 gaan1 pou3 laang5 saai3 coeng4.", en: "(Watching their faces) Uh-oh, the ex-husband and ex-wife are fighting! The whole shop's gone quiet."}
+  - {n: 21, speaker: Leung Pak, hanzi: "（攞咗兩杯奶茶出嚟打圓場）太太，飲杯奶茶先。你個仔喺度好好，個個都錫佢。我做咗五十年，佢係我見過最肯學嘅鬼佬。", jyutping: "(lo2 zo2 loeng5 bui1 naai5 caa4 ceot1 lai4 daa2 jyun4 coeng4) taai3 taai2, jam2 bui1 naai5 caa4 sin1. nei5 go3 zai2 hai2 dou6 hou2 hou2, go3 go3 dou1 sek3 keoi5. ngo5 zou6 zo2 ng5 sap6 nin4, keoi5 hai6 ngo5 gin3 gwo3 zeoi3 hang2 hok6 ge3 gwai2 lou2.", en: "(Bringing out two milk teas to smooth things over) Madam, have some milk tea first. Your son is doing very well here; everyone adores him. In fifty years he's the most eager-to-learn foreigner I've met."}
+  - {n: 22, speaker: Hugo, hanzi: "（法文，今次一字不漏）媽，梁伯話……", jyutping: "(faat3 man2, gam1 ci3 jat1 zi6 bat1 lau6) maa1, loeng4 baak3 waa6 ……", en: "(In French, every word this time) Mum, 梁伯 says…"}
+  - {n: 23, speaker: Mum, hanzi: "（飲咗一啖，個面鬆咗啲，法文）……好飲。你同佢講，多謝佢照顧你。不過今晚你要同我講晒成年嘅嘢。", jyutping: "(jam2 zo2 jat1 daam6, go3 min6 sung1 zo2 di1, faat3 man2) …… hou2 jam2. nei5 tung4 keoi5 gong2, do1 ze6 keoi5 ziu3 gu3 nei5. bat1 gwo3 gam1 maan5 nei5 jiu3 tung4 ngo5 gong2 saai3 seng4 nin4 ge3 je5.", en: "(Taking a sip, her face softening, in French) …It's good. Tell him thank you for looking after you. But tonight you're telling me everything about this year."}
+  - {n: 24, speaker: Hugo, hanzi: "梁伯，我阿媽話多謝你照顧我。佢仲話……我今晚大鑊喇。", jyutping: "loeng4 baak3, ngo5 aa3 maa1 waa6 do1 ze6 nei5 ziu3 gu3 ngo5. keoi5 zung6 waa6 …… ngo5 gam1 maan5 daai6 wok6 laa3.", en: "梁伯, my mum says thank you for looking after me. She also says… I'm in big trouble tonight."}
+  - {n: 25, speaker: Lin-ze, hanzi: "（指住佢個行李箱）你阿媽仲帶咗成箱芝士同紅酒嚟，話係俾梁伯嘅禮物喎。好誇張！", jyutping: "(zi2 zyu6 keoi5 go3 hang4 lei5 soeng1) nei5 aa3 maa1 zung6 daai3 zo2 seng4 soeng1 zi1 si2 tung4 hung4 zau2 lai4, waa6 hai6 bei2 loeng4 baak3 ge3 lai5 mat6 wo3. hou2 kwaa1 zoeng1!", en: "(Pointing at her suitcase) And your mum's brought a whole case of cheese and red wine, a present for 梁伯, apparently. So over the top!"}
+  - {n: 26, speaker: Mum, hanzi: "（攬住雨果，雨果鬆咗一口氣，法文）不過，教書、夾 band……我個仔好有膽。我好自豪。", jyutping: "(laam2 zyu6 jyu5 gwo2, jyu5 gwo2 sung1 zo2 jat1 hau2 hei3, faat3 man2) bat1 gwo3, gaau3 syu1, gaap3 band …… ngo5 go3 zai2 hou2 jau5 daam2. ngo5 hou2 zi6 hou4.", en: "(Hugging Hugo, who breathes a sigh of relief, in French) Still, teaching, playing in a band… my son has guts. I'm proud of him."}
+notes:
+  - {ref: 2, topic: vocab, text: "大鑊 daai6 wok6 'a big wok' = big trouble, a disaster: 大鑊喇！ 'we're in trouble!'; 我今晚大鑊喇 (line 24)."}
+  - {ref: 3, topic: vocab, text: "瞞 mun4 = hide (the truth) from someone: 瞞得好實 'kept it well hidden'. 傳話 cyun4 waa6 = pass on messages, interpret. 黑口黑面 hak1 hau2 hak1 min6 = scowling, sullen."}
+  - {ref: 5, topic: grammar, text: "Reported speech (P17): 佢話 + clause 'she says (that)…': 我阿媽話你間舖好得意; the sentence-final 喎 wo3 marks it as someone else's words (hearsay). Without 喎 it sounds like Hugo's own opinion."}
+  - {ref: 6, topic: grammar, text: "Reported commands: 你同佢講 + clause 'tell her that…'. 佢叫我唔好講 (line 19) 'he told me not to say': 叫 + person + verb for orders and requests."}
+  - {ref: 8, topic: grammar, text: "Reported questions: 你問吓佢 + question 'ask him whether…'; 我阿媽問你生意好唔好 (line 9) 'my mum asks whether business is good': the question form (V唔V) stays the same inside."}
+  - {ref: 10, topic: vocab, text: "辭職 (P4) splits: 辭咗職 'quit (one's job)'. 職 zik1 = post, job."}
+  - {ref: 12, topic: vocab, text: "轉述 zyun2 seot6 = relay, report (what someone said). 咁長 'so long'."}
+  - {ref: 13, topic: vocab, text: "姨姨 ji1 ji1 = auntie (what a child calls a woman of its parents' age). 彈 taan4 'play (a string instrument)'. 型 'cool' (P46). 插嘴 caap3 zeoi2 = butt in. 驚嚇 ging1 haak3 (line 14) = shock, fright."}
+  - {ref: 15, topic: vocab, text: "投降 tau4 hong4 = surrender, give up. 舊年 'last year' (spoken; 去年 is written, P52)."}
+  - {ref: 18, topic: grammar, text: "佢問我點解… 'she asks me why…'; 佢話佢唔係嬲，係失望 'she says she isn't angry, she's disappointed'. In reported speech the pronouns shift (佢 'she') but the tense doesn't. 不滿 bat1 mun5 (line 16) = be unhappy with; 心痛 sam1 tung3 = it hurts (to see someone suffer); 臉色 lim5 sik1 (line 17) = complexion, look."}
+  - {ref: 20, topic: vocab, text: "面口 min6 hau2 = facial expression, look. 前度 cin4 dou6 = ex (partner). 兩公婆 loeng5 gung1 po2 = husband and wife, the couple. 冷場 laang5 coeng4 = awkward silence: 冷晒場. 幫口 bong1 hau2 (line 19) = speak up for someone; 安心 on1 sam1 = be at ease."}
+  - {ref: 21, topic: vocab, text: "打圓場 daa2 jyun4 coeng4 = smooth things over, defuse a situation. 錫 sek3 = dote on, love (a child); also kiss. 鬼佬 'Westerner' (P43): affectionate here."}
+  - {ref: 23, topic: vocab, text: "鬆 sung1 = relax, loosen: 個面鬆咗啲 'her face softened'. 啖 daam6 = a mouthful, a sip. 一字不漏 (line 22) 'without leaving out a word'. 攬 laam2 (line 26) = hug; 鬆一口氣 sung1 jat1 hau2 hei3 = breathe a sigh of relief; 自豪 zi6 hou4 = proud (of). 好有膽 'has guts' (膽 daam2 'gall, courage'; 放膽, P43)."}
+  - {ref: 25, topic: vocab, text: "禮物 lai5 mat6 = present, gift. 誇張 kwaa1 zoeng1 = over the top, exaggerated. 紅酒 hung4 zau2 = red wine. 成箱 'a whole case'."}
+  - {ref: 2, topic: vs-mandarin, text: "大鑊 has no direct Mandarin equivalent; Mandarin says 糟了 or 慘了 'disaster'. Cantonese 錫 'dote on' = Mandarin 疼; Cantonese 瞞 is shared, but Cantonese often says 收埋 'hide away' (P34)."}
+pron:
+  - {ref: 2, text: "大鑊 daai6 wok6: 鑊 'wok' is wok6, low level."}
+  - {ref: 21, text: "錫 'dote on, kiss' is sek3 (colloquial); sik3 is the metal 'tin'."}
+  - {ref: 20, text: "兩公婆 loeng5 gung1 po2: 婆 rises to po2 here, as in 婆婆 po4 po2."}
+new_words:
+  - {jyutping: "daai6 wok6", hanzi: 大鑊, en: "big trouble"}
+  - {jyutping: "mun4", hanzi: 瞞, en: "hide (the truth) from"}
+  - {jyutping: "zik1", hanzi: 職, en: "post, job"}
+  - {jyutping: "ji1 ji1", hanzi: 姨姨, en: "auntie (to a child)"}
+  - {jyutping: "tau4 hong4", hanzi: 投降, en: "surrender, give up"}
+  - {jyutping: "min6 hau2", hanzi: 面口, en: "facial expression"}
+  - {jyutping: "cin4 dou6", hanzi: 前度, en: "ex (partner)"}
+  - {jyutping: "loeng5 gung1 po2", hanzi: 兩公婆, en: "husband and wife"}
+  - {jyutping: "daa2 jyun4 coeng4", hanzi: 打圓場, en: "smooth things over"}
+  - {jyutping: "sek3", hanzi: 錫, en: "dote on; kiss"}
+  - {jyutping: "sung1", hanzi: 鬆, en: "relax, loosen"}
+  - {jyutping: "daam6", hanzi: 啖, en: "a mouthful, a sip"}
+  - {jyutping: "lai5 mat6", hanzi: 禮物, en: "present, gift"}
+  - {jyutping: "kwaa1 zoeng1", hanzi: 誇張, en: "over the top"}
+  - {jyutping: "hung4 zau2", hanzi: 紅酒, en: "red wine"}
+  - {jyutping: "cyun4 waa6", hanzi: 傳話, en: "pass on messages"}
+  - {jyutping: "hak1 hau2 hak1 min6", hanzi: 黑口黑面, en: "scowling"}
+  - {jyutping: "zyun2 seot6", hanzi: 轉述, en: "relay, report (words)"}
+  - {jyutping: "caap3 zeoi2", hanzi: 插嘴, en: "butt in"}
+  - {jyutping: "ging1 haak3", hanzi: 驚嚇, en: "shock, fright"}
+  - {jyutping: "bat1 mun5", hanzi: 不滿, en: "be unhappy with"}
+  - {jyutping: "sam1 tung3", hanzi: 心痛, en: "be pained (for someone)"}
+  - {jyutping: "lim5 sik1", hanzi: 臉色, en: "complexion, look"}
+  - {jyutping: "bong1 hau2", hanzi: 幫口, en: "speak up for someone"}
+  - {jyutping: "on1 sam1", hanzi: 安心, en: "at ease, reassured"}
+  - {jyutping: "laang5 coeng4", hanzi: 冷場, en: "awkward silence"}
+  - {jyutping: "laam2", hanzi: 攬, en: "hug"}
+  - {jyutping: "sung1 jat1 hau2 hei3", hanzi: 鬆一口氣, en: "breathe a sigh of relief"}
+  - {jyutping: "zi6 hou4", hanzi: 自豪, en: "proud"}
+  - {jyutping: "daam2", hanzi: 膽, en: "courage, guts"}
+exercises:
+  translate:
+    - {hanzi: "佢話佢今晚唔得閒喎。", jyutping: "keoi5 waa6 keoi5 gam1 maan5 m4 dak1 haan4 wo3.", en: "She says she's busy tonight."}
+    - {hanzi: "我阿媽問你生意好唔好。", jyutping: "ngo5 aa3 maa1 man6 nei5 saang1 ji3 hou2 m4 hou2.", en: "My mum asks whether business is good."}
+    - {hanzi: "佢叫我唔好話俾你知。", jyutping: "keoi5 giu3 ngo5 m4 hou2 waa6 bei2 nei5 zi1.", en: "He told me not to tell you."}
+    - {hanzi: "大鑊，我瞞咗佢成年！", jyutping: "daai6 wok6, ngo5 mun4 zo2 keoi5 seng4 nin4!", en: "Disaster, I've been hiding it from her for a whole year!"}
+    - {hanzi: "佢帶咗成箱紅酒嚟做禮物，好誇張。", jyutping: "keoi5 daai3 zo2 seng4 soeng1 hung4 zau2 lai4 zou6 lai5 mat6, hou2 kwaa1 zoeng1.", en: "She brought a whole case of red wine as a present: so over the top."}
+  fill:
+    - {hanzi: "我阿媽話你間舖好得意___。", jyutping: "ngo5 aa3 maa1 waa6 nei5 gaan1 pou3 hou2 dak1 ji3 ___.", answer: "wo3", answer_hanzi: 喎, en: "My mum says your shop is charming."}
+    - {hanzi: "佢___我點解唔同佢講。", jyutping: "keoi5 ___ ngo5 dim2 gaai2 m4 tung4 keoi5 gong2.", answer: "man6", answer_hanzi: 問, en: "She asks me why I didn't tell her."}
+    - {hanzi: "梁伯攞咗兩杯奶茶出嚟___。", jyutping: "loeng4 baak3 lo2 zo2 loeng5 bui1 naai5 caa4 ceot1 lai4 ___.", answer: "daa2 jyun4 coeng4", answer_hanzi: 打圓場, en: "梁伯 brought out two milk teas to smooth things over."}
+    - {hanzi: "個個都好___佢。", jyutping: "go3 go3 dou1 hou2 ___ keoi5.", answer: "sek3", answer_hanzi: 錫, en: "Everyone adores him."}
+    - {hanzi: "佢飲咗一___奶茶，個面鬆咗啲。", jyutping: "keoi5 jam2 zo2 jat1 ___ naai5 caa4, go3 min6 sung1 zo2 di1.", answer: "daam6", answer_hanzi: 啖, en: "She took a sip of milk tea, and her face softened."}

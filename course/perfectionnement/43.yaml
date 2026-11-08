@@ -1,0 +1,98 @@
+# 進修 43. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 43
+title: {en: "My Cantonese", jyutping: "ngo5 ge3 gwong2 dung1 waa2", hanzi: "我嘅廣東話"}
+intro: "Hugo's essay on learning Cantonese at thirty: adjectives before nouns (好人, 新嘅衫), 有 before a verb, and the words for talking about language itself."
+genre: essay
+review: false
+setting: "Early June 2027. A Hong Kong online magazine for learners has asked Hugo, 'the Frenchman from the viral milk-tea clip', for a short essay on learning Cantonese. He writes it in written Cantonese; 蓮姐 and Hiu-ching have checked it."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "我嘅廣東話（雨果）", jyutping: "ngo5 ge3 gwong2 dung1 waa2 (jyu5 gwo2)", en: "My Cantonese (by Hugo)"}
+  - {n: 2, speaker: Hugo, hanzi: "我三十歲先開始認真學習廣東話。之前我喺中環做咗五年分析，返工講英文，放工講法文，廣東話淨係識「唔該」同「埋單」。", jyutping: "ngo5 saam1 sap6 seoi3 sin1 hoi1 ci2 jing6 zan1 hok6 zaap6 gwong2 dung1 waa2. zi1 cin4 ngo5 hai2 zung1 waan4 zou6 zo2 ng5 nin4 fan1 sik1, faan1 gung1 gong2 jing1 man2, fong3 gung1 gong2 faat3 man2, gwong2 dung1 waa2 zing6 hai6 sik1 \"m4 goi1\" tung4 \"maai4 daan1\".", en: "I only started learning Cantonese seriously at thirty. Before that I spent five years as an analyst in Central: English at work, French after work, and all the Cantonese I knew was 'thank you' and 'the bill, please'."}
+  - {n: 3, speaker: Hugo, hanzi: "辭咗職，我搬咗去深水埗。第一個禮拜，我好似一個嬰兒咁：人哋講乜都聽唔明，淨係識笑。", jyutping: "ci4 zo2 zik1, ngo5 bun1 zo2 heoi3 sam1 seoi2 bou2. dai6 jat1 go3 lai5 baai3, ngo5 hou2 ci5 jat1 go3 jing1 ji4 gam2: jan4 dei6 gong2 mat1 dou1 teng1 m4 ming4, zing6 hai6 sik1 siu3.", en: "After I quit, I moved to Sham Shui Po. The first week I was like a baby: I understood nothing anyone said, and all I could do was smile."}
+  - {n: 4, speaker: Hugo, hanzi: "學廣東話，第一樣困難係聲調。普通話得四個聲，廣東話有六個，計埋入聲就有九個。", jyutping: "hok6 gwong2 dung1 waa2, dai6 jat1 joeng6 kwan3 naan4 hai6 sing1 diu6. pou2 tung1 waa2 dak1 sei3 go3 sing1, gwong2 dung1 waa2 jau5 luk6 go3, gai3 maai4 jap6 sing1 zau6 jau5 gau2 go3.", en: "The first difficulty in learning Cantonese is the tones. Mandarin has only four; Cantonese has six, nine if you count the 'entering' tones."}
+  - {n: 5, speaker: Hugo, hanzi: "「詩、史、試、時、市、事」，六個字，聽落好似一樣，其實意思完全唔同。", jyutping: "\"si1, si2, si3, si4, si5, si6\", luk6 go3 zi6, teng1 lok6 hou2 ci5 jat1 joeng6, kei4 sat6 ji3 si1 jyun4 cyun4 m4 tung4.", en: "Poem, history, try, time, market, matter: six words that sound the same to a beginner, with completely different meanings."}
+  - {n: 6, speaker: Hugo, hanzi: "有一次我想講「佢老公喺邊度做嘢？」，點知講咗「佢勞工喺邊度做嘢？」。蓮姐笑到成個人跌落地下。", jyutping: "jau5 jat1 ci3 ngo5 soeng2 gong2 \"keoi5 lou5 gung1 hai2 bin1 dou6 zou6 je5?\", dim2 zi1 gong2 zo2 \"keoi5 lou4 gung1 hai2 bin1 dou6 zou6 je5?\". lin4 ze2 siu3 dou3 seng4 go3 jan4 dit3 lok6 dei6 haa2.", en: "Once I meant to ask 'Where does her husband work?' and asked 'Where does her labourer work?' 蓮姐 laughed so hard she nearly fell on the floor."}
+  - {n: 7, speaker: Hugo, hanzi: "第二樣困難係啲「假朋友」：同普通話一樣嘅字，用法唔同。「平」係便宜，「走」係離開，「食煙」係吸煙。", jyutping: "dai6 ji6 joeng6 kwan3 naan4 hai6 di1 \"gaa2 pang4 jau5\": tung4 pou2 tung1 waa2 jat1 joeng6 ge3 zi6, jung6 faat3 m4 tung4. \"peng4\" hai6 pin4 ji4, \"zau2\" hai6 lei4 hoi1, \"sik6 jin1\" hai6 kap1 jin1.", en: "The second difficulty is the 'false friends': the same characters as Mandarin, used differently. 平 means cheap, 走 means leave, and you 'eat' a cigarette."}
+  - {n: 8, speaker: Hugo, hanzi: "第三樣係粗口。梁伯話：「粗口係廣東話嘅標點符號。」最出名嗰五個字，我喺度唔寫出嚟。", jyutping: "dai6 saam1 joeng6 hai6 cou1 hau2. loeng4 baak3 waa6: \"cou1 hau2 hai6 gwong2 dung1 waa2 ge3 biu1 dim2 fu4 hou2.\" zeoi3 ceot1 meng2 go2 ng5 go3 zi6, ngo5 hai2 dou6 m4 se2 ceot1 lai4.", en: "The third is swearing. 梁伯 says: 'Swear words are the punctuation of Cantonese.' I won't write the five most famous ones here."}
+  - {n: 9, speaker: Hugo, hanzi: "我發覺：識講粗口唔難，難得係知道幾時唔好講。", jyutping: "ngo5 faat3 gok3: sik1 gong2 cou1 hau2 m4 naan4, naan4 dak1 hai6 zi1 dou3 gei2 si4 m4 hou2 gong2.", en: "What I've found: knowing the swear words isn't hard; the hard part is knowing when not to use them."}
+  - {n: 10, speaker: Hugo, hanzi: "文法反而冇我諗咁難。法文個形容詞擺喺後面，廣東話擺喺前面：好人、好嘢、新衫、舊屋。", jyutping: "man4 faat3 faan2 ji4 mou5 ngo5 nam2 gam3 naan4. faat3 man2 go3 jing4 jung4 ci4 baai2 hai2 hau6 min6, gwong2 dung1 waa2 baai2 hai2 cin4 min6: hou2 jan4, hou2 je5, san1 saam1, gau6 uk1.", en: "The grammar, on the other hand, is easier than I thought. In French the adjective goes after the noun; in Cantonese it goes before: a good person, good stuff, new clothes, an old house."}
+  - {n: 11, speaker: Hugo, hanzi: "不過形容詞長啲，就要加「嘅」：好靚嘅衫、好舊嘅屋、我未見過咁好人嘅業主。", jyutping: "bat1 gwo3 jing4 jung4 ci4 coeng4 di1, zau6 jiu3 gaa1 \"ge3\": hou2 leng3 ge3 saam1, hou2 gau6 ge3 uk1, ngo5 mei6 gin3 gwo3 gam3 hou2 jan4 ge3 jip6 zyu2.", en: "But when the adjective gets longer, you add 嘅: very nice clothes, a very old house, a landlord as decent as I've never met."}
+  - {n: 12, speaker: Hugo, hanzi: "啲後生仔仲成日講「我有去」、「我有食」，好似台灣普通話咁。梁伯聽到就皺眉：「去咗就去咗，有乜嘢有？」", jyutping: "di1 hau6 saang1 zai2 zung6 sing4 jat6 gong2 \"ngo5 jau5 heoi3\", \"ngo5 jau5 sik6\", hou2 ci5 toi4 waan1 pou2 tung1 waa2 gam2. loeng4 baak3 teng1 dou2 zau6 zau3 mei4: \"heoi3 zo2 zau6 heoi3 zo2, jau5 mat1 je5 jau5?\"", en: "Young people also keep saying 'I did go', 'I did eat' with 有, like Taiwanese Mandarin. When 梁伯 hears it, he frowns: 'If you went, you went. What's this 有?'"}
+  - {n: 13, speaker: Hugo, hanzi: "廣東話形容嘢好生動：白雪雪、熱辣辣、靜英英。一個字唔夠，就講兩次、三次。", jyutping: "gwong2 dung1 waa2 jing4 jung4 je5 hou2 sang1 dung6: baak6 syut1 syut1, jit6 laat6 laat6, zing6 jing1 jing1. jat1 go3 zi6 m4 gau3, zau6 gong2 loeng5 ci3, saam1 ci3.", en: "Cantonese describes things vividly: snow-white, piping hot, dead quiet. If one syllable isn't enough, you say it twice, three times."}
+  - {n: 14, speaker: Hugo, hanzi: "我學嘢冇乜竅門，亦冇捷徑。我淨係開口講，講錯就俾人糾正，再講。", jyutping: "ngo5 hok6 je5 mou5 mat1 hiu3 mun4, jik6 mou5 zit3 ging3. ngo5 zing6 hai6 hoi1 hau2 gong2, gong2 co3 zau6 bei2 jan4 gau2 zing3, zoi3 gong2.", en: "I have no tricks for learning, and no shortcuts. I just open my mouth and talk; when I get it wrong, someone corrects me, and I talk again."}
+  - {n: 15, speaker: Hugo, hanzi: "最緊要係放膽，唔好怕丟臉。我講錯嘢，啲人淨係笑吓，跟住就教我正確嘅講法。", jyutping: "zeoi3 gan2 jiu3 hai6 fong3 daam2, m4 hou2 paa3 diu1 lim5. ngo5 gong2 co3 je5, di1 jan4 zing6 hai6 siu3 haa5, gan1 zyu6 zau6 gaau3 ngo5 zing3 kok3 ge3 gong2 faat3.", en: "The most important thing is to be bold and not fear losing face. When I say something wrong, people just laugh, then teach me the right way to say it."}
+  - {n: 16, speaker: Hugo, hanzi: "蓮姐成日話我有「鬼佬腔」，又話我嘅發音唔準確。但係佢從來冇叫我轉講英文。", jyutping: "lin4 ze2 sing4 jat6 waa6 ngo5 jau5 \"gwai2 lou2 hong1\", jau6 waa6 ngo5 ge3 faat3 jam1 m4 zeon2 kok3. daan6 hai6 keoi5 cung4 loi4 mou5 giu3 ngo5 zyun3 gong2 jing1 man2.", en: "蓮姐 always says I have a 'foreigner's accent', and that my pronunciation isn't accurate. But she has never once told me to switch to English."}
+  - {n: 17, speaker: Hugo, hanzi: "喺香港，外國人肯講廣東話，好多人都覺得好難得，會好有耐性咁聽你講。", jyutping: "hai2 hoeng1 gong2, ngoi6 gwok3 jan4 hang2 gong2 gwong2 dung1 waa2, hou2 do1 jan4 dou1 gok3 dak1 hou2 naan4 dak1, wui5 hou2 jau5 noi6 sing3 gam2 teng1 nei5 gong2.", en: "In Hong Kong, when a foreigner is willing to speak Cantonese, lots of people find it rare and precious, and they'll listen to you with great patience."}
+  - {n: 18, speaker: Hugo, hanzi: "我而家睇港劇都唔使睇字幕，不過啲潮語我仲係追唔上。", jyutping: "ngo5 ji4 gaa1 tai2 gong2 kek6 dou1 m4 sai2 tai2 zi6 mok6, bat1 gwo3 di1 ciu4 jyu5 ngo5 zung6 hai6 zeoi1 m4 soeng5.", en: "Now I can watch Hong Kong dramas without subtitles, though I still can't keep up with the latest slang."}
+  - {n: 19, speaker: Hugo, hanzi: "廣東話唔係我嘅母語，但係佢已經係我嘅生活。我喺廣東話入面搵到一班朋友，一間舖頭，同埋一個人。", jyutping: "gwong2 dung1 waa2 m4 hai6 ngo5 ge3 mou5 jyu5, daan6 hai6 keoi5 ji5 ging1 hai6 ngo5 ge3 sang1 wut6. ngo5 hai2 gwong2 dung1 waa2 jap6 min6 wan2 dou2 jat1 baan1 pang4 jau5, jat1 gaan1 pou3 tau2, tung4 maai4 jat1 go3 jan4.", en: "Cantonese isn't my mother tongue, but it has become my life. In Cantonese I've found a group of friends, a shop, and one particular person."}
+  - {n: 20, speaker: Hugo, hanzi: "所以，如果你都想學，我嘅心得得一句：開口啦，冇人會笑你笑一世。", jyutping: "so2 ji5, jyu4 gwo2 nei5 dou1 soeng2 hok6, ngo5 ge3 sam1 dak1 dak1 jat1 geoi3: hoi1 hau2 laa1, mou5 jan4 wui5 siu3 nei5 siu3 jat1 sai3.", en: "So if you want to learn too, my advice comes down to one sentence: open your mouth; nobody will laugh at you forever."}
+  - {n: 21, speaker: Hiu-ching, hanzi: "（喺最後寫）「一個人」係邊個？", jyutping: "(hai2 zeoi3 hau6 se2) \"jat1 go3 jan4\" hai6 bin1 go3?", en: "(Written in the margin) Who is 'one particular person'?"}
+  - {n: 22, speaker: Lin-ze, hanzi: "（喺下面加多句）仲使問？傻妹。", jyutping: "(hai2 haa6 min6 gaa1 do1 geoi3) zung6 sai2 man6? so4 mui1.", en: "(Adding a line underneath) Need you ask? Silly girl."}
+notes:
+  - {ref: 2, topic: vocab, text: "學習 hok6 zaap6 = learn, study (a little formal; 學 is everyday). 分析 fan1 sik1 = analyse; analysis: 做分析 'work as an analyst'."}
+  - {ref: 3, topic: vocab, text: "嬰兒 jing1 ji4 = baby (written; spoken BB). 好似…咁 'like…' (P11)."}
+  - {ref: 4, topic: vs-mandarin, text: "Mandarin has four tones; Cantonese has six contrasting tones, and the 'checked' syllables ending in -p, -t, -k (入聲 jap6 sing1, the 'entering tone') add three more in the traditional count of nine. Jyutping writes them as 1, 3, 6. 聲調 'tones' (P27)."}
+  - {ref: 5, topic: culture, text: "詩 si1 'poem', 史 si2 'history', 試 si3 'try', 時 si4 'time', 市 si5 'market', 事 si6 'matter': the classic drill for the six tones."}
+  - {ref: 6, topic: vocab, text: "勞工 lou4 gung1 = labour, labourer, vs 老公 lou5 gung1 = husband: only the tone differs."}
+  - {ref: 7, topic: vocab, text: "用法 jung6 faat3 = usage. 便宜 pin4 ji4 is the Mandarin and written word for 'cheap'; 正確 zing3 kok3 (line 15) = correct. 假朋友 'false friends' is Hugo's translation of the French 'faux amis'."}
+  - {ref: 8, topic: culture, text: "粗口 cou1 hau2 = swear words, foul language. The most famous five are called 粗口 or, jokingly, 'the five characters'. 標點符號 biu1 dim2 fu4 hou2 = punctuation."}
+  - {ref: 9, topic: vocab, text: "難得 naan4 dak1 = rare, precious, hard to come by (line 17: 好難得); here, with a pun, 難得係… 'the hard part is…'."}
+  - {ref: 10, topic: grammar, text: "Attributive adjectives: a one-syllable adjective sits right before the noun with no 嘅: 好人, 好嘢, 新衫, 舊屋. These often become fixed words. Once the adjective is modified (好靚, 咁好人) or longer, 嘅 is needed: 好靚嘅衫 (line 11). 形容詞 jing4 jung4 ci4 = adjective (形容 'describe'); 名詞 ming4 ci4 = noun."}
+  - {ref: 12, topic: grammar, text: "有 + verb 'did (verb)': 我有去 'I did go'. Traditional Cantonese uses it in questions (你有冇去？) and emphatic answers, but young speakers now use it more in statements, partly under the influence of Taiwanese Mandarin. Older speakers prefer 去咗. 皺眉 zau3 mei4 'frown'."}
+  - {ref: 13, topic: vocab, text: "生動 sang1 dung6 = vivid, lively. ABB adjectives (P22): 白雪雪 baak6 syut1 syut1 'snow-white', 熱辣辣 'piping hot', 靜英英 zing6 jing1 jing1 'dead quiet'."}
+  - {ref: 14, topic: vocab, text: "竅門 hiu3 mun4 = trick, knack; 捷徑 zit3 ging3 = shortcut. 開口 hoi1 hau2 = open one's mouth, speak up. 糾正 gau2 zing3 = correct (someone)."}
+  - {ref: 15, topic: vocab, text: "放膽 fong3 daam2 = be bold, go for it (膽 'gall, courage'). 丟臉 diu1 lim5 = lose face. 準確 zeon2 kok3 (line 16) = accurate; 發音 faat3 jam1 = pronunciation; 腔 hong1 = accent: 鬼佬腔 'a foreigner's accent' (鬼佬 'gweilo', a common, not always friendly, word for Westerners)."}
+  - {ref: 18, topic: vocab, text: "港劇 'Hong Kong TV drama' (劇 kek6 'drama'). 字幕 zi6 mok6 = subtitles. 潮語 ciu4 jyu5 = trendy slang. 母語 mou5 jyu5 (line 19) = mother tongue. 心得 sam1 dak1 (line 20) = what one has learned from experience. 傻妹 so4 mui1 (line 22) = silly girl (affectionate)."}
+pron:
+  - {ref: 5, text: "The six tones on si: 1 high level, 2 high rising, 3 mid level, 4 low falling, 5 low rising, 6 low level."}
+  - {ref: 13, text: "白雪雪 baak6 syut1 syut1: the doubled syllables are high level, whatever the base word's tone."}
+  - {ref: 9, text: "難得 naan4 dak1: 難 is naan4 'difficult'; 難 naan6 means disaster (災難)."}
+new_words:
+  - {jyutping: "hok6 zaap6", hanzi: 學習, en: "learn, study"}
+  - {jyutping: "fan1 sik1", hanzi: 分析, en: "analyse; analysis"}
+  - {jyutping: "jing1 ji4", hanzi: 嬰兒, en: "baby"}
+  - {jyutping: "jap6 sing1", hanzi: 入聲, en: "entering (checked) tone"}
+  - {jyutping: "lou4 gung1", hanzi: 勞工, en: "labour, labourer"}
+  - {jyutping: "jung6 faat3", hanzi: 用法, en: "usage"}
+  - {jyutping: "cou1 hau2", hanzi: 粗口, en: "swear words"}
+  - {jyutping: "biu1 dim2 fu4 hou2", hanzi: 標點符號, en: "punctuation"}
+  - {jyutping: "naan4 dak1", hanzi: 難得, en: "rare, precious"}
+  - {jyutping: "man4 faat3", hanzi: 文法, en: "grammar"}
+  - {jyutping: "jing4 jung4", hanzi: 形容, en: "describe"}
+  - {jyutping: "sang1 dung6", hanzi: 生動, en: "vivid, lively"}
+  - {jyutping: "hiu3 mun4", hanzi: 竅門, en: "trick, knack"}
+  - {jyutping: "zit3 ging3", hanzi: 捷徑, en: "shortcut"}
+  - {jyutping: "hoi1 hau2", hanzi: 開口, en: "open one's mouth, speak up"}
+  - {jyutping: "gau2 zing3", hanzi: 糾正, en: "correct (someone)"}
+  - {jyutping: "fong3 daam2", hanzi: 放膽, en: "be bold"}
+  - {jyutping: "diu1 lim5", hanzi: 丟臉, en: "lose face"}
+  - {jyutping: "hong1", hanzi: 腔, en: "accent"}
+  - {jyutping: "faat3 jam1", hanzi: 發音, en: "pronunciation"}
+  - {jyutping: "zeon2 kok3", hanzi: 準確, en: "accurate"}
+  - {jyutping: "kek6", hanzi: 劇, en: "drama, play"}
+  - {jyutping: "zi6 mok6", hanzi: 字幕, en: "subtitles"}
+  - {jyutping: "ciu4 jyu5", hanzi: 潮語, en: "trendy slang"}
+  - {jyutping: "mou5 jyu5", hanzi: 母語, en: "mother tongue"}
+  - {jyutping: "sam1 dak1", hanzi: 心得, en: "lessons learned, insight"}
+  - {jyutping: "pin4 ji4", hanzi: 便宜, en: "cheap (written, Mandarin)"}
+  - {jyutping: "jing4 jung4 ci4", hanzi: 形容詞, en: "adjective"}
+  - {jyutping: "ming4 ci4", hanzi: 名詞, en: "noun"}
+  - {jyutping: "zau3 mei4", hanzi: 皺眉, en: "frown"}
+  - {jyutping: "zing3 kok3", hanzi: 正確, en: "correct"}
+  - {jyutping: "so4 mui1", hanzi: 傻妹, en: "silly girl"}
+  - {jyutping: "baak6 syut1 syut1", hanzi: 白雪雪, en: "snow-white"}
+  - {jyutping: "zing6 jing1 jing1", hanzi: 靜英英, en: "dead quiet"}
+  - {jyutping: "dai6 saam1", hanzi: 第三, en: "third"}
+exercises:
+  translate:
+    - {hanzi: "佢係好人，不過講嘢好粗口。", jyutping: "keoi5 hai6 hou2 jan4, bat1 gwo3 gong2 je5 hou2 cou1 hau2.", en: "He's a good man, but he swears a lot."}
+    - {hanzi: "我買咗件新衫，係一件好靚嘅新衫。", jyutping: "ngo5 maai5 zo2 gin6 san1 saam1, hai6 jat1 gin6 hou2 leng3 ge3 san1 saam1.", en: "I bought a new top: a really nice new top."}
+    - {hanzi: "學語言冇捷徑，最緊要係放膽開口。", jyutping: "hok6 jyu5 jin4 mou5 zit3 ging3, zeoi3 gan2 jiu3 hai6 fong3 daam2 hoi1 hau2.", en: "There's no shortcut to learning a language; the key is to be bold and speak."}
+    - {hanzi: "佢嘅發音好準確，完全冇鬼佬腔。", jyutping: "keoi5 ge3 faat3 jam1 hou2 zeon2 kok3, jyun4 cyun4 mou5 gwai2 lou2 hong1.", en: "Her pronunciation is very accurate, with no foreign accent at all."}
+    - {hanzi: "我唔使睇字幕都明。", jyutping: "ngo5 m4 sai2 tai2 zi6 mok6 dou1 ming4.", en: "I understand it without subtitles."}
+  fill:
+    - {hanzi: "我講錯嘢，佢會___我。", jyutping: "ngo5 gong2 co3 je5, keoi5 wui5 ___ ngo5.", answer: "gau2 zing3", answer_hanzi: 糾正, en: "When I say something wrong, she corrects me."}
+    - {hanzi: "外國人肯講廣東話，真係好___。", jyutping: "ngoi6 gwok3 jan4 hang2 gong2 gwong2 dung1 waa2, zan1 hai6 hou2 ___.", answer: "naan4 dak1", answer_hanzi: 難得, en: "A foreigner willing to speak Cantonese is really something rare."}
+    - {hanzi: "唔好怕___，開口講啦。", jyutping: "m4 hou2 paa3 ___, hoi1 hau2 gong2 laa1.", answer: "diu1 lim5", answer_hanzi: 丟臉, en: "Don't be afraid of losing face; speak up."}
+    - {hanzi: "廣東話嘅形容詞擺喺名詞___。", jyutping: "gwong2 dung1 waa2 ge3 jing4 jung4 ci4 baai2 hai2 ming4 ci4 ___.", answer: "cin4 min6", answer_hanzi: 前面, en: "Cantonese adjectives go before the noun."}
+    - {hanzi: "我睇港劇唔使睇___。", jyutping: "ngo5 tai2 gong2 kek6 m4 sai2 tai2 ___.", answer: "zi6 mok6", answer_hanzi: 字幕, en: "I watch Hong Kong dramas without subtitles."}

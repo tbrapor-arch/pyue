@@ -1,0 +1,104 @@
+# 進修 46. Written Cantonese with English code-mixing, LSHK Jyutping. Not checked by a native speaker yet.
+id: 46
+title: {en: "Factory-block party", jyutping: "gung1 haa6 paai3 deoi3", hanzi: "工廈派對"}
+intro: "A music podcast interviews Hugo's band: Hong Kong code-mixing (English words inside Cantonese grammar), causatives with 令到, and the words of the indie music scene."
+genre: podcast
+review: false
+setting: "Late June 2027. 阿 Mo hosts a weekly podcast about Hong Kong's independent music. This week's guests are 天台派對: 阿占 (vocals, tattoo artist), 細So (guitar, graphic designer), Ken (drums, minibus driver) and Hugo (bass). They record in a small studio in a Kwun Tong factory building."
+dialogue:
+  - {n: 1, speaker: Mo, hanzi: "歡迎收聽第八十集！今日嘅嘉賓係最近好 hit 嘅樂隊：天台派對！", jyutping: "fun1 jing4 sau1 teng1 dai6 baat3 sap6 zaap6! gam1 jat6 ge3 gaa1 ban1 hai6 zeoi3 gan6 hou2 hit ge3 ngok6 deoi2: tin1 toi4 paai3 deoi3!", en: "Welcome to episode eighty! Today's guests are a band that's been really hot lately: 天台派對!"}
+  - {n: 2, speaker: A-zim, hanzi: "多謝 Mo 哥！其實我哋 hit 唔係因為首歌，係因為阿果喺電視度沖奶茶嗰段片。", jyutping: "do1 ze6 Mo go1! kei4 sat6 ngo5 dei6 hit m4 hai6 jan1 wai6 sau2 go1, hai6 jan1 wai6 aa3 gwo2 hai2 din6 si6 dou6 cung1 naai5 caa4 go2 dyun6 pin2.", en: "Thanks, Mo! Honestly, we're not hot because of our songs; it's because of that clip of A-Gwo making milk tea on TV."}
+  - {n: 3, speaker: Hugo, hanzi: "嗰個係梁伯，唔係我！不過條片令到好多人搵我哋個 page，粉絲多咗兩千。", jyutping: "go2 go3 hai6 loeng4 baak3, m4 hai6 ngo5! bat1 gwo3 tiu4 pin2 ling6 dou3 hou2 do1 jan4 wan2 ngo5 dei6 go3 page, fan2 si1 do1 zo2 loeng5 cin1.", en: "That was 梁伯, not me! But the clip made lots of people look up our page: two thousand more followers."}
+  - {n: 4, speaker: Mo, hanzi: "你哋喺工廈 jam 歌，係咪好難搵場地？", jyutping: "nei5 dei6 hai2 gung1 haa6 jam go1, hai6 mai6 hou2 naan4 wan2 coeng4 dei6?", en: "You rehearse in factory buildings: is it hard to find places to play?"}
+  - {n: 5, speaker: Ken, hanzi: "超難。以前觀塘啲 live house 好多，近年一間跟一間執笠：有啲因為加租，有啲因為牌照同消防問題。", jyutping: "ciu1 naan4. ji5 cin4 gun1 tong4 di1 live house hou2 do1, gan6 nin4 jat1 gaan1 gan1 jat1 gaan1 zap1 lap1: jau5 di1 jan1 wai6 gaa1 zou1, jau5 di1 jan1 wai6 paai4 ziu3 tung4 siu1 fong4 man6 tai4.", en: "Super hard. Kwun Tong used to have lots of live houses; in recent years they've closed one after another, some over rent rises, some over licences and fire-safety problems."}
+  - {n: 6, speaker: Sai-So, hanzi: "疫情嗰幾年仲慘，限聚令一嚟，所有演出都要停。好多樂團就咁散咗。", jyutping: "jik6 cing4 go2 gei2 nin4 zung6 caam2, haan6 zeoi6 ling6 jat1 lai4, so2 jau5 jin2 ceot1 dou1 jiu3 ting4. hou2 do1 ngok6 tyun4 zau6 gam2 saan3 zo2.", en: "The pandemic years were even worse: once the gathering limits came in, all shows had to stop. Lots of bands just broke up."}
+  - {n: 7, speaker: Mo, hanzi: "咁你哋點樣搵食？夾 band 應該冇乜收入啩？", jyutping: "gam2 nei5 dei6 dim2 joeng2 wan2 sik6? gaap3 band jing1 goi1 mou5 mat1 sau1 jap6 gwaa3?", en: "So how do you make a living? Playing in a band can't bring in much money, surely?"}
+  - {n: 8, speaker: Ken, hanzi: "冇。我日頭揸小巴，阿占紋身，細So做設計，阿果教法文。個個都有正職，夾 band 係夢想。", jyutping: "mou5. ngo5 jat6 tau2 zaa1 siu2 baa1, aa3 zim1 man4 san1, sai3 so1 zou6 cit3 gai3, aa3 gwo2 gaau3 faat3 man2. go3 go3 dou1 jau5 zing3 zik1, gaap3 band hai6 mung6 soeng2.", en: "None. By day I drive a minibus, 阿占 does tattoos, 細So does design, A-Gwo teaches French. Everyone has a day job; the band is the dream."}
+  - {n: 9, speaker: Mo, hanzi: "講吓你哋嘅風格。我聽你哋啲歌，好多街頭俚語，好地道。", jyutping: "gong2 haa5 nei5 dei6 ge3 fung1 gaak3. ngo5 teng1 nei5 dei6 di1 go1, hou2 do1 gaai1 tau4 lei5 jyu5, hou2 dei6 dou6.", en: "Tell us about your style. Listening to your songs, there's lots of street slang; it's very local."}
+  - {n: 10, speaker: A-zim, hanzi: "我哋最大嘅 idol 係南洋派對。佢哋用最地道嘅廣東話寫歌，又 funk 又 hiphop，仲去咗東南亞巡迴演出。", jyutping: "ngo5 dei6 zeoi3 daai6 ge3 idol hai6 naam4 joeng2 paai3 deoi3. keoi5 dei6 jung6 zeoi3 dei6 dou6 ge3 gwong2 dung1 waa2 se2 go1, jau6 funk jau6 hiphop, zung6 heoi3 zo2 dung1 naam4 aa3 ceon4 wui4 jin2 ceot1.", en: "Our biggest idol is N.Y.P.D. (南洋派對). They write in the most local Cantonese, funk and hip-hop at once, and they've toured Southeast Asia."}
+  - {n: 11, speaker: Sai-So, hanzi: "佢哋令到我哋知道：唔使學人講普通話、唱英文，廣東話本身就夠型。", jyutping: "keoi5 dei6 ling6 dou3 ngo5 dei6 zi1 dou3: m4 sai2 hok6 jan4 gong2 pou2 tung1 waa2, coeng3 jing1 man2, gwong2 dung1 waa2 bun2 san1 zau6 gau3 jing4.", en: "They showed us you don't have to copy others and sing in Mandarin or English: Cantonese itself is cool enough."}
+  - {n: 12, speaker: Mo, hanzi: "你哋有冇諗過簽唱片公司？", jyutping: "nei5 dei6 jau5 mou5 nam2 gwo3 cim1 coeng3 pin2 gung1 si1?", en: "Have you thought about signing with a record label?"}
+  - {n: 13, speaker: Hugo, hanzi: "有公司搵過我哋，想投資幫我哋出專輯，不過要改風格，走主流路線。我哋 say no。", jyutping: "jau5 gung1 si1 wan2 gwo3 ngo5 dei6, soeng2 tau4 zi1 bong1 ngo5 dei6 ceot1 zyun1 cap1, bat1 gwo3 jiu3 goi2 fung1 gaak3, zau2 zyu2 lau4 lou6 sin3. ngo5 dei6 say no.", en: "A company did approach us, wanting to invest and help us put out an album, but we'd have had to change our style and go mainstream. We said no."}
+  - {n: 14, speaker: Ken, hanzi: "我哋寧願自己喺網上串流，自己宣傳。收入少啲，但係首首歌都係原創，係我哋自己嘅嘢。", jyutping: "ngo5 dei6 ning4 jyun6 zi6 gei2 hai2 mong5 soeng6 cyun3 lau4, zi6 gei2 syun1 cyun4. sau1 jap6 siu2 di1, daan6 hai6 sau2 sau2 go1 dou1 hai6 jyun4 cong3, hai6 ngo5 dei6 zi6 gei2 ge3 je5.", en: "We'd rather stream online and promote ourselves. Less income, but every song is original: our own stuff."}
+  - {n: 15, speaker: Mo, hanzi: "聽講有場地叫你哋唔好唱某一首歌，係咪真㗎？", jyutping: "teng1 gong2 jau5 coeng4 dei6 giu3 nei5 dei6 m4 hou2 coeng3 mau5 jat1 sau2 go1, hai6 mai6 zan1 gaa3?", en: "I hear a venue asked you not to play a certain song. Is that true?"}
+  - {n: 16, speaker: A-zim, hanzi: "係。我哋有首新歌叫《冇人提起》，講一家人唔再講嘢。個老闆聽完 demo，話首歌太敏感，叫我哋 cut 咗佢。", jyutping: "hai6. ngo5 dei6 jau5 sau2 san1 go1 giu3 \"mou5 jan4 tai4 hei2\", gong2 jat1 gaa1 jan4 m4 zoi3 gong2 je5. go3 lou5 baan2 teng1 jyun4 demo, waa6 sau2 go1 taai3 man5 gam2, giu3 ngo5 dei6 cut zo2 keoi5.", en: "Yes. We have a new song called 'Nobody Brings It Up', about a family that stops talking. The owner heard the demo, said it was too sensitive, and told us to cut it."}
+  - {n: 17, speaker: Mo, hanzi: "你哋點做？", jyutping: "nei5 dei6 dim2 zou6?", en: "What did you do?"}
+  - {n: 18, speaker: Sai-So, hanzi: "我哋傾咗成晚。老闆都有佢嘅風險，我哋唔想令到人哋間場執笠。", jyutping: "ngo5 dei6 king1 zo2 seng4 maan5. lou5 baan2 dou1 jau5 keoi5 ge3 fung1 him2, ngo5 dei6 m4 soeng2 ling6 dou3 jan4 dei6 gaan1 coeng4 zap1 lap1.", en: "We talked all night. The owner has his risks too; we didn't want to make him lose his venue."}
+  - {n: 19, speaker: Hugo, hanzi: "最後我哋喺嗰場唔唱，但係首歌照樣放上網。我哋嘅底線係：可以唔唱，唔可以唔寫。", jyutping: "zeoi3 hau6 ngo5 dei6 hai2 go2 coeng4 m4 coeng3, daan6 hai6 sau2 go1 ziu3 joeng6 fong3 soeng5 mong5. ngo5 dei6 ge3 dai2 sin3 hai6: ho2 ji5 m4 coeng3, m4 ho2 ji5 m4 se2.", en: "In the end we didn't play it at that gig, but we put the song online all the same. Our line is: we can choose not to sing it, but not to not write it."}
+  - {n: 20, speaker: Mo, hanzi: "好有原則。最後一條問題：你哋四個點解咁夾？", jyutping: "hou2 jau5 jyun4 zak1. zeoi3 hau6 jat1 tiu4 man6 tai4: nei5 dei6 sei3 go3 dim2 gaai2 gam3 gaap3?", en: "Very principled. Last question: why do you four get on so well?"}
+  - {n: 21, speaker: Ken, hanzi: "默契囉。阿果個 bass 一入，我就知點打鼓。不過佢講廣東話仲有鬼佬腔。", jyutping: "mak6 kai3 lo1. aa3 gwo2 go3 bass jat1 jap6, ngo5 zau6 zi1 dim2 daa2 gu2. bat1 gwo3 keoi5 gong2 gwong2 dung1 waa2 zung6 jau5 gwai2 lou2 hong1.", en: "Chemistry. The moment A-Gwo's bass comes in, I know how to drum. Though his Cantonese still has a foreign accent."}
+  - {n: 22, speaker: Hugo, hanzi: "喂！我寫咗篇文講我嘅廣東話，好多人 like 㗎！", jyutping: "wai3! ngo5 se2 zo2 pin1 man2 gong2 ngo5 ge3 gwong2 dung1 waa2, hou2 do1 jan4 like gaa3!", en: "Hey! I wrote a whole essay about my Cantonese, and loads of people liked it!"}
+  - {n: 23, speaker: A-zim, hanzi: "下個月我哋喺觀塘有場 gig，大家嚟撐場啦！門票網上有得買。", jyutping: "haa6 go3 jyut6 ngo5 dei6 hai2 gun1 tong4 jau5 coeng4 gig, daai6 gaa1 lai4 caang3 coeng4 laa1! mun4 piu3 mong5 soeng6 jau5 dak1 maai5.", en: "Next month we've got a gig in Kwun Tong; come and support us, everyone! Tickets are on sale online."}
+  - {n: 24, speaker: Mo, hanzi: "多謝天台派對！我哋下集再見。", jyutping: "do1 ze6 tin1 toi4 paai3 deoi3! ngo5 dei6 haa6 zaap6 zoi3 gin3.", en: "Thank you, 天台派對! See you next episode."}
+notes:
+  - {ref: 1, topic: grammar, text: "Code-mixing (P3): English words slot into Cantonese grammar and take Cantonese tones and particles: 好 hit 'really popular', jam 歌 'jam, rehearse', cut 咗佢 'cut it' (line 16), say no (line 13). Verbs take aspect markers (cut 咗, jam 緊); adjectives take 好 / 咁."}
+  - {ref: 1, topic: vocab, text: "收聽 'listen to (a broadcast)' (P5). 集 zaap6 = episode: 第八十集, 下集 (line 24)."}
+  - {ref: 3, topic: grammar, text: "令到 ling6 dou3 + person + verb (P26, P34) 'make someone do / feel': 令到好多人搵我哋 'made lots of people look us up'; 令到我哋知道 (line 11); 唔想令到人哋間場執笠 'didn't want to make his venue close' (line 18)."}
+  - {ref: 3, topic: vocab, text: "粉絲 fan2 si1 = fans, followers (from English 'fans'). page = social media page."}
+  - {ref: 5, topic: culture, text: "Since the 2010s, Hong Kong's small music venues ('live houses') have mostly lived in industrial buildings (工廈, P5) in Kwun Tong and elsewhere; many have closed over rents, licensing (牌照 paai4 ziu3) and fire-safety (消防 siu1 fong4) rules, or under pandemic restrictions. 場地 coeng4 dei6 = venue."}
+  - {ref: 6, topic: vocab, text: "疫情 jik6 cing4 = the epidemic, the pandemic. 限聚令 'group-gathering ban' (2020–22). 演出 jin2 ceot1 = performance, show. 停 ting4 = stop. 樂團 ngok6 tyun4 = band (a little more formal than 樂隊, P12). 散 'break up'."}
+  - {ref: 7, topic: vocab, text: "收入 sau1 jap6 = income. 夾 band 'play in a band' (夾, P12). 啩 gwaa3 'surely, I suppose'. 搵食 'make a living'. 日頭 jat6 tau2 (line 8) = in the daytime. 超 ciu1 (line 5) = super. 正職 zing3 zik1 (line 8) = main job, day job; 夢想 mung6 soeng2 = dream."}
+  - {ref: 9, topic: vocab, text: "風格 fung1 gaak3 = style. 俚語 lei5 jyu5 = slang. 型 jing4 (line 11) = cool, stylish: 夠型. 學人 hok6 jan4 'copy others'."}
+  - {ref: 10, topic: culture, text: "南洋派對 (N.Y.P.D.) is a real Hong Kong band known for funk and hip-hop in thick, street-level Cantonese, and for touring Southeast Asia (南洋 naam4 joeng2 'the Southern Seas'). 巡迴演出 ceon4 wui4 jin2 ceot1 = tour. 天台派對 in this course is fictional, inspired by them."}
+  - {ref: 13, topic: vocab, text: "唱片公司 coeng3 pin2 gung1 si1 = record label. 投資 tau4 zi1 = invest. 專輯 zyun1 cap1 = album. 主流 zyu2 lau4 = mainstream; 路線 lou6 sin3 = line, direction. 網上 mong5 soeng6 (line 14) = online."}
+  - {ref: 14, topic: vocab, text: "串流 cyun3 lau4 = stream (music, video). 宣傳 syun1 cyun4 = promote, publicity. 原創 jyun4 cong3 = original (work). 首首歌 'every single song' (classifier doubled, P25)."}
+  - {ref: 16, topic: vocab, text: "某 mau5 (line 15) = a certain: 某一首歌. 敏感 man5 gam2 = sensitive. 風險 fung1 him2 (line 18) = risk. 底線 dai2 sin3 (line 19) = bottom line, red line. 原則 jyun4 zak1 (line 20) = principle. 照樣 'all the same'."}
+  - {ref: 21, topic: vocab, text: "默契 mak6 kai3 = unspoken understanding, chemistry. 篇 pin1 (line 22) = classifier for essays and articles. 夾 'get on' (line 20). 撐場 caang3 coeng4 (line 23) = turn up to support a show; 門票 mun4 piu3 = ticket."}
+  - {ref: 1, topic: vs-mandarin, text: "Hong Kong Cantonese borrows English words as they are (hit, jam, cut, like), while Mandarin usually translates or transliterates them (流行, 排練, 剪掉, 點讚). Writing Mandarin-style loans in a Cantonese sentence can sound stiff; code-mixing sounds natural, especially among young urban speakers."}
+pron:
+  - {ref: 6, text: "限聚令 haan6 zeoi6 ling6: 聚 is zeoi6 in speech."}
+  - {ref: 10, text: "南洋 naam4 joeng2: 洋 rises in this name."}
+  - {ref: 14, text: "串流 cyun3 lau4: 串 is cyun3, as in 一串 'a string of'."}
+new_words:
+  - {jyutping: "zaap6", hanzi: 集, en: "episode"}
+  - {jyutping: "fan2 si1", hanzi: 粉絲, en: "fans, followers"}
+  - {jyutping: "coeng4 dei6", hanzi: 場地, en: "venue"}
+  - {jyutping: "paai4 ziu3", hanzi: 牌照, en: "licence"}
+  - {jyutping: "siu1 fong4", hanzi: 消防, en: "fire safety, fire service"}
+  - {jyutping: "jik6 cing4", hanzi: 疫情, en: "epidemic"}
+  - {jyutping: "jin2 ceot1", hanzi: 演出, en: "show, performance"}
+  - {jyutping: "ting4", hanzi: 停, en: "stop"}
+  - {jyutping: "ngok6 tyun4", hanzi: 樂團, en: "band"}
+  - {jyutping: "sau1 jap6", hanzi: 收入, en: "income"}
+  - {jyutping: "zing3 zik1", hanzi: 正職, en: "day job, main job"}
+  - {jyutping: "mung6 soeng2", hanzi: 夢想, en: "dream"}
+  - {jyutping: "lei5 jyu5", hanzi: 俚語, en: "slang"}
+  - {jyutping: "naam4 joeng2", hanzi: 南洋, en: "Southeast Asia (old name)"}
+  - {jyutping: "ceon4 wui4", hanzi: 巡迴, en: "tour, go round"}
+  - {jyutping: "coeng3 pin2 gung1 si1", hanzi: 唱片公司, en: "record label"}
+  - {jyutping: "tau4 zi1", hanzi: 投資, en: "invest"}
+  - {jyutping: "zyun1 cap1", hanzi: 專輯, en: "album"}
+  - {jyutping: "zyu2 lau4", hanzi: 主流, en: "mainstream"}
+  - {jyutping: "cyun3 lau4", hanzi: 串流, en: "stream"}
+  - {jyutping: "syun1 cyun4", hanzi: 宣傳, en: "promote, publicity"}
+  - {jyutping: "jyun4 cong3", hanzi: 原創, en: "original (work)"}
+  - {jyutping: "man5 gam2", hanzi: 敏感, en: "sensitive"}
+  - {jyutping: "fung1 him2", hanzi: 風險, en: "risk"}
+  - {jyutping: "dai2 sin3", hanzi: 底線, en: "bottom line"}
+  - {jyutping: "jyun4 zak1", hanzi: 原則, en: "principle"}
+  - {jyutping: "mak6 kai3", hanzi: 默契, en: "unspoken understanding"}
+  - {jyutping: "caang3 coeng4", hanzi: 撐場, en: "turn up to support"}
+  - {jyutping: "mun4 piu3", hanzi: 門票, en: "ticket"}
+  - {jyutping: "jing4", hanzi: 型, en: "cool, stylish"}
+  - {jyutping: "mau5", hanzi: 某, en: "a certain"}
+  - {jyutping: "lou6 sin3", hanzi: 路線, en: "line, direction, route"}
+  - {jyutping: "ciu1", hanzi: 超, en: "super, ultra"}
+  - {jyutping: "jat6 tau2", hanzi: 日頭, en: "daytime"}
+  - {jyutping: "hok6 jan4", hanzi: 學人, en: "copy others"}
+  - {jyutping: "pin1", hanzi: 篇, en: "classifier for essays, articles"}
+  - {jyutping: "mong5 soeng6", hanzi: 網上, en: "online"}
+  - {jyutping: "jing6 sik1", hanzi: 認識, en: "get to know, know"}
+  - {jyutping: "wan2 sik6", hanzi: 搵食, en: "make a living"}
+exercises:
+  translate:
+    - {hanzi: "條片令到好多人認識我哋。", jyutping: "tiu4 pin2 ling6 dou3 hou2 do1 jan4 jing6 sik1 ngo5 dei6.", en: "The clip made lots of people get to know us."}
+    - {hanzi: "我哋今晚 jam 歌，你嚟唔嚟？", jyutping: "ngo5 dei6 gam1 maan5 jam go1, nei5 lai4 m4 lai4?", en: "We're rehearsing tonight; are you coming?"}
+    - {hanzi: "疫情嗰幾年，所有演出都停咗。", jyutping: "jik6 cing4 go2 gei2 nin4, so2 jau5 jin2 ceot1 dou1 ting4 zo2.", en: "During the pandemic years, all shows stopped."}
+    - {hanzi: "佢哋寧願收入少啲，都要寫原創歌。", jyutping: "keoi5 dei6 ning4 jyun6 sau1 jap6 siu2 di1, dou1 jiu3 se2 jyun4 cong3 go1.", en: "They'd rather earn less and still write original songs."}
+    - {hanzi: "我哋四個好有默契。", jyutping: "ngo5 dei6 sei3 go3 hou2 jau5 mak6 kai3.", en: "The four of us have great chemistry."}
+  fill:
+    - {hanzi: "首歌太___，老闆叫我哋唔好唱。", jyutping: "sau2 go1 taai3 ___, lou5 baan2 giu3 ngo5 dei6 m4 hou2 coeng3.", answer: "man5 gam2", answer_hanzi: 敏感, en: "The song is too sensitive; the owner told us not to sing it."}
+    - {hanzi: "佢哋___我哋知道廣東話本身就夠型。", jyutping: "keoi5 dei6 ___ ngo5 dei6 zi1 dou3 gwong2 dung1 waa2 bun2 san1 zau6 gau3 jing4.", answer: "ling6 dou3", answer_hanzi: 令到, en: "They made us realise Cantonese itself is cool enough."}
+    - {hanzi: "好多 live house 因為加租同___問題執笠。", jyutping: "hou2 do1 live house jan1 wai6 gaa1 zou1 tung4 ___ man6 tai4 zap1 lap1.", answer: "paai4 ziu3", answer_hanzi: 牌照, en: "Many live houses closed over rent rises and licence problems."}
+    - {hanzi: "我哋自己喺網上___，唔使唱片公司。", jyutping: "ngo5 dei6 zi6 gei2 hai2 mong5 soeng6 ___, m4 sai2 coeng3 pin2 gung1 si1.", answer: "syun1 cyun4", answer_hanzi: 宣傳, en: "We promote ourselves online; we don't need a record label."}
+    - {hanzi: "下個月有場 gig，大家嚟___啦！", jyutping: "haa6 go3 jyut6 jau5 coeng4 gig, daai6 gaa1 lai4 ___ laa1!", answer: "caang3 coeng4", answer_hanzi: 撐場, en: "There's a gig next month; come and support us, everyone!"}
