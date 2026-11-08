@@ -1,0 +1,101 @@
+# 進修 19. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 19
+title: {en: "For food, go to Guangzhou", jyutping: "sik6 zoi6 gwong2 zau1", hanzi: "食在廣州"}
+intro: "A day trip across the border: describing places and people with relative clauses, and noticing how Cantonese lives in Guangzhou today."
+genre: dialogue
+review: false
+setting: "A Saturday in mid-December. Hugo and Kayan take the high-speed train from West Kowloon to Guangzhou South for the day: morning tea in an old Xiguan teahouse, a walk on Shamian island, and a record shop off Shangxiajiu pedestrian street, where Hugo hunts for old Cantonese records for the band."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "八點喺西九龍出發，九點就到廣州南。高鐵真係快。", jyutping: "baat3 dim2 hai2 sai1 gau2 lung4 ceot1 faat3, gau2 dim2 zau6 dou3 gwong2 zau1 naam4. gou1 tit3 zan1 hai6 faai3.", en: "We left West Kowloon at eight and we're at Guangzhou South by nine. The high-speed train really is fast."}
+  - {n: 2, speaker: Hugo, hanzi: "我嚟咗香港三年，第一次上內地。過關嗰陣，我驚佢哋唔俾我入。", jyutping: "ngo5 lai4 zo2 hoeng1 gong2 saam1 nin4, dai6 jat1 ci3 soeng5 noi6 dei6. gwo3 gwaan1 go2 zan6, ngo5 geng1 keoi5 dei6 m4 bei2 ngo5 jap6.", en: "Three years in Hong Kong and it's my first time going up to the mainland. At immigration I was worried they wouldn't let me in."}
+  - {n: 3, speaker: Kayan, hanzi: "你本護照有簽證，梗係冇問題。我就用回鄉證，三秒就過咗。", jyutping: "nei5 bun2 wu6 ziu3 jau5 cim1 zing3, gang2 hai6 mou5 man6 tai4. ngo5 zau6 jung6 wui4 hoeng1 zing3, saam1 miu5 zau6 gwo3 zo2.", en: "Your passport has a visa, of course it's fine. I use my Home Return Permit: through in three seconds."}
+  - {n: 4, speaker: Hugo, hanzi: "沿途見到好多高樓，同香港好似。不過啲招牌全部係簡體字。", jyutping: "jyun4 tou4 gin3 dou2 hou2 do1 gou1 lau4, tung4 hoeng1 gong2 hou2 ci5. bat1 gwo3 di1 ziu1 paai4 cyun4 bou6 hai6 gaan2 tai2 zi6.", en: "All along the way I saw lots of tower blocks, very like Hong Kong. But the shop signs are all in simplified characters."}
+  - {n: 5, speaker: Kayan, hanzi: "內地用簡體字，香港用繁體字。不過講嘢，大家都係講廣東話……至少以前係。", jyutping: "noi6 dei6 jung6 gaan2 tai2 zi6, hoeng1 gong2 jung6 faan4 tai2 zi6. bat1 gwo3 gong2 je5, daai6 gaa1 dou1 hai6 gong2 gwong2 dung1 waa2 …… zi3 siu2 ji5 cin4 hai6.", en: "The mainland uses simplified characters, Hong Kong traditional ones. But when it comes to speaking, everyone speaks Cantonese… at least they used to."}
+  - {n: 6, speaker: Waiter, hanzi: "（用普通話）Ni hao, ji wei?", jyutping: "(jung6 pou2 tung1 waa2) Ni hao, ji wei?", en: "(In Putonghua) Hello, how many?"}
+  - {n: 7, speaker: Hugo, hanzi: "唔該，兩位。我識講廣東話㗎。", jyutping: "m4 goi1, loeng5 wai2. ngo5 sik1 gong2 gwong2 dung1 waa2 gaa3.", en: "Two, please. I do speak Cantonese, you know."}
+  - {n: 8, speaker: Waiter, hanzi: "哦！唔好意思，見你係外國人，以為你淨係識普通話。請坐，飲咩茶？", jyutping: "o6! m4 hou2 ji3 si1, gin3 nei5 hai6 ngoi6 gwok3 jan4, ji5 wai4 nei5 zing6 hai6 sik1 pou2 tung1 waa2. ceng2 co5, jam2 me1 caa4?", en: "Oh! Sorry, seeing you're a foreigner, I thought you'd only know Putonghua. Please sit down. What tea would you like?"}
+  - {n: 9, speaker: Kayan, hanzi: "一壺普洱，唔該。（細聲）廣州好多後生，講普通話多過講廣東話。", jyutping: "jat1 wu4 pou2 lei2, m4 goi1. (sai3 seng1) gwong2 zau1 hou2 do1 hau6 saang1, gong2 pou2 tung1 waa2 do1 gwo3 gong2 gwong2 dung1 waa2.", en: "A pot of pu'er, please. (Quietly) A lot of young people in Guangzhou speak more Putonghua than Cantonese."}
+  - {n: 10, speaker: Hugo, hanzi: "點解嘅？呢度唔係廣東話嘅老家咩？", jyutping: "dim2 gaai2 ge2? ni1 dou6 m4 hai6 gwong2 dung1 waa2 ge3 lou5 gaa1 me1?", en: "Why's that? Isn't this Cantonese's home town?"}
+  - {n: 11, speaker: Kayan, hanzi: "係呀。不過學校同電視都用普通話，好多人又係由外省搬嚟嘅。屋企講廣東話嘅後生，越嚟越少。", jyutping: "hai6 aa3. bat1 gwo3 hok6 haau6 tung4 din6 si6 dou1 jung6 pou2 tung1 waa2, hou2 do1 jan4 jau6 hai6 jau4 ngoi6 saang2 bun1 lai4 ge3. uk1 kei2 gong2 gwong2 dung1 waa2 ge3 hau6 saang1, jyut6 lai4 jyut6 siu2.", en: "It is. But schools and TV use Putonghua, and lots of people have moved here from other provinces. Young people who speak Cantonese at home are fewer and fewer."}
+  - {n: 12, speaker: Hugo, hanzi: "蝦餃、燒賣、叉燒包……味道同香港差唔多，不過平好多。", jyutping: "haa1 gaau2, siu1 maai2, caa1 siu1 baau1 …… mei6 dou6 tung4 hoeng1 gong2 caa1 m4 do1, bat1 gwo3 peng4 hou2 do1.", en: "Shrimp dumplings, siu mai, char siu buns… they taste about the same as in Hong Kong, but they're much cheaper."}
+  - {n: 13, speaker: Kayan, hanzi: "你頭先埋單嗰陣有冇留意？成間茶樓冇人用現金，個個都掃手機。", jyutping: "nei5 tau4 sin1 maai4 daan1 go2 zan6 jau5 mou5 lau4 ji3? seng4 gaan1 caa4 lau4 mou5 jan4 jung6 jin6 gam1, go3 go3 dou1 sou3 sau2 gei1.", en: "Did you notice when we paid just now? Nobody in the whole teahouse uses cash; everyone scans with their phone."}
+  - {n: 14, speaker: Hugo, hanzi: "我仲以為梁記肯收八達通，已經好先進。", jyutping: "ngo5 zung6 ji5 wai4 loeng4 gei3 hang2 sau1 baat3 daat6 tung1, ji5 ging1 hou2 sin1 zeon3.", en: "And I thought Leung Kee agreeing to take Octopus was already very advanced."}
+  - {n: 15, speaker: Kayan, hanzi: "（喺沙面）呢度以前係租界，住嘅都係外國人。啲樓係一百幾年前起嘅，好有特色。", jyutping: "(hai2 saa1 min6) ni1 dou6 ji5 cin4 hai6 zou1 gaai3, zyu6 ge3 dou1 hai6 ngoi6 gwok3 jan4. di1 lau4 hai6 jat1 baak3 gei2 nin4 cin4 hei2 ge3, hou2 jau5 dak6 sik1.", en: "(On Shamian) This used to be a foreign concession; the people who lived here were all foreigners. The buildings were put up over a hundred years ago; they've got real character."}
+  - {n: 16, speaker: Hugo, hanzi: "好似去咗歐洲咁。你睇嗰幾對着住婚紗嘅新人，個個都喺度影相！", jyutping: "hou2 ci5 heoi3 zo2 au1 zau1 gam2. nei5 tai2 go2 gei2 deoi3 zoek3 zyu6 fan1 saa1 ge3 san1 jan4, go3 go3 dou1 hai2 dou6 jing2 soeng2!", en: "It's like being in Europe. Look at those couples in wedding dresses: they're all having their photos taken here!"}
+  - {n: 17, speaker: Kayan, hanzi: "靚就靚，不過歷史好複雜。租界嗰陣，好多中國人唔可以隨便入嚟。", jyutping: "leng3 zau6 leng3, bat1 gwo3 lik6 si2 hou2 fuk1 zaap6. zou1 gaai3 go2 zan6, hou2 do1 zung1 gwok3 jan4 m4 ho2 ji5 ceoi4 bin2 jap6 lai4.", en: "It's pretty, but the history is complicated. In the concession days, many Chinese people couldn't just walk in."}
+  - {n: 18, speaker: Hugo, hanzi: "（喺上下九一間舊唱片舖）老闆，你有冇八十年代嘅廣東歌唱片？", jyutping: "(hai2 soeng6 haa6 gau2 jat1 gaan1 gau6 coeng3 pin2 pou3) lou5 baan2, nei5 jau5 mou5 baat3 sap6 nin4 doi6 ge3 gwong2 dung1 go1 coeng3 pin2?", en: "(In an old record shop off Shangxiajiu) Boss, do you have any Cantonese records from the eighties?"}
+  - {n: 19, speaker: Shopkeeper, hanzi: "有！你要邊啲？香港歌、廣州歌，仲有好多冇人記得嘅樂隊，我呢度乜都有。", jyutping: "jau5! nei5 jiu3 bin1 di1? hoeng1 gong2 go1, gwong2 zau1 go1, zung6 jau5 hou2 do1 mou5 jan4 gei3 dak1 ge3 ngok6 deoi2, ngo5 ni1 dou6 mat1 dou1 jau5.", en: "Yes! Which do you want? Hong Kong songs, Guangzhou songs, and plenty of bands nobody remembers: I've got everything here."}
+  - {n: 20, speaker: Hugo, hanzi: "我想要啲有特色嘅，最好係半唱半講嗰種。我隊band要搵靈感。", jyutping: "ngo5 soeng2 jiu3 di1 jau5 dak6 sik1 ge3, zeoi3 hou2 hai6 bun3 coeng3 bun3 gong2 go2 zung2. ngo5 deoi2 band jiu3 wan2 ling4 gam2.", en: "I'd like something with character, ideally the half-sung, half-spoken kind. My band needs inspiration."}
+  - {n: 21, speaker: Shopkeeper, hanzi: "你夾band？（攞出一張）呢張係我後生嗰陣同朋友錄嘅，全世界得兩張。送俾你。", jyutping: "nei5 gaap3 band? (lo2 ceot1 jat1 zoeng1) ni1 zoeng1 hai6 ngo5 hau6 saang1 go2 zan6 tung4 pang4 jau5 luk6 ge3, cyun4 sai3 gaai3 dak1 loeng5 zoeng1. sung3 bei2 nei5.", en: "You play in a band? (Taking one out) This is one I recorded with friends when I was young: there are only two in the world. It's yours."}
+  - {n: 22, speaker: Hugo, hanzi: "送俾我？點得呀？我俾錢你啦。", jyutping: "sung3 bei2 ngo5? dim2 dak1 aa3? ngo5 bei2 cin2 nei5 laa1.", en: "Give it to me? I couldn't! Let me pay you."}
+  - {n: 23, speaker: Shopkeeper, hanzi: "唔使。仲有後生仔用廣東話唱自己嘅生活，我已經好開心。", jyutping: "m4 sai2. zung6 jau5 hau6 saang1 zai2 jung6 gwong2 dung1 waa2 coeng3 zi6 gei2 ge3 sang1 wut6, ngo5 ji5 ging1 hou2 hoi1 sam1.", en: "No need. That there are still young people singing about their lives in Cantonese makes me happy enough."}
+  - {n: 24, speaker: Kayan, hanzi: "（返程嘅高鐵上面）來回車票我一早買咗。你成程車都好靜，諗緊乜？", jyutping: "(faan1 cing4 ge3 gou1 tit3 soeng6 min6) loi4 wui4 ce1 piu3 ngo5 jat1 zou2 maai5 zo2. nei5 seng4 cing4 ce1 dou1 hou2 zing6, nam2 gan2 mat1?", en: "(On the train back) I bought return tickets in advance. You've been very quiet the whole ride; what are you thinking about?"}
+  - {n: 25, speaker: Hugo, hanzi: "諗緊嗰個老闆講嘅嘢。一種語言，要有人講、有人唱，先可以生存落去。", jyutping: "nam2 gan2 go2 go3 lou5 baan2 gong2 ge3 je5. jat1 zung2 jyu5 jin4, jiu3 jau5 jan4 gong2, jau5 jan4 coeng3, sin1 ho2 ji5 sang1 cyun4 lok6 heoi3.", en: "About what that shop owner said. A language needs people to speak it and people to sing it, or it can't survive."}
+notes:
+  - {ref: 1, topic: vocab, text: "出發 ceot1 faat3 = set off, depart. 高鐵 gou1 tit3 = high-speed rail. The Guangzhou–Shenzhen–Hong Kong Express Rail Link runs from West Kowloon (西九龍) to Guangzhou South (廣州南) in about an hour."}
+  - {ref: 2, topic: vocab, text: "內地 noi6 dei6 = the mainland (the Hong Kong word for mainland China); Hongkongers say 上內地 / 返內地 'go up to the mainland'. 過關 gwo3 gwaan1 = go through immigration, cross the border."}
+  - {ref: 3, topic: vocab, text: "簽證 cim1 zing3 = visa. 回鄉證 wui4 hoeng1 zing3 = the Home Return Permit Hong Kong residents use to enter the mainland."}
+  - {ref: 4, topic: vocab, text: "沿途 jyun4 tou4 = along the way. 簡體字 gaan2 tai2 zi6 = simplified characters; 繁體字 faan4 tai2 zi6 = traditional characters (line 5). 至少 zi3 siu2 = at least."}
+  - {ref: 8, topic: grammar, text: "Relative clauses with 嘅 (P6): 屋企講廣東話嘅後生 'young people who speak Cantonese at home' (line 11); 冇人記得嘅樂隊 'bands nobody remembers' (line 19); 着住婚紗嘅新人 'couples in wedding dresses' (line 16). The whole clause comes before the noun, however long."}
+  - {ref: 9, topic: vocab, text: "壺 wu4 = pot (of tea): 一壺普洱 'a pot of pu'er'. 普洱 pou2 lei2 = pu'er tea, the teahouse classic. 普通話 pou2 tung1 waa2 = Putonghua, Mandarin. 講普通話多過講廣東話: 多過 'more than' (P16)."}
+  - {ref: 10, topic: vocab, text: "老家 lou5 gaa1 = home town, ancestral home. 外省 ngoi6 saang2 (line 11) = another province, from outside Guangdong. 唔係…咩？ 'isn't it …?' expects a yes."}
+  - {ref: 12, topic: culture, text: "Morning tea (飲早茶): 蝦餃 haa1 gaau2 'shrimp dumplings', 燒賣 siu1 maai2 'pork dumplings', 叉燒包 caa1 siu1 baau1 'barbecued-pork buns'. 食在廣州 'for food, Guangzhou' is half of an old saying about where to live, eat and die."}
+  - {ref: 13, topic: culture, text: "In mainland cities nearly everyone pays by scanning a QR code with a phone (P16: 掃). 先進 sin1 zeon3 (line 14) = advanced, up to date."}
+  - {ref: 15, topic: culture, text: "沙面 Shamian is a small island in the Pearl River, a British and French concession (租界 zou1 gaai3) from the 1860s until the 1940s. Its old European buildings make it a favourite place for wedding photos (婚紗 fan1 saa1 'wedding dress', 新人 'the bride and groom'). 特色 dak6 sik1 = distinctive character, special features."}
+  - {ref: 17, topic: vocab, text: "歷史 lik6 si2 = history. 複雜 fuk1 zaap6 = complicated. 隨便 ceoi4 bin2 (P2 'whatever') here = freely, as one likes."}
+  - {ref: 18, topic: vocab, text: "唱片 coeng3 pin2 = record (vinyl, CD). 年代 nin4 doi6 = decade: 八十年代 'the eighties'. 上下九 is Shangxiajiu, a pedestrian shopping street in old Xiguan."}
+  - {ref: 21, topic: vocab, text: "錄 luk6 = record (sound, video). 送 sung3 = give (as a present): 送俾你 'it's yours'. 點得呀？ (line 22) 'how could I?' = I couldn't possibly. 靈感 ling4 gam2 (line 20) = inspiration."}
+  - {ref: 24, topic: vocab, text: "來回 loi4 wui4 = return (ticket), round trip: 來回車票. 成程車 'the whole ride'. 生存 sang1 cyun4 (line 25) = survive: 生存落去 'survive, carry on living' (落去 'carry on', P5)."}
+  - {ref: 9, topic: vs-mandarin, text: "Guangzhou Cantonese is the reference variety, and Hong Kong Cantonese grew from it; the two are almost the same, with small differences in words (Guangzhou also says 公交 for bus, from Mandarin). Today many young Guangzhou people switch to Putonghua, the language of school, so a waiter may greet anyone who looks like an outsider in Putonghua first."}
+pron:
+  - {ref: 9, text: "普洱 pou2 lei2: 洱 is lei2, though it looks like 耳 ji5."}
+  - {ref: 12, text: "燒賣 siu1 maai2: 賣 'sell' rises to maai2 in the dumpling's name."}
+  - {ref: 1, text: "西九龍 sai1 gau2 lung4: 九龍 'Kowloon' is gau2 lung4."}
+new_words:
+  - {jyutping: "ceot1 faat3", hanzi: 出發, en: "set off, depart"}
+  - {jyutping: "gou1 tit3", hanzi: 高鐵, en: "high-speed rail"}
+  - {jyutping: "noi6 dei6", hanzi: 內地, en: "the mainland"}
+  - {jyutping: "gwo3 gwaan1", hanzi: 過關, en: "go through immigration"}
+  - {jyutping: "cim1 zing3", hanzi: 簽證, en: "visa"}
+  - {jyutping: "wui4 hoeng1 zing3", hanzi: 回鄉證, en: "Home Return Permit"}
+  - {jyutping: "jyun4 tou4", hanzi: 沿途, en: "along the way"}
+  - {jyutping: "gaan2 tai2 zi6", hanzi: 簡體字, en: "simplified characters"}
+  - {jyutping: "faan4 tai2 zi6", hanzi: 繁體字, en: "traditional characters"}
+  - {jyutping: "zi3 siu2", hanzi: 至少, en: "at least"}
+  - {jyutping: "pou2 tung1 waa2", hanzi: 普通話, en: "Putonghua, Mandarin"}
+  - {jyutping: "wu4", hanzi: 壺, en: "pot (of tea)"}
+  - {jyutping: "pou2 lei2", hanzi: 普洱, en: "pu'er tea"}
+  - {jyutping: "lou5 gaa1", hanzi: 老家, en: "home town"}
+  - {jyutping: "ngoi6 saang2", hanzi: 外省, en: "another province"}
+  - {jyutping: "haa1 gaau2", hanzi: 蝦餃, en: "shrimp dumpling"}
+  - {jyutping: "siu1 maai2", hanzi: 燒賣, en: "siu mai (pork dumpling)"}
+  - {jyutping: "caa1 siu1 baau1", hanzi: 叉燒包, en: "barbecued-pork bun"}
+  - {jyutping: "sin1 zeon3", hanzi: 先進, en: "advanced"}
+  - {jyutping: "zou1 gaai3", hanzi: 租界, en: "foreign concession"}
+  - {jyutping: "dak6 sik1", hanzi: 特色, en: "distinctive character"}
+  - {jyutping: "au1 zau1", hanzi: 歐洲, en: "Europe"}
+  - {jyutping: "fan1 saa1", hanzi: 婚紗, en: "wedding dress"}
+  - {jyutping: "lik6 si2", hanzi: 歷史, en: "history"}
+  - {jyutping: "coeng3 pin2", hanzi: 唱片, en: "record (music)"}
+  - {jyutping: "nin4 doi6", hanzi: 年代, en: "decade, era"}
+  - {jyutping: "ling4 gam2", hanzi: 靈感, en: "inspiration"}
+  - {jyutping: "luk6", hanzi: 錄, en: "record (sound)"}
+  - {jyutping: "loi4 wui4", hanzi: 來回, en: "return, round trip"}
+  - {jyutping: "ce1 piu3", hanzi: 車票, en: "ticket (train, bus)"}
+  - {jyutping: "sang1 cyun4", hanzi: 生存, en: "survive"}
+  - {jyutping: "hou2 zing6", hanzi: 好靜, en: "very quiet"}
+  - {jyutping: "sai1 gau2 lung4", hanzi: 西九龍, en: "West Kowloon"}
+  - {jyutping: "san1 jan4", hanzi: 新人, en: "bride and groom; newcomer"}
+exercises:
+  translate:
+    - {hanzi: "我哋聽朝七點出發，夜晚先返嚟。", jyutping: "ngo5 dei6 ting1 ziu1 cat1 dim2 ceot1 faat3, je6 maan5 sin1 faan1 lai4.", en: "We set off at seven tomorrow morning and won't be back till evening."}
+    - {hanzi: "坐喺窗口嗰個講普通話嘅人係我同事。", jyutping: "co5 hai2 coeng1 hau2 go2 go3 gong2 pou2 tung1 waa2 ge3 jan4 hai6 ngo5 tung4 si6.", en: "The person sitting by the window speaking Putonghua is my colleague."}
+    - {hanzi: "呢條街好有特色，至少有一百年歷史。", jyutping: "ni1 tiu4 gaai1 hou2 jau5 dak6 sik1, zi3 siu2 jau5 jat1 baak3 nin4 lik6 si2.", en: "This street has real character; it's at least a hundred years old."}
+    - {hanzi: "我喺沿途影咗好多相。", jyutping: "ngo5 hai2 jyun4 tou4 jing2 zo2 hou2 do1 soeng2.", en: "I took lots of photos along the way."}
+    - {hanzi: "佢送咗張舊唱片俾我。", jyutping: "keoi5 sung3 zo2 zoeng1 gau6 coeng3 pin2 bei2 ngo5.", en: "He gave me an old record as a present."}
+  fill:
+    - {hanzi: "香港用___字，內地用簡體字。", jyutping: "hoeng1 gong2 jung6 ___ zi6, noi6 dei6 jung6 gaan2 tai2 zi6.", answer: "faan4 tai2", answer_hanzi: 繁體, en: "Hong Kong uses traditional characters, the mainland simplified ones."}
+    - {hanzi: "我___張來回車票。", jyutping: "ngo5 ___ zoeng1 loi4 wui4 ce1 piu3.", answer: "maai5", answer_hanzi: 買, en: "I'll buy a return ticket."}
+    - {hanzi: "冇人記得___樂隊，佢都有唱片。", jyutping: "mou5 jan4 gei3 dak1 ___ ngok6 deoi2, keoi5 dou1 jau5 coeng3 pin2.", answer: "ge3", answer_hanzi: 嘅, en: "He even has records by bands nobody remembers."}
+    - {hanzi: "呢度係廣東話嘅___。", jyutping: "ni1 dou6 hai6 gwong2 dung1 waa2 ge3 ___.", answer: "lou5 gaa1", answer_hanzi: 老家, en: "This is Cantonese's home town."}
+    - {hanzi: "一種語言要有人講，先可以___落去。", jyutping: "jat1 zung2 jyu5 jin4 jiu3 jau5 jan4 gong2, sin1 ho2 ji5 ___ lok6 heoi3.", answer: "sang1 cyun4", answer_hanzi: 生存, en: "A language needs people speaking it in order to survive."}
