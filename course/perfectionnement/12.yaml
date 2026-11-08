@@ -1,0 +1,97 @@
+# 進修 12. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 12
+title: {en: "Jamming", jyutping: "gaap3 band", hanzi: "夾band"}
+genre: dialogue
+review: false
+setting: "Late October, nine in the evening. 阿占 (Jim, the tattoo artist from the phone-in) has heard that Hugo plays bass and brings him to the band's temporary rehearsal room on the 12th floor of a Kwun Tong factory building. 細So is tuning his guitar; Ken, the drummer, is eating cup noodles."
+dialogue:
+  - {n: 1, speaker: Jim, hanzi: "到喇，就係呢度。工廈十二樓，冇冷氣，部升降機成日壞，你頂唔頂得順？", jyutping: "dou3 laa3, zau6 hai6 ni1 dou6. gung1 haa6 sap6 ji6 lau2, mou5 laang5 hei3, bou6 sing1 gong3 gei1 sing4 jat6 waai6, nei5 ding2 m4 ding2 dak1 seon6?", en: "Here we are, this is it. Twelfth floor of a factory building, no air con, and the lift's always broken. Can you stand it?"}
+  - {n: 2, speaker: Hugo, hanzi: "我喺銀行頂咗三年，呢度梗係冇問題。", jyutping: "ngo5 hai2 ngan4 hong4 ding2 zo2 saam1 nin4, ni1 dou6 gang2 hai6 mou5 man6 tai4.", en: "I stood a bank for three years; this is no problem at all."}
+  - {n: 3, speaker: So, hanzi: "（彈緊結他）你就係阿占講嗰個鬼佬bass手？睇落好斯文喎。", jyutping: "(taan4 gan2 git3 taa1) nei5 zau6 hai6 aa3 zim1 gong2 go2 go3 gwai2 lou2 bass sau2? tai2 lok6 hou2 si1 man4 wo3.", en: "(Strumming his guitar) So you're the gweilo bass player Jim told us about? You look very well-mannered."}
+  - {n: 4, speaker: Jim, hanzi: "佢係法國人，喺我間舖隔離嘅冰室朝早幫手撞茶，之前喺中環做銀行。", jyutping: "keoi5 hai6 faat3 gwok3 jan4, hai2 ngo5 gaan1 pou3 gaak3 lei4 ge3 bing1 sat1 ziu1 zou2 bong1 sau2 zong6 caa4, zi1 cin4 hai2 zung1 waan4 zou6 ngan4 hong4.", en: "He's French. He helps pull the tea in the mornings at the café near my shop; before that he worked in a bank in Central."}
+  - {n: 5, speaker: Ken, hanzi: "（食緊杯麵）銀行？咁你實好多錢啦，可唔可以幫我哋交租？", jyutping: "(sik6 gan2 bui1 min6) ngan4 hong4? gam2 nei5 sat6 hou2 do1 cin2 laa1, ho2 m4 ho2 ji5 bong1 ngo5 dei6 gaau1 zou1?", en: "(Eating cup noodles) A bank? Then you must be loaded. Could you pay our rent?"}
+  - {n: 6, speaker: So, hanzi: "Ken，你個腦淨係識諗錢同埋食嘢。", jyutping: "Ken, nei5 go3 nou5 zing6 hai6 sik1 nam2 cin2 tung4 maai4 sik6 je5.", en: "Ken, all your brain can think about is money and food."}
+  - {n: 7, speaker: Jim, hanzi: "我哋上一個bass手搬咗去台灣，走咗成個月。舊嗰間band房又俾業主收咗，呢間淨係租到年尾。", jyutping: "ngo5 dei6 soeng6 jat1 go3 bass sau2 bun1 zo2 heoi3 toi4 waan1, zau2 zo2 seng4 go3 jyut6. gau6 go2 gaan1 band fong2 jau6 bei2 jip6 zyu2 sau1 zo2, ni1 gaan1 zing6 hai6 zou1 dou3 nin4 mei5.", en: "Our last bass player moved to Taiwan; he's been gone a whole month. And the old rehearsal room was taken back by the landlord; this one is only rented till the end of the year."}
+  - {n: 8, speaker: Hugo, hanzi: "我知，你上電台講過。我聽到，梁伯都聽到。", jyutping: "ngo5 zi1, nei5 soeng5 din6 toi4 gong2 gwo3. ngo5 teng1 dou2, loeng4 baak3 dou1 teng1 dou2.", en: "I know, you talked about it on the radio. I heard it, and so did Uncle Leung."}
+  - {n: 9, speaker: Jim, hanzi: "你哋冚唪唥都聽到？咁我真係出名喇。", jyutping: "nei5 dei6 ham6 baang6 laang6 dou1 teng1 dou2? gam2 ngo5 zan1 hai6 ceot1 meng2 laa3.", en: "All of you heard it? Then I really am famous."}
+  - {n: 10, speaker: So, hanzi: "好喇，唔好吹水，試吓先。你識彈乜嘢？", jyutping: "hou2 laa3, m4 hou2 ceoi1 seoi2, si3 haa5 sin1. nei5 sik1 taan4 mat1 je5?", en: "Right, enough chit-chat, let's try first. What can you play?"}
+  - {n: 11, speaker: Hugo, hanzi: "乜都識少少。我喺里昂讀書嗰陣，同同學夾過幾年band，玩post-punk。", jyutping: "mat1 dou1 sik1 siu2 siu2. ngo5 hai2 lei5 ngong4 duk6 syu1 go2 zan6, tung4 tung4 hok6 gaap3 gwo3 gei2 nin4 band, waan2 post-punk.", en: "A bit of everything. When I was studying in Lyon, I played in a band with classmates for a few years: post-punk."}
+  - {n: 12, speaker: Ken, hanzi: "Post-punk？咁你一定識南洋派對啦。我哋個個都好鍾意佢哋。", jyutping: "post-punk? gam2 nei5 jat1 ding6 sik1 naam4 joeng4 paai3 deoi3 laa1. ngo5 dei6 go3 go3 dou1 hou2 zung1 ji3 keoi5 dei6.", en: "Post-punk? Then you must know N.Y.P.D. Every one of us loves them."}
+  - {n: 13, speaker: Hugo, hanzi: "識！佢哋嗰種半唱半講、好似喺街邊同你講嘢嘅風格，我第一次聽就覺得好吸引。", jyutping: "sik1! keoi5 dei6 go2 zung2 bun3 coeng3 bun3 gong2, hou2 ci5 hai2 gaai1 bin1 tung4 nei5 gong2 je5 ge3 fung1 gaak3, ngo5 dai6 jat1 ci3 teng1 zau6 gok3 dak1 hou2 kap1 jan5.", en: "Yes! That style of theirs, half sung, half spoken, like someone talking to you on the street: it grabbed me the first time I heard it."}
+  - {n: 14, speaker: Jim, hanzi: "我哋就係想做嗰種音樂：用廣東話講我哋自己嘅生活，唔使扮靚。", jyutping: "ngo5 dei6 zau6 hai6 soeng2 zou6 go2 zung2 jam1 ngok6: jung6 gwong2 dung1 waa2 gong2 ngo5 dei6 zi6 gei2 ge3 sang1 wut6, m4 sai2 baan6 leng3.", en: "That's exactly the kind of music we want to make: talking about our own lives in Cantonese, no dressing it up."}
+  - {n: 15, speaker: So, hanzi: "講夠喇，開始啦。Ken，一、二、三、四！", jyutping: "gong2 gau3 laa3, hoi1 ci2 laa1. Ken, jat1, ji6, saam1, sei3!", en: "Enough talk, let's start. Ken, one, two, three, four!"}
+  - {n: 16, speaker: Hugo, hanzi: "（彈咗兩下）……點解冇聲嘅？", jyutping: "(taan4 zo2 loeng5 haa5) …… dim2 gaai2 mou5 seng1 ge2?", en: "(After a couple of notes) …Why is there no sound?"}
+  - {n: 17, speaker: Ken, hanzi: "部amp壞咗，要大力拍佢一下先有聲。", jyutping: "bou6 amp waai6 zo2, jiu3 daai6 lik6 paak3 keoi5 jat1 haa5 sin1 jau5 seng1.", en: "The amp's broken; you have to give it a good whack before it makes a sound."}
+  - {n: 18, speaker: So, hanzi: "（大力拍咗一下）好喇！再嚟！", jyutping: "(daai6 lik6 paak3 zo2 jat1 haa5) hou2 laa3! zoi3 lai4!", en: "(Giving it a whack) There! Again!"}
+  - {n: 19, speaker: Jim, hanzi: "（彈完一首）嘩，你竟然彈得咁好！我仲以為法國人淨係識彈結他唱情歌。", jyutping: "(taan4 jyun4 jat1 sau2) waa3, nei5 ging2 jin4 taan4 dak1 gam3 hou2! ngo5 zung6 ji5 wai4 faat3 gwok3 jan4 zing6 hai6 sik1 taan4 git3 taa1 coeng3 cing4 go1.", en: "(After a whole song) Wow, you actually play that well! And I thought the French could only strum guitars and sing love songs."}
+  - {n: 20, speaker: Ken, hanzi: "頭先嘈到隔籬單位都嚟拍門投訴。證明我哋好夾！", jyutping: "tau4 sin1 cou4 dou3 gaak3 lei4 daan1 wai2 dou1 lai4 paak3 mun4 tau4 sou3. zing3 ming4 ngo5 dei6 hou2 gaap3!", en: "Just now we were so loud the unit next door came banging on the door to complain. Proof that we gel!"}
+  - {n: 21, speaker: So, hanzi: "我笑到肚痛：佢想講「好正」，講咗「好症」。不過佢反應咁快，邊個都唔會介意。", jyutping: "ngo5 siu3 dou3 tou5 tung3: keoi5 soeng2 gong2 \"hou2 zeng3\", gong2 zo2 \"hou2 zing3\". bat1 gwo3 keoi5 faan2 jing3 gam3 faai3, bin1 go3 dou1 m4 wui5 gaai3 ji3.", en: "I laughed till my stomach hurt: he meant to say 'great' and said 'very sick' instead. But he picks things up so fast, nobody's going to mind."}
+  - {n: 22, speaker: Hugo, hanzi: "咁……我係咪可以加入？", jyutping: "gam2 …… ngo5 hai6 mai6 ho2 ji5 gaa1 jap6?", en: "So… can I join?"}
+  - {n: 23, speaker: Jim, hanzi: "個個都舉咗手，即係入咗。不過我哋個樂隊仲未有名。", jyutping: "go3 go3 dou1 geoi2 zo2 sau2, zik1 hai6 jap6 zo2. bat1 gwo3 ngo5 dei6 go3 ngok6 deoi2 zung6 mei6 jau5 meng2.", en: "Everyone's put their hand up, so you're in. But our band still doesn't have a name."}
+  - {n: 24, speaker: Ken, hanzi: "叫「工廈杯麵」好唔好？", jyutping: "giu3 \"gung1 haa6 bui1 min6\" hou2 m4 hou2?", en: "How about 'Factory Cup Noodles'?"}
+  - {n: 25, speaker: So, hanzi: "唔好。（對雨果）喂，你住嗰度有冇天台？", jyutping: "m4 hou2. (deoi3 jyu5 gwo2) wai3, nei5 zyu6 go2 dou6 jau5 mou5 tin1 toi4?", en: "No. (To Hugo) Hey, does your building have a roof?"}
+  - {n: 26, speaker: Hugo, hanzi: "有，中秋節梁伯仲喺上面掛燈籠……你哋唔係想去梁記天台練歌嘛？", jyutping: "jau5, zung1 cau1 zit3 loeng4 baak3 zung6 hai2 soeng6 min6 gwaa3 dang1 lung4 …… nei5 dei6 m4 hai6 soeng2 heoi3 loeng4 gei3 tin1 toi4 lin6 go1 maa3?", en: "Yes, Uncle Leung even hung lanterns up there at Mid-Autumn… You're not thinking of rehearsing on Leung Kee's roof, are you?"}
+notes:
+  - {ref: 1, topic: vocab, text: "升降機 sing1 gong3 gei1 = lift, elevator (also 𨋢 lip1, from 'lift'). 頂得順 / 頂唔順 (P2) 'can / can't stand it': 你頂唔頂得順？ asks with the A-not-A form. 樓 here is lau2 'floor': 十二樓."}
+  - {ref: 3, topic: vocab, text: "彈 taan4 = play (a stringed or keyboard instrument): 彈結他 'play the guitar', 彈琴 'play the piano'. 結他 git3 taa1 = guitar (from English). bass手 'bass player': 手 after an instrument or job = the person who does it (鼓手 'drummer'). 睇落 tai2 lok6 = look (like), seem."}
+  - {ref: 5, topic: vocab, text: "杯麵 bui1 min6 = cup noodles. 腦 nou5 (line 6) = brain: 你個腦淨係識諗… 'all your brain can think of is …'."}
+  - {ref: 9, topic: grammar, text: "冚唪唥 ham6 baang6 laang6 = all, the whole lot (very colloquial), followed by 都: 你哋冚唪唥都聽到？ Other ways to say 'every, all': 個個都 (line 12, 23), 全部 (P11), and a question word + 都: 乜都識少少 'a bit of everything' (line 11), 邊個都唔會介意 'nobody will mind' (line 21)."}
+  - {ref: 10, topic: vocab, text: "吹水 ceoi1 seoi2 = chit-chat, shoot the breeze (lit. 'blow water'); also 'talk big'. 試吓先 'let's try first'."}
+  - {ref: 11, topic: vocab, text: "夾band gaap3 band = play together in a band, jam. 夾 gaap3 alone = fit together, get on (line 20: 我哋好夾 'we gel'); 夾錢 'chip in'."}
+  - {ref: 12, topic: culture, text: "南洋派對 N.Y.P.D. is a real Hong Kong band from the factory-building music scene, known for half-sung, half-spoken Cantonese over post-punk and electronic sounds. 南洋 'the South Seas' is the old name for Southeast Asia. In the course, the characters only admire them; the band in the story is fictional."}
+  - {ref: 13, topic: vocab, text: "風格 fung1 gaak3 = style. 吸引 kap1 jan5 = attract; attractive: 覺得好吸引 'found it really appealing'. 半唱半講 'half sung, half spoken': 半…半… for two halves."}
+  - {ref: 14, topic: vocab, text: "音樂 jam1 ngok6 = music. 扮靚 baan6 leng3 = dress up, make yourself look pretty; here 'prettify'."}
+  - {ref: 17, topic: vocab, text: "大力 daai6 lik6 = hard, with force: 大力拍 'hit hard'. 一下 jat1 haa5 = once, a quick … (more on 下 as a verbal classifier in P18)."}
+  - {ref: 19, topic: vocab, text: "竟然 ging2 jin4 = actually, to my surprise: 你竟然彈得咁好！ It marks something unexpected. 情歌 cing4 go1 = love song. 首 sau2 is the classifier for songs: 一首歌."}
+  - {ref: 20, topic: grammar, text: "到 of degree again (P4): 嘈到隔籬單位都嚟拍門投訴 'so loud that next door came to complain'; 笑到肚痛 'laughed till my stomach hurt' (line 21). 頭先 tau4 sin1 = just now. 證明 zing3 ming4 = prove, proof."}
+  - {ref: 21, topic: pronunciation, text: "好正 hou2 zeng3 'great, cool' vs 好症 hou2 zing3 '(sounds like) very ill': the vowel eng vs ing changes the word. 反應 faan2 jing3 = reaction, reflexes: 反應快 'quick on the uptake'. 介意 gaai3 ji3 = mind."}
+  - {ref: 23, topic: vocab, text: "樂隊 ngok6 deoi2 = band (music group); 隊 rises to deoi2 here. 加入 gaa1 jap6 (line 22) = join. 舉手 geoi2 sau2 = raise one's hand."}
+  - {ref: 26, topic: vs-mandarin, text: "天台 tin1 toi4 = the flat roof of a building (Mandarin 天台 too, or 屋頂). 練歌 lin6 go1 = rehearse songs. 唔係…嘛？ 'you're not … are you?': Mandarin 你們不會是想…吧？ Cantonese 冚唪唥 has no Mandarin twin: say 全部 / 統統."}
+pron:
+  - {ref: 3, text: "彈 'play (an instrument)' is taan4; daan6 is 'bullet' (as in 炸彈, P6)."}
+  - {ref: 9, text: "冚唪唥 ham6 baang6 laang6: three low-ish syllables said fast, the last two rhyme."}
+  - {ref: 21, text: "正 zeng3 'great' vs 症 zing3 'illness': listen for eng / ing."}
+new_words:
+  - {jyutping: "sing1 gong3 gei1", hanzi: 升降機, en: "lift, elevator"}
+  - {jyutping: "git3 taa1", hanzi: 結他, en: "guitar"}
+  - {jyutping: "tai2 lok6", hanzi: 睇落, en: "look (like), seem"}
+  - {jyutping: "nou5", hanzi: 腦, en: "brain"}
+  - {jyutping: "ham6 baang6 laang6", hanzi: 冚唪唥, en: "all, the whole lot"}
+  - {jyutping: "ceoi1 seoi2", hanzi: 吹水, en: "chit-chat; talk big"}
+  - {jyutping: "gaap3", hanzi: 夾, en: "fit together, get on; jam"}
+  - {jyutping: "fung1 gaak3", hanzi: 風格, en: "style"}
+  - {jyutping: "kap1 jan5", hanzi: 吸引, en: "attract; attractive"}
+  - {jyutping: "jam1 ngok6", hanzi: 音樂, en: "music"}
+  - {jyutping: "baan6 leng3", hanzi: 扮靚, en: "dress up, prettify"}
+  - {jyutping: "daai6 lik6", hanzi: 大力, en: "hard, with force"}
+  - {jyutping: "jat1 haa5", hanzi: 一下, en: "once, a quick (action)"}
+  - {jyutping: "ging2 jin4", hanzi: 竟然, en: "actually, unexpectedly"}
+  - {jyutping: "cing4 go1", hanzi: 情歌, en: "love song"}
+  - {jyutping: "zing3 ming4", hanzi: 證明, en: "prove; proof"}
+  - {jyutping: "faan2 jing3", hanzi: 反應, en: "reaction, reflexes"}
+  - {jyutping: "gaai3 ji3", hanzi: 介意, en: "mind"}
+  - {jyutping: "gaa1 jap6", hanzi: 加入, en: "join"}
+  - {jyutping: "geoi2 sau2", hanzi: 舉手, en: "raise one's hand"}
+  - {jyutping: "ngok6 deoi2", hanzi: 樂隊, en: "band (music)"}
+  - {jyutping: "dang1 lung4", hanzi: 燈籠, en: "lantern"}
+  - {jyutping: "paai3 deoi3", hanzi: 派對, en: "party"}
+  - {jyutping: "sau2", hanzi: 首, en: "(classifier for songs, poems)"}
+  - {jyutping: "zing1", hanzi: 精, en: "skilled, expert at"}
+  - {jyutping: "gaai1 bin1", hanzi: 街邊, en: "on the street, roadside"}
+  - {jyutping: "jau5 meng2", hanzi: 有名, en: "have a name; famous"}
+  - {jyutping: "ding2 dak1 seon6", hanzi: 頂得順, en: "can stand it"}
+  - {jyutping: "gu2 sau2", hanzi: 鼓手, en: "drummer"}
+  - {jyutping: "gu2", hanzi: 鼓, en: "drum"}
+exercises:
+  translate:
+    - {hanzi: "佢哋冚唪唥都去咗台灣旅行。", jyutping: "keoi5 dei6 ham6 baang6 laang6 dou1 heoi3 zo2 toi4 waan1 leoi5 hang4.", en: "All of them have gone on holiday to Taiwan."}
+    - {hanzi: "佢哋下個月喺工廈表演，有好多首新歌。", jyutping: "keoi5 dei6 haa6 go3 jyut6 hai2 gung1 haa6 biu2 jin2, jau5 hou2 do1 sau2 san1 go1.", en: "They're playing in a factory building next month, with lots of new songs."}
+    - {hanzi: "佢竟然識彈結他，我以為佢淨係識唱歌。", jyutping: "keoi5 ging2 jin4 sik1 taan4 git3 taa1, ngo5 ji5 wai4 keoi5 zing6 hai6 sik1 coeng3 go1.", en: "She can actually play the guitar; I thought she could only sing."}
+    - {hanzi: "我哋個鼓手打鼓好大力，不過邊個都唔介意。", jyutping: "ngo5 dei6 go3 gu2 sau2 daa2 gu2 hou2 daai6 lik6, bat1 gwo3 bin1 go3 dou1 m4 gaai3 ji3.", en: "Our drummer hits the drums really hard, but none of us minds."}
+    - {hanzi: "樓上嘈到我成晚瞓唔着。", jyutping: "lau4 soeng6 cou4 dou3 ngo5 seng4 maan5 fan3 m4 zoek6.", en: "Upstairs was so noisy I couldn't sleep all night."}
+  fill:
+    - {hanzi: "我___都識少少，不過乜都唔精。", jyutping: "ngo5 ___ dou1 sik1 siu2 siu2, bat1 gwo3 mat1 dou1 m4 zing1.", answer: "mat1", answer_hanzi: 乜, en: "I know a bit of everything, but I'm not good at anything."}
+    - {hanzi: "唔好___喇，快啲開始啦。", jyutping: "m4 hou2 ___ laa3, faai3 di1 hoi1 ci2 laa1.", answer: "ceoi1 seoi2", answer_hanzi: 吹水, en: "Stop chatting, let's start."}
+    - {hanzi: "你哋兩個咁___，不如一齊夾band。", jyutping: "nei5 dei6 loeng5 go3 gam3 ___, bat1 jyu4 jat1 cai4 gaap3 band.", answer: "gaap3", answer_hanzi: 夾, en: "You two get on so well, why not start a band together?"}
+    - {hanzi: "我笑___肚痛。", jyutping: "ngo5 siu3 ___ tou5 tung3.", answer: "dou3", answer_hanzi: 到, en: "I laughed till my stomach hurt."}
+    - {hanzi: "個個都舉咗手，即係你___咗我哋個樂隊。", jyutping: "go3 go3 dou1 geoi2 zo2 sau2, zik1 hai6 nei5 ___ zo2 ngo5 dei6 go3 ngok6 deoi2.", answer: "gaa1 jap6", answer_hanzi: 加入, en: "Everyone's put their hand up, which means you've joined our band."}
