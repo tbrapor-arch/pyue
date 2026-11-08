@@ -1,0 +1,101 @@
+# 進修 25. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 25
+title: {en: "The MacLehose Trail", jyutping: "mak6 lei5 hou6 ging3", hanzi: "麥理浩徑"}
+intro: "The first day on the trail: doubled words that paint a picture (藍藍哋, 慢慢行, 清清楚楚, 凍冰冰) and the vocabulary of hiking."
+genre: dialogue
+review: false
+setting: "Saturday 9 January, seven in the morning. Hugo and Hiu-ching start the MacLehose Trail at Pak Tam Chung in Sai Kung Country Park: stage 1 to Long Ke past the High Island Reservoir's East Dam, then stage 2 over the hills to Sai Wan, Ham Tin and Pak Tam Au. About 24 kilometres."
+dialogue:
+  - {n: 1, speaker: Hiu-ching, hanzi: "呢度就係起點。十段路，一百公里，今日行頭兩段。你帶夠水未？", jyutping: "ni1 dou6 zau6 hai6 hei2 dim2. sap6 dyun6 lou6, jat1 baak3 gung1 lei5, gam1 jat6 haang4 tau4 loeng5 dyun6. nei5 daai3 gau3 seoi2 mei6?", en: "This is the starting point. Ten stages, a hundred kilometres; today we do the first two. Have you brought enough water?"}
+  - {n: 2, speaker: Hugo, hanzi: "三樽水，兩個麵包，一支防曬。背囊重到好似裝咗塊石。", jyutping: "saam1 zeon1 seoi2, loeng5 go3 min6 baau1, jat1 zi1 fong4 saai3. bui3 nong4 cung5 dou3 hou2 ci5 zong1 zo2 faai3 sek6.", en: "Three bottles of water, two bread rolls, a sun cream. My backpack is so heavy it's like carrying a rock."}
+  - {n: 3, speaker: Hiu-ching, hanzi: "唔使驚，頭一段好平，慢慢行就得。沿住水庫行，個海藍藍哋，好舒服。", jyutping: "m4 sai2 geng1, tau4 jat1 dyun6 hou2 ping4, maan6 maan2 haang4 zau6 dak1. jyun4 zyu6 seoi2 fu3 haang4, go3 hoi2 laam4 laam4 dei2, hou2 syu1 fuk6.", en: "Don't worry, the first stage is flat; just walk slowly. We follow the reservoir; the sea's a lovely blue, very pleasant."}
+  - {n: 4, speaker: Hugo, hanzi: "（行咗兩個鐘）嘩！啲石柱點解一條條都係六角形嘅？係咪人整嘅？", jyutping: "(haang4 zo2 loeng5 go3 zung1) waa3! di1 sek6 cyu5 dim2 gaai2 jat1 tiu4 tiu4 dou1 hai6 luk6 gok3 jing4 ge3? hai6 mai6 jan4 zing2 ge3?", en: "(Two hours later) Wow! Why are the stone columns all hexagonal? Did people make them?"}
+  - {n: 5, speaker: Hiu-ching, hanzi: "唔係，係火山整嘅。一億幾千萬年前，火山爆發，啲岩漿凍咗，就裂成一條條六角柱。", jyutping: "m4 hai6, hai6 fo2 saan1 zing2 ge3. jat1 jik1 gei2 cin1 maan6 nin4 cin4, fo2 saan1 baau3 faat3, di1 ngaam4 zoeng1 dung3 zo2, zau6 lit6 sing4 jat1 tiu4 tiu4 luk6 gok3 cyu5.", en: "No, a volcano made them. Over a hundred and forty million years ago a volcano erupted; when the lava cooled, it cracked into hexagonal columns."}
+  - {n: 6, speaker: Hiu-ching, hanzi: "呢度係東壩，屬於香港地質公園，好多遊客專登嚟影相。", jyutping: "ni1 dou6 hai6 dung1 baa3, suk6 jyu1 hoeng1 gong2 dei6 zat1 gung1 jyun2, hou2 do1 jau4 haak3 zyun1 dang1 lai4 jing2 soeng2.", en: "This is the East Dam; it's part of the Hong Kong Geopark, and lots of tourists come here specially to take photos."}
+  - {n: 7, speaker: Hugo, hanzi: "我喺香港住咗三年，竟然唔知有咁靚嘅地方。我以前淨係識中環同蘭桂坊。", jyutping: "ngo5 hai2 hoeng1 gong2 zyu6 zo2 saam1 nin4, ging2 jin4 m4 zi1 jau5 gam3 leng3 ge3 dei6 fong1. ngo5 ji5 cin4 zing6 hai6 sik1 zung1 waan4 tung4 laan4 gwai3 fong1.", en: "Three years in Hong Kong and I had no idea there was anywhere this beautiful. I used to know only Central and Lan Kwai Fong."}
+  - {n: 8, speaker: Hiu-ching, hanzi: "好多香港人都唔知。佢哋以為香港淨係得高樓，其實四成係郊野公園。", jyutping: "hou2 do1 hoeng1 gong2 jan4 dou1 m4 zi1. keoi5 dei6 ji5 wai4 hoeng1 gong2 zing6 hai6 dak1 gou1 lau4, kei4 sat6 sei3 sing4 hai6 gaau1 je5 gung1 jyun2.", en: "Lots of Hongkongers don't know either. They think Hong Kong is only tower blocks, but actually forty per cent of it is country park."}
+  - {n: 9, speaker: Hugo, hanzi: "（第二段，爬緊樓梯）呢段……好斜……我要唞吓氣先。", jyutping: "(dai6 ji6 dyun6, paa4 gan2 lau4 tai1) ni1 dyun6 …… hou2 ce3 …… ngo5 jiu3 tau2 haa5 hei3 sin1.", en: "(Stage 2, climbing steps) This stretch… is steep… I need to catch my breath first."}
+  - {n: 10, speaker: Hiu-ching, hanzi: "唞啦。飲啖水，慢慢嚟。行山唔係比賽，最緊要開開心心行完。", jyutping: "tau2 laa1. jam2 daam6 seoi2, maan6 maan2 lai4. haang4 saan1 m4 hai6 bei2 coi3, zeoi3 gan2 jiu3 hoi1 hoi1 sam1 sam1 haang4 jyun4.", en: "Take a break. Have a sip of water, take it slowly. Hiking isn't a race; what matters is finishing happily."}
+  - {n: 11, speaker: Hugo, hanzi: "你行得咁輕鬆，一滴汗都冇出。", jyutping: "nei5 haang4 dak1 gam3 hing1 sung1, jat1 dik6 hon6 dou1 mou5 ceot1.", en: "You walk so easily; you haven't broken a sweat."}
+  - {n: 12, speaker: Hiu-ching, hanzi: "我喺長洲大，細細個就成日行山去拜神。習慣咗。", jyutping: "ngo5 hai2 coeng4 zau1 daai6, sai3 sai3 go3 zau6 sing4 jat6 haang4 saan1 heoi3 baai3 san4. zaap6 gwaan3 zo2.", en: "I grew up on Cheung Chau; from when I was tiny I was always walking up hills to the temples. I'm used to it."}
+  - {n: 13, speaker: Hugo, hanzi: "（到咗山頂）你睇！成個海灣睇得清清楚楚。啲沙白雪雪，啲水透明到見到底。", jyutping: "(dou3 zo2 saan1 deng2) nei5 tai2! seng4 go3 hoi2 waan1 tai2 dak1 cing1 cing1 co2 co2. di1 saa1 baak6 syut1 syut1, di1 seoi2 tau3 ming4 dou3 gin3 dou2 dai2.", en: "(At the top) Look! You can see the whole bay clearly. The sand is snow-white, and the water's so clear you can see the bottom."}
+  - {n: 14, speaker: Hiu-ching, hanzi: "嗰度係西灣，再過啲係鹹田。好多人喺沙灘露營，朝早睇日出。", jyutping: "go2 dou6 hai6 sai1 waan1, zoi3 gwo3 di1 hai6 haam4 tin4. hou2 do1 jan4 hai2 saa1 taan1 lou6 jing4, ziu1 zou2 tai2 jat6 ceot1.", en: "That's Sai Wan, and a bit further on is Ham Tin. Lots of people camp on the beach and watch the sunrise in the morning."}
+  - {n: 15, speaker: Hugo, hanzi: "日出……我上一次睇日出，係喺銀行通頂之後。", jyutping: "jat6 ceot1 …… ngo5 soeng6 jat1 ci3 tai2 jat6 ceot1, hai6 hai2 ngan4 hong4 tung1 deng2 zi1 hau6.", en: "Sunrise… the last time I saw one was after an all-nighter at the bank."}
+  - {n: 16, speaker: Hiu-ching, hanzi: "咁下次我哋嚟露營，睇一次開心啲嘅日出。", jyutping: "gam2 haa6 ci3 ngo5 dei6 lai4 lou6 jing4, tai2 jat1 ci3 hoi1 sam1 di1 ge3 jat6 ceot1.", en: "Then next time we'll come camping and watch a happier sunrise."}
+  - {n: 17, speaker: Hugo, hanzi: "（落到沙灘）喂，有幾隻牛喺沙灘度瞓覺！", jyutping: "(lok6 dou3 saa1 taan1) wai3, jau5 gei2 zek3 ngau4 hai2 saa1 taan1 dou6 fan3 gaau3!", en: "(Down on the beach) Hey, there are some cows sleeping on the beach!"}
+  - {n: 18, speaker: Hiu-ching, hanzi: "西貢啲牛係以前啲農民留低嘅，佢哋自己過自己。唔好摸佢，佢哋好怕醜。", jyutping: "sai1 gung3 di1 ngau4 hai6 ji5 cin4 di1 nung4 man4 lau4 dai1 ge3, keoi5 dei6 zi6 gei2 gwo3 zi6 gei2. m4 hou2 mo2 keoi5, keoi5 dei6 hou2 paa3 cau2.", en: "Sai Kung's cows were left behind by the old farmers; they live their own lives. Don't touch them, they're shy."}
+  - {n: 19, speaker: Hugo, hanzi: "嗰間士多賣乜嘢？", jyutping: "go2 gaan1 si6 do1 maai6 mat1 je5?", en: "What does that little shop sell?"}
+  - {n: 20, speaker: Hiu-ching, hanzi: "公仔麵、凍冰冰嘅汽水，仲有豆腐花。行完一段山，坐低食碗麵，最正。", jyutping: "gung1 zai2 min6, dung3 bing1 bing1 ge3 hei3 seoi2, zung6 jau5 dau6 fu6 faa1. haang4 jyun4 jat1 dyun6 saan1, co5 dai1 sik6 wun2 min6, zeoi3 zeng3.", en: "Instant noodles, ice-cold fizzy drinks and tofu pudding. After a stretch of hills, sitting down to a bowl of noodles is the best thing there is."}
+  - {n: 21, speaker: Hugo, hanzi: "（食完麵，行到北潭凹）……行完兩段喇！我對腳軟晒。", jyutping: "(sik6 jyun4 min6, haang4 dou3 bak1 taam4 aau3) …… haang4 jyun4 loeng5 dyun6 laa3! ngo5 deoi3 goek3 jyun5 saai3.", en: "(Noodles eaten, reaching Pak Tam Au) …Two stages done! My legs have turned to jelly."}
+  - {n: 22, speaker: Hiu-ching, hanzi: "你做得好好。下個禮拜行三、四段，有馬鞍山，仲斜過今日。", jyutping: "nei5 zou6 dak1 hou2 hou2. haa6 go3 lai5 baai3 haang4 saam1, sei3 dyun6, jau5 maa5 on1 saan1, zung6 ce3 gwo3 gam1 jat6.", en: "You did really well. Next week it's stages 3 and 4, with Ma On Shan: even steeper than today."}
+  - {n: 23, speaker: Hugo, hanzi: "仲斜過今日？（停一停）……好，我去。", jyutping: "zung6 ce3 gwo3 gam1 jat6? (ting4 jat1 ting4) …… hou2, ngo5 heoi3.", en: "Even steeper than today? (A pause) …All right, I'm in."}
+  - {n: 24, speaker: Hiu-ching, hanzi: "（笑）你係我帶過最慢、但係最多問題嘅遊客。", jyutping: "(siu3) nei5 hai6 ngo5 daai3 gwo3 zeoi3 maan6, daan6 hai6 zeoi3 do1 man6 tai4 ge3 jau4 haak3.", en: "(Laughing) You're the slowest tourist I've ever guided, and the one with the most questions."}
+notes:
+  - {ref: 1, topic: vocab, text: "起點 hei2 dim2 = starting point; 終點 'finish'. 段 dyun6 = stage, section (of a trail, a road, a story, P6). 帶夠 'bring enough'."}
+  - {ref: 2, topic: vocab, text: "樽 zeon1 = bottle (classifier and noun). 防曬 fong4 saai3 = sunscreen; 曬 'sun, bake in the sun'. 背囊 bui3 nong4 = backpack. 裝 zong1 = hold, carry, pack. 塊石 'a rock'."}
+  - {ref: 3, topic: grammar, text: "Doubling paints a picture. Adjective doubled + 哋 / 地 'rather, nicely': 藍藍哋 laam4 laam4 dei2 'a lovely blue'. Adjective doubled before a verb, as an adverb: 慢慢行 'walk slowly' (慢慢 maan6 maan2: the second syllable rises). Doubled + classifier: 細細個 'when tiny' (line 12)."}
+  - {ref: 3, topic: vocab, text: "平 ping4 = flat, level (and 'cheap' peng4, P2). 沿住 jyun4 zyu6 = along: 沿住水庫行 'walk along the reservoir' (沿途, P19). 水庫 seoi2 fu3 = reservoir."}
+  - {ref: 5, topic: culture, text: "The East Dam (東壩) of the High Island Reservoir has spectacular hexagonal columns of volcanic rock, formed about 140 million years ago; it belongs to the Hong Kong UNESCO Global Geopark (地質公園). 火山 fo2 saan1 = volcano; 爆發 baau3 faat3 = erupt; 岩漿 ngaam4 zoeng1 = lava, magma; 裂 lit6 = crack. 億 jik1 = a hundred million."}
+  - {ref: 6, topic: vocab, text: "屬於 suk6 jyu1 = belong to. 專登 'specially, on purpose'. 蘭桂坊 Lan Kwai Fong (line 7) is Central's bar district."}
+  - {ref: 8, topic: culture, text: "郊野公園 gaau1 je5 gung1 jyun2 = country park: about 40 % of Hong Kong's land is protected as country parks, crossed by long trails like the MacLehose."}
+  - {ref: 9, topic: vocab, text: "爬 paa4 = climb; 樓梯 lau4 tai1 = stairs, steps. 斜 ce3 = steep. 唞氣 tau2 hei3 = catch one's breath, rest; it splits: 唞吓氣. 唞 alone = rest (line 10)."}
+  - {ref: 10, topic: grammar, text: "AABB doubling for two-syllable adjectives: 開開心心 'nice and happily', 清清楚楚 'very clearly' (line 13). ABB: 白雪雪 'snow-white' (line 13), 凍冰冰 'ice-cold' (line 20), like 熱辣辣 (P2). And V一V for a short action: 停一停 'pause a moment' (line 23)."}
+  - {ref: 11, topic: vocab, text: "輕鬆 'easy, relaxed'. 滴 dik6 = drop: 一滴汗都冇出 'not a drop of sweat' (汗 hon6 'sweat', 出汗 'sweat')."}
+  - {ref: 12, topic: vocab, text: "拜神 baai3 san4 = worship at a temple, pray. 習慣 'be used to; habit' (慣, P4, is the spoken short form)."}
+  - {ref: 13, topic: vocab, text: "山頂 saan1 deng2 = summit, hilltop. 海灣 hoi2 waan1 = bay. 透明 tau3 ming4 = clear, transparent. 底 dai2 = bottom."}
+  - {ref: 14, topic: culture, text: "Sai Wan (西灣) and Ham Tin (鹹田) are beaches of Tai Long Wan, often called Hong Kong's most beautiful; you can camp there (露營 lou6 jing4 'camp'). The feral cattle (牛 ngau4) of Sai Kung descend from farmers' herds left when villages emptied (line 18: 農民 nung4 man4 'farmers'; 摸 mo2 'touch')."}
+  - {ref: 20, topic: culture, text: "士多 si6 do1 = a small shop, from English 'store': beach shops sell noodles, drinks and 豆腐花 dau6 fu6 faa1 'tofu pudding'. 汽水 hei3 seoi2 = fizzy drink. 正 zeng3 = great (P12)."}
+  - {ref: 3, topic: vs-mandarin, text: "Mandarin doubles too (慢慢走, 清清楚楚, 開開心心), but Cantonese has more: the ABB colour words (白雪雪, 凍冰冰, 熱辣辣) and AA + 哋 'rather …' (藍藍哋, 窄窄地) are typically Cantonese. 唞氣 = 喘口氣 / 休息; 專登 = 特地."}
+pron:
+  - {ref: 3, text: "慢慢 maan6 maan2: the second 慢 rises to tone 2."}
+  - {ref: 3, text: "藍藍哋 laam4 laam4 dei2: 哋 / 地 after a doubled adjective is dei2."}
+  - {ref: 9, text: "唞 'rest' is tau2, the same sound as 透 tau3 'through' but rising tone."}
+new_words:
+  - {jyutping: "hei2 dim2", hanzi: 起點, en: "starting point"}
+  - {jyutping: "zeon1", hanzi: 樽, en: "bottle"}
+  - {jyutping: "fong4 saai3", hanzi: 防曬, en: "sunscreen"}
+  - {jyutping: "bui3 nong4", hanzi: 背囊, en: "backpack"}
+  - {jyutping: "seoi2 fu3", hanzi: 水庫, en: "reservoir"}
+  - {jyutping: "fo2 saan1", hanzi: 火山, en: "volcano"}
+  - {jyutping: "baau3 faat3", hanzi: 爆發, en: "erupt, break out"}
+  - {jyutping: "suk6 jyu1", hanzi: 屬於, en: "belong to"}
+  - {jyutping: "gaau1 je5 gung1 jyun2", hanzi: 郊野公園, en: "country park"}
+  - {jyutping: "lau4 tai1", hanzi: 樓梯, en: "stairs, steps"}
+  - {jyutping: "tau2 hei3", hanzi: 唞氣, en: "catch one's breath"}
+  - {jyutping: "tau2", hanzi: 唞, en: "rest"}
+  - {jyutping: "hon6", hanzi: 汗, en: "sweat"}
+  - {jyutping: "saan1 deng2", hanzi: 山頂, en: "summit, hilltop"}
+  - {jyutping: "hoi2 waan1", hanzi: 海灣, en: "bay"}
+  - {jyutping: "cing1 cing1 co2 co2", hanzi: 清清楚楚, en: "very clearly"}
+  - {jyutping: "tau3 ming4", hanzi: 透明, en: "transparent, clear"}
+  - {jyutping: "lou6 jing4", hanzi: 露營, en: "camp"}
+  - {jyutping: "ngau4", hanzi: 牛, en: "cow, cattle"}
+  - {jyutping: "si6 do1", hanzi: 士多, en: "small shop, store"}
+  - {jyutping: "dung3 bing1 bing1", hanzi: 凍冰冰, en: "ice-cold"}
+  - {jyutping: "hei3 seoi2", hanzi: 汽水, en: "fizzy drink"}
+  - {jyutping: "dau6 fu6 faa1", hanzi: 豆腐花, en: "tofu pudding"}
+  - {jyutping: "goek3 jyun5", hanzi: 腳軟, en: "weak-kneed, legs like jelly"}
+  - {jyutping: "sai1 gung3", hanzi: 西貢, en: "Sai Kung"}
+  - {jyutping: "sai1 waan1", hanzi: 西灣, en: "Sai Wan (beach)"}
+  - {jyutping: "nung4 man4", hanzi: 農民, en: "farmer"}
+  - {jyutping: "baai3 san4", hanzi: 拜神, en: "worship, pray at a temple"}
+  - {jyutping: "luk6 gok3 jing4", hanzi: 六角形, en: "hexagon"}
+  - {jyutping: "maa5 on1 saan1", hanzi: 馬鞍山, en: "Ma On Shan"}
+  - {jyutping: "paa4", hanzi: 爬, en: "climb"}
+  - {jyutping: "lit6", hanzi: 裂, en: "crack, split"}
+  - {jyutping: "jik1", hanzi: 億, en: "a hundred million"}
+  - {jyutping: "dik6", hanzi: 滴, en: "drop"}
+  - {jyutping: "mo2", hanzi: 摸, en: "touch, feel"}
+exercises:
+  translate:
+    - {hanzi: "唔使急，慢慢行。", jyutping: "m4 sai2 gap1, maan6 maan2 haang4.", en: "No hurry, walk slowly."}
+    - {hanzi: "我要唞吓氣先，對腳軟晒。", jyutping: "ngo5 jiu3 tau2 haa5 hei3 sin1, deoi3 goek3 jyun5 saai3.", en: "I need to catch my breath first; my legs have gone to jelly."}
+    - {hanzi: "我專登早啲起身，去山頂睇日出。", jyutping: "ngo5 zyun1 dang1 zou2 di1 hei2 san1, heoi3 saan1 deng2 tai2 jat6 ceot1.", en: "I got up early on purpose to watch the sunrise from the top."}
+    - {hanzi: "佢講得清清楚楚，個個都明。", jyutping: "keoi5 gong2 dak1 cing1 cing1 co2 co2, go3 go3 dou1 ming4.", en: "She explained it very clearly; everyone understood."}
+    - {hanzi: "行完山，飲枝凍冰冰嘅汽水，最正！", jyutping: "haang4 jyun4 saan1, jam2 zi1 dung3 bing1 bing1 ge3 hei3 seoi2, zeoi3 zeng3!", en: "After a hike, an ice-cold fizzy drink is the best!"}
+  fill:
+    - {hanzi: "個海___哋，好靚。", jyutping: "go3 hoi2 ___ dei2, hou2 leng3.", answer: "laam4 laam4", answer_hanzi: 藍藍, en: "The sea is a lovely blue."}
+    - {hanzi: "最緊要開開___行完。", jyutping: "zeoi3 gan2 jiu3 hoi1 hoi1 ___ haang4 jyun4.", answer: "sam1 sam1", answer_hanzi: 心心, en: "What matters is finishing happily."}
+    - {hanzi: "佢細___個就成日行山。", jyutping: "keoi5 sai3 ___ go3 zau6 sing4 jat6 haang4 saan1.", answer: "sai3", answer_hanzi: 細, en: "She's been hiking since she was tiny."}
+    - {hanzi: "我___咗早起身，唔覺得攰。", jyutping: "ngo5 ___ zo2 zou2 hei2 san1, m4 gok3 dak1 gui6.", answer: "zaap6 gwaan3", answer_hanzi: 習慣, en: "I'm used to getting up early; I don't feel tired."}
+    - {hanzi: "呢段路好___，要爬好多樓梯。", jyutping: "ni1 dyun6 lou6 hou2 ___, jiu3 paa4 hou2 do1 lau4 tai1.", answer: "ce3", answer_hanzi: 斜, en: "This stretch is steep; there are lots of steps to climb."}
