@@ -1,0 +1,101 @@
+# 進修 18. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 18
+title: {en: "A little flutter is good fun", jyutping: "siu2 dou2 ji4 cing4", hanzi: "小賭怡情"}
+intro: "Night racing at Happy Valley: fast race commentary, and counting how many times you did something with 次, 轉, 場, 下 and 餐."
+genre: commentary
+review: false
+setting: "Early December, a Wednesday night at Happy Valley racecourse, ringed by lit-up towers. 梁伯 has brought Hugo for the seventh race, a 1,200-metre sprint on turf. They stand by the rail with beers and 梁伯's racing paper. The horses are invented."
+dialogue:
+  - {n: 1, speaker: Leung Pak, hanzi: "嚟跑馬地，第一次？我一年嚟幾十次。逢禮拜三晚，呢度最熱鬧。", jyutping: "lai4 paau2 maa5 dei2, dai6 jat1 ci3? ngo5 jat1 nin4 lai4 gei2 sap6 ci3. fung4 lai5 baai3 saam1 maan5, ni1 dou6 zeoi3 jit6 naau6.", en: "First time at Happy Valley? I come dozens of times a year. Every Wednesday night, this is the liveliest place there is."}
+  - {n: 2, speaker: Hugo, hanzi: "四圍都係高樓，好似喺城市中間有個大草地。梁伯，你今晚落咗幾多注？", jyutping: "sei3 wai4 dou1 hai6 gou1 lau4, hou2 ci5 hai2 sing4 si5 zung1 gaan1 jau5 go3 daai6 cou2 dei6. loeng4 baak3, nei5 gam1 maan5 lok6 zo2 gei2 do1 zyu3?", en: "Tower blocks all around: it's like a big lawn in the middle of the city. Uncle Leung, how many bets have you placed tonight?"}
+  - {n: 3, speaker: Leung Pak, hanzi: "細聲啲！我落咗成個月租……講笑啫，二十蚊。小賭怡情嘛。", jyutping: "sai3 seng1 di1! ngo5 lok6 zo2 seng4 go3 jyut6 zou1 …… gong2 siu3 ze1, ji6 sap6 man1. siu2 dou2 ji4 cing4 maa3.", en: "Keep your voice down! I've bet a whole month's rent… only joking, twenty dollars. A little flutter is good fun."}
+  - {n: 4, speaker: Hugo, hanzi: "你睇咗成晚馬經，揀咗邊隻馬？", jyutping: "nei5 tai2 zo2 seng4 maan5 maa5 ging1, gaan2 zo2 bin1 zek3 maa5?", en: "You've been reading your racing paper all evening; which horse did you pick?"}
+  - {n: 5, speaker: Leung Pak, hanzi: "「快樂奶茶」。今季贏過三次，又啱我做開嘅生意。你呢？", jyutping: "\"faai3 lok6 naai5 caa4\". gam1 gwai3 jeng4 gwo3 saam1 ci3, jau6 ngaam1 ngo5 zou6 hoi1 ge3 saang1 ji3. nei5 ne1?", en: "'Happy Milk Tea'. It's won three times this season, and it suits my line of business. And you?"}
+  - {n: 6, speaker: Hugo, hanzi: "「巴黎之星」。因為個名。", jyutping: "\"baa1 lai4 zi1 sing1\". jan1 wai6 go3 meng2.", en: "'Star of Paris'. Because of the name."}
+  - {n: 7, speaker: Leung Pak, hanzi: "因為個名？你喺銀行做咗三年，揀馬咁求其？", jyutping: "jan1 wai6 go3 meng2? nei5 hai2 ngan4 hong4 zou6 zo2 saam1 nin4, gaan2 maa5 gam3 kau4 kei4?", en: "Because of the name? Three years in a bank, and that's how carelessly you pick a horse?"}
+  - {n: 8, speaker: Commentator, hanzi: "各位馬迷，第七場，一千二百米草地賽。大熱「醒目仔」，騎師係上季冠軍。", jyutping: "gok3 wai2 maa5 mai4, dai6 cat1 coeng4, jat1 cin1 ji6 baak3 mai5 cou2 dei6 coi3. daai6 jit6 \"sing2 muk6 zai2\", ke4 si1 hai6 soeng6 gwai3 gun3 gwan1.", en: "Racing fans, race seven, twelve hundred metres on turf. The favourite is 'Smart Kid', ridden by last season's champion jockey."}
+  - {n: 9, speaker: Commentator, hanzi: "閘門打開，起步！「巴黎之星」起步最快，一嚟就衝出咗前面！", jyutping: "zaap6 mun4 daa2 hoi1, hei2 bou6! \"baa1 lai4 zi1 sing1\" hei2 bou6 zeoi3 faai3, jat1 lai4 zau6 cung1 ceot1 zo2 cin4 min6!", en: "The gates open, and they're off! 'Star of Paris' breaks fastest and shoots straight to the front!"}
+  - {n: 10, speaker: Hugo, hanzi: "（大叫）跑呀！跑呀！巴黎！", jyutping: "(daai6 giu3) paau2 aa3! paau2 aa3! baa1 lai4!", en: "(Shouting) Go on! Go on! Paris!"}
+  - {n: 11, speaker: Commentator, hanzi: "轉入直路，「巴黎之星」仍然領先半個馬位，「醒目仔」喺外疊開始追！", jyutping: "zyun3 jap6 zik6 lou6, \"baa1 lai4 zi1 sing1\" jing4 jin4 ling5 sin1 bun3 go3 maa5 wai2, \"sing2 muk6 zai2\" hai2 ngoi6 daap6 hoi1 ci2 zeoi1!", en: "Into the home straight, 'Star of Paris' still leads by half a length, and 'Smart Kid' starts chasing on the outside!"}
+  - {n: 12, speaker: Leung Pak, hanzi: "我隻「快樂奶茶」呢？點解見唔到佢？", jyutping: "ngo5 zek3 \"faai3 lok6 naai5 caa4\" ne1? dim2 gaai2 gin3 m4 dou2 keoi5?", en: "And my 'Happy Milk Tea'? Why can't I see it?"}
+  - {n: 13, speaker: Commentator, hanzi: "仲有一百米！「醒目仔」追上咗！兩隻馬並排……噢！「巴黎之星」突然慢咗落嚟！", jyutping: "zung6 jau5 jat1 baak3 mai5! \"sing2 muk6 zai2\" zeoi1 soeng5 zo2! loeng5 zek3 maa5 bing6 paai4 …… o1! \"baa1 lai4 zi1 sing1\" dat6 jin4 maan6 zo2 lok6 lai4!", en: "A hundred metres to go! 'Smart Kid' has caught up! The two horses are neck and neck… oh! 'Star of Paris' suddenly slows down!"}
+  - {n: 14, speaker: Hugo, hanzi: "唔好呀！你做乜停咗落嚟？", jyutping: "m4 hou2 aa3! nei5 zou6 mat1 ting4 zo2 lok6 lai4?", en: "No! Why are you stopping?"}
+  - {n: 15, speaker: Commentator, hanzi: "等等！內欄有隻馬飛出嚟……係「快樂奶茶」！佢喺最後五十米，一下超越晒成班！", jyutping: "dang2 dang2! noi6 laan4 jau5 zek3 maa5 fei1 ceot1 lai4 …… hai6 \"faai3 lok6 naai5 caa4\"! keoi5 hai2 zeoi3 hau6 ng5 sap6 mai5, jat1 haa5 ciu1 jyut6 saai3 seng4 baan1!", en: "Wait! A horse is flying up on the rails… it's 'Happy Milk Tea'! In the last fifty metres it passes the whole field in one go!"}
+  - {n: 16, speaker: Commentator, hanzi: "衝線！頭馬「快樂奶茶」！爆冷！「醒目仔」第二，「巴黎之星」第三。", jyutping: "cung1 sin3! tau4 maa5 \"faai3 lok6 naai5 caa4\"! baau3 laang5! \"sing2 muk6 zai2\" dai6 ji6, \"baa1 lai4 zi1 sing1\" dai6 saam1.", en: "Over the line! The winner is 'Happy Milk Tea'! An upset! 'Smart Kid' second, 'Star of Paris' third."}
+  - {n: 17, speaker: Leung Pak, hanzi: "（跳起身）贏咗！贏咗！我就話啦，奶茶一定係最好嘅！", jyutping: "(tiu3 hei2 san1) jeng4 zo2! jeng4 zo2! ngo5 zau6 waa6 laa1, naai5 caa4 jat1 ding6 hai6 zeoi3 hou2 ge3!", en: "(Jumping up) Won! Won! I told you: milk tea is the best, no doubt about it!"}
+  - {n: 18, speaker: Hugo, hanzi: "我隻馬第三，係咪輸晒？", jyutping: "ngo5 zek3 maa5 dai6 saam1, hai6 mai6 syu1 saai3?", en: "My horse came third: have I lost everything?"}
+  - {n: 19, speaker: Leung Pak, hanzi: "你買咗位置定獨贏？位置嘅話，頭三名都有錢收。", jyutping: "nei5 maai5 zo2 wai6 zi3 ding6 duk6 jeng4? wai6 zi3 ge3 waa2, tau4 saam1 ming4 dou1 jau5 cin2 sau1.", en: "Did you bet 'place' or 'win'? If it's 'place', the first three all pay out."}
+  - {n: 20, speaker: Hugo, hanzi: "（睇吓張飛）……位置！我贏咗……十三蚊。", jyutping: "(tai2 haa5 zoeng1 fei1) …… wai6 zi3! ngo5 jeng4 zo2 …… sap6 saam1 man1.", en: "(Looking at his ticket) …Place! I've won… thirteen dollars."}
+  - {n: 21, speaker: Leung Pak, hanzi: "我贏咗百五蚊。賠率好，係因為冇人睇好佢。", jyutping: "ngo5 jeng4 zo2 baak3 ng5 man1. pui4 leot2 hou2, hai6 jan1 wai6 mou5 jan4 tai2 hou2 keoi5.", en: "I've won a hundred and fifty. The odds were good because nobody fancied it."}
+  - {n: 22, speaker: Hugo, hanzi: "百五蚊？嗰啲錢夠唔夠交租？", jyutping: "baak3 ng5 man1? go2 di1 cin2 gau3 m4 gau3 gaau1 zou1?", en: "A hundred and fifty? Is that enough to pay the rent?"}
+  - {n: 23, speaker: Leung Pak, hanzi: "夠請你食一餐宵夜。行，去附近行一轉，我請。", jyutping: "gau3 ceng2 nei5 sik6 jat1 caan1 siu1 je2. haang4, heoi3 fu6 gan6 haang4 jat1 zyun3, ngo5 ceng2.", en: "Enough to buy you a late-night snack. Come on, let's take a stroll around here; my treat."}
+  - {n: 24, speaker: Hugo, hanzi: "梁伯，今晚你笑咗好多次。我第一次見你咁開心。", jyutping: "loeng4 baak3, gam1 maan5 nei5 siu3 zo2 hou2 do1 ci3. ngo5 dai6 jat1 ci3 gin3 nei5 gam3 hoi1 sam1.", en: "Uncle Leung, you've laughed a lot tonight. It's the first time I've seen you this happy."}
+  - {n: 25, speaker: Leung Pak, hanzi: "封信嘅事，今晚唔好講。等陣返去，蓮姐問我贏咗幾多，你話輸咗，唔係佢實要我請成條街。", jyutping: "fung1 seon3 ge3 si6, gam1 maan5 m4 hou2 gong2. dang2 zan6 faan1 heoi3, lin4 ze2 man6 ngo5 jeng4 zo2 gei2 do1, nei5 waa6 syu1 zo2, m4 hai6 keoi5 sat6 jiu3 ngo5 ceng2 seng4 tiu4 gaai1.", en: "No talk about the letter tonight. When we get back and Lin-ze asks how much I won, say I lost, or she'll make me treat the whole street."}
+notes:
+  - {ref: 1, topic: grammar, text: "Verbal classifiers count how many times something happens; they go after the verb: 嚟幾十次 'come dozens of times', 贏過三次 (line 5), 笑咗好多次 (line 24). Others: 行一轉 'take a stroll, one round' (line 23), 食一餐 'have a meal' (line 23), 一下 'once, in one go' (line 15). 場 coeng4 counts races, matches, films: 第七場 'race seven'."}
+  - {ref: 1, topic: culture, text: "跑馬地 paau2 maa5 dei2 = Happy Valley racecourse, surrounded by city towers; races are usually held there on Wednesday nights, and at Sha Tin at weekends. All betting goes through the Jockey Club (馬會 maa5 wui2). 逢 fung4 = every (time): 逢禮拜三 'every Wednesday'. 熱鬧 jit6 naau6 = lively, bustling."}
+  - {ref: 2, topic: vocab, text: "四圍 sei3 wai4 = all around. 高樓 gou1 lau4 = tall buildings. 草地 cou2 dei6 = lawn, turf. 落注 lok6 zyu3 = place a bet; 注 zyu3 = a bet: 幾多注."}
+  - {ref: 3, topic: vocab, text: "小賭怡情 'a small bet lifts the spirits': the classic excuse. 怡情 ji4 cing4 = cheer the heart; 賭 dou2 = gamble."}
+  - {ref: 5, topic: vocab, text: "季 gwai3 = season: 今季 'this season', 上季 'last season' (line 8). 啱 + person = suit: 啱我做開嘅生意 'suits the business I'm in' (habitual 開, P11)."}
+  - {ref: 7, topic: vocab, text: "求其 kau4 kei4 = careless, any old how; also 'whatever, any': 求其揀一隻 'pick any one'."}
+  - {ref: 8, topic: vocab, text: "馬迷 maa5 mai4 = racing fan. 大熱 daai6 jit6 = the favourite. 騎師 ke4 si1 = jockey. 冠軍 gun3 gwan1 = champion; first place. 米 mai5 = metre; 賽 coi3 = race."}
+  - {ref: 9, topic: vocab, text: "閘 zaap6 = gate (starting stalls). 起步 hei2 bou6 = start, break from the gate. 衝 cung1 = charge, dash: 衝出 'shoot out', 衝線 cung1 sin3 'cross the finishing line' (line 16)."}
+  - {ref: 11, topic: vocab, text: "直路 zik6 lou6 = the home straight (here). 仍然 jing4 jin4 = still (written-style; spoken 仲). 馬位 'a length'. 外疊 / 內欄 (line 15) 'outside / on the rails'. 追 zeoi1 = chase; 追上 zeoi1 soeng5 = catch up."}
+  - {ref: 13, topic: vocab, text: "並排 bing6 paai4 = side by side. 慢咗落嚟 'slowed down': 落嚟 after an adjective = become less."}
+  - {ref: 15, topic: vocab, text: "超越 ciu1 jyut6 = overtake, pass (written-style, used in commentary). 一下 jat1 haa5 = in one go. 飛出嚟 'come flying out'."}
+  - {ref: 16, topic: vocab, text: "頭馬 tau4 maa5 = the winning horse. 爆冷 baau3 laang5 = an upset, a long shot wins."}
+  - {ref: 19, topic: culture, text: "獨贏 duk6 jeng4 = a win bet (the horse must come first); 位置 wai6 zi3 = a place bet (pays if it finishes in the first three). 賠率 pui4 leot2 (line 21) = odds. 飛 fei1 (line 20) = ticket. 睇好 tai2 hou2 = fancy, expect to do well."}
+  - {ref: 23, topic: grammar, text: "百五 baak3 ng5 'a hundred and fifty' (line 21): with round numbers the last unit is dropped, like 四萬二 in P13. 請 ceng2 = treat, pay for someone: 我請 'my treat'."}
+  - {ref: 1, topic: vs-mandarin, text: "Mandarin also counts actions after the verb, but with partly different words: 次 is shared; Cantonese 轉 (行一轉) ≈ Mandarin 趟 / 圈; Cantonese 餐 (食一餐) ≈ 頓 (吃一頓); Cantonese 一下 ≈ 一下. 贏 jeng4 'win' is 赢 in Mandarin too; 輸 'lose' the same."}
+pron:
+  - {ref: 1, text: "跑馬地 paau2 maa5 dei2: 地 rises to dei2 in this place name."}
+  - {ref: 5, text: "贏 'win' is jeng4 in speech (jing4 in reading); 輸 'lose' is syu1."}
+  - {ref: 8, text: "騎師 ke4 si1: 騎 'ride' is ke4, not kei4."}
+new_words:
+  - {jyutping: "paau2 maa5 dei2", hanzi: 跑馬地, en: "Happy Valley (racecourse)"}
+  - {jyutping: "fung4", hanzi: 逢, en: "every (time)"}
+  - {jyutping: "jit6 naau6", hanzi: 熱鬧, en: "lively, bustling"}
+  - {jyutping: "gou1 lau4", hanzi: 高樓, en: "tall building"}
+  - {jyutping: "cou2 dei6", hanzi: 草地, en: "lawn, turf"}
+  - {jyutping: "lok6 zyu3", hanzi: 落注, en: "place a bet"}
+  - {jyutping: "zyu3", hanzi: 注, en: "a bet"}
+  - {jyutping: "dou2", hanzi: 賭, en: "gamble"}
+  - {jyutping: "maa5", hanzi: 馬, en: "horse"}
+  - {jyutping: "kau4 kei4", hanzi: 求其, en: "careless; any old"}
+  - {jyutping: "daai6 jit6", hanzi: 大熱, en: "the favourite"}
+  - {jyutping: "ke4 si1", hanzi: 騎師, en: "jockey"}
+  - {jyutping: "gun3 gwan1", hanzi: 冠軍, en: "champion"}
+  - {jyutping: "sei3 wai4", hanzi: 四圍, en: "all around"}
+  - {jyutping: "maa5 mai4", hanzi: 馬迷, en: "racing fan"}
+  - {jyutping: "tai2 hou2", hanzi: 睇好, en: "fancy, expect to do well"}
+  - {jyutping: "hoi2 bin1", hanzi: 海邊, en: "seaside"}
+  - {jyutping: "zaap6", hanzi: 閘, en: "gate"}
+  - {jyutping: "hei2 bou6", hanzi: 起步, en: "start"}
+  - {jyutping: "paau2", hanzi: 跑, en: "run"}
+  - {jyutping: "jing4 jin4", hanzi: 仍然, en: "still"}
+  - {jyutping: "zeoi1", hanzi: 追, en: "chase"}
+  - {jyutping: "zeoi1 soeng5", hanzi: 追上, en: "catch up"}
+  - {jyutping: "bing6 paai4", hanzi: 並排, en: "side by side"}
+  - {jyutping: "ciu1 jyut6", hanzi: 超越, en: "overtake"}
+  - {jyutping: "cung1 sin3", hanzi: 衝線, en: "cross the finishing line"}
+  - {jyutping: "tau4 maa5", hanzi: 頭馬, en: "winning horse"}
+  - {jyutping: "baau3 laang5", hanzi: 爆冷, en: "an upset"}
+  - {jyutping: "tiu3", hanzi: 跳, en: "jump"}
+  - {jyutping: "duk6 jeng4", hanzi: 獨贏, en: "win bet"}
+  - {jyutping: "pui4 leot2", hanzi: 賠率, en: "odds"}
+  - {jyutping: "daai6 giu3", hanzi: 大叫, en: "shout"}
+  - {jyutping: "caan1", hanzi: 餐, en: "(classifier for meals)"}
+  - {jyutping: "maa5 wui2", hanzi: 馬會, en: "the Jockey Club"}
+exercises:
+  translate:
+    - {hanzi: "我去過澳門三次，次次都輸錢。", jyutping: "ngo5 heoi3 gwo3 ou3 mun2 saam1 ci3, ci3 ci3 dou1 syu1 cin2.", en: "I've been to Macau three times and lost money every time."}
+    - {hanzi: "食完飯，我哋去海邊行一轉。", jyutping: "sik6 jyun4 faan6, ngo5 dei6 heoi3 hoi2 bin1 haang4 jat1 zyun3.", en: "After dinner, let's take a stroll by the sea."}
+    - {hanzi: "阿媽知道咗，實鬧我一餐。", jyutping: "aa3 maa1 zi1 dou3 zo2, sat6 naau6 ngo5 jat1 caan1.", en: "When Mum finds out, she'll give me a good telling-off."}
+    - {hanzi: "佢跑得最快，最後仍然輸咗。", jyutping: "keoi5 paau2 dak1 zeoi3 faai3, zeoi3 hau6 jing4 jin4 syu1 zo2.", en: "He ran the fastest, but in the end he still lost."}
+    - {hanzi: "唔好求其揀，睇吓馬經先。", jyutping: "m4 hou2 kau4 kei4 gaan2, tai2 haa5 maa5 ging1 sin1.", en: "Don't just pick any old one; read the form guide first."}
+  fill:
+    - {hanzi: "呢隻馬今季贏過三___。", jyutping: "ni1 zek3 maa5 gam1 gwai3 jeng4 gwo3 saam1 ___.", answer: "ci3", answer_hanzi: 次, en: "This horse has won three times this season."}
+    - {hanzi: "今晚第七___，大熱係「醒目仔」。", jyutping: "gam1 maan5 dai6 cat1 ___, daai6 jit6 hai6 \"sing2 muk6 zai2\".", answer: "coeng4", answer_hanzi: 場, en: "In tonight's race seven, the favourite is 'Smart Kid'."}
+    - {hanzi: "我請你食一___宵夜。", jyutping: "ngo5 ceng2 nei5 sik6 jat1 ___ siu1 je2.", answer: "caan1", answer_hanzi: 餐, en: "I'll treat you to a late-night snack."}
+    - {hanzi: "佢喺最後五十米___上咗。", jyutping: "keoi5 hai2 zeoi3 hau6 ng5 sap6 mai5 ___ soeng5 zo2.", answer: "zeoi1", answer_hanzi: 追, en: "It caught up in the last fifty metres."}
+    - {hanzi: "冇人睇好佢，結果___！", jyutping: "mou5 jan4 tai2 hou2 keoi5, git3 gwo2 ___!", answer: "baau3 laang5", answer_hanzi: 爆冷, en: "Nobody fancied it, and it won: an upset!"}
