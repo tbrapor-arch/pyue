@@ -1,0 +1,91 @@
+# 進修 66. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 66
+title: {en: "Cantonese around the world", jyutping: "sai3 gaai3 gok3 dei6 gong2 jyut6 jyu5", hanzi: "世界各地講粵語"}
+intro: "Hugo's second article for the learners' magazine: Yue from Taishan to San Francisco, Vancouver, Kuala Lumpur and Manchester. Relative clauses and time clauses in longer sentences, and the words of migration and heritage."
+genre: article
+review: false
+setting: "Wednesday 8 December 2027. After his essay in June, the learners' magazine asked Hugo for a second piece. He writes it in Cantonese, with help from 蓮姐, whose family comes from Taishan, and Kayan, whose niece is growing up in Manchester."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "世界各地講粵語（雨果）", jyutping: "sai3 gaai3 gok3 dei6 gong2 jyut6 jyu5 (jyu5 gwo2)", en: "Cantonese around the world (by Hugo)"}
+  - {n: 2, speaker: Hugo, hanzi: "我喺香港學廣東話學咗一年幾。我以為粵語係一個地方嘅語言，後來先發覺，佢係一個遍佈全球嘅語言。", jyutping: "ngo5 hai2 hoeng1 gong2 hok6 gwong2 dung1 waa2 hok6 zo2 jat1 nin4 gei2. ngo5 ji5 wai4 jyut6 jyu5 hai6 jat1 go3 dei6 fong1 ge3 jyu5 jin4, hau6 loi4 sin1 faat3 gok3, keoi5 hai6 jat1 go3 pin3 bou3 cyun4 kau4 ge3 jyu5 jin4.", en: "I've been learning Cantonese in Hong Kong for a year and a bit. I thought Cantonese was the language of one place; only later did I realise it's a language spread all over the world."}
+  - {n: 3, speaker: Hugo, hanzi: "估計全球有八千幾萬人講粵語。佢哋分佈喺廣東、廣西、香港、澳門，同埋海外各地。", jyutping: "gu2 gai3 cyun4 kau4 jau5 baat3 cin1 gei2 maan6 jan4 gong2 jyut6 jyu5. keoi5 dei6 fan1 bou3 hai2 gwong2 dung1, gwong2 sai1, hoeng1 gong2, ou3 mun2, tung4 maai4 hoi2 ngoi6 gok3 dei6.", en: "An estimated eighty-odd million people speak Cantonese worldwide, spread across Guangdong, Guangxi, Hong Kong, Macau, and overseas."}
+  - {n: 4, speaker: Hugo, hanzi: "一百幾十年前，美國加州發現金礦嘅時候，第一批去「金山」嘅華工，大部分係由台山嚟嘅。", jyutping: "jat1 baak3 gei2 sap6 nin4 cin4, mei5 gwok3 gaa1 zau1 faat3 jin6 gam1 kwong3 ge3 si4 hau6, dai6 jat1 pai1 heoi3 \"gam1 saan1\" ge3 waa4 gung1, daai6 bou6 fan6 hai6 jau4 toi4 saan1 lai4 ge3.", en: "More than 150 years ago, when gold was discovered in California, most of the first Chinese labourers who went to 'Gold Mountain' came from Taishan."}
+  - {n: 5, speaker: Hugo, hanzi: "佢哋淘金、起鐵路，後來喺三藩市同紐約開咗唐人街。所以美國最早嘅唐人街，講嘅唔係廣州話，係台山話。", jyutping: "keoi5 dei6 tou4 gam1, hei2 tit3 lou6, hau6 loi4 hai2 saam1 faan4 si5 tung4 nau2 joek3 hoi1 zo2 tong4 jan4 gaai1. so2 ji5 mei5 gwok3 zeoi3 zou2 ge3 tong4 jan4 gaai1, gong2 ge3 m4 hai6 gwong2 zau1 waa2, hai6 toi4 saan1 waa2.", en: "They panned for gold and built railways, and later opened Chinatowns in San Francisco and New York. So America's earliest Chinatowns spoke not Guangzhou Cantonese but Taishanese."}
+  - {n: 6, speaker: Lin-ze, hanzi: "（喺稿上面寫）我表哥個仔喺紐約唐人街開餐館，佢識講台山話，但係佢個孫淨係識英文。", jyutping: "(hai2 gou2 soeng6 min6 se2) ngo5 biu2 go1 go3 zai2 hai2 nau2 joek3 tong4 jan4 gaai1 hoi1 caan1 gun2, keoi5 sik1 gong2 toi4 saan1 waa2, daan6 hai6 keoi5 go3 syun1 zing6 hai6 sik1 jing1 man2.", en: "(Written on the draft) My cousin's son runs a restaurant in New York's Chinatown; he speaks Taishanese, but his grandson only speaks English."}
+  - {n: 7, speaker: Hugo, hanzi: "八九十年代，香港人擔心九七回歸，好多移民去溫哥華、多倫多同悉尼。佢哋帶去嘅，係香港式嘅廣東話同港式奶茶。", jyutping: "baat3 gau2 sap6 nin4 doi6, hoeng1 gong2 jan4 daam1 sam1 gau2 cat1 wui4 gwai1, hou2 do1 ji4 man4 heoi3 wan1 go1 waa4, do1 leon4 do1 tung4 sik1 nei4. keoi5 dei6 daai3 heoi3 ge3, hai6 hoeng1 gong2 sik1 ge3 gwong2 dung1 waa2 tung4 gong2 sik1 naai5 caa4.", en: "In the eighties and nineties, worried about the 1997 handover, many Hongkongers emigrated to Vancouver, Toronto and Sydney. What they took with them was Hong Kong Cantonese and Hong Kong milk tea."}
+  - {n: 8, speaker: Hugo, hanzi: "喺東南亞，吉隆坡啲華人講廣東話，夾埋馬來話；越南胡志明市嘅堤岸，以前都係講粵語嘅華人區。", jyutping: "hai2 dung1 naam4 aa3, gat1 lung4 bo1 di1 waa4 jan4 gong2 gwong2 dung1 waa2, gaap3 maai4 maa5 loi4 waa2; jyut6 naam4 wu4 zi3 ming4 si5 ge3 tai4 ngon6, ji5 cin4 dou1 hai6 gong2 jyut6 jyu5 ge3 waa4 jan4 keoi1.", en: "In Southeast Asia, KL's Chinese speak Cantonese mixed with Malay; Cholon in Ho Chi Minh City was once a Cantonese-speaking Chinese district too."}
+  - {n: 9, speaker: Hugo, hanzi: "每個地方嘅粵語都唔同：有啲借英文，有啲借馬來文，有啲仲保留咗一百年前嘅詞彙。不過大家一開口，就知道係同一種語言。", jyutping: "mui5 go3 dei6 fong1 ge3 jyut6 jyu5 dou1 m4 tung4: jau5 di1 ze3 jing1 man2, jau5 di1 ze3 maa5 loi4 man2, jau5 di1 zung6 bou2 lau4 zo2 jat1 baak3 nin4 cin4 ge3 ci4 wui6. bat1 gwo3 daai6 gaa1 jat1 hoi1 hau2, zau6 zi1 dou3 hai6 tung4 jat1 zung2 jyu5 jin4.", en: "Cantonese differs in each place: some borrow from English, some from Malay, some keep vocabulary from a hundred years ago. But as soon as people open their mouths, you know it's the same language."}
+  - {n: 10, speaker: Hugo, hanzi: "最大嘅問題係傳承。第二代、第三代喺海外出世嘅細路，好多都唔識講。週末中文學校而家多數教普通話，粵語慢慢俾人取代。", jyutping: "zeoi3 daai6 ge3 man6 tai4 hai6 cyun4 sing4. dai6 ji6 doi6, dai6 saam1 doi6 hai2 hoi2 ngoi6 ceot1 sai3 ge3 sai3 lou6, hou2 do1 dou1 m4 sik1 gong2. zau1 mut6 zung1 man4 hok6 haau6 ji4 gaa1 do1 sou3 gaau3 pou2 tung1 waa2, jyut6 jyu5 maan6 maan2 bei2 jan4 ceoi2 doi6.", en: "The biggest problem is passing it on. Many second- and third-generation children born overseas can't speak it. Weekend Chinese schools now mostly teach Mandarin, and Cantonese is slowly being replaced."}
+  - {n: 11, speaker: Kayan, hanzi: "（喺下面寫）我阿哥喺曼城，佢話一定要教個囡講廣東話。佢同其他移民家長，逢禮拜六開班。", jyutping: "(hai2 haa6 min6 se2) ngo5 aa3 go1 hai2 maan6 sing4, keoi5 waa6 jat1 ding6 jiu3 gaau3 go3 neoi2 gong2 gwong2 dung1 waa2. keoi5 tung4 kei4 taa1 ji4 man4 gaa1 zoeng2, fung4 lai5 baai3 luk6 hoi1 baan1.", en: "(Written below) My brother in Manchester says he'll definitely teach his daughter Cantonese. He and other emigrant parents run a class every Saturday."}
+  - {n: 12, speaker: Hugo, hanzi: "二零二零年之後，又有一批新移民去咗英國、加拿大同台灣。佢哋喺當地開餐廳、辦樂隊、寫粵語書，令到粵語喺海外重新熱鬧起嚟。", jyutping: "ji6 ling4 ji6 ling4 nin4 zi1 hau6, jau6 jau5 jat1 pai1 san1 ji4 man4 heoi3 zo2 jing1 gwok3, gaa1 naa4 daai6 tung4 toi4 waan1. keoi5 dei6 hai2 dong1 dei6 hoi1 caan1 teng1, baan6 ngok6 deoi2, se2 jyut6 jyu5 syu1, ling6 dou3 jyut6 jyu5 hai2 hoi2 ngoi6 cung4 san1 jit6 naau6 hei2 lai4.", en: "After 2020, another wave of emigrants went to Britain, Canada and Taiwan. They open restaurants, start bands and write books in Cantonese there, so that Cantonese is coming alive again overseas."}
+  - {n: 13, speaker: Hugo, hanzi: "仲有一啲好似我咁嘅人：唔係廣東人，但係鍾意呢種語言，所以學。網上有好多課程同群組，世界各地嘅學生互相幫手。", jyutping: "zung6 jau5 jat1 di1 hou2 ci5 ngo5 gam2 ge3 jan4: m4 hai6 gwong2 dung1 jan4, daan6 hai6 zung1 ji3 ni1 zung2 jyu5 jin4, so2 ji5 hok6. mong5 soeng6 jau5 hou2 do1 fo3 cing4 tung4 kwan4 zou2, sai3 gaai3 gok3 dei6 ge3 hok6 saang1 wu6 soeng1 bong1 sau2.", en: "And there are people like me: not Cantonese, but in love with the language, so we learn it. Online there are lots of courses and groups, with learners all over the world helping each other."}
+  - {n: 14, speaker: Lin-ze, hanzi: "（喺稿上面寫）寫得好。不過你漏咗一樣：粵語最好聽，係用嚟鬧人嘅時候。", jyutping: "(hai2 gou2 soeng6 min6 se2) se2 dak1 hou2. bat1 gwo3 nei5 lau6 zo2 jat1 joeng6: jyut6 jyu5 zeoi3 hou2 teng1, hai6 jung6 lai4 naau6 jan4 ge3 si4 hau6.", en: "(Written on the draft) Well written. But you've missed one thing: Cantonese sounds best when you're telling someone off."}
+  - {n: 15, speaker: Hugo, hanzi: "我喺廣州見過一個北方仔，佢聽唔明我哋啲歌，但係聽得出我哋鍾意自己個城市。", jyutping: "ngo5 hai2 gwong2 zau1 gin3 gwo3 jat1 go3 bak1 fong1 zai2, keoi5 teng1 m4 ming4 ngo5 dei6 di1 go1, daan6 hai6 teng1 dak1 ceot1 ngo5 dei6 zung1 ji3 zi6 gei2 go3 sing4 si5.", en: "In Guangzhou I met a young northerner who couldn't understand our songs, but could hear that we love our city."}
+  - {n: 16, speaker: Hugo, hanzi: "我喺吉隆坡見過一個阿伯，聽完我哋首歌，即刻想打電話俾佢喺香港讀書嘅個仔。", jyutping: "ngo5 hai2 gat1 lung4 bo1 gin3 gwo3 jat1 go3 aa3 baak3, teng1 jyun4 ngo5 dei6 sau2 go1, zik1 hak1 soeng2 daa2 din6 waa2 bei2 keoi5 hai2 hoeng1 gong2 duk6 syu1 ge3 go3 zai2.", en: "In Kuala Lumpur I met an old man who, after hearing our song, immediately wanted to call his son who's studying in Hong Kong."}
+  - {n: 17, speaker: Hugo, hanzi: "所以我覺得，粵語唔係一個地方。佢係一班人：一班喺唔同地方，用同一種聲音講掛住嘅人。", jyutping: "so2 ji5 ngo5 gok3 dak1, jyut6 jyu5 m4 hai6 jat1 go3 dei6 fong1. keoi5 hai6 jat1 baan1 jan4: jat1 baan1 hai2 m4 tung4 dei6 fong1, jung6 tung4 jat1 zung2 seng1 jam1 gong2 gwaa3 zyu6 ge3 jan4.", en: "So I think Cantonese isn't a place. It's a group of people: people in different places, using the same sounds to say they miss each other."}
+  - {n: 18, speaker: Kayan, hanzi: "（睇完）最後一句，我想傳俾阿哥睇。", jyutping: "(tai2 jyun4) zeoi3 hau6 jat1 geoi3, ngo5 soeng2 cyun4 bei2 aa3 go1 tai2.", en: "(Having read it) I want to send that last line to my brother."}
+  - {n: 19, speaker: Lin-ze, hanzi: "傳啦。順便同佢講，下個禮拜六梁記周年，叫佢開視像，大家一齊飲杯。", jyutping: "cyun4 laa1. seon6 bin6 tung4 keoi5 gong2, haa6 go3 lai5 baai3 luk6 loeng4 gei3 zau1 nin4, giu3 keoi5 hoi1 si6 zoeng6, daai6 gaa1 jat1 cai4 jam2 bui1.", en: "Send it. And tell him that 梁記's anniversary is a week on Saturday; he should join on video so we can all raise a glass together."}
+  - {n: 20, speaker: Kayan, hanzi: "（打字）「阿哥，篇文寫你個囡。下個禮拜六記得開視像，阿爸等你。」", jyutping: "(daa2 zi6) \"aa3 go1, pin1 man2 se2 nei5 go3 neoi2. haa6 go3 lai5 baai3 luk6 gei3 dak1 hoi1 si6 zoeng6, aa3 baa4 dang2 nei5.\"", en: "(Typing) 'Brother, the article mentions your daughter. Next Saturday, remember to join on video: Dad's waiting for you.'"}
+notes:
+  - {ref: 2, topic: vocab, text: "遍佈 pin3 bou3 = spread all over; 全球 cyun4 kau4 = the whole world. 分佈 fan1 bou3 (line 3) = be distributed. 估計 gu2 gai3 = estimate. 海外 hoi2 ngoi6 = overseas; 各地 gok3 dei6 = everywhere."}
+  - {ref: 4, topic: grammar, text: "Time clause + relative clause in one sentence: 美國加州發現金礦嘅時候，第一批去「金山」嘅華工… 'when gold was discovered in California, the first Chinese labourers who went to Gold Mountain…'. Each 嘅 closes a modifier before its noun (P61)."}
+  - {ref: 4, topic: culture, text: "In the 1850s–60s, the California gold rush and the building of the transcontinental railway drew Chinese labourers (華工), most from Taishan and nearby counties; America was 金山 'Gold Mountain' (P26). Chinatown Cantonese in the US was Taishanese (台山話) until later migrants brought standard Cantonese. 淘金 'pan for gold'; 鐵路 tit3 lou6 = railway; 批 pai1 'batch, wave'."}
+  - {ref: 6, topic: vocab, text: "表哥 'cousin' (P24). 餐館 'restaurant'. 稿 'draft' (P62)."}
+  - {ref: 7, topic: culture, text: "Before the 1997 handover (九七回歸), hundreds of thousands of Hongkongers emigrated, many to Vancouver (溫哥華), Toronto (多倫多 do1 leon4 do1) and Sydney (悉尼 sik1 nei4), creating large Cantonese communities there."}
+  - {ref: 8, topic: culture, text: "堤岸 Cholon, the Chinese district of Saigon (胡志明市 wu4 zi3 ming4 si5), was largely Cantonese-speaking. 華人區 'Chinese district'."}
+  - {ref: 9, topic: vocab, text: "借 'borrow': 借英文 'borrow (words) from English'. 詞彙 ci4 wui6 = vocabulary. 保留 'keep, retain'. 同一種 'the same kind'."}
+  - {ref: 10, topic: vocab, text: "傳承 cyun4 sing4 = pass on (a tradition, a language). 第二代 'second generation'; 出世 'be born'. 取代 ceoi2 doi6 = replace."}
+  - {ref: 11, topic: vocab, text: "家長 'parents' (of pupils). 逢 'every': 逢禮拜六 'every Saturday'. 開班 'run a class'."}
+  - {ref: 12, topic: grammar, text: "令到粵語…熱鬧起嚟 'making Cantonese come alive again': 令到 (P46) + 起嚟 inchoative (P30). 當地 'there, local'; 辦 'run, set up'."}
+  - {ref: 13, topic: vocab, text: "課程 'course'; 群組 'group (online)'. 好似我咁嘅人 'people like me'."}
+  - {ref: 14, topic: vocab, text: "漏 'leave out, miss'. 鬧人 'tell people off'."}
+  - {ref: 17, topic: grammar, text: "Long relative clause: 一班喺唔同地方，用同一種聲音講掛住嘅人 'people who, in different places, use the same sounds to say they miss someone'. The whole clause comes before 嘅人."}
+  - {ref: 19, topic: vocab, text: "順便 'while you're at it'. 開視像 'join on video'. 飲杯 'have a drink, raise a glass'."}
+pron:
+  - {ref: 7, text: "多倫多 do1 leon4 do1, 悉尼 sik1 nei4: Cantonese place names follow the sounds of English as heard in Cantonese, not Mandarin (Mandarin 雪梨 for Sydney is used in Taiwan)."}
+  - {ref: 2, text: "遍佈 pin3 bou3: 遍 is pin3, as in 一遍."}
+  - {ref: 10, text: "傳承 cyun4 sing4: 承 is sing4, as in 承認 (P51)."}
+new_words:
+  - {jyutping: "pin3 bou3", hanzi: 遍佈, en: "spread all over"}
+  - {jyutping: "cyun4 kau4", hanzi: 全球, en: "the whole world"}
+  - {jyutping: "gu2 gai3", hanzi: 估計, en: "estimate"}
+  - {jyutping: "fan1 bou3", hanzi: 分佈, en: "be distributed"}
+  - {jyutping: "hoi2 ngoi6", hanzi: 海外, en: "overseas"}
+  - {jyutping: "gok3 dei6", hanzi: 各地, en: "everywhere, various places"}
+  - {jyutping: "tit3 lou6", hanzi: 鐵路, en: "railway"}
+  - {jyutping: "nau2 joek3", hanzi: 紐約, en: "New York"}
+  - {jyutping: "do1 leon4 do1", hanzi: 多倫多, en: "Toronto"}
+  - {jyutping: "sik1 nei4", hanzi: 悉尼, en: "Sydney"}
+  - {jyutping: "wu4 zi3 ming4 si5", hanzi: 胡志明市, en: "Ho Chi Minh City"}
+  - {jyutping: "ci4 wui6", hanzi: 詞彙, en: "vocabulary"}
+  - {jyutping: "cyun4 sing4", hanzi: 傳承, en: "pass on (heritage)"}
+  - {jyutping: "ceoi2 doi6", hanzi: 取代, en: "replace"}
+  - {jyutping: "gaa1 zau1", hanzi: 加州, en: "California"}
+  - {jyutping: "gam1 kwong3", hanzi: 金礦, en: "gold mine"}
+  - {jyutping: "caan1 gun2", hanzi: 餐館, en: "restaurant"}
+  - {jyutping: "gou2", hanzi: 稿, en: "draft, manuscript"}
+  - {jyutping: "bou2 lau4", hanzi: 保留, en: "keep, retain"}
+  - {jyutping: "gaa1 zoeng2", hanzi: 家長, en: "parents (of pupils)"}
+  - {jyutping: "hoi1 baan1", hanzi: 開班, en: "run a class"}
+  - {jyutping: "dong1 dei6", hanzi: 當地, en: "local, there"}
+  - {jyutping: "fo3 cing4", hanzi: 課程, en: "course"}
+  - {jyutping: "lau6", hanzi: 漏, en: "leave out, miss"}
+  - {jyutping: "seon6 bin6", hanzi: 順便, en: "while one is at it"}
+  - {jyutping: "jam2 bui1", hanzi: 飲杯, en: "have a drink, toast"}
+  - {jyutping: "gwong2 sai1", hanzi: 廣西, en: "Guangxi"}
+  - {jyutping: "san1 ji4 man4", hanzi: 新移民, en: "new immigrants"}
+  - {jyutping: "gwong2 dung1 jan4", hanzi: 廣東人, en: "Cantonese people"}
+  - {jyutping: "daa2 zi6", hanzi: 打字, en: "type (text)"}
+exercises:
+  translate:
+    - {hanzi: "估計全球有八千幾萬人講粵語。", jyutping: "gu2 gai3 cyun4 kau4 jau5 baat3 cin1 gei2 maan6 jan4 gong2 jyut6 jyu5.", en: "An estimated eighty-odd million people speak Cantonese worldwide."}
+    - {hanzi: "第一批去金山嘅華工，大部分由台山嚟。", jyutping: "dai6 jat1 pai1 heoi3 gam1 saan1 ge3 waa4 gung1, daai6 bou6 fan6 jau4 toi4 saan1 lai4.", en: "Most of the first Chinese labourers who went to Gold Mountain came from Taishan."}
+    - {hanzi: "喺海外出世嘅細路，好多都唔識講。", jyutping: "hai2 hoi2 ngoi6 ceot1 sai3 ge3 sai3 lou6, hou2 do1 dou1 m4 sik1 gong2.", en: "Many children born overseas can't speak it."}
+    - {hanzi: "粵語慢慢俾普通話取代。", jyutping: "jyut6 jyu5 maan6 maan2 bei2 pou2 tung1 waa2 ceoi2 doi6.", en: "Cantonese is slowly being replaced by Mandarin."}
+    - {hanzi: "語言要一代傳承一代。", jyutping: "jyu5 jin4 jiu3 jat1 doi6 cyun4 sing4 jat1 doi6.", en: "A language has to be passed on from one generation to the next."}
+  fill:
+    - {hanzi: "粵語係一個___全球嘅語言。", jyutping: "jyut6 jyu5 hai6 jat1 go3 ___ cyun4 kau4 ge3 jyu5 jin4.", answer: "pin3 bou3", answer_hanzi: 遍佈, en: "Cantonese is a language spread all over the world."}
+    - {hanzi: "美國加州發現金礦___，好多華工去咗。", jyutping: "mei5 gwok3 gaa1 zau1 faat3 jin6 gam1 kwong3 ___, hou2 do1 waa4 gung1 heoi3 zo2.", answer: "ge3 si4 hau6", answer_hanzi: 嘅時候, en: "When gold was found in California, many Chinese labourers went."}
+    - {hanzi: "最大嘅問題係___。", jyutping: "zeoi3 daai6 ge3 man6 tai4 hai6 ___.", answer: "cyun4 sing4", answer_hanzi: 傳承, en: "The biggest problem is passing it on."}
+    - {hanzi: "有啲地方保留咗一百年前嘅___。", jyutping: "jau5 di1 dei6 fong1 bou2 lau4 zo2 jat1 baak3 nin4 cin4 ge3 ___.", answer: "ci4 wui6", answer_hanzi: 詞彙, en: "Some places have kept vocabulary from a hundred years ago."}
+    - {hanzi: "佢哋去咗溫哥華、多倫多同___。", jyutping: "keoi5 dei6 heoi3 zo2 wan1 go1 waa4, do1 leon4 do1 tung4 ___.", answer: "sik1 nei4", answer_hanzi: 悉尼, en: "They went to Vancouver, Toronto and Sydney."}
