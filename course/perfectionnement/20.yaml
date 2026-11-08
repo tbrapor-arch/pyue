@@ -1,0 +1,98 @@
+# 進修 20. Original lyrics written for this course. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 20
+title: {en: "Kowloon night bus", jyutping: "gau2 lung4 je6 ce1", hanzi: "九龍夜車"}
+intro: "The band's first song, half spoken, half sung: listen for street slang, rhythm, and how Cantonese words must fit the melody's rise and fall."
+genre: song
+review: false
+setting: "Mid-December, the band's rehearsal room in Kwun Tong. 阿占 has written the words with Hugo's help, about riding the last red minibus home through Kowloon. The verses are spoken over the beat; the chorus is sung. 阿占 introduces it into a phone recording."
+dialogue:
+  - {n: 1, speaker: Jim, hanzi: "呢首歌叫《九龍夜車》，係我同阿果一齊創作嘅。歌詞冇乜特別，就係我哋日日見到嘅嘢。", jyutping: "ni1 sau2 go1 giu3 \"gau2 lung4 je6 ce1\", hai6 ngo5 tung4 aa3 gwo2 jat1 cai4 cong3 zok3 ge3. go1 ci4 mou5 mat1 dak6 bit6, zau6 hai6 ngo5 dei6 jat6 jat6 gin3 dou2 ge3 je5.", en: "This song is called 'Kowloon Night Bus'; A-Gwo and I wrote it together. The words are nothing special, just things we see every day."}
+  - {n: 2, speaker: Verse 1, hanzi: "凌晨兩點，最後一班紅van，Ken揸車，收音機播緊老歌。", jyutping: "ling4 san4 loeng5 dim2, zeoi3 hau6 jat1 baan1 hung4 van, Ken zaa1 ce1, sau1 jam1 gei1 bo3 gan2 lou5 go1.", en: "Two a.m., the last red minibus, Ken at the wheel, the radio playing old songs."}
+  - {n: 3, speaker: Verse 1, hanzi: "窗外啲霓虹招牌，一個二個拆晒，淨返一條條黑色嘅鐵架。", jyutping: "coeng1 ngoi6 di1 ngai4 hung4 ziu1 paai4, jat1 go3 ji6 go3 caak3 saai3, zing6 faan1 jat1 tiu4 tiu4 hak1 sik1 ge3 tit3 gaa2.", en: "The neon signs outside the window, taken down one after another, nothing left but black iron frames."}
+  - {n: 4, speaker: Verse 1, hanzi: "便利店依然光猛，好似成個九龍，得佢未瞓。", jyutping: "bin6 lei6 dim3 ji1 jin4 gwong1 maang5, hou2 ci5 seng4 go3 gau2 lung4, dak1 keoi5 mei6 fan3.", en: "The convenience store's still bright, as if in all of Kowloon, it's the only one not asleep."}
+  - {n: 5, speaker: Verse 1, hanzi: "街口間茶餐廳仲有燈，阿伯抹緊最後一張枱。", jyutping: "gaai1 hau2 gaan1 caa4 caan1 teng1 zung6 jau5 dang1, aa3 baak3 maat3 gan2 zeoi3 hau6 jat1 zoeng1 toi2.", en: "The café on the corner still has its lights on; the old man is wiping the last table."}
+  - {n: 6, speaker: Chorus, hanzi: "九龍夜車，載住成車夢，", jyutping: "gau2 lung4 je6 ce1, zoi3 zyu6 seng4 ce1 mung6,", en: "Kowloon night bus, carrying a busload of dreams,"}
+  - {n: 7, speaker: Chorus, hanzi: "轉左又轉右，條街永遠唔會空。", jyutping: "zyun3 zo2 jau6 zyun3 jau6, tiu4 gaai1 wing5 jyun5 m4 wui5 hung1.", en: "Turning left and turning right, the street is never empty."}
+  - {n: 8, speaker: Chorus, hanzi: "九龍夜車，載住我哋嘅故事，", jyutping: "gau2 lung4 je6 ce1, zoi3 zyu6 ngo5 dei6 ge3 gu3 si6,", en: "Kowloon night bus, carrying our stories,"}
+  - {n: 9, speaker: Chorus, hanzi: "時代點樣變，我哋依然喺度。", jyutping: "si4 doi6 dim2 joeng2 bin3, ngo5 dei6 ji1 jin4 hai2 dou6.", en: "However the times change, we are still here."}
+  - {n: 10, speaker: Verse 2, hanzi: "隔籬坐住個保安叔叔，佢啱啱開工，我啱啱收工。", jyutping: "gaak3 lei4 co5 zyu6 go3 bou2 on1 suk1 suk1, keoi5 ngaam1 ngaam1 hoi1 gung1, ngo5 ngaam1 ngaam1 sau1 gung1.", en: "Next to me sits a security guard: he's just starting work, I've just finished."}
+  - {n: 11, speaker: Verse 2, hanzi: "有個朋友去咗英國，WhatsApp話嗰邊又落緊雨。", jyutping: "jau5 go3 pang4 jau5 heoi3 zo2 jing1 gwok3, WhatsApp waa6 go2 bin1 jau6 lok6 gan2 jyu5.", en: "A friend has gone to England; he says on WhatsApp it's raining there again."}
+  - {n: 12, speaker: Verse 2, hanzi: "有啲人走咗，有啲人仲喺度；冇邊個啱，冇邊個錯。", jyutping: "jau5 di1 jan4 zau2 zo2, jau5 di1 jan4 zung6 hai2 dou6; mou5 bin1 go3 ngaam1, mou5 bin1 go3 co3.", en: "Some people have left, some are still here; nobody's right, nobody's wrong."}
+  - {n: 13, speaker: Verse 2, hanzi: "租金又加，band房又冇，業主同我講：「市場就係噉。」", jyutping: "zou1 gam1 jau6 gaa1, band fong2 jau6 mou5, jip6 zyu2 tung4 ngo5 gong2: \"si5 coeng4 zau6 hai6 gam2.\"", en: "The rent's gone up, the rehearsal room's gone, and the landlord tells me: 'That's the market.'"}
+  - {n: 14, speaker: Chorus, hanzi: "九龍夜車，載住成車夢，", jyutping: "gau2 lung4 je6 ce1, zoi3 zyu6 seng4 ce1 mung6,", en: "Kowloon night bus, carrying a busload of dreams,"}
+  - {n: 15, speaker: Chorus, hanzi: "轉左又轉右，條街永遠唔會空。", jyutping: "zyun3 zo2 jau6 zyun3 jau6, tiu4 gaai1 wing5 jyun5 m4 wui5 hung1.", en: "Turning left and turning right, the street is never empty."}
+  - {n: 16, speaker: Bridge, hanzi: "霓虹冇晒，月光仲喺度，", jyutping: "ngai4 hung4 mou5 saai3, jyut6 gwong1 zung6 hai2 dou6,", en: "The neon's all gone, but the moonlight's still here,"}
+  - {n: 17, speaker: Bridge, hanzi: "呢個城市，有太多難忘嘅夜晚。", jyutping: "ni1 go3 sing4 si5, jau5 taai3 do1 naan4 mong4 ge3 je6 maan5.", en: "This city has too many unforgettable nights."}
+  - {n: 18, speaker: Bridge, hanzi: "你問我點解唔走？我話：我嘅故事未講完。", jyutping: "nei5 man6 ngo5 dim2 gaai2 m4 zau2? ngo5 waa6: ngo5 ge3 gu3 si6 mei6 gong2 jyun4.", en: "You ask me why I don't leave? I say: my story isn't finished yet."}
+  - {n: 19, speaker: Chorus, hanzi: "九龍夜車，載住我哋嘅故事，", jyutping: "gau2 lung4 je6 ce1, zoi3 zyu6 ngo5 dei6 ge3 gu3 si6,", en: "Kowloon night bus, carrying our stories,"}
+  - {n: 20, speaker: Chorus, hanzi: "時代點樣變，我哋依然喺度。", jyutping: "si4 doi6 dim2 joeng2 bin3, ngo5 dei6 ji1 jin4 hai2 dou6.", en: "However the times change, we are still here."}
+  - {n: 21, speaker: Outro, hanzi: "（講）前面街口有落，唔該！", jyutping: "(gong2) cin4 min6 gaai1 hau2 jau5 lok6, m4 goi1!", en: "(Spoken) Next corner, getting off, please!"}
+  - {n: 22, speaker: Outro, hanzi: "（Ken講）好嘢，聽晚再嚟。", jyutping: "(Ken gong2) hou2 je5, ting1 maan5 zoi3 lai4.", en: "(Ken speaking) Sure thing, see you tomorrow night."}
+  - {n: 23, speaker: So, hanzi: "副歌好正。不過第二段節奏亂咗少少，第三句同第四句唔押韻，個旋律要改吓。", jyutping: "fu3 go1 hou2 zeng3. bat1 gwo3 dai6 ji6 dyun6 zit3 zau3 lyun6 zo2 siu2 siu2, dai6 saam1 geoi3 tung4 dai6 sei3 geoi3 m4 aat3 wan5, go3 syun4 leot6 jiu3 goi2 haa5.", en: "The chorus is great. But the rhythm in the second verse goes a bit wrong, lines three and four don't rhyme, and the melody needs some changes."}
+  - {n: 24, speaker: Ken, hanzi: "填詞作曲唔關我事，我淨係打鼓。錄音完未呀？我好餓。", jyutping: "tin4 ci4 zok3 kuk1 m4 gwaan1 ngo5 si6, ngo5 zing6 hai6 daa2 gu2. luk6 jam1 jyun4 mei6 aa3? ngo5 hou2 ngo6.", en: "Lyrics and composing are nothing to do with me; I just play the drums. Are we done recording? I'm starving."}
+  - {n: 25, speaker: Hugo, hanzi: "（錄完）……點呀？我把聲會唔會太似鬼佬？", jyutping: "(luk6 jyun4) …… dim2 aa3? ngo5 baa2 seng1 wui5 m4 wui5 taai3 ci5 gwai2 lou2?", en: "(After recording) …Well? Does my voice sound too much like a gweilo?"}
+  - {n: 26, speaker: Jim, hanzi: "似先好！一個鬼佬用廣東話講九龍，呢個先係我哋嘅故事。", jyutping: "ci5 sin1 hou2! jat1 go3 gwai2 lou2 jung6 gwong2 dung1 waa2 gong2 gau2 lung4, ni1 go3 sin1 hai6 ngo5 dei6 ge3 gu3 si6.", en: "That's what makes it good! A gweilo talking about Kowloon in Cantonese: that's our story."}
+notes:
+  - {ref: 1, topic: vocab, text: "創作 cong3 zok3 = create, write (songs, art); creation. 歌詞 go1 ci4 = lyrics. 首 (P12) is the classifier for songs."}
+  - {ref: 2, topic: culture, text: "紅van hung4 van = a red minibus (紅色小巴 siu2 baa1): they run on flexible routes, often through the night, and you call your stop. 綠van, green minibuses, follow fixed routes. 揸車 'drive' (揸 'hold'). 播 bo3 = play, broadcast: 播緊老歌 'playing old songs'."}
+  - {ref: 3, topic: culture, text: "霓虹 ngai4 hung4 = neon: Hong Kong's famous neon signs (霓虹招牌) have been taken down by the thousand for safety and energy reasons since the 2010s; many shops switched to LED. 拆 caak3 = take down, demolish. 一個二個 'one after another'. 鐵架 tit3 gaa2 = iron frame."}
+  - {ref: 4, topic: vocab, text: "便利店 bin6 lei6 dim3 = convenience store (open 24 hours). 依然 ji1 jin4 = still, as before (a lyrical word; everyday 仲, written 仍然, P18). 得佢未瞓 'only it hasn't gone to sleep'."}
+  - {ref: 6, topic: vocab, text: "載 zoi3 = carry (passengers, cargo): 載住成車夢 'carrying a busload of dreams'. 夢 mung6 = dream."}
+  - {ref: 7, topic: vocab, text: "轉左 / 轉右 'turn left / right'. 永遠 wing5 jyun5 = forever, always: 永遠唔會空 'will never be empty'. 空 hung1 = empty."}
+  - {ref: 8, topic: vocab, text: "故事 gu3 si6 = story. 難忘 naan4 mong4 'unforgettable' (line 17). 時代 si4 doi6 = era, the times (line 9): 時代點樣變 'however the times change' (question word + 都 is dropped in lyrics)."}
+  - {ref: 10, topic: grammar, text: "開工 'start work' (P8) / 收工 'finish work' (P5): a neat contrast built from two opposite verbs with the same object (P8, P5)."}
+  - {ref: 12, topic: culture, text: "有啲人走咗，有啲人仲喺度: the song quietly touches the departures of recent years (P3's 嘉偉 in Manchester) without taking sides: 冇邊個啱，冇邊個錯 'nobody's right, nobody's wrong'."}
+  - {ref: 18, topic: grammar, text: "你問我點解唔走？我話… 'you ask me why I don't leave? I say …': reported question and answer (P17) used as a lyric."}
+  - {ref: 21, topic: culture, text: "有落 jau5 lok6 'getting off!': what you shout to a minibus driver to stop at the next place: 前面街口有落，唔該 'next corner, please'. Minibus drivers don't announce stops."}
+  - {ref: 25, topic: vocab, text: "把聲 baa2 seng1 'one's voice' (把 classifier for voices). 似先好 'it's good precisely because it sounds like that': 先 here = 'that's what makes it'."}
+  - {ref: 6, topic: pronunciation, text: "In Cantonese songs the melody must follow the tones: a high-tone word (like 車 ce1, 空 hung1) sits on a high note, a low-tone word (夢 mung6, 度 dou6) on a low note. Otherwise listeners hear a different word. Writing Cantonese lyrics (填詞) is an art of its own."}
+  - {ref: 23, topic: vocab, text: "Making songs: 副歌 fu3 go1 'chorus', 節奏 zit3 zau3 'rhythm', 旋律 syun4 leot6 'melody', 押韻 aat3 wan5 'rhyme', 填詞 tin4 ci4 'write lyrics to a tune', 作曲 zok3 kuk1 'compose', 錄音 luk6 jam1 'record'. 歌手 go1 sau2 'singer', 拍子 paak3 zi2 'beat'."}
+  - {ref: 2, topic: vs-mandarin, text: "Mandarin pop songs can ignore tones, because the melody overrides them and listeners rely on context. Cantonese songs can't: that's why Cantopop lyrics are written to fit the tune, word by word, and why the same lyric can't simply be translated into Mandarin and sung."}
+pron:
+  - {ref: 6, text: "載 'carry' is zoi3; zoi2 is 'year' (一年半載) in written words."}
+  - {ref: 3, text: "霓虹 ngai4 hung4: both syllables low-falling."}
+  - {ref: 4, text: "依然 ji1 jin4 starts high and falls."}
+new_words:
+  - {jyutping: "cong3 zok3", hanzi: 創作, en: "create, write; creation"}
+  - {jyutping: "go1 ci4", hanzi: 歌詞, en: "lyrics"}
+  - {jyutping: "siu2 baa1", hanzi: 小巴, en: "minibus"}
+  - {jyutping: "bo3", hanzi: 播, en: "play, broadcast"}
+  - {jyutping: "ngai4 hung4", hanzi: 霓虹, en: "neon"}
+  - {jyutping: "caak3", hanzi: 拆, en: "take down, demolish"}
+  - {jyutping: "jat1 go3 ji6 go3", hanzi: 一個二個, en: "one after another"}
+  - {jyutping: "hak1 sik1", hanzi: 黑色, en: "black"}
+  - {jyutping: "bin6 lei6 dim3", hanzi: 便利店, en: "convenience store"}
+  - {jyutping: "ji1 jin4", hanzi: 依然, en: "still, as before"}
+  - {jyutping: "zoi3", hanzi: 載, en: "carry (passengers)"}
+  - {jyutping: "mung6", hanzi: 夢, en: "dream"}
+  - {jyutping: "wing5 jyun5", hanzi: 永遠, en: "forever, always"}
+  - {jyutping: "gu3 si6", hanzi: 故事, en: "story"}
+  - {jyutping: "si4 doi6", hanzi: 時代, en: "era, the times"}
+  - {jyutping: "jyut6 gwong1", hanzi: 月光, en: "moonlight"}
+  - {jyutping: "naan4 mong4", hanzi: 難忘, en: "unforgettable"}
+  - {jyutping: "jau5 lok6", hanzi: 有落, en: "getting off! (to a minibus driver)"}
+  - {jyutping: "gau2 lung4", hanzi: 九龍, en: "Kowloon"}
+  - {jyutping: "ngai4 hung4 dang1", hanzi: 霓虹燈, en: "neon light"}
+  - {jyutping: "fu3 go1", hanzi: 副歌, en: "chorus"}
+  - {jyutping: "zit3 zau3", hanzi: 節奏, en: "rhythm"}
+  - {jyutping: "aat3 wan5", hanzi: 押韻, en: "rhyme"}
+  - {jyutping: "syun4 leot6", hanzi: 旋律, en: "melody"}
+  - {jyutping: "tin4 ci4", hanzi: 填詞, en: "write lyrics (to a tune)"}
+  - {jyutping: "zok3 kuk1", hanzi: 作曲, en: "compose (music)"}
+  - {jyutping: "luk6 jam1", hanzi: 錄音, en: "record (sound)"}
+  - {jyutping: "si1 gei1", hanzi: 司機, en: "driver"}
+  - {jyutping: "go1 sau2", hanzi: 歌手, en: "singer"}
+  - {jyutping: "paak3 zi2", hanzi: 拍子, en: "beat, tempo"}
+exercises:
+  translate:
+    - {hanzi: "呢首歌係我哋自己創作嘅，歌詞講我哋嘅生活。", jyutping: "ni1 sau2 go1 hai6 ngo5 dei6 zi6 gei2 cong3 zok3 ge3, go1 ci4 gong2 ngo5 dei6 ge3 sang1 wut6.", en: "We wrote this song ourselves; the lyrics are about our lives."}
+    - {hanzi: "時代變咗，間茶餐廳依然喺度。", jyutping: "si4 doi6 bin3 zo2, gaan1 caa4 caan1 teng1 ji1 jin4 hai2 dou6.", en: "Times have changed, but the café is still there."}
+    - {hanzi: "啲霓虹招牌一個二個拆晒。", jyutping: "di1 ngai4 hung4 ziu1 paai4 jat1 go3 ji6 go3 caak3 saai3.", en: "The neon signs have been taken down one after another."}
+    - {hanzi: "我永遠唔會唔記得嗰個夜晚。", jyutping: "ngo5 wing5 jyun5 m4 wui5 m4 gei3 dak1 go2 go3 je6 maan5.", en: "I'll never forget that night."}
+    - {hanzi: "司機，前面便利店有落，唔該！", jyutping: "si1 gei1, cin4 min6 bin6 lei6 dim3 jau5 lok6, m4 goi1!", en: "Driver, getting off at the convenience store ahead, please!"}
+  fill:
+    - {hanzi: "收音機___緊老歌。", jyutping: "sau1 jam1 gei1 ___ gan2 lou5 go1.", answer: "bo3", answer_hanzi: 播, en: "The radio is playing old songs."}
+    - {hanzi: "最後一班紅van，___住成車人。", jyutping: "zeoi3 hau6 jat1 baan1 hung4 van, ___ zyu6 seng4 ce1 jan4.", answer: "zoi3", answer_hanzi: 載, en: "The last red minibus, carrying a busload of people."}
+    - {hanzi: "佢啱啱___，我啱啱收工。", jyutping: "keoi5 ngaam1 ngaam1 ___, ngo5 ngaam1 ngaam1 sau1 gung1.", answer: "hoi1 gung1", answer_hanzi: 開工, en: "He's just started work, I've just finished."}
+    - {hanzi: "我嘅___未講完。", jyutping: "ngo5 ge3 ___ mei6 gong2 jyun4.", answer: "gu3 si6", answer_hanzi: 故事, en: "My story isn't finished yet."}
+    - {hanzi: "條街___唔會空。", jyutping: "tiu4 gaai1 ___ m4 wui5 hung1.", answer: "wing5 jyun5", answer_hanzi: 永遠, en: "The street will never be empty."}
