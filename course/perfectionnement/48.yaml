@@ -1,0 +1,104 @@
+# 進修 48. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 48
+title: {en: "Scrambling for buns", jyutping: "coeng2 baau1 saan1", hanzi: "搶包山"}
+intro: "婆婆 tells the story of the Cheung Chau Bun Festival while Hugo learns to make 'peace buns': doubling patterns (個個, 日日, 開開心心, 試吓), and the words of festivals and baking."
+genre: dialogue
+review: false
+setting: "Sunday 18 July 2027, five in the morning, the back room of 婆婆's bakery on Cheung Chau. The Bun Festival was in May, during the TV contest, and Hugo missed it. Now a hotel has ordered three hundred 'peace buns', and 婆婆 is teaching him while Hiu-ching steams."
+dialogue:
+  - {n: 1, speaker: Grandma, hanzi: "阿果，搓粉要用手掌，唔好用手指。搓到個粉滑滑哋，先好發酵。", jyutping: "aa3 gwo2, co1 fan2 jiu3 jung6 sau2 zoeng2, m4 hou2 jung6 sau2 zi2. co1 dou3 go3 fan2 waat6 waat2 dei2, sin1 hou2 faat3 haau1.", en: "A-Gwo, knead the dough with your palm, not your fingers. Knead it until it's nice and smooth; then it'll rise well."}
+  - {n: 2, speaker: Hugo, hanzi: "婆婆，點解叫平安包？", jyutping: "po4 po2, dim2 gaai2 giu3 ping4 on1 baau1?", en: "Grandma, why are they called peace buns?"}
+  - {n: 3, speaker: Grandma, hanzi: "等我講個故事俾你聽。好耐好耐以前，長洲有瘟疫，又有海盜，個個都好驚。", jyutping: "dang2 ngo5 gong2 go3 gu3 si6 bei2 nei5 teng1. hou2 noi6 hou2 noi6 ji5 cin4, coeng4 zau1 jau5 wan1 jik6, jau6 jau5 hoi2 dou6, go3 go3 dou1 hou2 geng1.", en: "Let me tell you a story. A long, long time ago, Cheung Chau had a plague, and pirates too, and everyone was terrified."}
+  - {n: 4, speaker: Grandma, hanzi: "啲漁民就請北帝出嚟巡遊，拜神驅鬼，祈福保平安。之後瘟疫真係走咗，於是年年都搞太平清醮。", jyutping: "di1 jyu4 man4 zau6 ceng2 bak1 dai3 ceot1 lai4 ceon4 jau4, baai3 san4 keoi1 gwai2, kei4 fuk1 bou2 ping4 on1. zi1 hau6 wan1 jik6 zan1 hai6 zau2 zo2, jyu1 si6 nin4 nin4 dou1 gaau2 taai3 ping4 cing1 ziu3.", en: "So the fishermen carried Pak Tai out in a procession, worshipped the gods and drove out the ghosts, praying for peace and safety. After that the plague really did go, and so the Tai Ping Ching Chiu festival has been held every year since."}
+  - {n: 5, speaker: Hiu-ching, hanzi: "太平清醮三日，成個島都要食齋，連麥當勞都賣齋漢堡包。", jyutping: "taai3 ping4 cing1 ziu3 saam1 jat6, seng4 go3 dou2 dou1 jiu3 sik6 zaai1, lin4 mak6 dong1 lou4 dou1 maai6 zaai1 hon3 bou2 baau1.", en: "For the three days of the festival, the whole island eats vegetarian; even McDonald's sells a vegetarian burger."}
+  - {n: 6, speaker: Hugo, hanzi: "齋漢堡包？法國人聽到實暈。", jyutping: "zaai1 hon3 bou2 baau1? faat3 gwok3 jan4 teng1 dou2 sat6 wan4.", en: "A vegetarian burger? The French would faint."}
+  - {n: 7, speaker: Grandma, hanzi: "最好睇係飄色：啲小朋友著古裝，企喺支架上面，好似吊喺半空咁，喺街度遊行。", jyutping: "zeoi3 hou2 tai2 hai6 piu1 sik1: di1 siu2 pang4 jau5 zoek3 gu2 zong1, kei5 hai2 zi1 gaa3 soeng6 min6, hou2 ci5 diu3 hai2 bun3 hung1 gam2, hai2 gaai1 dou6 jau4 hang4.", en: "The best part is the floats: children dressed in costume stand on hidden frames, as if hanging in mid-air, and parade through the streets."}
+  - {n: 8, speaker: Hiu-ching, hanzi: "我細細個都扮過，扮觀音。企咗成個鐘，郁都唔敢郁。", jyutping: "ngo5 sai3 sai3 go3 dou1 baan6 gwo3, baan6 gun1 jam1. kei5 zo2 seng4 go3 zung1, juk1 dou1 m4 gam2 juk1.", en: "I did it as a little girl: I was Guanyin. I stood for an hour without daring to move."}
+  - {n: 9, speaker: Hugo, hanzi: "咁搶包山呢？", jyutping: "gam2 coeng2 baau1 saan1 ne1?", en: "And the bun scramble?"}
+  - {n: 10, speaker: Grandma, hanzi: "以前用竹棚搭三座包山，十幾米高，掛滿平安包。半夜一到，啲後生仔就爬上去搶，搶得越高，越好彩。", jyutping: "ji5 cin4 jung6 zuk1 paang4 daap3 saam1 zo6 baau1 saan1, sap6 gei2 mai5 gou1, gwaa3 mun5 ping4 on1 baau1. bun3 je6 jat1 dou3, di1 hau6 saang1 zai2 zau6 paa4 soeng5 heoi3 coeng2, coeng2 dak1 jyut6 gou1, jyut6 hou2 coi2.", en: "In the old days three bun towers were built of bamboo scaffolding, over ten metres high, covered in peace buns. At the stroke of midnight the young men climbed up to grab them: the higher the bun, the better the luck."}
+  - {n: 11, speaker: Grandma, hanzi: "一九七八年，有座包山冧咗，好多人受傷，政府就禁止咗。到二零零五年先恢復，而家變咗比賽，要戴安全帶。", jyutping: "jat1 gau2 cat1 baat3 nin4, jau5 zo6 baau1 saan1 lam3 zo2, hou2 do1 jan4 sau6 soeng1, zing3 fu2 zau6 gam3 zi2 zo2. dou3 ji6 ling4 ling4 ng5 nin4 sin1 fui1 fuk6, ji4 gaa1 bin3 zo2 bei2 coi3, jiu3 daai3 on1 cyun4 daai2.", en: "In 1978 one of the towers collapsed and many people were hurt, so the government banned it. It only came back in 2005; now it's a competition, and climbers wear safety harnesses."}
+  - {n: 12, speaker: Hugo, hanzi: "可惜我今年錯過咗，個個禮拜都忙住比賽。", jyutping: "ho2 sik1 ngo5 gam1 nin4 co3 gwo3 zo2, go3 go3 lai5 baai3 dou1 mong4 zyu6 bei2 coi3.", en: "Shame I missed it this year; every week I was busy with the contest."}
+  - {n: 13, speaker: Hiu-ching, hanzi: "明年五月，你一定要嚟。成個島擠到行唔郁，鑼鼓聲日日都聽到，氣氛好熱鬧。", jyutping: "ming4 nin4 ng5 jyut6, nei5 jat1 ding6 jiu3 lai4. seng4 go3 dou2 zai1 dou3 haang4 m4 juk1, lo4 gu2 seng1 jat6 jat6 dou1 teng1 dou2, hei3 fan1 hou2 jit6 naau6.", en: "Next May you have to come. The whole island is so packed you can't move, you hear drums and gongs every day, and the atmosphere is so lively."}
+  - {n: 14, speaker: Grandma, hanzi: "嚟，印紅字。每個包都要印「平安」，唔好印歪。", jyutping: "lai4, jan3 hung4 zi6. mui5 go3 baau1 dou1 jiu3 jan3 \"ping4 on1\", m4 hou2 jan3 me2.", en: "Come, stamp the red characters. Every bun gets 'peace' stamped on it; don't print it crooked."}
+  - {n: 15, speaker: Hugo, hanzi: "（印咗一個）點呀？", jyutping: "(jan3 zo2 jat1 go3) dim2 aa3?", en: "(Stamps one) How's that?"}
+  - {n: 16, speaker: Hiu-ching, hanzi: "「平」字歪咗少少……試吓再嚟，慢慢嚟。", jyutping: "\"ping4\" zi6 me2 zo2 siu2 siu2 …… si3 haa5 zoi3 lai4, maan6 maan2 lai4.", en: "The 平 is a bit crooked… try again, take your time."}
+  - {n: 17, speaker: Grandma, hanzi: "唔緊要，歪啲都係平安。食得開開心心就得。", jyutping: "m4 gan2 jiu3, me2 di1 dou1 hai6 ping4 on1. sik6 dak1 hoi1 hoi1 sam1 sam1 zau6 dak1.", en: "Never mind, a crooked 'peace' is still peace. As long as people enjoy eating them."}
+  - {n: 18, speaker: Hugo, hanzi: "入面係乜嘢餡？", jyutping: "jap6 min6 hai6 mat1 je5 haam2?", en: "What's the filling?"}
+  - {n: 19, speaker: Grandma, hanzi: "傳統係蓮蓉同豆沙。後生仔鍾意新口味，我孫女仲想整朱古力。", jyutping: "cyun4 tung2 hai6 lin4 jung4 tung4 dau6 saa1. hau6 saang1 zai2 zung1 ji3 san1 hau2 mei6, ngo5 syun1 neoi2 zung6 soeng2 zing2 zyu1 gu1 lik1.", en: "Traditionally lotus paste and red bean. The young ones like new flavours; my granddaughter even wants to make chocolate."}
+  - {n: 20, speaker: Hiu-ching, hanzi: "婆婆！朱古力平安包好多人買㗎，遊客個個都要。", jyutping: "po4 po2! zyu1 gu1 lik1 ping4 on1 baau1 hou2 do1 jan4 maai5 gaa3, jau4 haak3 go3 go3 dou1 jiu3.", en: "Grandma! Lots of people buy chocolate peace buns; every tourist wants one."}
+  - {n: 21, speaker: Grandma, hanzi: "咁你哋後生仔決定啦。我老喇，日日做包，做咗六十年，夠喇。", jyutping: "gam2 nei5 dei6 hau6 saang1 zai2 kyut3 ding6 laa1. ngo5 lou5 laa3, jat6 jat6 zou6 baau1, zou6 zo2 luk6 sap6 nin4, gau3 laa3.", en: "Then you young ones decide. I'm old; I've made buns every day for sixty years. That's enough."}
+  - {n: 22, speaker: Hugo, hanzi: "婆婆，你教識我，我第日幫你做。", jyutping: "po4 po2, nei5 gaau3 sik1 ngo5, ngo5 dai6 jat6 bong1 nei5 zou6.", en: "Grandma, teach me properly, and one day I'll make them for you."}
+  - {n: 23, speaker: Grandma, hanzi: "（笑）咁你要日日五點起身，又要學識游水，先可以娶長洲女仔。", jyutping: "(siu3) gam2 nei5 jiu3 jat6 jat6 ng5 dim2 hei2 san1, jau6 jiu3 hok6 sik1 jau4 seoi2, sin1 ho2 ji5 ceoi2 coeng4 zau1 neoi5 zai2.", en: "(Laughing) Then you'll have to get up at five every day, and learn to swim, before you can marry a Cheung Chau girl."}
+  - {n: 24, speaker: Hiu-ching, hanzi: "婆婆！你講咩呀！啲包蒸好喇，快啲試吓！", jyutping: "po4 po2! nei5 gong2 me1 aa3! di1 baau1 zing1 hou2 laa3, faai3 di1 si3 haa5!", en: "Grandma! What are you saying! The buns are steamed; quick, try one!"}
+notes:
+  - {ref: 1, topic: vocab, text: "搓 co1 = knead, rub; 粉 fan2 = flour, dough. 手掌 sau2 zoeng2 'palm'. 發酵 faat3 haau1 = rise, ferment. 滑滑哋 'nice and smooth' (AA哋, P22)."}
+  - {ref: 3, topic: grammar, text: "Doubling (P25): 好耐好耐 'a very long time'; 個個 'everyone' (classifier doubled); 年年 'every year' (line 4); 日日 'every day' (line 13); 開開心心 'happily' (AABB, line 17); 試吓 'try a bit' (V吓, line 16). Doubled classifiers and time words are followed by 都."}
+  - {ref: 3, topic: vocab, text: "瘟疫 wan1 jik6 = plague, epidemic. 海盜 hoi2 dou6 = pirate."}
+  - {ref: 4, topic: culture, text: "太平清醮 taai3 ping4 cing1 ziu3 = the Cheung Chau Jiao festival (the 'Bun Festival'), held around Buddha's Birthday in the 4th lunar month. 北帝 bak1 dai3 = Pak Tai, Taoist god of the north and of the sea, whose temple (P27) is the centre of the festival. 巡遊 ceon4 jau4 = procession; 驅 keoi1 = drive out; 祈福 kei4 fuk1 = pray for blessings. 於是 jyu1 si6 'and so'."}
+  - {ref: 5, topic: culture, text: "食齋 sik6 zaai1 = eat vegetarian (for religious reasons); 齋 zaai1 = vegetarian, meatless. 麥當勞 mak6 dong1 lou4 = McDonald's; 漢堡包 hon3 bou2 baau1 = hamburger."}
+  - {ref: 7, topic: culture, text: "飄色 piu1 sik1 'floating colours': children in costume (古裝 gu2 zong1 'period costume') fixed on hidden steel frames (支架 zi1 gaa3), so they seem to float in mid-air (半空 bun3 hung1). 吊 diu3 = hang. 觀音 gun1 jam1 (line 8) = Guanyin, goddess of mercy."}
+  - {ref: 10, topic: vocab, text: "竹棚 zuk1 paang4 = bamboo scaffolding (竹 zuk1 'bamboo'). 包山 'bun tower'. 搭 'put up, build'. 掛滿 'hung all over'. 越…越… 'the more … the more …' (P16)."}
+  - {ref: 11, topic: vocab, text: "冧 lam3 = collapse, topple. 禁止 gam3 zi2 = ban, forbid. 恢復 fui1 fuk6 = resume, restore. 安全帶 on1 cyun4 daai2 'safety harness, seatbelt'."}
+  - {ref: 12, topic: vocab, text: "錯過 co3 gwo3 'miss (an event, a chance)'. 忙住 'busy with'."}
+  - {ref: 13, topic: vocab, text: "鑼鼓 lo4 gu2 = gongs and drums. 氣氛 hei3 fan1 = atmosphere. 活動 wut6 dung6 (line 20 context) = activity, event."}
+  - {ref: 14, topic: vocab, text: "印 jan3 = print, stamp. 歪 me2 = crooked. 餡 haam2 (line 18) = filling. 蓮蓉 'lotus-seed paste', 豆沙 dau6 saa1 'red-bean paste'. 口味 hau2 mei6 (line 19) = flavour; 朱古力 zyu1 gu1 lik1 = chocolate."}
+  - {ref: 21, topic: vocab, text: "第日 'one day, some day'. 娶長洲女仔 (line 23) 'marry a Cheung Chau girl' (娶, P31)."}
+  - {ref: 5, topic: vs-mandarin, text: "Cantonese 齋 zaai1 alone means vegetarian (食齋, 齋菜); Mandarin uses 素 (吃素, 素菜), keeping 齋 for religious fasting. Cantonese 麥當勞 and 漢堡包 are also Mandarin, but Mandarin says 漢堡 without 包."}
+pron:
+  - {ref: 1, text: "發酵 faat3 haau1: 酵 is haau1, not gaau3."}
+  - {ref: 11, text: "冧 'collapse' is lam3; lam1 is a different word, 'sweet-talk, charm'."}
+  - {ref: 14, text: "歪 'crooked' is me2 in speech; dictionaries also give waai1."}
+new_words:
+  - {jyutping: "co1", hanzi: 搓, en: "knead, rub"}
+  - {jyutping: "fan2", hanzi: 粉, en: "flour, dough"}
+  - {jyutping: "faat3 haau1", hanzi: 發酵, en: "rise, ferment"}
+  - {jyutping: "wan1 jik6", hanzi: 瘟疫, en: "plague"}
+  - {jyutping: "hoi2 dou6", hanzi: 海盜, en: "pirate"}
+  - {jyutping: "bak1 dai3", hanzi: 北帝, en: "Pak Tai (god)"}
+  - {jyutping: "keoi1", hanzi: 驅, en: "drive out"}
+  - {jyutping: "kei4 fuk1", hanzi: 祈福, en: "pray for blessings"}
+  - {jyutping: "taai3 ping4 cing1 ziu3", hanzi: 太平清醮, en: "Cheung Chau Jiao festival"}
+  - {jyutping: "sik6 zaai1", hanzi: 食齋, en: "eat vegetarian"}
+  - {jyutping: "zaai1", hanzi: 齋, en: "vegetarian, meatless"}
+  - {jyutping: "mak6 dong1 lou4", hanzi: 麥當勞, en: "McDonald's"}
+  - {jyutping: "hon3 bou2 baau1", hanzi: 漢堡包, en: "hamburger"}
+  - {jyutping: "piu1 sik1", hanzi: 飄色, en: "floating-children parade"}
+  - {jyutping: "gu2 zong1", hanzi: 古裝, en: "period costume"}
+  - {jyutping: "diu3", hanzi: 吊, en: "hang"}
+  - {jyutping: "bun3 hung1", hanzi: 半空, en: "mid-air"}
+  - {jyutping: "coeng2 baau1 saan1", hanzi: 搶包山, en: "bun scramble"}
+  - {jyutping: "zuk1 paang4", hanzi: 竹棚, en: "bamboo scaffolding"}
+  - {jyutping: "zuk1", hanzi: 竹, en: "bamboo"}
+  - {jyutping: "lam3", hanzi: 冧, en: "collapse"}
+  - {jyutping: "gam3 zi2", hanzi: 禁止, en: "ban, forbid"}
+  - {jyutping: "fui1 fuk6", hanzi: 恢復, en: "resume, restore"}
+  - {jyutping: "lo4 gu2", hanzi: 鑼鼓, en: "gongs and drums"}
+  - {jyutping: "hei3 fan1", hanzi: 氣氛, en: "atmosphere"}
+  - {jyutping: "wut6 dung6", hanzi: 活動, en: "activity, event"}
+  - {jyutping: "jan3", hanzi: 印, en: "print, stamp"}
+  - {jyutping: "dau6 saa1", hanzi: 豆沙, en: "red-bean paste"}
+  - {jyutping: "si3 haa5", hanzi: 試吓, en: "give it a try"}
+  - {jyutping: "sau2 zoeng2", hanzi: 手掌, en: "palm"}
+  - {jyutping: "ceon4 jau4", hanzi: 巡遊, en: "procession, parade"}
+  - {jyutping: "jyu1 si6", hanzi: 於是, en: "and so, thereupon"}
+  - {jyutping: "zi1 gaa3", hanzi: 支架, en: "frame, stand"}
+  - {jyutping: "gun1 jam1", hanzi: 觀音, en: "Guanyin"}
+  - {jyutping: "on1 cyun4 daai2", hanzi: 安全帶, en: "safety harness, seatbelt"}
+  - {jyutping: "co3 gwo3", hanzi: 錯過, en: "miss (a chance, an event)"}
+  - {jyutping: "me2", hanzi: 歪, en: "crooked"}
+  - {jyutping: "haam2", hanzi: 餡, en: "filling"}
+  - {jyutping: "hau2 mei6", hanzi: 口味, en: "flavour, taste"}
+  - {jyutping: "zyu1 gu1 lik1", hanzi: 朱古力, en: "chocolate"}
+exercises:
+  translate:
+    - {hanzi: "個個都好驚，年年都要拜神。", jyutping: "go3 go3 dou1 hou2 geng1, nin4 nin4 dou1 jiu3 baai3 san4.", en: "Everyone was terrified, so every year they have to worship the gods."}
+    - {hanzi: "太平清醮嗰三日，成個島都食齋。", jyutping: "taai3 ping4 cing1 ziu3 go2 saam1 jat6, seng4 go3 dou2 dou1 sik6 zaai1.", en: "For those three festival days, the whole island eats vegetarian."}
+    - {hanzi: "座包山冧咗之後，政府禁止咗搶包山。", jyutping: "zo6 baau1 saan1 lam3 zo2 zi1 hau6, zing3 fu2 gam3 zi2 zo2 coeng2 baau1 saan1.", en: "After the bun tower collapsed, the government banned the scramble."}
+    - {hanzi: "慢慢嚟，試吓再印一個。", jyutping: "maan6 maan2 lai4, si3 haa5 zoi3 jan3 jat1 go3.", en: "Take your time; try stamping another one."}
+    - {hanzi: "大家食得開開心心就得。", jyutping: "daai6 gaa1 sik6 dak1 hoi1 hoi1 sam1 sam1 zau6 dak1.", en: "As long as everyone enjoys eating."}
+  fill:
+    - {hanzi: "搓到個粉滑滑哋，先好___。", jyutping: "co1 dou3 go3 fan2 waat6 waat2 dei2, sin1 hou2 ___.", answer: "faat3 haau1", answer_hanzi: 發酵, en: "Knead the dough until it's smooth; then it'll rise well."}
+    - {hanzi: "啲小朋友好似吊喺___咁。", jyutping: "di1 siu2 pang4 jau5 hou2 ci5 diu3 hai2 ___ gam2.", answer: "bun3 hung1", answer_hanzi: 半空, en: "The children look as if they're hanging in mid-air."}
+    - {hanzi: "鑼鼓聲___都聽到。", jyutping: "lo4 gu2 seng1 ___ dou1 teng1 dou2.", answer: "jat6 jat6", answer_hanzi: 日日, en: "You hear the drums and gongs every day."}
+    - {hanzi: "到二零零五年先___搶包山。", jyutping: "dou3 ji6 ling4 ling4 ng5 nin4 sin1 ___ coeng2 baau1 saan1.", answer: "fui1 fuk6", answer_hanzi: 恢復, en: "The bun scramble only came back in 2005."}
+    - {hanzi: "每個包都要___「平安」兩個字。", jyutping: "mui5 go3 baau1 dou1 jiu3 ___ \"ping4 on1\" loeng5 go3 zi6.", answer: "jan3", answer_hanzi: 印, en: "Every bun has the two characters 'peace' stamped on it."}
