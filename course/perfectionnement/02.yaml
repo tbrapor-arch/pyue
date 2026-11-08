@@ -86,6 +86,7 @@ new_words:
   - {jyutping: "haa6 ng5 caa4", hanzi: 下午茶, en: "afternoon tea"}
   - {jyutping: "gaa1 jat1", hanzi: 加一, en: "10 % service charge"}
   - {jyutping: "zin1", hanzi: 煎, en: "fry (in a pan)"}
+  - {jyutping: "jam2 ban2", hanzi: 飲品, en: "drinks"}
 exercises:
   translate:
     - {hanzi: "凍奶茶走甜，唔該！", jyutping: "dung3 naai5 caa4 zau2 tim4, m4 goi1!", en: "Iced milk tea, no sugar, please!"}

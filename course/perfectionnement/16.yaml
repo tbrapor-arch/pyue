@@ -1,0 +1,103 @@
+# 進修 16. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 16
+title: {en: "Compare yourself with others and you'll die of it", jyutping: "jan4 bei2 jan4, bei2 sei2 jan4", hanzi: "人比人，比死人"}
+intro: "Hugo and Kayan size up the competition: comparing things with 比, 冇…咁, …過, 越嚟越 and 得滯."
+genre: dialogue
+review: false
+setting: "Mid-November. A bright new branch of the chain 新潮茶記 has opened three doors down from 梁記, with a queue outside. Hugo and Kayan go in 'undercover', wearing caps. Inside: white walls, QR codes on the tables, a milk-tea machine behind glass."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "嘩，排隊排到出街口。佢哋開張先一個禮拜，就多過我哋成個月嘅客。", jyutping: "waa3, paai4 deoi2 paai4 dou3 ceot1 gaai1 hau2. keoi5 dei6 hoi1 zoeng1 sin1 jat1 go3 lai5 baai3, zau6 do1 gwo3 ngo5 dei6 seng4 go3 jyut6 ge3 haak3.", en: "Wow, the queue goes all the way to the corner. They opened only a week ago and they've already had more customers than we get in a month."}
+  - {n: 2, speaker: Hugo, hanzi: "開張優惠嘛，飲品半價。過咗呢個月，未必有咁多人。", jyutping: "hoi1 zoeng1 jau1 wai6 maa3, jam2 ban2 bun3 gaa3. gwo3 zo2 ni1 go3 jyut6, mei6 bit1 jau5 gam3 do1 jan4.", en: "It's the opening offer: drinks half price. After this month there won't necessarily be so many people."}
+  - {n: 3, speaker: Staff, hanzi: "兩位？請坐呢度。掃枱面嘅二維碼落單，用手機俾錢就得。", jyutping: "loeng5 wai2? ceng2 co5 ni1 dou6. sou3 toi2 min2 ge3 ji6 wai4 maa5 lok6 daan1, jung6 sau2 gei1 bei2 cin2 zau6 dak1.", en: "Two? Please sit here. Scan the QR code on the table to order, and pay with your phone."}
+  - {n: 4, speaker: Hugo, hanzi: "（細聲）佢都冇問我哋想坐邊，亦都冇笑容。", jyutping: "(sai3 seng1) keoi5 dou1 mou5 man6 ngo5 dei6 soeng2 co5 bin1, jik6 dou1 mou5 siu3 jung4.", en: "(Quietly) She didn't even ask where we wanted to sit, and she didn't smile either."}
+  - {n: 5, speaker: Kayan, hanzi: "蓮姐都冇笑容，不過佢會叫你「靚仔」。比起冷冰冰嘅服務，我寧願俾蓮姐鬧。", jyutping: "lin4 ze2 dou1 mou5 siu3 jung4, bat1 gwo3 keoi5 wui5 giu3 nei5 \"leng3 zai2\". bei2 hei2 laang5 bing1 bing1 ge3 fuk6 mou6, ngo5 ning4 jyun2 bei2 lin4 ze2 naau6.", en: "Lin-ze doesn't smile either, but she calls you 'handsome'. Compared with ice-cold service, I'd rather be told off by Lin-ze."}
+  - {n: 6, speaker: Hugo, hanzi: "睇吓個餐牌：奶茶二十八蚊，貴過梁記八蚊。不過裝修靚好多，又光猛。", jyutping: "tai2 haa5 go3 caan1 paai2: naai5 caa4 ji6 sap6 baat3 man1, gwai3 gwo3 loeng4 gei3 baat3 man1. bat1 gwo3 zong1 sau1 leng3 hou2 do1, jau6 gwong1 maang5.", en: "Look at the menu: milk tea is twenty-eight dollars, eight more than at Leung Kee. But the decor is much nicer, and it's bright."}
+  - {n: 7, speaker: Kayan, hanzi: "梁記冇佢咁光猛，係真嘅。我阿爸話慳電，成日得一半燈着。", jyutping: "loeng4 gei3 mou5 keoi5 gam3 gwong1 maang5, hai6 zan1 ge3. ngo5 aa3 baa4 waa6 haan1 din6, sing4 jat6 dak1 jat1 bun3 dang1 zoek6.", en: "Leung Kee isn't as bright as this, that's true. Dad says it saves electricity; only half the lights are ever on."}
+  - {n: 8, speaker: Hugo, hanzi: "（指住玻璃後面）你睇，奶茶係部機器整嘅。撳一個掣，三十秒一杯。", jyutping: "(zi2 zyu6 bo1 lei1 hau6 min6) nei5 tai2, naai5 caa4 hai6 bou6 gei1 hei3 zing2 ge3. gam6 jat1 go3 zai3, saam1 sap6 miu5 jat1 bui1.", en: "(Pointing behind the glass) Look, the milk tea is made by a machine. Press a button: one cup every thirty seconds."}
+  - {n: 9, speaker: Kayan, hanzi: "快係快，但係有冇梁記咁滑，就要飲吓先知。", jyutping: "faai3 hai6 faai3, daan6 hai6 jau5 mou5 loeng4 gei3 gam3 waat6, zau6 jiu3 jam2 haa5 sin1 zi1.", en: "It's fast all right, but whether it's as smooth as Leung Kee's, we'll only know when we taste it."}
+  - {n: 10, speaker: Hugo, hanzi: "（飲咗一啖）嗯……甜得滯，茶味又唔夠濃。比梁記差，不過唔算難飲。", jyutping: "(jam2 zo2 jat1 daam6) m6 …… tim4 dak1 zai6, caa4 mei6 jau6 m4 gau3 nung4. bei2 loeng4 gei3 caa1, bat1 gwo3 m4 syun3 naan4 jam2.", en: "(After a sip) Hmm… too sweet, and the tea's not strong enough. Worse than Leung Kee's, but not undrinkable."}
+  - {n: 11, speaker: Kayan, hanzi: "我杯鴛鴦淡過水。不過你睇啲人，個個都影相打卡。", jyutping: "ngo5 bui1 jyun1 joeng1 taam5 gwo3 seoi2. bat1 gwo3 nei5 tai2 di1 jan4, go3 go3 dou1 jing2 soeng2 daa2 kaat1.", en: "My yuenyeung is weaker than water. But look at the people: everyone's taking photos to post."}
+  - {n: 12, speaker: Hugo, hanzi: "因為啲杯好靚囉。佢哋賣嘅唔係奶茶，係張相。", jyutping: "jan1 wai6 di1 bui1 hou2 leng3 lo1. keoi5 dei6 maai6 ge3 m4 hai6 naai5 caa4, hai6 zoeng1 soeng2.", en: "Because the cups are pretty, of course. What they're selling isn't milk tea, it's the photo."}
+  - {n: 13, speaker: Kayan, hanzi: "（突然壓低帽）喂！你睇窗口嗰度，係咪陳生？", jyutping: "(dat6 jin4 aat3 dai1 mou2) wai3! nei5 tai2 coeng1 hau2 go2 dou6, hai6 mai6 can4 saang1?", en: "(Suddenly pulling her cap down) Hey! Look over by the window: isn't that Mr Chan?"}
+  - {n: 14, speaker: Hugo, hanzi: "的士佬陳生？食開A餐，二十年冇變過嗰個？", jyutping: "dik1 si2 lou2 can4 saang1? sik6 hoi1 A caan1, ji6 sap6 nin4 mou5 bin3 gwo3 go2 go3?", en: "Mr Chan the taxi driver? The one who's had Set A every day for twenty years?"}
+  - {n: 15, speaker: Mr Chan, hanzi: "（見到佢哋，好尷尬）哎呀……嘉欣、阿果……我……我係嚟比較吓啫。", jyutping: "(gin3 dou2 keoi5 dei6, hou2 gaam3 gaai3) ai1 aa3 …… gaa1 jan1, aa3 gwo2 …… ngo5 …… ngo5 hai6 lai4 bei2 gaau3 haa5 ze1.", en: "(Seeing them, very embarrassed) Oh dear… Kayan, A-Gwo… I… I just came to compare, that's all."}
+  - {n: 16, speaker: Kayan, hanzi: "陳生，你都嚟比較？我哋都係！咁你覺得點呀？", jyutping: "can4 saang1, nei5 dou1 lai4 bei2 gaau3? ngo5 dei6 dou1 hai6! gam2 nei5 gok3 dak1 dim2 aa3?", en: "Mr Chan, you're comparing too? So are we! So what do you think?"}
+  - {n: 17, speaker: Mr Chan, hanzi: "呢度靚就靚，但係個餐細份過梁記，又貴過梁記。起碼要飲兩杯先夠。", jyutping: "ni1 dou6 leng3 zau6 leng3, daan6 hai6 go3 caan1 sai3 fan6 gwo3 loeng4 gei3, jau6 gwai3 gwo3 loeng4 gei3. hei2 maa5 jiu3 jam2 loeng5 bui1 sin1 gau3.", en: "It's pretty here, I'll give it that, but the set is smaller than Leung Kee's and dearer too. You need at least two cups before you've had enough."}
+  - {n: 18, speaker: Mr Chan, hanzi: "最緊要係，呢度冇人知道我飲開熱奶茶少甜。我嚟咗三次，次次都要自己撳。", jyutping: "zeoi3 gan2 jiu3 hai6, ni1 dou6 mou5 jan4 zi1 dou3 ngo5 jam2 hoi1 jit6 naai5 caa4 siu2 tim4. ngo5 lai4 zo2 saam1 ci3, ci3 ci3 dou1 jiu3 zi6 gei2 gam6.", en: "Most important of all, nobody here knows I always have hot milk tea, less sweet. I've been three times, and every time I have to press the buttons myself."}
+  - {n: 19, speaker: Hugo, hanzi: "呢樣嘢叫人情味。佢哋部機器幾犀利都冇。", jyutping: "ni1 joeng6 je5 giu3 jan4 cing4 mei6. keoi5 dei6 bou6 gei1 hei3 gei2 sai1 lei6 dou1 mou5.", en: "That's called the human touch. However clever their machine is, it doesn't have that."}
+  - {n: 20, speaker: Kayan, hanzi: "不過老實講，佢哋啲客越嚟越多，我哋啲客越嚟越老。人比人，比死人。", jyutping: "bat1 gwo3 lou5 sat6 gong2, keoi5 dei6 di1 haak3 jyut6 lai4 jyut6 do1, ngo5 dei6 di1 haak3 jyut6 lai4 jyut6 lou5. jan4 bei2 jan4, bei2 sei2 jan4.", en: "But to be honest, their customers keep growing and ours keep getting older. Compare yourself with others and you'll die of it."}
+  - {n: 21, speaker: Mr Chan, hanzi: "唔使比。聽朝七點半，我照舊坐門口第一張枱。", jyutping: "m4 sai2 bei2. ting1 ziu1 cat1 dim2 bun3, ngo5 ziu3 gau6 co5 mun4 hau2 dai6 jat1 zoeng1 toi2.", en: "No need to compare. Tomorrow at half past seven, I'll be at my usual table by the door."}
+  - {n: 22, speaker: Kayan, hanzi: "多謝你，陳生。不過呢件事，唔好話俾我阿爸知。佢知道我哋嚟咗，實黑面成個禮拜。", jyutping: "do1 ze6 nei5, can4 saang1. bat1 gwo3 ni1 gin6 si6, m4 hou2 waa6 bei2 ngo5 aa3 baa4 zi1. keoi5 zi1 dou3 ngo5 dei6 lai4 zo2, sat6 hak1 min6 seng4 go3 lai5 baai3.", en: "Thank you, Mr Chan. But don't tell my dad about this. If he finds out we came here, he'll sulk for a whole week."}
+  - {n: 23, speaker: Mr Chan, hanzi: "放心，我唔會講。你哋都唔好講我嚟過。", jyutping: "fong3 sam1, ngo5 m4 wui5 gong2. nei5 dei6 dou1 m4 hou2 gong2 ngo5 lai4 gwo3.", en: "Don't worry, I won't tell. And don't you tell anyone I came here."}
+  - {n: 24, speaker: Hugo, hanzi: "（行出門口）你知唔知，我哋三個而家好似二五仔咁。", jyutping: "(haang4 ceot1 mun4 hau2) nei5 zi1 m4 zi1, ngo5 dei6 saam1 go3 ji4 gaa1 hou2 ci5 ji6 ng5 zai2 gam2.", en: "(Walking out the door) You know, the three of us are like a bunch of traitors right now."}
+  - {n: 25, speaker: Kayan, hanzi: "唔係二五仔，係臥底。調查敵人，係為咗梁記。", jyutping: "m4 hai6 ji6 ng5 zai2, hai6 ngo6 dai2. diu6 caa4 dik6 jan4, hai6 wai6 zo2 loeng4 gei3.", en: "Not traitors, undercover agents. Investigating the enemy is for Leung Kee's sake."}
+notes:
+  - {ref: 1, topic: grammar, text: "Adjective + 過 + X = 'more … than X': 多過我哋成個月嘅客 'more than our whole month's customers'; 貴過梁記八蚊 'eight dollars dearer than Leung Kee' (line 6: the difference goes at the end); 淡過水 'weaker than water' (line 11); 細份過梁記 'smaller portions than Leung Kee' (line 17). This is the everyday Cantonese comparative."}
+  - {ref: 2, topic: vocab, text: "開張 hoi1 zoeng1 = open (a new shop). 優惠 jau1 wai6 = special offer, discount. 半價 'half price'."}
+  - {ref: 3, topic: vocab, text: "掃 sou3 = scan; also sweep. 二維碼 ji6 wai4 maa5 = QR code (lit. 'two-dimensional code'). 枱面 toi2 min2 = table top."}
+  - {ref: 4, topic: vocab, text: "笑容 siu3 jung4 = smile (noun). 亦都 jik6 dou1 = also, either (a little more formal than 都): 亦都冇笑容 'didn't smile either'."}
+  - {ref: 5, topic: grammar, text: "比起 X bei2 hei2 = compared with X: 比起冷冰冰嘅服務. 寧願 ning4 jyun2 = would rather. 冷冰冰 laang5 bing1 bing1 = ice-cold (ABB pattern, like 熱辣辣 in P2). 服務 fuk6 mou6 = service."}
+  - {ref: 6, topic: vocab, text: "裝修 zong1 sau1 = decor, fitting out; also 'renovate'. 光猛 gwong1 maang5 = bright, well-lit."}
+  - {ref: 7, topic: grammar, text: "A 冇 B 咁 + adjective = 'A is not as … as B': 梁記冇佢咁光猛. The question form: 有冇梁記咁滑 'is it as smooth as Leung Kee's?' (line 9). 慳電 haan1 din6 = save electricity (慳 'save, spare'). 燈 dang1 = light; 着 zoek6 = (of a light) be on."}
+  - {ref: 8, topic: vocab, text: "機器 gei1 hei3 = machine. 掣 zai3 = button, switch: 撳掣 'press a button' (撳, P3). 秒 miu5 = second. 指 zi2 = point (at). 玻璃 bo1 lei1 = glass."}
+  - {ref: 10, topic: grammar, text: "Adjective + 得滯 dak1 zai6 = too …: 甜得滯 'too sweet'; 太甜 is the same, more neutral. 比 + X + adjective also works: 比梁記差 'worse than Leung Kee' (more written in flavour than 差過梁記). 濃 nung4 = strong (tea, coffee). 唔算難飲 'not exactly undrinkable'."}
+  - {ref: 11, topic: vocab, text: "打卡 daa2 kaat1 = check in on social media, post a photo of a place (lit. 'clock in')."}
+  - {ref: 13, topic: vocab, text: "突然 dat6 jin4 = suddenly. 壓低 aat3 dai1 = press down, lower: 壓低帽 'pull one's cap down'. 窗口 coeng1 hau2 = by the window."}
+  - {ref: 17, topic: grammar, text: "A 就 A，但係… 'it may be A, but …': 靚就靚，但係… concedes a point before a 'but' (like 細係細, P1). 細份 'small portion'; 起碼 hei2 maa5 = at least: 起碼要飲兩杯."}
+  - {ref: 19, topic: vocab, text: "人情味 jan4 cing4 mei6 = the human touch, warmth between people. 幾 + adjective + 都 = however …: 幾犀利都冇 'however clever, it doesn't have it'."}
+  - {ref: 20, topic: grammar, text: "越嚟越 jyut6 lai4 jyut6 + adjective = more and more …: 越嚟越多, 越嚟越老. 人比人，比死人: comparing yourself with others will kill you."}
+  - {ref: 24, topic: vs-mandarin, text: "Comparison: Cantonese 貴過梁記 = Mandarin 比梁記貴; 冇佢咁光猛 = 沒有它那麼明亮; 甜得滯 = 太甜了. Both languages have 越來越 / 越嚟越. 二五仔 ji6 ng5 zai2 'traitor, turncoat' and 臥底 ngo6 dai2 'undercover agent' (line 25) come from Hong Kong gangster films."}
+pron:
+  - {ref: 8, text: "掣 'switch' is zai3; 秒 'second' is miu5, not miu2."}
+  - {ref: 10, text: "濃 'strong (tea)' is nung4; you will also hear jung4."}
+  - {ref: 24, text: "二五仔 ji6 ng5 zai2: 五 is the syllabic nasal ng5, no vowel."}
+new_words:
+  - {jyutping: "hoi1 zoeng1", hanzi: 開張, en: "open (a new shop)"}
+  - {jyutping: "jau1 wai6", hanzi: 優惠, en: "special offer, discount"}
+  - {jyutping: "sou3", hanzi: 掃, en: "scan; sweep"}
+  - {jyutping: "ji6 wai4 maa5", hanzi: 二維碼, en: "QR code"}
+  - {jyutping: "siu3 jung4", hanzi: 笑容, en: "smile"}
+  - {jyutping: "bei2 hei2", hanzi: 比起, en: "compared with"}
+  - {jyutping: "laang5 bing1 bing1", hanzi: 冷冰冰, en: "ice-cold"}
+  - {jyutping: "fuk6 mou6", hanzi: 服務, en: "service"}
+  - {jyutping: "zong1 sau1", hanzi: 裝修, en: "decor; renovate"}
+  - {jyutping: "gwong1 maang5", hanzi: 光猛, en: "bright, well-lit"}
+  - {jyutping: "dang1", hanzi: 燈, en: "light, lamp"}
+  - {jyutping: "gei1 hei3", hanzi: 機器, en: "machine"}
+  - {jyutping: "dak1 zai6", hanzi: 得滯, en: "too (after an adjective)"}
+  - {jyutping: "nung4", hanzi: 濃, en: "strong (tea, coffee)"}
+  - {jyutping: "daa2 kaat1", hanzi: 打卡, en: "post a photo of a place, check in"}
+  - {jyutping: "dat6 jin4", hanzi: 突然, en: "suddenly"}
+  - {jyutping: "bei2 gaau3", hanzi: 比較, en: "compare; comparatively"}
+  - {jyutping: "hei2 maa5", hanzi: 起碼, en: "at least"}
+  - {jyutping: "jan4 cing4 mei6", hanzi: 人情味, en: "human warmth"}
+  - {jyutping: "jyut6 lai4 jyut6", hanzi: 越嚟越, en: "more and more"}
+  - {jyutping: "ji6 ng5 zai2", hanzi: 二五仔, en: "traitor, turncoat"}
+  - {jyutping: "jik6 dou1", hanzi: 亦都, en: "also, either"}
+  - {jyutping: "ning4 jyun2", hanzi: 寧願, en: "would rather"}
+  - {jyutping: "zai3", hanzi: 掣, en: "button, switch"}
+  - {jyutping: "miu5", hanzi: 秒, en: "second"}
+  - {jyutping: "zi2", hanzi: 指, en: "point (at)"}
+  - {jyutping: "bo1 lei1", hanzi: 玻璃, en: "glass"}
+  - {jyutping: "haan1", hanzi: 慳, en: "save, spare"}
+  - {jyutping: "bun3 gaa3", hanzi: 半價, en: "half price"}
+  - {jyutping: "coeng1 hau2", hanzi: 窗口, en: "by the window; window"}
+  - {jyutping: "ziu3 gau6", hanzi: 照舊, en: "as usual"}
+  - {jyutping: "zat1 sou3", hanzi: 質素, en: "quality"}
+  - {jyutping: "aat3 dai1", hanzi: 壓低, en: "press down, lower"}
+  - {jyutping: "ngo6 dai2", hanzi: 臥底, en: "undercover agent"}
+  - {jyutping: "dik6 jan4", hanzi: 敵人, en: "enemy"}
+  - {jyutping: "diu6 caa4", hanzi: 調查, en: "investigate"}
+exercises:
+  translate:
+    - {hanzi: "呢間舖貴過嗰間，不過質素好啲。", jyutping: "ni1 gaan1 pou3 gwai3 gwo3 go2 gaan1, bat1 gwo3 zat1 sou3 hou2 di1.", en: "This shop is dearer than that one, but the quality is better."}
+    - {hanzi: "我冇我哥哥咁高。", jyutping: "ngo5 mou5 ngo5 go4 go1 gam3 gou1.", en: "I'm not as tall as my elder brother."}
+    - {hanzi: "呢杯咖啡苦得滯，我飲唔落。", jyutping: "ni1 bui1 gaa3 fe1 fu2 dak1 zai6, ngo5 jam2 m4 lok6.", en: "This coffee is too bitter; I can't drink it."}
+    - {hanzi: "香港嘅租金越嚟越貴。", jyutping: "hoeng1 gong2 ge3 zou1 gam1 jyut6 lai4 jyut6 gwai3.", en: "Rents in Hong Kong are getting more and more expensive."}
+    - {hanzi: "比起機器，我寧願要有人情味嘅服務。", jyutping: "bei2 hei2 gei1 hei3, ngo5 ning4 jyun2 jiu3 jau5 jan4 cing4 mei6 ge3 fuk6 mou6.", en: "Compared with machines, I'd rather have service with a human touch."}
+  fill:
+    - {hanzi: "佢杯奶茶甜___梁記。", jyutping: "keoi5 bui1 naai5 caa4 tim4 ___ loeng4 gei3.", answer: "gwo3", answer_hanzi: 過, en: "Their milk tea is sweeter than Leung Kee's."}
+    - {hanzi: "梁記冇佢哋___光猛。", jyutping: "loeng4 gei3 mou5 keoi5 dei6 ___ gwong1 maang5.", answer: "gam3", answer_hanzi: 咁, en: "Leung Kee isn't as bright as their place."}
+    - {hanzi: "你要飲___兩杯先夠。", jyutping: "nei5 jiu3 jam2 ___ loeng5 bui1 sin1 gau3.", answer: "hei2 maa5", answer_hanzi: 起碼, en: "You need to drink at least two cups to be satisfied."}
+    - {hanzi: "靚就靚，___貴得滯。", jyutping: "leng3 zau6 leng3, ___ gwai3 dak1 zai6.", answer: "daan6 hai6", answer_hanzi: 但係, en: "It's pretty, sure, but it's too expensive."}
+    - {hanzi: "我___俾蓮姐鬧，都唔想飲機器整嘅奶茶。", jyutping: "ngo5 ___ bei2 lin4 ze2 naau6, dou1 m4 soeng2 jam2 gei1 hei3 zing2 ge3 naai5 caa4.", answer: "ning4 jyun2", answer_hanzi: 寧願, en: "I'd rather get told off by Lin-ze than drink machine-made milk tea."}
