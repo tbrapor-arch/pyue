@@ -18,7 +18,7 @@ dialogue:
   - {n: 10, speaker: Lok-zai, hanzi: "我婆婆喺度做咗三十年，佢一路斟茶，一路幫我睇默書。我唔識嘅字，佢就叫我問啲客。", jyutping: "ngo5 po4 po2 hai2 dou6 zou6 zo2 saam1 sap6 nin4, keoi5 jat1 lou6 zam1 caa4, jat1 lou6 bong1 ngo5 tai2 mak6 syu1. ngo5 m4 sik1 ge3 zi6, keoi5 zau6 giu3 ngo5 man6 di1 haak3.", en: "My grandma has worked here for thirty years. She pours tea and checks my dictation at the same time. If there's a character I don't know, she tells me to ask the customers."}
   - {n: 11, speaker: Lok-zai, hanzi: "梁記嘅客好特別：有一個好惡樣嘅廚師，其實佢好好人；有一個法國哥哥，佢嘅廣東話比我爸爸仲好；仲有一個成日板起塊面嘅老闆，但係佢偷偷俾多咗塊牛油我。", jyutping: "loeng4 gei3 ge3 haak3 hou2 dak6 bit6: jau5 jat1 go3 hou2 ok3 joeng2 ge3 cyu4 si1, kei4 sat6 keoi5 hou2 hou2 jan4; jau5 jat1 go3 faat3 gwok3 go4 go1, keoi5 ge3 gwong2 dung1 waa2 bei2 ngo5 baa4 baa1 zung6 hou2; zung6 jau5 jat1 go3 sing4 jat6 baan2 hei2 faai3 min6 ge3 lou5 baan2, daan6 hai6 keoi5 tau1 tau1 bei2 do1 zo2 faai3 ngau4 jau4 ngo5.", en: "The people at 梁記 are special: there's a scary-looking cook who's actually a really kind man; there's a French big brother whose Cantonese is better than my dad's; and there's a boss who always keeps a straight face, but secretly gives me extra butter."}
   - {n: 12, speaker: Keung-go, hanzi: "（喺廚房探個頭出嚟）邊個惡樣呀？", jyutping: "(hai2 cyu4 fong2 taam3 go3 tau4 ceot1 lai4) bin1 go3 ok3 joeng2 aa3?", en: "(Poking his head out of the kitchen) Who's scary-looking?"}
-  - {n: 13, speaker: Lok-zai, hanzi: "總括嚟講，梁記唔係一間大餐廳，唔係一間新餐廳，但係係一間好溫暖嘅舖頭。多謝各位。", jyutping: "zung2 kut3 lai4 gong2, loeng4 gei3 m4 hai6 jat1 gaan1 daai6 caan1 teng1, m4 hai6 jat1 gaan1 san1 caan1 teng1, daan6 hai6 hai6 jat1 gaan1 hou2 wan1 nyun5 ge3 pou3 tau2. do1 ze6 gok3 wai2.", en: "To sum up, 梁記 isn't a big restaurant or a new restaurant, but it's a very warm little shop. Thank you."}
+  - {n: 13, speaker: Lok-zai, hanzi: "總括嚟講，梁記唔係一間大餐廳，唔係一間新餐廳，但係係一間好溫暖嘅舖頭。下個月，佢就五十五周年。多謝各位。", jyutping: "zung2 kut3 lai4 gong2, loeng4 gei3 m4 hai6 jat1 gaan1 daai6 caan1 teng1, m4 hai6 jat1 gaan1 san1 caan1 teng1, daan6 hai6 hai6 jat1 gaan1 hou2 wan1 nyun5 ge3 pou3 tau2. haa6 go3 jyut6, keoi5 zau6 ng5 sap6 ng5 zau1 nin4. do1 ze6 gok3 wai2.", en: "To sum up, 梁記 isn't a big restaurant or a new restaurant, but it's a very warm little shop. Next month it turns fifty-five. Thank you."}
   - {n: 14, speaker: Hugo, hanzi: "（鼓掌）好嘢！一分鐘五十秒，啱啱好。", jyutping: "(gu2 zoeng2) hou2 je5! jat1 fan1 zung1 ng5 sap6 miu5, ngaam1 ngaam1 hou2.", en: "(Applauding) Great! One minute fifty: just right."}
   - {n: 15, speaker: Lin-ze, hanzi: "講得好流利，冇口窒。不過結尾可以慢啲，望住老師講。", jyutping: "gong2 dak1 hou2 lau4 lei6, mou5 hau2 zat6. bat1 gwo3 git3 mei5 ho2 ji5 maan6 di1, mong6 zyu6 lou5 si1 gong2.", en: "Very fluent, no stumbling. But slow down at the end, and look at the teacher as you speak."}
   - {n: 16, speaker: Leung Pak, hanzi: "開頭講得好。不過「偷偷俾多塊牛油」嗰句，唔好講，你班主任會以為我做生意唔老實。", jyutping: "hoi1 tau4 gong2 dak1 hou2. bat1 gwo3 \"tau1 tau1 bei2 do1 faai3 ngau4 jau4\" go2 geoi3, m4 hou2 gong2, nei5 baan1 zyu2 jam6 wui5 ji5 wai4 ngo5 zou6 saang1 ji3 m4 lou5 sat6.", en: "Good opening. But the line about the secret extra butter, leave it out; your form teacher will think I'm a dishonest businessman."}
@@ -34,7 +34,7 @@ notes:
   - {ref: 2, topic: vocab, text: "測驗 caak1 jim6 = test, quiz (smaller than 考試). 口窒 hau2 zat6 = stumble over words, get tongue-tied. 分 'mark, point'."}
   - {ref: 4, topic: culture, text: "A school talk opens with a fixed formula: 各位老師、各位同學，大家好 and closes with 多謝各位."}
   - {ref: 5, topic: grammar, text: "Attributive adjectives (P43): bound, often fixed combinations with no 嘅: 舊式吊扇 'old-style ceiling fan' (舊式 gau6 sik1, 吊扇 diu3 sin3), 黑白照片 'black-and-white photos'. Modified adjectives need 嘅: 好舊嘅掛鐘 'a very old wall clock' (掛鐘 gwaa3 zung1). 照片 ziu3 pin2 = photo."}
-  - {ref: 5, topic: grammar, text: "Structuring a talk: 首先 'first', 其次 'second' (line 8), 第三 'third' (line 9), 總括嚟講 'to sum up' (line 13). 開頭 hoi1 tau4 / 結尾 git3 mei5 (lines 15–16) = beginning / ending."}
+  - {ref: 5, topic: grammar, text: "Structuring a talk: 首先 'first', 其次 'second' (line 8), 第三 'third' (line 9), 總括嚟講 'to sum up' (line 13). 周年 zau1 nin4 = anniversary: 五十五周年. 開頭 hoi1 tau4 / 結尾 git3 mei5 (lines 15–16) = beginning / ending."}
   - {ref: 6, topic: vocab, text: "慢咗五分鐘 'five minutes slow' (adjective + 咗 + amount, P44). 校 gaau3 'adjust, set (a clock)'."}
   - {ref: 8, topic: vocab, text: "脆卜卜 ceoi3 bok1 bok1 'crunchy' (ABB, P22). 一塊凍牛油 'a slab of cold butter': the 菠蘿油 (P2) is a pineapple bun split with butter."}
   - {ref: 10, topic: vocab, text: "斟茶 'pour tea' (斟 zam1 'pour'). 默書 mak6 syu1 = dictation, a weekly test in Hong Kong schools: you write a passage from memory."}
@@ -74,6 +74,7 @@ new_words:
   - {jyutping: "tau1 tau1", hanzi: 偷偷, en: "secretly"}
   - {jyutping: "ngaam1 ngaam1 hou2", hanzi: 啱啱好, en: "just right"}
   - {jyutping: "zou6 gung1 fo3", hanzi: 做功課, en: "do homework"}
+  - {jyutping: "zau1 nin4", hanzi: 周年, en: "anniversary"}
 exercises:
   translate:
     - {hanzi: "佢間舖有一把舊式吊扇同一個好舊嘅掛鐘。", jyutping: "keoi5 gaan1 pou3 jau5 jat1 baa2 gau6 sik1 diu3 sin3 tung4 jat1 go3 hou2 gau6 ge3 gwaa3 zung1.", en: "His shop has an old-style ceiling fan and a very old wall clock."}
