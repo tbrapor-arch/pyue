@@ -1,0 +1,97 @@
+# 進修 23. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 23
+title: {en: "From Taishan", jyutping: "jau4 toi4 saan1 lai4", hanzi: "由台山嚟"}
+intro: "An oral-history interview: talking about the past and about need and nerve, with 敢, 使 and 唔使."
+genre: interview
+review: false
+setting: "A quiet afternoon in late December. Kayan is recording the stories of 梁記's old staff for the shop's fiftieth-anniversary-plus-five next year, and starts with 蓮姐 in booth three. 梁伯 is reading the paper at the counter and listening."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "蓮姐，多謝你肯做訪問。我想記低梁記啲老員工嘅故事。你喺邊度出世？", jyutping: "lin4 ze2, do1 ze6 nei5 hang2 zou6 fong2 man6. ngo5 soeng2 gei3 dai1 loeng4 gei3 di1 lou5 jyun4 gung1 ge3 gu3 si6. nei5 hai2 bin1 dou6 ceot1 sai3?", en: "Lin-ze, thank you for doing this interview. I want to record the stories of Leung Kee's old staff. Where were you born?"}
+  - {n: 2, speaker: Lin-ze, hanzi: "台山，一條好細嘅村。屋企好窮，七個兄弟姊妹，我排第四。", jyutping: "toi4 saan1, jat1 tiu4 hou2 sai3 ge3 cyun1. uk1 kei2 hou2 kung4, cat1 go3 hing1 dai6 zi2 mui6, ngo5 paai4 dai6 sei3.", en: "Taishan, a very small village. My family was very poor: seven brothers and sisters, and I was fourth."}
+  - {n: 3, speaker: Kayan, hanzi: "你幾時嚟香港？", jyutping: "nei5 gei2 si4 lai4 hoeng1 gong2?", en: "When did you come to Hong Kong?"}
+  - {n: 4, speaker: Lin-ze, hanzi: "一九八五年，我十五歲。拎住張單程證，同阿媽一齊落嚟。阿爸早幾年已經喺香港做嘢。", jyutping: "jat1 gau2 baat3 ng5 nin4, ngo5 sap6 ng5 seoi3. ling1 zyu6 zoeng1 daan1 cing4 zing3, tung4 aa3 maa1 jat1 cai4 lok6 lai4. aa3 baa4 zou2 gei2 nin4 ji5 ging1 hai2 hoeng1 gong2 zou6 je5.", en: "In 1985, when I was fifteen. I came down with my mum on a one-way permit. My dad had already been working in Hong Kong for a few years."}
+  - {n: 5, speaker: Kayan, hanzi: "第一次嚟到香港，你有咩感覺？", jyutping: "dai6 jat1 ci3 lai4 dou3 hoeng1 gong2, nei5 jau5 me1 gam2 gok3?", en: "How did you feel when you first arrived in Hong Kong?"}
+  - {n: 6, speaker: Lin-ze, hanzi: "驚！啲樓咁高，啲人行得咁快。我唔敢一個人出街，驚蕩失路。", jyutping: "geng1! di1 lau4 gam3 gou1, di1 jan4 haang4 dak1 gam3 faai3. ngo5 m4 gam2 jat1 go3 jan4 ceot1 gaai1, geng1 dong6 sat1 lou6.", en: "Scared! The buildings were so tall and people walked so fast. I didn't dare go out alone, in case I got lost."}
+  - {n: 7, speaker: Kayan, hanzi: "你嗰陣識唔識講廣東話？", jyutping: "nei5 go2 zan6 sik1 m4 sik1 gong2 gwong2 dung1 waa2?", en: "Could you speak Cantonese then?"}
+  - {n: 8, speaker: Lin-ze, hanzi: "識少少。台山話同廣州話差好遠。我講嘢好重鄉下音，啲同學笑我係「鄉下妹」。", jyutping: "sik1 siu2 siu2. toi4 saan1 waa2 tung4 gwong2 zau1 waa2 caa1 hou2 jyun5. ngo5 gong2 je5 hou2 cung5 hoeng1 haa2 jam1, di1 tung4 hok6 siu3 ngo5 hai6 \"hoeng1 haa2 mui1\".", en: "A little. Taishanese and Guangzhou Cantonese are very different. I had a strong village accent, and my classmates laughed at me: 'country girl'."}
+  - {n: 9, speaker: Kayan, hanzi: "你有冇讀書？", jyutping: "nei5 jau5 mou5 duk6 syu1?", en: "Did you go to school?"}
+  - {n: 10, speaker: Lin-ze, hanzi: "讀咗一年夜校，之後就去觀塘間工廠返工。車衫，一日車十二個鐘，車到手都痛埋。", jyutping: "duk6 zo2 jat1 nin4 je6 haau6, zi1 hau6 zau6 heoi3 gun1 tong4 gaan1 gung1 cong2 faan1 gung1. ce1 saam1, jat1 jat6 ce1 sap6 ji6 go3 zung1, ce1 dou3 sau2 dou1 tung3 maai4.", en: "I did a year of night school, then went to work in a factory in Kwun Tong. Sewing clothes, twelve hours a day, till even my hands hurt."}
+  - {n: 11, speaker: Kayan, hanzi: "咁辛苦，你使唔使俾錢屋企？", jyutping: "gam3 san1 fu2, nei5 sai2 m4 sai2 bei2 cin2 uk1 kei2?", en: "Such hard work: did you have to give money to your family?"}
+  - {n: 12, speaker: Lin-ze, hanzi: "梗係使！人工一半俾阿媽，一半儲起。我仲要寄錢返鄉下俾阿嫲。", jyutping: "gang2 hai6 sai2! jan4 gung1 jat1 bun3 bei2 aa3 maa1, jat1 bun3 cyu5 hei2. ngo5 zung6 jiu3 gei3 cin2 faan1 hoeng1 haa2 bei2 aa3 maa4.", en: "Of course! Half my wages went to Mum and half I saved. And I had to send money back to the village for my grandmother."}
+  - {n: 13, speaker: Kayan, hanzi: "你有冇諗過返台山住？", jyutping: "nei5 jau5 mou5 nam2 gwo3 faan1 toi4 saan1 zyu6?", en: "Did you ever think of going back to live in Taishan?"}
+  - {n: 14, speaker: Lin-ze, hanzi: "諗過，不過返去做乜？鄉下啲人走晒，好多去咗美國。我有個舅父喺三藩市，講咗六十年台山話。", jyutping: "nam2 gwo3, bat1 gwo3 faan1 heoi3 zou6 mat1? hoeng1 haa2 di1 jan4 zau2 saai3, hou2 do1 heoi3 zo2 mei5 gwok3. ngo5 jau5 go3 kau5 fu2 hai2 saam1 faan4 si5, gong2 zo2 luk6 sap6 nin4 toi4 saan1 waa2.", en: "I did, but what would I go back for? Everyone in the village has left; lots went to America. I have an uncle in San Francisco who's been speaking Taishanese there for sixty years."}
+  - {n: 15, speaker: Kayan, hanzi: "咁你點解會嚟梁記？", jyutping: "gam2 nei5 dim2 gaai2 wui5 lai4 loeng4 gei3?", en: "So how did you end up at Leung Kee?"}
+  - {n: 16, speaker: Lin-ze, hanzi: "九十年代啲工廠搬晒上大陸，我冇咗份工。你阿爸請人，我就嚟咗，一做就三十年。", jyutping: "gau2 sap6 nin4 doi6 di1 gung1 cong2 bun1 saai3 soeng5 daai6 luk6, ngo5 mou5 zo2 fan6 gung1. nei5 aa3 baa4 ceng2 jan4, ngo5 zau6 lai4 zo2, jat1 zou6 zau6 saam1 sap6 nin4.", en: "In the nineties the factories all moved up to the mainland and I lost my job. Your dad was hiring, so I came, and I've stayed thirty years."}
+  - {n: 17, speaker: Leung Pak, hanzi: "（喺櫃面）佢嚟見工嗰日，打爛咗三隻杯。", jyutping: "(hai2 gwai6 min2) keoi5 lai4 gin3 gung1 go2 jat6, daa2 laan6 zo2 saam1 zek3 bui1.", en: "(From the counter) The day she came for her interview, she broke three glasses."}
+  - {n: 18, speaker: Lin-ze, hanzi: "你又講！嗰日我好緊張咋。", jyutping: "nei5 jau6 gong2! go2 jat6 ngo5 hou2 gan2 zoeng1 zaa3.", en: "You're bringing that up again! I was just very nervous that day."}
+  - {n: 19, speaker: Kayan, hanzi: "你覺得自己係香港人，定係台山人？", jyutping: "nei5 gok3 dak1 zi6 gei2 hai6 hoeng1 gong2 jan4, ding6 hai6 toi4 saan1 jan4?", en: "Do you feel you're a Hongkonger, or a Taishan person?"}
+  - {n: 20, speaker: Lin-ze, hanzi: "兩樣都係。喺度住咗四十年，我早就適應咗。不過發夢嘅時候，我仲係講台山話。", jyutping: "loeng5 joeng6 dou1 hai6. hai2 dou6 zyu6 zo2 sei3 sap6 nin4, ngo5 zou2 zau6 sik1 jing3 zo2. bat1 gwo3 faat3 mung6 ge3 si4 hau6, ngo5 zung6 hai6 gong2 toi4 saan1 waa2.", en: "Both. I've lived here forty years; I adapted long ago. But when I dream, I still speak Taishanese."}
+  - {n: 21, speaker: Kayan, hanzi: "而家好多香港人移民去外國，你有冇諗過？", jyutping: "ji4 gaa1 hou2 do1 hoeng1 gong2 jan4 ji4 man4 heoi3 ngoi6 gwok3, nei5 jau5 mou5 nam2 gwo3?", en: "Lots of Hongkongers are emigrating abroad these days. Have you ever thought about it?"}
+  - {n: 22, speaker: Lin-ze, hanzi: "我？我已經移過一次民喇，唔使再移。我留低，睇住梁記，睇住樂仔。", jyutping: "ngo5? ngo5 ji5 ging1 ji4 gwo3 jat1 ci3 man4 laa3, m4 sai2 zoi3 ji4. ngo5 lau4 dai1, tai2 zyu6 loeng4 gei3, tai2 zyu6 lok6 zai2.", en: "Me? I've already emigrated once; I don't need to do it again. I'm staying, to look after Leung Kee and Lok-zai."}
+  - {n: 23, speaker: Kayan, hanzi: "最後一條問題：如果你可以同十五歲嘅自己講一句說話，你會講咩？", jyutping: "zeoi3 hau6 jat1 tiu4 man6 tai4: jyu4 gwo2 nei5 ho2 ji5 tung4 sap6 ng5 seoi3 ge3 zi6 gei2 gong2 jat1 geoi3 syut3 waa6, nei5 wui5 gong2 me1?", en: "Last question: if you could say one thing to your fifteen-year-old self, what would it be?"}
+  - {n: 24, speaker: Lin-ze, hanzi: "「唔使驚。嗰啲笑你嘅人，第日會飲你沖嘅奶茶。」", jyutping: "\"m4 sai2 geng1. go2 di1 siu3 nei5 ge3 jan4, dai6 jat6 wui5 jam2 nei5 cung1 ge3 naai5 caa4.\"", en: "'Don't be afraid. The people who laugh at you will drink your milk tea one day.'"}
+  - {n: 25, speaker: Kayan, hanzi: "蓮姐……你搞到我想喊。", jyutping: "lin4 ze2 …… nei5 gaau2 dou3 ngo5 soeng2 haam3.", en: "Lin-ze… you're making me want to cry."}
+notes:
+  - {ref: 1, topic: vocab, text: "訪問 fong2 man6 = interview; to interview. 記低 gei3 dai1 = write down, record. 員工 jyun4 gung1 = staff, employee. 出世 ceot1 sai3 = be born."}
+  - {ref: 2, topic: vocab, text: "村 cyun1 = village (classifier 條). 窮 kung4 = poor. 兄弟姊妹 hing1 dai6 zi2 mui6 = brothers and sisters. 排第四 'fourth in line': 排 paai4 'rank, line up'."}
+  - {ref: 4, topic: culture, text: "單程證 daan1 cing4 zing3 = the 'one-way permit' that lets mainland residents settle in Hong Kong, mostly to join family. 落嚟 'come down' (to Hong Kong, from the north); the opposite 上大陸 / 上內地 'go up' (line 16). 拎住 'holding'."}
+  - {ref: 6, topic: grammar, text: "敢 gam2 = dare: 唔敢一個人出街 'didn't dare go out alone'; question 你敢唔敢？ 'do you dare?'. The verb follows directly, like 想 or 肯."}
+  - {ref: 8, topic: culture, text: "台山話 Taishanese is a Yue language of its own, hard for Guangzhou or Hong Kong Cantonese speakers to follow (P24). 重 cung5 = heavy, strong: 好重鄉下音 'a strong village accent'. 鄉下妹 hoeng1 haa2 mui1 'country girl' (a tease)."}
+  - {ref: 10, topic: vocab, text: "夜校 je6 haau6 = night school. 工廠 gung1 cong2 = factory: Kwun Tong's factory buildings (P5) were full of garment workers in the 1980s. 車衫 ce1 saam1 = sew clothes (on a machine): 車 is the verb 'machine-sew'. 車到手都痛埋 'sewed till even her hands hurt': 到 of degree (P4)."}
+  - {ref: 11, topic: grammar, text: "使 sai2 = need to (mostly in questions and negatives): 使唔使俾錢？ 'did you have to pay?' — 梗係使 'of course I did' (line 12); 唔使再移 'no need to emigrate again' (line 22). 唔使 also means 'don't bother': 唔使驚 'don't be afraid' (line 24)."}
+  - {ref: 12, topic: vocab, text: "儲起 cyu5 hei2 'save up' (儲, P6). 寄錢 gei3 cin2 'send money'. 阿嫲 aa3 maa4 = grandmother (father's mother)."}
+  - {ref: 14, topic: culture, text: "Taishan is the home of the old Chinese communities in America: for over a century, emigrants from its villages went to 金山 'Gold Mountain', above all San Francisco (三藩市 saam1 faan4 si5). Old Chinatown Cantonese is often Taishanese. 舅父 kau5 fu2 = uncle (mother's brother). 美國 mei5 gwok3 = USA."}
+  - {ref: 16, topic: vocab, text: "大陸 daai6 luk6 = the mainland (older word; today 內地, P19). 請人 ceng2 jan4 = hire staff. 一做就三十年 'once she started, it was thirty years' (一 V 就, P3). 見工 gin3 gung1 (line 17) = job interview. 打爛 daa2 laan6 = break, smash. 櫃面 'counter'."}
+  - {ref: 18, topic: grammar, text: "咋 zaa3 = only, just (= 啫, but firmer): 我好緊張咋 'I was only nervous'. 你又講！ 'you're bringing that up again!'"}
+  - {ref: 20, topic: vocab, text: "適應 sik1 jing3 = adapt, get used to. 早就 zou2 zau6 'long ago already'. 發夢 faat3 mung6 = dream (verb); 夢 'dream', P20. 香港人 'Hongkonger'; 台山人 'a Taishan person'."}
+  - {ref: 22, topic: grammar, text: "移民 ji4 man4 = emigrate; emigrant. As a verb-object compound it splits: 移過一次民 'have emigrated once' (P22). 留低 lau4 dai1 = stay (behind), remain. 第日 dai6 jat6 (line 24) = some day, later. 說話 syut3 waa6 = words, what one says: 講一句說話 'say one thing'."}
+  - {ref: 6, topic: vs-mandarin, text: "敢 is shared (不敢 / 唔敢). 使 'need' is Cantonese: Mandarin says 需要 or 用 (要不要給錢？ / 不用怕). 唔使 = 不用 / 不必. 出世 = 出生, 見工 = 面試, 車衫 = 縫衣服."}
+pron:
+  - {ref: 2, text: "窮 'poor' is kung4, with k-, not king4."}
+  - {ref: 14, text: "三藩市 saam1 faan4 si5 'San Francisco': 藩 is faan4."}
+  - {ref: 18, text: "咋 'only' is zaa3, short and firm; 啫 ze1 is softer."}
+new_words:
+  - {jyutping: "fong2 man6", hanzi: 訪問, en: "interview"}
+  - {jyutping: "gei3 dai1", hanzi: 記低, en: "write down, record"}
+  - {jyutping: "jyun4 gung1", hanzi: 員工, en: "staff, employee"}
+  - {jyutping: "ceot1 sai3", hanzi: 出世, en: "be born"}
+  - {jyutping: "toi4 saan1", hanzi: 台山, en: "Taishan"}
+  - {jyutping: "cyun1", hanzi: 村, en: "village"}
+  - {jyutping: "kung4", hanzi: 窮, en: "poor"}
+  - {jyutping: "hing1 dai6 zi2 mui6", hanzi: 兄弟姊妹, en: "brothers and sisters"}
+  - {jyutping: "daan1 cing4 zing3", hanzi: 單程證, en: "one-way permit"}
+  - {jyutping: "gam2", hanzi: 敢, en: "dare"}
+  - {jyutping: "hoeng1 haa2 mui1", hanzi: 鄉下妹, en: "country girl"}
+  - {jyutping: "je6 haau6", hanzi: 夜校, en: "night school"}
+  - {jyutping: "gung1 cong2", hanzi: 工廠, en: "factory"}
+  - {jyutping: "ce1 saam1", hanzi: 車衫, en: "sew clothes"}
+  - {jyutping: "aa3 maa4", hanzi: 阿嫲, en: "grandmother (father's mother)"}
+  - {jyutping: "kau5 fu2", hanzi: 舅父, en: "uncle (mother's brother)"}
+  - {jyutping: "saam1 faan4 si5", hanzi: 三藩市, en: "San Francisco"}
+  - {jyutping: "mei5 gwok3", hanzi: 美國, en: "USA, America"}
+  - {jyutping: "daai6 luk6", hanzi: 大陸, en: "the mainland"}
+  - {jyutping: "ceng2 jan4", hanzi: 請人, en: "hire staff"}
+  - {jyutping: "gin3 gung1", hanzi: 見工, en: "job interview"}
+  - {jyutping: "daa2 laan6", hanzi: 打爛, en: "break, smash"}
+  - {jyutping: "faat3 mung6", hanzi: 發夢, en: "dream"}
+  - {jyutping: "sik1 jing3", hanzi: 適應, en: "adapt"}
+  - {jyutping: "ji4 man4", hanzi: 移民, en: "emigrate; emigrant"}
+  - {jyutping: "lau4 dai1", hanzi: 留低, en: "stay, remain"}
+  - {jyutping: "syut3 waa6", hanzi: 說話, en: "words, what one says"}
+  - {jyutping: "hoeng1 gong2 jan4", hanzi: 香港人, en: "Hongkonger"}
+  - {jyutping: "gwong2 zau1 waa2", hanzi: 廣州話, en: "Guangzhou Cantonese"}
+  - {jyutping: "gun1 tong4", hanzi: 觀塘, en: "Kwun Tong"}
+  - {jyutping: "cung5", hanzi: 重, en: "heavy, strong"}
+exercises:
+  translate:
+    - {hanzi: "我細個唔敢一個人搭船。", jyutping: "ngo5 sai3 go3 m4 gam2 jat1 go3 jan4 daap3 syun4.", en: "As a child I didn't dare take the ferry alone."}
+    - {hanzi: "聽日使唔使返工？——唔使，放假。", jyutping: "ting1 jat6 sai2 m4 sai2 faan1 gung1? —— m4 sai2, fong3 gaa3.", en: "Do you have to work tomorrow? — No, it's a holiday."}
+    - {hanzi: "佢喺台山出世，十五歲先落嚟香港。", jyutping: "keoi5 hai2 toi4 saan1 ceot1 sai3, sap6 ng5 seoi3 sin1 lok6 lai4 hoeng1 gong2.", en: "She was born in Taishan and only came down to Hong Kong at fifteen."}
+    - {hanzi: "我住咗三年，已經適應咗香港嘅生活。", jyutping: "ngo5 zyu6 zo2 saam1 nin4, ji5 ging1 sik1 jing3 zo2 hoeng1 gong2 ge3 sang1 wut6.", en: "I've lived here three years and have got used to life in Hong Kong."}
+    - {hanzi: "佢見工嗰日好緊張，打爛咗隻杯。", jyutping: "keoi5 gin3 gung1 go2 jat6 hou2 gan2 zoeng1, daa2 laan6 zo2 zek3 bui1.", en: "He was so nervous on the day of his interview that he broke a glass."}
+  fill:
+    - {hanzi: "你___唔___一個人行夜路？", jyutping: "nei5 ___ m4 ___ jat1 go3 jan4 haang4 je6 lou6?", answer: "gam2 / gam2", answer_hanzi: 敢 / 敢, en: "Do you dare walk home alone at night?"}
+    - {hanzi: "你___驚，佢哋好好人。", jyutping: "nei5 ___ geng1, keoi5 dei6 hou2 hou2 jan4.", answer: "m4 sai2", answer_hanzi: 唔使, en: "Don't be afraid, they're very nice."}
+    - {hanzi: "我已經移過一次___，唔想再移。", jyutping: "ngo5 ji5 ging1 ji4 gwo3 jat1 ci3 ___, m4 soeng2 zoi3 ji4.", answer: "man4", answer_hanzi: 民, en: "I've already emigrated once; I don't want to do it again."}
+    - {hanzi: "我___，睇住間舖。", jyutping: "ngo5 ___, tai2 zyu6 gaan1 pou3.", answer: "lau4 dai1", answer_hanzi: 留低, en: "I'm staying, to look after the shop."}
+    - {hanzi: "我好緊張___，唔係唔鍾意你。", jyutping: "ngo5 hou2 gan2 zoeng1 ___, m4 hai6 m4 zung1 ji3 nei5.", answer: "zaa3", answer_hanzi: 咋, en: "I'm just nervous, it's not that I don't like you."}
