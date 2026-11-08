@@ -1,0 +1,104 @@
+# 進修 13. Written Chinese (書面語) read in Cantonese, with spoken Cantonese around it. LSHK Jyutping. Not checked by a native speaker yet.
+id: 13
+title: {en: "Owning property and collecting rent", jyutping: "jau5 lau2 sau1 zou1", hanzi: "有樓收租"}
+genre: letter
+review: false
+setting: "The last Wednesday of October, after closing. A registered letter has come for 梁伯. He can't find his reading glasses, so Kayan reads it aloud, the formal written Chinese in Cantonese sounds, and explains each sentence in everyday Cantonese. Hugo and 蓮姐 listen."
+dialogue:
+  - {n: 1, speaker: Letter, hanzi: "加租通知", jyutping: "gaa1 zou1 tung1 zi1", en: "Notice of rent increase"}
+  - {n: 2, speaker: Letter, hanzi: "梁國華先生：本人為北河街舖位及樓上單位之業主。根據雙方租約，現有租約將於二零二六年十二月三十一日屆滿。", jyutping: "loeng4 gwok3 waa4 sin1 saang1: bun2 jan4 wai4 bak1 ho4 gaai1 pou3 wai2 kap6 lau4 soeng6 daan1 wai2 zi1 jip6 zyu2. gan1 geoi3 soeng1 fong1 zou1 joek3, jin6 jau5 zou1 joek3 zoeng1 jyu1 ji6 ling4 ji6 luk6 nin4 sap6 ji6 jyut6 saam1 sap6 jat1 jat6 gaai3 mun5.", en: "Dear Mr Leung Kwok-wah, I am the owner of the shop unit on Pei Ho Street and the flat above it. According to our tenancy agreement, the current tenancy expires on 31 December 2026."}
+  - {n: 3, speaker: Kayan, hanzi: "意思係：何生係舖位同樓上單位嘅業主。根據你哋簽嘅租約，而家份租約今年年底就到期。", jyutping: "ji3 si1 hai6: ho4 saang1 hai6 pou3 wai2 tung4 lau4 soeng6 daan1 wai2 ge3 jip6 zyu2. gan1 geoi3 nei5 dei6 cim1 ge3 zou1 joek3, ji4 gaa1 fan6 zou1 joek3 gam1 nin4 nin4 dai2 zau6 dou3 kei4.", en: "Meaning: Mr Ho owns the shop and the flat upstairs. Under the lease you signed, the current lease runs out at the end of this year."}
+  - {n: 4, speaker: Letter, hanzi: "由於近年市場租金不斷上升，加上差餉及維修費用增加，本人決定由二零二七年一月一日起，將每月租金增加百分之四十。", jyutping: "jau4 jyu1 gan6 nin4 si5 coeng4 zou1 gam1 bat1 dyun6 soeng6 sing1, gaa1 soeng5 caai1 hoeng2 kap6 wai4 sau1 fai3 jung6 zang1 gaa1, bun2 jan4 kyut3 ding6 jau4 ji6 ling4 ji6 cat1 nin4 jat1 jyut6 jat1 jat6 hei2, zoeng1 mui5 jyut6 zou1 gam1 zang1 gaa1 baak3 fan6 zi1 sei3 sap6.", en: "As market rents have risen steadily in recent years, and rates and maintenance costs have also increased, I have decided to raise the monthly rent by forty per cent from 1 January 2027."}
+  - {n: 5, speaker: Kayan, hanzi: "即係話：因為呢幾年啲租一路貴，差餉同維修又加咗價，佢決定由出年一月一號開始，每個月加四成租。", jyutping: "zik1 hai6 waa6: jan1 wai6 ni1 gei2 nin4 di1 zou1 jat1 lou6 gwai3, caai1 hoeng2 tung4 wai4 sau1 jau6 gaa1 zo2 gaa3, keoi5 kyut3 ding6 jau4 ceot1 nin2 jat1 jyut6 jat1 hou6 hoi1 ci2, mui5 go3 jyut6 gaa1 sei3 sing4 zou1.", en: "In other words: because rents have kept going up these past few years, and rates and repairs cost more too, he's decided that from January 1st next year, the rent goes up forty per cent a month."}
+  - {n: 6, speaker: Leung Pak, hanzi: "四成？佢做乜唔直接去搶銀行！", jyutping: "sei3 sing4? keoi5 zou6 mat1 m4 zik6 zip3 heoi3 coeng2 ngan4 hong4!", en: "Forty per cent? Why doesn't he just go and rob a bank!"}
+  - {n: 7, speaker: Letter, hanzi: "新租金為每月港幣四萬二千元。", jyutping: "san1 zou1 gam1 wai4 mui5 jyut6 gong2 bai6 sei3 maan6 ji6 cin1 jyun4.", en: "The new rent will be HK$42,000 per month."}
+  - {n: 8, speaker: Hugo, hanzi: "四萬二……即係一日要賣幾多杯奶茶，先夠交租？", jyutping: "sei3 maan6 ji6 …… zik1 hai6 jat1 jat6 jiu3 maai6 gei2 do1 bui1 naai5 caa4, sin1 gau3 gaau1 zou1?", en: "Forty-two thousand… so how many milk teas a day would we have to sell just to pay the rent?"}
+  - {n: 9, speaker: Kayan, hanzi: "一杯二十蚊，一個月三十日……一日七十杯，淨係夠交租，仲未計人工同材料。", jyutping: "jat1 bui1 ji6 sap6 man1, jat1 go3 jyut6 saam1 sap6 jat6 …… jat1 jat6 cat1 sap6 bui1, zing6 hai6 gau3 gaau1 zou1, zung6 mei6 gai3 jan4 gung1 tung4 coi4 liu2.", en: "Twenty dollars a cup, thirty days a month… seventy cups a day, and that only covers the rent, not counting wages and ingredients."}
+  - {n: 10, speaker: Letter, hanzi: "如閣下對上述條件有任何意見，請於二零二六年十一月三十日或之前以書面提出。", jyutping: "jyu4 gok3 haa6 deoi3 soeng6 seot6 tiu4 gin2 jau5 jam6 ho4 ji3 gin3, cing2 jyu1 ji6 ling4 ji6 luk6 nin4 sap6 jat1 jyut6 saam1 sap6 jat6 waak6 zi1 cin4 ji5 syu1 min2 tai4 ceot1.", en: "Should you have any comments on the above terms, please submit them in writing on or before 30 November 2026."}
+  - {n: 11, speaker: Kayan, hanzi: "「閣下」即係「你」，好客氣嘅講法。佢叫你如果有意見，十一月底之前要寫信同佢講。", jyutping: "\"gok3 haa6\" zik1 hai6 \"nei5\", hou2 haak3 hei3 ge3 gong2 faat3. keoi5 giu3 nei5 jyu4 gwo2 jau5 ji3 gin3, sap6 jat1 jyut6 dai2 zi1 cin4 jiu3 se2 seon3 tung4 keoi5 gong2.", en: "'閣下' means 'you', a very polite way of saying it. He's telling you that if you have any objections, you must write to him before the end of November."}
+  - {n: 12, speaker: Letter, hanzi: "若於上述期間內未有回覆，即當作不續租，閣下須於租約屆滿前遷出。", jyutping: "joek6 jyu1 soeng6 seot6 kei4 gaan1 noi6 mei6 jau5 wui4 fuk1, zik1 dong3 zok3 bat1 zuk6 zou1, gok3 haa6 seoi1 jyu1 zou1 joek3 gaai3 mun5 cin4 cin1 ceot1.", en: "If no reply is received within the above period, it will be taken that you do not wish to renew, and you must vacate the premises before the tenancy expires."}
+  - {n: 13, speaker: Kayan, hanzi: "呢句最狠：如果一個月之內你唔覆佢，就當你唔續租，年底之前要搬走。", jyutping: "ni1 geoi3 zeoi3 han2: jyu4 gwo2 jat1 go3 jyut6 zi1 noi6 nei5 m4 fuk1 keoi5, zau6 dong3 nei5 m4 zuk6 zou1, nin4 dai2 zi1 cin4 jiu3 bun1 zau2.", en: "This is the harshest line: if you don't reply within a month, he'll take it that you're not renewing, and you have to move out before the end of the year."}
+  - {n: 14, speaker: Leung Pak, hanzi: "搬？搬去邊呀？我喺度五十幾年喇！", jyutping: "bun1? bun1 heoi3 bin1 aa3? ngo5 hai2 dou6 ng5 sap6 gei2 nin4 laa3!", en: "Move? Move where? I've been here over fifty years!"}
+  - {n: 15, speaker: Letter, hanzi: "如有疑問，歡迎與本人聯絡。此致　梁國華先生", jyutping: "jyu4 jau5 ji4 man6, fun1 jing4 jyu5 bun2 jan4 lyun4 lok3. ci2 zi3 loeng4 gwok3 waa4 sin1 saang1", en: "Should you have any questions, please feel free to contact me. To Mr Leung Kwok-wah,"}
+  - {n: 16, speaker: Letter, hanzi: "業主　何志明　謹啟　二零二六年十月二十八日", jyutping: "jip6 zyu2 ho4 zi3 ming4 gan2 kai2 ji6 ling4 ji6 luk6 nin4 sap6 jyut6 ji6 sap6 baat3 jat6", en: "Respectfully, Ho Chi-ming, Landlord. 28 October 2026"}
+  - {n: 17, speaker: Kayan, hanzi: "有問題就搵佢。不過我估佢唔會聽電話。", jyutping: "jau5 man6 tai4 zau6 wan2 keoi5. bat1 gwo3 ngo5 gu2 keoi5 m4 wui5 teng1 din6 waa2.", en: "If there's a problem, contact him. But I bet he won't pick up the phone."}
+  - {n: 18, speaker: Hugo, hanzi: "何志明……梁伯，你識佢㗎？你個樣好似見到鬼噉。", jyutping: "ho4 zi3 ming4 …… loeng4 baak3, nei5 sik1 keoi5 gaa4? nei5 go3 joeng2 hou2 ci5 gin3 dou2 gwai2 gam2.", en: "Ho Chi-ming… Uncle Leung, do you know him? You look as if you've seen a ghost."}
+  - {n: 19, speaker: Leung Pak, hanzi: "（摺埋封信）……唔識。我入去煲茶。", jyutping: "(zip3 maai4 fung1 seon3) …… m4 sik1. ngo5 jap6 heoi3 bou1 caa4.", en: "(Folding up the letter) …No. I'm going in to make the tea."}
+  - {n: 20, speaker: Lin-ze, hanzi: "佢一講「唔識」，就實係識。我做咗三十年，佢瞞唔到我。", jyutping: "keoi5 jat1 gong2 \"m4 sik1\", zau6 sat6 hai6 sik1. ngo5 zou6 zo2 saam1 sap6 nin4, keoi5 mun4 m4 dou2 ngo5.", en: "The moment he says 'no', it means yes. Thirty years I've worked here; he can't hide anything from me."}
+  - {n: 21, speaker: Kayan, hanzi: "喂，提出意見得一個月時間。我哋要諗計。", jyutping: "wai3, tai4 ceot1 ji3 gin3 dak1 jat1 go3 jyut6 si4 gaan3. ngo5 dei6 jiu3 nam2 gai2.", en: "Hey, we've only got a month to put forward any objections. We need to come up with a plan."}
+  - {n: 22, speaker: Leung Pak, hanzi: "（喺廚房大嗌）冇計諗！執笠就執笠！", jyutping: "(hai2 cyu4 fong2 daai6 aai3) mou5 gai2 nam2! zap1 lap1 zau6 zap1 lap1!", en: "(Shouting from the kitchen) There's no plan to think of! If we close, we close!"}
+  - {n: 23, speaker: Hugo, hanzi: "（細聲問嘉欣）佢講笑嘅，係咪？", jyutping: "(sai3 seng1 man6 gaa1 jan1) keoi5 gong2 siu3 ge3, hai6 mai6?", en: "(Quietly to Kayan) He's joking, right?"}
+  - {n: 24, speaker: Kayan, hanzi: "我都唔知。佢好少咁大聲。", jyutping: "ngo5 dou1 m4 zi1. keoi5 hou2 siu2 gam3 daai6 seng1.", en: "I don't know either. He rarely shouts like that."}
+notes:
+  - {ref: 2, topic: register, text: "Formal letters, notices and the news are written in standard written Chinese (書面語), which follows Mandarin grammar; Hongkongers read it aloud with Cantonese sounds. Key pairs, written → spoken: 是 si6 → 係, 的 dik1 / 之 zi1 → 嘅, 不 bat1 → 唔, 他 taa1 → 佢, 在 zoi6 / 於 jyu1 → 喺, 現 jin6 → 而家, 此 ci2 → 呢, 為 wai4 → 係 (line 7: 新租金為… 'the new rent is …'), 及 kap6 → 同."}
+  - {ref: 2, topic: vocab, text: "本人 bun2 jan4 = I (formal, 'the undersigned'). 根據 gan1 geoi3 = according to: 根據雙方租約 'under the agreement between both parties'. 租約 zou1 joek3 = lease, tenancy agreement. 屆滿 gaai3 mun5 = expire (written); spoken 到期 or 完. 將於 zoeng1 jyu1 = will … on (date)."}
+  - {ref: 3, topic: vocab, text: "簽 cim1 = sign: 簽租約 'sign a lease'; formal 簽署 cim1 cyu5. 年底 nin4 dai2 = end of the year (年尾 in P4 is more colloquial); 月底 jyut6 dai2 'end of the month' (line 11). 意思係… / 即係話… (line 5) are the natural ways to start an explanation."}
+  - {ref: 4, topic: vocab, text: "由於 jau4 jyu1 = because of, owing to (written; spoken 因為). 不斷 bat1 dyun6 = continually. 上升 soeng6 sing1 = rise (written; spoken 升, P5). 加上 gaa1 soeng5 = on top of that. 維修 wai4 sau1 = maintenance, repairs. 費用 fai3 jung6 = costs, fees. 增加 zang1 gaa1 = increase (written; spoken 加)."}
+  - {ref: 4, topic: grammar, text: "Two written patterns: 由 X 起 'starting from X' (spoken 由 X 開始, line 5); 將 + object + verb 'take X and …' (P8): 將每月租金增加百分之四十. 百分之四十 = 40 %; spoken 四成 (P5)."}
+  - {ref: 6, topic: vocab, text: "搶 coeng2 = rob, snatch: 搶銀行 'rob a bank'; also 'grab first': 搶位 'grab a seat'."}
+  - {ref: 7, topic: vocab, text: "港幣 gong2 bai6 = Hong Kong dollars (written); spoken 港紙 (P9) or just 蚊. 元 jyun4 is the written unit for 蚊. 四萬二 'forty-two thousand': the last unit can be dropped, as in 三百五 '350'."}
+  - {ref: 9, topic: vocab, text: "計 gai3 = count, include: 仲未計人工 'not yet counting wages'. 材料 coi4 liu2 = ingredients, materials."}
+  - {ref: 10, topic: register, text: "閣下 gok3 haa6 = you (very formal, in letters). 上述 soeng6 seot6 = the above. 條件 tiu4 gin2 = terms, conditions. 如 jyu4 / 若 joek6 (line 12) = if (written; spoken 如果). 請 cing2 = please (written; spoken 唔該). 以書面 'in writing'. 提出 tai4 ceot1 = put forward, raise (an opinion, a request)."}
+  - {ref: 12, topic: vocab, text: "期間 kei4 gaan1 = period (of time): 上述期間內 'within the said period'. 回覆 wui4 fuk1 = reply (formal; spoken 覆, P3). 續租 zuk6 zou1 = renew a lease. 須 seoi1 = must (written; spoken 要). 遷出 cin1 ceot1 = move out (written; spoken 搬走 bun1 zau2, line 13). 當作 dong3 zok3 = take as, treat as."}
+  - {ref: 13, topic: vocab, text: "狠 han2 = harsh, ruthless: 呢句最狠 'this line is the harshest'. 之內 zi1 noi6 = within: 一個月之內."}
+  - {ref: 15, topic: culture, text: "Letter formulas: 如有疑問 'should you have any questions', 歡迎與本人聯絡 'please contact me' (與 jyu5 = 同, 'with'); 此致 ci2 zi3 + name 'to …' closes the body; 謹啟 gan2 kai2 'respectfully submitted' after the sender's name. 疑問 ji4 man6 = query, doubt."}
+  - {ref: 19, topic: vocab, text: "摺 zip3 = fold: 摺埋封信 'fold up the letter' (封 is the classifier for letters). 煲茶 bou1 caa4 'brew tea'. 瞞 mun4 (line 20) = hide the truth from: 佢瞞唔到我 'he can't hide it from me'."}
+  - {ref: 21, topic: vocab, text: "諗計 nam2 gai2 = think of a plan, come up with an idea; 計 gai2 = a plan, a trick: 冇計諗 'there's nothing to be done' (line 22). 通知 tung1 zi1 (line 1) = notice; notify."}
+  - {ref: 10, topic: vs-mandarin, text: "The letter is Mandarin grammar with Cantonese sounds: read in Mandarin, 如閣下對上述條件有任何意見，請於…以書面提出 is the same text. So written Chinese helps a Mandarin reader, but a listener must map the sounds: 是 si6 (Mandarin shì), 的 dik1 (de), 於 jyu1 (yú), 須 seoi1 (xū). In speech, Hongkongers switch back at once, as Kayan does."}
+pron:
+  - {ref: 2, text: "Written words have their own readings: 的 dik1 (in speech 嘅 ge3), 是 si6 (係 hai6), 他 taa1 (佢 keoi5)."}
+  - {ref: 2, text: "零 ling4 in dates: 二零二六 ji6 ling4 ji6 luk6; years are read digit by digit."}
+  - {ref: 12, text: "遷出 cin1 ceot1: 遷 is cin1, not cim1 as in 簽 'sign'."}
+new_words:
+  - {jyutping: "tung1 zi1", hanzi: 通知, en: "notice; notify"}
+  - {jyutping: "bun2 jan4", hanzi: 本人, en: "I (formal)"}
+  - {jyutping: "gan1 geoi3", hanzi: 根據, en: "according to"}
+  - {jyutping: "soeng1 fong1", hanzi: 雙方, en: "both parties"}
+  - {jyutping: "zou1 joek3", hanzi: 租約, en: "lease, tenancy agreement"}
+  - {jyutping: "gaai3 mun5", hanzi: 屆滿, en: "expire (written)"}
+  - {jyutping: "cim1", hanzi: 簽, en: "sign"}
+  - {jyutping: "nin4 dai2", hanzi: 年底, en: "end of the year"}
+  - {jyutping: "jau4 jyu1", hanzi: 由於, en: "owing to, because of"}
+  - {jyutping: "gan6 nin4", hanzi: 近年, en: "in recent years"}
+  - {jyutping: "bat1 dyun6", hanzi: 不斷, en: "continually"}
+  - {jyutping: "soeng6 sing1", hanzi: 上升, en: "rise"}
+  - {jyutping: "gaa1 soeng5", hanzi: 加上, en: "on top of that"}
+  - {jyutping: "wai4 sau1", hanzi: 維修, en: "maintenance, repairs"}
+  - {jyutping: "fai3 jung6", hanzi: 費用, en: "costs, fees"}
+  - {jyutping: "zang1 gaa1", hanzi: 增加, en: "increase"}
+  - {jyutping: "coeng2", hanzi: 搶, en: "rob, snatch"}
+  - {jyutping: "gong2 bai6", hanzi: 港幣, en: "Hong Kong dollars"}
+  - {jyutping: "gai3", hanzi: 計, en: "count, include"}
+  - {jyutping: "gok3 haa6", hanzi: 閣下, en: "you (very formal)"}
+  - {jyutping: "soeng6 seot6", hanzi: 上述, en: "the above"}
+  - {jyutping: "tiu4 gin2", hanzi: 條件, en: "terms, conditions"}
+  - {jyutping: "syu1 min2", hanzi: 書面, en: "in writing"}
+  - {jyutping: "tai4 ceot1", hanzi: 提出, en: "put forward, raise"}
+  - {jyutping: "kei4 gaan1", hanzi: 期間, en: "period (of time)"}
+  - {jyutping: "wui4 fuk1", hanzi: 回覆, en: "reply (formal)"}
+  - {jyutping: "zuk6 zou1", hanzi: 續租, en: "renew a lease"}
+  - {jyutping: "seoi1", hanzi: 須, en: "must (written)"}
+  - {jyutping: "han2", hanzi: 狠, en: "harsh, ruthless"}
+  - {jyutping: "zi1 noi6", hanzi: 之內, en: "within"}
+  - {jyutping: "bun1 zau2", hanzi: 搬走, en: "move out"}
+  - {jyutping: "ji4 man6", hanzi: 疑問, en: "query, doubt"}
+  - {jyutping: "jyu5", hanzi: 與, en: "with, and (written)"}
+  - {jyutping: "zip3", hanzi: 摺, en: "fold"}
+  - {jyutping: "jyut6 dai2", hanzi: 月底, en: "end of the month"}
+  - {jyutping: "jam6 ho4", hanzi: 任何, en: "any"}
+  - {jyutping: "jin6 jau5", hanzi: 現有, en: "current, existing"}
+  - {jyutping: "dong3 zok3", hanzi: 當作, en: "take as, treat as"}
+  - {jyutping: "baak3 fan6 zi1", hanzi: 百分之, en: "per cent"}
+exercises:
+  translate:
+    - {hanzi: "根據新租約，租金由出年一月開始增加。", jyutping: "gan1 geoi3 san1 zou1 joek3, zou1 gam1 jau4 ceot1 nin2 jat1 jyut6 hoi1 ci2 zang1 gaa1.", en: "Under the new lease, the rent goes up from January next year."}
+    - {hanzi: "由於天氣唔好，今日唔開門。", jyutping: "jau4 jyu1 tin1 hei3 m4 hou2, gam1 jat6 m4 hoi1 mun4.", en: "Owing to bad weather, we're closed today."}
+    - {hanzi: "佢喺信度提出咗兩個條件。", jyutping: "keoi5 hai2 seon3 dou6 tai4 ceot1 zo2 loeng5 go3 tiu4 gin2.", en: "He set out two conditions in the letter."}
+    - {hanzi: "請於月底之前回覆。", jyutping: "cing2 jyu1 jyut6 dai2 zi1 cin4 wui4 fuk1.", en: "Please reply before the end of the month."}
+    - {hanzi: "呢份通知好狠，一個月之內就要搬走。", jyutping: "ni1 fan6 tung1 zi1 hou2 han2, jat1 go3 jyut6 zi1 noi6 zau6 jiu3 bun1 zau2.", en: "This notice is harsh: we have to move out within a month."}
+  fill:
+    - {hanzi: "「閣下」即係「___」，好客氣嘅講法。", jyutping: "\"gok3 haa6\" zik1 hai6 \"___\", hou2 haak3 hei3 ge3 gong2 faat3.", answer: "nei5", answer_hanzi: 你, en: "'閣下' means 'you'; it's a very polite way of saying it."}
+    - {hanzi: "寫信用「是」，講嘢就用「___」。", jyutping: "se2 seon3 jung6 \"si6\", gong2 je5 zau6 jung6 \"___\".", answer: "hai6", answer_hanzi: 係, en: "In writing you use 是; when speaking, 係."}
+    - {hanzi: "租約年底___，要唔要續租？", jyutping: "zou1 joek3 nin4 dai2 ___, jiu3 m4 jiu3 zuk6 zou1?", answer: "dou3 kei4", answer_hanzi: 到期, en: "The lease runs out at the end of the year; do we renew?"}
+    - {hanzi: "差餉___維修費用又加咗。", jyutping: "caai1 hoeng2 ___ wai4 sau1 fai3 jung6 jau6 gaa1 zo2.", answer: "tung4", answer_hanzi: 同, en: "Rates and maintenance costs have gone up too."}
+    - {hanzi: "冇時間喇，我哋要快啲諗___。", jyutping: "mou5 si4 gaan3 laa3, ngo5 dei6 jiu3 faai3 di1 nam2 ___.", answer: "gai2", answer_hanzi: 計, en: "There's no time; we need to come up with a plan quickly."}
