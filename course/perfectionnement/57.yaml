@@ -1,0 +1,105 @@
+# 進修 57. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 57
+title: {en: "Climbing high at Chung Yeung", jyutping: "cung4 joeng4 dang1 gou1", hanzi: "重陽登高"}
+intro: "Chung Yeung on the hillside: the disposal construction with 將 (將啲香插落香爐), comparisons and 'can't manage' (行唔郁, 上唔到), and the words of grave-sweeping and ghost stories."
+genre: story
+review: false
+setting: "Saturday 9 October 2027, the ninth day of the ninth month. Hugo's parents flew home this morning. In the afternoon 梁伯, Kayan, Hugo, 蓮姐 with her grandson 樂仔, and 何生 climb to Kayan's mother's grave above Chai Wan. 梁伯 and 何生 have decided it's a race."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "重陽節，香港人做兩樣嘢：登高同拜山。今年我第一次跟梁家去。", jyutping: "cung4 joeng4 zit3, hoeng1 gong2 jan4 zou6 loeng5 joeng6 je5: dang1 gou1 tung4 baai3 saan1. gam1 nin4 ngo5 dai6 jat1 ci3 gan1 loeng4 gaa1 heoi3.", en: "At Chung Yeung, Hongkongers do two things: climb high and sweep their ancestors' graves. This year I went with the Leungs for the first time."}
+  - {n: 2, speaker: Lin-ze, hanzi: "傳說古時有瘟疫，有個人聽師傅講，重陽日帶屋企人上山，就可以避開災難。所以叫登高。", jyutping: "cyun4 syut3 gu2 si4 jau5 wan1 jik6, jau5 go3 jan4 teng1 si1 fu2 gong2, cung4 joeng4 jat6 daai3 uk1 kei2 jan4 soeng5 saan1, zau6 ho2 ji5 bei6 hoi1 zoi1 naan6. so2 ji5 giu3 dang1 gou1.", en: "Legend says there was a plague in ancient times; a man's master told him to take his family up a mountain on the ninth day of the ninth month, and they'd escape the disaster. That's why it's called 'climbing high'."}
+  - {n: 3, speaker: Mr Ho, hanzi: "國華，你上次做完通波仔，仲行唔行得快過我？", jyutping: "gwok3 waa4, nei5 soeng6 ci3 zou6 jyun4 tung1 bo1 zai2, zung6 haang4 m4 haang4 dak1 faai3 gwo3 ngo5?", en: "Kwok-wah, after your angioplasty, can you still walk faster than me?"}
+  - {n: 4, speaker: Leung Pak, hanzi: "試吓咪知！邊個行到上面嗰棵樹先，邊個贏。", jyutping: "si3 haa5 mai6 zi1! bin1 go3 haang4 dou3 soeng6 min6 go2 po1 syu6 sin1, bin1 go3 jeng4.", en: "Let's find out! First one up to that tree wins."}
+  - {n: 5, speaker: Kayan, hanzi: "兩位老人家，你哋兩個心臟都唔好，慢慢行！", jyutping: "loeng5 wai2 lou5 jan4 gaa1, nei5 dei6 loeng5 go3 sam1 zong6 dou1 m4 hou2, maan6 maan2 haang4!", en: "You two old gentlemen, neither of your hearts is any good: walk slowly!"}
+  - {n: 6, speaker: Hugo, hanzi: "佢哋一路行一路鬥，條山路越嚟越斜，兩個都喘晒氣，不過冇人肯認輸。", jyutping: "keoi5 dei6 jat1 lou6 haang4 jat1 lou6 dau3, tiu4 saan1 lou6 jyut6 lai4 jyut6 ce3, loeng5 go3 dou1 cyun2 saai3 hei3, bat1 gwo3 mou5 jan4 hang2 jing6 syu1.", en: "They competed the whole way up; the path got steeper and steeper, both of them were out of breath, but neither would admit defeat."}
+  - {n: 7, speaker: Lok-zai, hanzi: "蓮姐婆婆，我行唔郁喇。仲有幾多級？", jyutping: "lin4 ze2 po4 po2, ngo5 haang4 m4 juk1 laa3. zung6 jau5 gei2 do1 kap1?", en: "Granny 蓮姐, I can't walk any more. How many more steps?"}
+  - {n: 8, speaker: Lin-ze, hanzi: "仲有一百級咁滯。你行唔到，我講個鬼故俾你聽，你就唔覺得攰。", jyutping: "zung6 jau5 jat1 baak3 kap1 gam3 zai6. nei5 haang4 m4 dou2, ngo5 gong2 go3 gwai2 gu2 bei2 nei5 teng1, nei5 zau6 m4 gok3 dak1 gui6.", en: "About a hundred steps left. If you can't make it, I'll tell you a ghost story and you won't feel tired."}
+  - {n: 9, speaker: Lok-zai, hanzi: "好呀！係咪七月嘅鬼故？", jyutping: "hou2 aa3! hai6 mai6 cat1 jyut6 ge3 gwai2 gu2?", en: "Yay! Is it a ghost story from the seventh month?"}
+  - {n: 10, speaker: Lin-ze, hanzi: "係。農曆七月鬼門關開，啲孤魂野鬼出嚟搵嘢食。所以盂蘭節，啲人喺街邊燒衣紙，將啲食物擺出嚟俾佢哋。", jyutping: "hai6. nung4 lik6 cat1 jyut6 gwai2 mun4 gwaan1 hoi1, di1 gu1 wan4 je5 gwai2 ceot1 lai4 wan2 je5 sik6. so2 ji5 jyu4 laan4 zit3, di1 jan4 hai2 gaai1 bin1 siu1 ji1 zi2, zoeng1 di1 je5 sik6 baai2 ceot1 lai4 bei2 keoi5 dei6.", en: "Yes. In the seventh lunar month the gates of hell open, and the wandering ghosts come out looking for food. So at the Hungry Ghost Festival, people burn paper offerings by the roadside and put food out for them."}
+  - {n: 11, speaker: Lin-ze, hanzi: "有一年七月，梁記三號卡位，半夜有人聽到有人飲奶茶嘅聲……", jyutping: "jau5 jat1 nin4 cat1 jyut6, loeng4 gei3 saam1 hou6 kaa1 wai2, bun3 je6 jau5 jan4 teng1 dou2 jau5 jan4 jam2 naai5 caa4 ge3 seng1 ……", en: "One year in the seventh month, at midnight, someone heard the sound of a person drinking milk tea in booth three at 梁記…"}
+  - {n: 12, speaker: Leung Pak, hanzi: "（喺前面大叫）蓮姐！唔好嚇細路！嗰個係我，凌晨三點試新茶葉！", jyutping: "(hai2 cin4 min6 daai6 giu3) lin4 ze2! m4 hou2 haak3 sai3 lou6! go2 go3 hai6 ngo5, ling4 san4 saam1 dim2 si3 san1 caa4 jip6!", en: "(Shouting from up ahead) 蓮姐! Don't scare the child! That was me, at three in the morning, trying new tea leaves!"}
+  - {n: 13, speaker: Hugo, hanzi: "講講吓，樂仔已經衝咗上去，快過兩個阿伯，第一個到。", jyutping: "gong2 gong2 haa5, lok6 zai2 ji5 ging1 cung1 zo2 soeng5 heoi3, faai3 gwo3 loeng5 go3 aa3 baak3, dai6 jat1 go3 dou3.", en: "In the middle of the story, 樂仔 had already dashed up, faster than the two old men, and got there first."}
+  - {n: 14, speaker: Mr Ho, hanzi: "（喘住氣）好……我哋兩個，打和。", jyutping: "(cyun2 zyu6 hei3) hou2 …… ngo5 dei6 loeng5 go3, daa2 wo4.", en: "(Panting) Fine… the two of us: a draw."}
+  - {n: 15, speaker: Leung Pak, hanzi: "打和就打和。今日最緊要係拜山。", jyutping: "daa2 wo4 zau6 daa2 wo4. gam1 jat6 zeoi3 gan2 jiu3 hai6 baai3 saan1.", en: "A draw it is. The main thing today is the grave."}
+  - {n: 16, speaker: Kayan, hanzi: "大家幫手：先將啲雜草鋤走，再將墓碑抹乾淨。阿果，你將啲生果同燒肉擺好。", jyutping: "daai6 gaa1 bong1 sau2: sin1 zoeng1 di1 zaap6 cou2 co4 zau2, zoi3 zoeng1 mou6 bei1 maat3 gon1 zeng6. aa3 gwo2, nei5 zoeng1 di1 saang1 gwo2 tung4 siu1 juk6 baai2 hou2.", en: "Everyone help: first hoe away the weeds, then wipe the headstone clean. A-Gwo, set out the fruit and the roast pork."}
+  - {n: 17, speaker: Hugo, hanzi: "燒肉都要擺？", jyutping: "siu1 juk6 dou1 jiu3 baai2?", en: "The roast pork too?"}
+  - {n: 18, speaker: Lin-ze, hanzi: "梗係！拜祭先人，祭品一定要齊：燒肉、生果、香燭、酒。拜完大家分嚟食，叫做「食祖先嘅福」。", jyutping: "gang2 hai6! baai3 zai3 sin1 jan4, zai3 ban2 jat1 ding6 jiu3 cai4: siu1 juk6, saang1 gwo2, hoeng1 zuk1, zau2. baai3 jyun4 daai6 gaa1 fan1 lai4 sik6, giu3 zou6 \"sik6 zou2 sin1 ge3 fuk1\".", en: "Of course! When you honour the dead, the offerings must be complete: roast pork, fruit, incense and candles, wine. Afterwards everyone shares them, 'eating the ancestors' blessing'."}
+  - {n: 19, speaker: Leung Pak, hanzi: "（點着香）阿芳，我帶咗阿何嚟。我哋和好咗。你以前成日叫我唔好記仇，今次我聽你講。", jyutping: "(dim2 zoek6 hoeng1) aa3 fong1, ngo5 daai3 zo2 aa3 ho4 lai4. ngo5 dei6 wo4 hou2 zo2. nei5 ji5 cin4 sing4 jat6 giu3 ngo5 m4 hou2 gei3 sau4, gam1 ci3 ngo5 teng1 nei5 gong2.", en: "(Lighting the incense) Fong, I've brought Ho. We've made up. You always told me not to hold grudges; this time I've listened."}
+  - {n: 20, speaker: Mr Ho, hanzi: "（將三支香插落香爐，鞠咗三個躬）梁太，多謝你嫁咗個好人。", jyutping: "(zoeng1 saam1 zi1 hoeng1 caap3 lok6 hoeng1 lou4, guk1 zo2 saam1 go3 gung1) loeng4 taai2, do1 ze6 nei5 gaa3 zo2 go3 hou2 jan4.", en: "(Placing three incense sticks in the burner and bowing three times) Mrs Leung, thank you for marrying a good man."}
+  - {n: 21, speaker: Kayan, hanzi: "（細聲同雨果講）佢哋兩個，越嚟越似兩兄弟。", jyutping: "(sai3 seng1 tung4 jyu5 gwo2 gong2) keoi5 dei6 loeng5 go3, jyut6 lai4 jyut6 ci5 loeng5 hing1 dai6.", en: "(Quietly to Hugo) Those two look more and more like brothers."}
+  - {n: 22, speaker: Lok-zai, hanzi: "蓮姐婆婆，三號卡位個鬼故，真定假？", jyutping: "lin4 ze2 po4 po2, saam1 hou6 kaa1 wai2 go3 gwai2 gu2, zan1 ding6 gaa2?", en: "Granny 蓮姐, the ghost story about booth three: true or not?"}
+  - {n: 23, speaker: Lin-ze, hanzi: "（望住梁伯）真嘅。今年七月，我半夜返舖頭攞遮，見到有個影喺三號卡位飲奶茶……冇開燈。", jyutping: "(mong6 zyu6 loeng4 baak3) zan1 ge3. gam1 nin4 cat1 jyut6, ngo5 bun3 je6 faan1 pou3 tau2 lo2 ze1, gin3 dou2 jau5 go3 jing2 hai2 saam1 hou6 kaa1 wai2 jam2 naai5 caa4 …… mou5 hoi1 dang1.", en: "(Looking at 梁伯) It's true. This July I went back at midnight for my umbrella and saw a shadow drinking milk tea in booth three… with the lights off."}
+  - {n: 24, speaker: Leung Pak, hanzi: "……嗰晚唔係我。我嗰晚喺醫院覆診。", jyutping: "…… go2 maan5 m4 hai6 ngo5. ngo5 go2 maan5 hai2 ji1 jyun2 fuk1 can2.", en: "…That night wasn't me. I was in hospital for a check-up that night."}
+  - {n: 25, speaker: Hugo, hanzi: "落山嗰陣，大家行得快過上山。冇人講嘢，樂仔仲拖住蓮姐隻手唔肯放。", jyutping: "lok6 saan1 go2 zan6, daai6 gaa1 haang4 dak1 faai3 gwo3 soeng5 saan1. mou5 jan4 gong2 je5, lok6 zai2 zung6 to1 zyu6 lin4 ze2 zek3 sau2 m4 hang2 fong3.", en: "On the way down, everyone walked faster than on the way up. No one spoke, and 樂仔 held 蓮姐's hand and wouldn't let go."}
+notes:
+  - {ref: 1, topic: culture, text: "重陽節 cung4 joeng4 zit3, the 9th day of the 9th lunar month (Chung Yeung), is a public holiday. Families 登高 dang1 gou1 'climb high' and 拜山 baai3 saan1 'visit the hills' = sweep their ancestors' graves (the written word is 掃墓 sou3 mou6). Ching Ming in spring is the other grave-sweeping day."}
+  - {ref: 2, topic: vocab, text: "古時 gu2 si4 'in ancient times'. 避開 bei6 hoi1 'avoid, escape' (避 bei6); 災難 zoi1 naan6 = disaster (難 naan6 here, P43)."}
+  - {ref: 3, topic: grammar, text: "Potential + comparison: 行唔行得快過我？ 'can you still walk faster than me?' (V得 + adj + 過, P40). Negative potentials (P4): 行唔郁 'can't walk any more' (line 7), 行唔到 'can't make it' (line 8)."}
+  - {ref: 6, topic: vocab, text: "鬥 dau3 = compete, vie. 山路 saan1 lou6 = mountain path; 斜 ce3 = steep. 喘晒氣 'out of breath' (P44). 認輸 'admit defeat'. 級 kap1 (line 7) = step: 一百級 'a hundred steps'."}
+  - {ref: 10, topic: culture, text: "盂蘭節 jyu4 laan4 zit3 = the Hungry Ghost Festival, in the 7th lunar month, when the 鬼門關 gwai2 mun4 gwaan1 'gate of hell' opens and 孤魂野鬼 gu1 wan4 je5 gwai2 'wandering ghosts with no family' roam. People burn 衣紙 ji1 zi2 (paper clothes and money for the dead) by the roadside. 農曆 nung4 lik6 'lunar calendar'. 食物 sik6 mat6 = food (formal; spoken 嘢食). 鬼故 gwai2 gu2 = ghost story."}
+  - {ref: 10, topic: grammar, text: "Disposal with 將 (P8): 將 + object + verb + result/direction. 將啲食物擺出嚟 'put the food out'; 將啲雜草鋤走 'hoe the weeds away' (line 16); 將墓碑抹乾淨 'wipe the headstone clean'; 將三支香插落香爐 'put three incense sticks into the burner' (line 20). It's used when something is done to a definite object with a clear result."}
+  - {ref: 12, topic: vocab, text: "凌晨 'small hours'. 唔好嚇細路 'don't scare the child'. 棵 po1 = classifier for trees: 嗰棵樹 (line 4; 樹 syu6 'tree')."}
+  - {ref: 13, topic: grammar, text: "講講吓 'in the middle of talking': VV吓 for an action interrupted by something else. 衝 cung1 'dash, rush'."}
+  - {ref: 16, topic: vocab, text: "雜草 zaap6 cou2 = weeds (草 cou2 'grass'). 鋤 co4 = hoe. 墓碑 mou6 bei1 = headstone; 墳 fan4 = grave."}
+  - {ref: 18, topic: culture, text: "拜祭 baai3 zai3 = make offerings to (the dead, gods); 先人 sin1 jan4 = the departed; 祖先 zou2 sin1 = ancestors; 祭品 zai3 ban2 = offerings; 燒肉 siu1 juk6 = roast pork; 香燭 hoeng1 zuk1 = incense and candles; 酒 zau2 = alcohol, wine."}
+  - {ref: 19, topic: vocab, text: "記仇 gei3 sau4 'bear a grudge' (仇, P47). 點着香 'light the incense' (P51)."}
+  - {ref: 20, topic: culture, text: "插 caap3 = stick in; 香爐 hoeng1 lou4 = incense burner. 鞠躬 guk1 gung1 = bow, a VO verb: 鞠咗三個躬 'bowed three times'. 梁太 'Mrs Leung'."}
+  - {ref: 24, topic: vocab, text: "覆診 fuk1 can2 'follow-up appointment'. 影 jing2 (line 23) = shadow, figure. 真定假 (line 22) 'true or false?'."}
+pron:
+  - {ref: 1, text: "重陽 cung4 joeng4: 重 'double' is cung4 (as in 重新), not zung6 'heavy'."}
+  - {ref: 2, text: "災難 zoi1 naan6: 難 is naan6 'calamity', not naan4 'difficult'."}
+  - {ref: 6, text: "斜 'steep' is ce3; 斜 ce4 is 'slanting'."}
+new_words:
+  - {jyutping: "cung4 joeng4 zit3", hanzi: 重陽節, en: "Chung Yeung Festival"}
+  - {jyutping: "dang1 gou1", hanzi: 登高, en: "climb high"}
+  - {jyutping: "baai3 saan1", hanzi: 拜山, en: "visit ancestors' graves"}
+  - {jyutping: "sou3 mou6", hanzi: 掃墓, en: "sweep graves (written)"}
+  - {jyutping: "bei6", hanzi: 避, en: "avoid"}
+  - {jyutping: "zoi1 naan6", hanzi: 災難, en: "disaster"}
+  - {jyutping: "dau3", hanzi: 鬥, en: "compete, vie"}
+  - {jyutping: "saan1 lou6", hanzi: 山路, en: "mountain path"}
+  - {jyutping: "ce3", hanzi: 斜, en: "steep"}
+  - {jyutping: "kap1", hanzi: 級, en: "step; level"}
+  - {jyutping: "gwai2 gu2", hanzi: 鬼故, en: "ghost story"}
+  - {jyutping: "gwai2 mun4 gwaan1", hanzi: 鬼門關, en: "gate of hell"}
+  - {jyutping: "gu1 wan4 je5 gwai2", hanzi: 孤魂野鬼, en: "wandering ghosts"}
+  - {jyutping: "jyu4 laan4 zit3", hanzi: 盂蘭節, en: "Hungry Ghost Festival"}
+  - {jyutping: "ji1 zi2", hanzi: 衣紙, en: "paper offerings"}
+  - {jyutping: "zaap6 cou2", hanzi: 雜草, en: "weeds"}
+  - {jyutping: "cou2", hanzi: 草, en: "grass"}
+  - {jyutping: "co4", hanzi: 鋤, en: "hoe"}
+  - {jyutping: "mou6 bei1", hanzi: 墓碑, en: "headstone"}
+  - {jyutping: "fan4", hanzi: 墳, en: "grave"}
+  - {jyutping: "siu1 juk6", hanzi: 燒肉, en: "roast pork"}
+  - {jyutping: "baai3 zai3", hanzi: 拜祭, en: "make offerings to"}
+  - {jyutping: "sin1 jan4", hanzi: 先人, en: "the departed"}
+  - {jyutping: "zai3 ban2", hanzi: 祭品, en: "offerings"}
+  - {jyutping: "hoeng1 zuk1", hanzi: 香燭, en: "incense and candles"}
+  - {jyutping: "zau2", hanzi: 酒, en: "alcohol, wine"}
+  - {jyutping: "zou2 sin1", hanzi: 祖先, en: "ancestors"}
+  - {jyutping: "caap3", hanzi: 插, en: "stick in, insert"}
+  - {jyutping: "hoeng1 lou4", hanzi: 香爐, en: "incense burner"}
+  - {jyutping: "guk1 gung1", hanzi: 鞠躬, en: "bow"}
+  - {jyutping: "gu2 si4", hanzi: 古時, en: "in ancient times"}
+  - {jyutping: "bei6 hoi1", hanzi: 避開, en: "avoid, escape"}
+  - {jyutping: "po1", hanzi: 棵, en: "classifier for trees"}
+  - {jyutping: "syu6", hanzi: 樹, en: "tree"}
+  - {jyutping: "nung4 lik6", hanzi: 農曆, en: "lunar calendar"}
+  - {jyutping: "sik6 mat6", hanzi: 食物, en: "food (formal)"}
+  - {jyutping: "cung1", hanzi: 衝, en: "dash, rush"}
+  - {jyutping: "gei3 sau4", hanzi: 記仇, en: "bear a grudge"}
+  - {jyutping: "jing2", hanzi: 影, en: "shadow, figure"}
+  - {jyutping: "fuk1 can2", hanzi: 覆診, en: "follow-up appointment"}
+exercises:
+  translate:
+    - {hanzi: "先將啲雜草鋤走，再將墓碑抹乾淨。", jyutping: "sin1 zoeng1 di1 zaap6 cou2 co4 zau2, zoi3 zoeng1 mou6 bei1 maat3 gon1 zeng6.", en: "First hoe away the weeds, then wipe the headstone clean."}
+    - {hanzi: "我行唔郁喇，條路越嚟越斜。", jyutping: "ngo5 haang4 m4 juk1 laa3, tiu4 lou6 jyut6 lai4 jyut6 ce3.", en: "I can't walk any more; the path's getting steeper and steeper."}
+    - {hanzi: "你行唔行得快過我？", jyutping: "nei5 haang4 m4 haang4 dak1 faai3 gwo3 ngo5?", en: "Can you walk faster than me?"}
+    - {hanzi: "重陽節，好多人登高同拜山。", jyutping: "cung4 joeng4 zit3, hou2 do1 jan4 dang1 gou1 tung4 baai3 saan1.", en: "At Chung Yeung, lots of people climb hills and visit graves."}
+    - {hanzi: "佢將三支香插落香爐。", jyutping: "keoi5 zoeng1 saam1 zi1 hoeng1 caap3 lok6 hoeng1 lou4.", en: "He put three incense sticks into the burner."}
+  fill:
+    - {hanzi: "阿果，你___啲生果擺好。", jyutping: "aa3 gwo2, nei5 ___ di1 saang1 gwo2 baai2 hou2.", answer: "zoeng1", answer_hanzi: 將, en: "A-Gwo, set out the fruit."}
+    - {hanzi: "盂蘭節，啲人喺街邊燒___。", jyutping: "jyu4 laan4 zit3, di1 jan4 hai2 gaai1 bin1 siu1 ___.", answer: "ji1 zi2", answer_hanzi: 衣紙, en: "At the Hungry Ghost Festival, people burn paper offerings by the roadside."}
+    - {hanzi: "我行唔___，仲有幾多級？", jyutping: "ngo5 haang4 m4 ___, zung6 jau5 gei2 do1 kap1?", answer: "juk1", answer_hanzi: 郁, en: "I can't walk any more; how many steps are left?"}
+    - {hanzi: "佢哋兩個一路行一路___。", jyutping: "keoi5 dei6 loeng5 go3 jat1 lou6 haang4 jat1 lou6 ___.", answer: "dau3", answer_hanzi: 鬥, en: "The two of them competed all the way."}
+    - {hanzi: "拜完佢向墓碑___咗三個躬。", jyutping: "baai3 jyun4 keoi5 hoeng3 mou6 bei1 ___ zo2 saam1 go3 gung1.", answer: "guk1", answer_hanzi: 鞠, en: "After the offerings he bowed three times to the headstone."}
