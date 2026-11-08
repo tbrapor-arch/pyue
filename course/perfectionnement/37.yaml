@@ -1,0 +1,104 @@
+# 進修 37. Written Chinese (書面語) read in Cantonese, with spoken Cantonese around it. LSHK Jyutping. Not checked by a native speaker yet.
+id: 37
+title: {en: "The evening news", jyutping: "san1 man4 bou3 dou6", hanzi: "新聞報道"}
+intro: "TV news in written Chinese read with Cantonese sounds, and the café's comments in everyday speech: the passive with written 被 and spoken 俾, and the forms of the news register."
+genre: news
+review: false
+setting: "Friday 12 March 2027, seven in the evening, the damp days of early spring. The TV above the counter at 梁記 shows the evening news. 蓮姐, Hugo and Kayan are wiping the tables; 梁伯 sits in booth one with a cup of hot tea."
+dialogue:
+  - {n: 1, speaker: News, hanzi: "晚安，歡迎收看七點鐘新聞報道。", jyutping: "maan5 on1, fun1 jing4 sau1 hon3 cat1 dim2 zung1 san1 man4 bou3 dou6.", en: "Good evening, and welcome to the seven o'clock news."}
+  - {n: 2, speaker: News, hanzi: "天文台表示，香港今日天氣潮濕，預料明日氣溫較高。", jyutping: "tin1 man4 toi4 biu2 si6, hoeng1 gong2 gam1 jat6 tin1 hei3 ciu4 sap1, jyu6 liu6 ming4 jat6 hei3 wan1 gaau3 gou1.", en: "The Observatory says the weather in Hong Kong is humid today; temperatures are expected to be higher tomorrow."}
+  - {n: 3, speaker: Lin-ze, hanzi: "又係回南天！啲地板黐立立，牆都出晒水，啲衫三日都未乾。", jyutping: "jau6 hai6 wui4 naam4 tin1! di1 dei6 baan2 ci1 nap6 nap6, coeng4 dou1 ceot1 saai3 seoi2, di1 saam1 saam1 jat6 dou1 mei6 gon1.", en: "The damp south wind again! The floor's all sticky, the walls are dripping, and the washing hasn't dried in three days."}
+  - {n: 4, speaker: News, hanzi: "今日下午三時左右，一輛紅色小巴於旺角與一輛私家車相撞，三名乘客受傷，被送往醫院。", jyutping: "gam1 jat6 haa6 ng5 saam1 si4 zo2 jau2, jat1 loeng6 hung4 sik1 siu2 baa1 jyu1 wong6 gok3 jyu5 jat1 loeng6 si1 gaa1 ce1 soeng1 zong6, saam1 ming4 sing4 haak3 sau6 soeng1, bei6 sung3 wong5 ji1 jyun2.", en: "At around three this afternoon, a red minibus collided with a private car in Mong Kok; three passengers were injured and taken to hospital."}
+  - {n: 5, speaker: Hugo, hanzi: "紅色小巴？Ken 就係揸紅色小巴㗎！", jyutping: "hung4 sik1 siu2 baa1? Ken zau6 hai6 zaa1 hung4 sik1 siu2 baa1 gaa3!", en: "A red minibus? Ken drives a red minibus!"}
+  - {n: 6, speaker: Kayan, hanzi: "你打俾佢睇吓。……佢話佢今日放假，喺屋企打機，冇事。", jyutping: "nei5 daa2 bei2 keoi5 tai2 haa5. …… keoi5 waa6 keoi5 gam1 jat6 fong3 gaa3, hai2 uk1 kei2 daa2 gei1, mou5 si6.", en: "Give him a ring. …He says he's off today, at home playing video games. He's fine."}
+  - {n: 7, speaker: News, hanzi: "警方表示，傷者均為輕傷，情況穩定，正調查意外起因。", jyutping: "ging2 fong1 biu2 si6, soeng1 ze2 gwan1 wai4 hing1 soeng1, cing4 fong3 wan2 ding6, zing3 diu6 caa4 ji3 ngoi6 hei2 jan1.", en: "Police say the injured all have minor injuries and are in a stable condition; they are investigating the cause of the accident."}
+  - {n: 8, speaker: Lin-ze, hanzi: "新聞講「被送往醫院」，我哋就講「俾人送咗去醫院」。", jyutping: "san1 man4 gong2 \"bei6 sung3 wong5 ji1 jyun2\", ngo5 dei6 zau6 gong2 \"bei2 jan4 sung3 zo2 heoi3 ji1 jyun2\".", en: "The news says 'were taken to hospital' with 被; we say 俾人送咗去醫院."}
+  - {n: 9, speaker: Hugo, hanzi: "我發覺「俾」多數係衰嘢：俾車撞、俾蚊咬、俾雨淋……", jyutping: "ngo5 faat3 gok3 \"bei2\" do1 sou3 hai6 seoi1 je5: bei2 ce1 zong6, bei2 man1 ngaau5, bei2 jyu5 lam4 ……", en: "I've noticed 俾 is mostly for bad things: hit by a car, bitten by mosquitoes, soaked by the rain…"}
+  - {n: 10, speaker: Leung Pak, hanzi: "仲有俾老闆鬧、俾女朋友飛。", jyutping: "zung6 jau5 bei2 lou5 baan2 naau6, bei2 neoi5 pang4 jau5 fei1.", en: "And told off by the boss, and dumped by your girlfriend."}
+  - {n: 11, speaker: News, hanzi: "另外，業界表示，過去一年香港不少茶餐廳因租金上升而結業，一啲老店被逼搬遷。", jyutping: "ling6 ngoi6, jip6 gaai3 biu2 si6, gwo3 heoi3 jat1 nin4 hoeng1 gong2 bat1 siu2 caa4 caan1 teng1 jan1 zou1 gam1 soeng5 sing1 ji4 git3 jip6, jat1 di1 lou5 dim3 bei6 bik1 bun1 cin1.", en: "Meanwhile, the trade says many cha chaan tengs in Hong Kong have closed over the past year because of rising rents, and some old shops have been forced to move."}
+  - {n: 12, speaker: Lin-ze, hanzi: "「被逼搬遷」……講得咁斯文。我哋就話：俾業主趕走。", jyutping: "\"bei6 bik1 bun1 cin1\" …… gong2 dak1 gam3 si1 man4. ngo5 dei6 zau6 waa6: bei2 jip6 zyu2 gon2 zau2.", en: "'Forced to relocate'… so polite. We'd say: kicked out by the landlord."}
+  - {n: 13, speaker: Kayan, hanzi: "唔好講呢啲住，阿爸聽到又瞓唔着。", jyutping: "m4 hou2 gong2 ni1 di1 zyu6, aa3 baa4 teng1 dou2 jau6 fan3 m4 zoek6.", en: "Let's not talk about that for now; Dad'll hear and lose sleep again."}
+  - {n: 14, speaker: News, hanzi: "最後，本台將舉辦「港式茶餐廳大比拼」，招募全港茶餐廳參賽，冠軍可得獎金十萬元。", jyutping: "zeoi3 hau6, bun2 toi4 zoeng1 geoi2 baan6 \"gong2 sik1 caa4 caan1 teng1 daai6 bei2 ping3\", ziu1 mou6 cyun4 gong2 caa4 caan1 teng1 caam1 coi3, gun3 gwan1 ho2 dak1 zoeng2 gam1 sap6 maan6 jyun4.", en: "Finally, this station will hold the 'Great Hong Kong Cha Chaan Teng Contest', open to cha chaan tengs across Hong Kong; the winner will receive a prize of 100,000 dollars."}
+  - {n: 15, speaker: News, hanzi: "想參加的茶餐廳，請於四月三十日或之前上本台網站報名。", jyutping: "soeng2 caam1 gaa1 dik1 caa4 caan1 teng1, cing2 jyu1 sei3 jyut6 saam1 sap6 jat6 waak6 zi1 cin4 soeng5 bun2 toi4 mong5 zaam6 bou3 meng2.", en: "Cha chaan tengs wishing to take part should register on our website on or before 30 April."}
+  - {n: 16, speaker: Hugo, hanzi: "十萬蚊！梁記一定要參加！", jyutping: "sap6 maan6 man1! loeng4 gei3 jat1 ding6 jiu3 caam1 gaa1!", en: "A hundred thousand dollars! 梁記 has to enter!"}
+  - {n: 17, speaker: Kayan, hanzi: "機會係好，不過阿爸肯唔肯呢？佢最憎上電視。", jyutping: "gei1 wui6 hai6 hou2, bat1 gwo3 aa3 baa4 hang2 m4 hang2 ne1? keoi5 zeoi3 zang1 soeng5 din6 si6.", en: "It's a great chance, but will Dad agree? He hates being on TV."}
+  - {n: 18, speaker: Leung Pak, hanzi: "邊個話我憎上電視？我後生嗰陣喺電視度唱過粵曲！", jyutping: "bin1 go3 waa6 ngo5 zang1 soeng5 din6 si6? ngo5 hau6 saang1 go2 zan6 hai2 din6 si6 dou6 coeng3 gwo3 jyut6 kuk1!", en: "Who says I hate being on TV? When I was young I sang Cantonese opera on television!"}
+  - {n: 19, speaker: Lin-ze, hanzi: "吓？我喺度做咗三十年都唔知！", jyutping: "haa2? ngo5 hai2 dou6 zou6 zo2 saam1 sap6 nin4 dou1 m4 zi1!", en: "What? I've worked here thirty years and never knew!"}
+  - {n: 20, speaker: Leung Pak, hanzi: "你唔知嘅嘢多啦。報名！我唔係為咗獎金，係要俾全港睇吓乜嘢先係港式奶茶。", jyutping: "nei5 m4 zi1 ge3 je5 do1 laa1. bou3 meng2! ngo5 m4 hai6 wai6 zo2 zoeng2 gam1, hai6 jiu3 bei2 cyun4 gong2 tai2 haa5 mat1 je5 sin1 hai6 gong2 sik1 naai5 caa4.", en: "There's plenty you don't know. Enter us! Not for the prize money: I want to show all Hong Kong what Hong Kong-style milk tea really is."}
+  - {n: 21, speaker: Hugo, hanzi: "我可以幫手寫報名表，用書面語寫。", jyutping: "ngo5 ho2 ji5 bong1 sau2 se2 bou3 meng2 biu2, jung6 syu1 min2 jyu5 se2.", en: "I can help write the entry form, in written Chinese."}
+  - {n: 22, speaker: Lin-ze, hanzi: "你？你啱啱先分得清「被」同「俾」。", jyutping: "nei5? nei5 ngaam1 ngaam1 sin1 fan1 dak1 cing1 \"bei6\" tung4 \"bei2\".", en: "You? You've only just learned to tell 被 from 俾."}
+  - {n: 23, speaker: Hugo, hanzi: "所以先要練習吖嘛！", jyutping: "so2 ji5 sin1 jiu3 lin6 zaap6 aa1 maa3!", en: "That's exactly why I need the practice!"}
+notes:
+  - {ref: 1, topic: culture, text: "News is written in standard written Chinese (書面語 syu1 min2 jyu5) but read aloud in Cantonese sounds: 是 si6, 的 dik1, 於 jyu1 'at, on', 均 gwan1 'all', 為 wai4 'be'. 新聞 san1 man4 = news; 報道 bou3 dou6 = report; 收看 sau1 hon3 = watch (a programme)."}
+  - {ref: 2, topic: vocab, text: "天文台 = the Hong Kong Observatory, the weather service. 潮濕 ciu4 sap1 'humid', 氣溫 hei3 wan1 'temperature', 預料 jyu6 liu6 'be expected', 較 gaau3 'comparatively' are news words; at the café you'd say 好濕, 熱啲."}
+  - {ref: 3, topic: culture, text: "回南天 wui4 naam4 tin1 'the south wind returns': spring days when warm, wet air meets cold walls and floors, and everything sweats. 黐立立 ci1 nap6 nap6 = sticky; 地板 dei6 baan2 = floor."}
+  - {ref: 4, topic: grammar, text: "Written classifiers and words: 一輛 loeng6 (spoken 一架) for vehicles, 三名 (spoken 三個) for people. 相撞 soeng1 zong6 = collide (spoken 撞車). 私家車 si1 gaa1 ce1 = private car; 乘客 sing4 haak3 = passenger."}
+  - {ref: 4, topic: grammar, text: "Written passive with 被 bei6: 被送往醫院 'were taken to hospital', 被逼搬遷 (line 11) 'were forced to move'. Spoken Cantonese uses 俾 bei2 + agent + verb, and the agent can't be dropped: 俾人送咗去醫院 'taken by someone to hospital', not *俾送."}
+  - {ref: 7, topic: vocab, text: "傷者 soeng1 ze2 = the injured; 輕傷 'minor injuries'. 穩定 wan2 ding6 = stable. 警方 ging2 fong1 = the police (written). 起因 hei2 jan1 = cause. 正 + verb 'be …ing' is the written form of V + 緊: 正調查."}
+  - {ref: 9, topic: grammar, text: "The spoken 俾 passive is mostly adversative: it reports something bad that happened to you. 俾蚊咬 'bitten by mosquitoes' (咬 ngaau5 'bite'), 俾雨淋 'caught in the rain', 俾女朋友飛 'dumped' (P20). For good or neutral events Cantonese usually turns the sentence around: 老闆讚我, not 我俾老闆讚. 衰嘢 seoi1 je5 = bad stuff."}
+  - {ref: 11, topic: vocab, text: "業界 jip6 gaai3 = the trade, the industry. 不少 bat1 siu2 = quite a few, many. 結業 git3 jip6 = close down (formal for 執笠). 搬遷 bun1 cin1 = relocate (formal for 搬). 因…而… 'because of … (and so) …' is written grammar."}
+  - {ref: 12, topic: vocab, text: "斯文 'refined, polite' (known). 趕走 gon2 zau2 'drive away, kick out'."}
+  - {ref: 14, topic: vocab, text: "舉辦 geoi2 baan6 = hold, organise (an event). 本台 'this station'. 招募 ziu1 mou6 = recruit. 全港 cyun4 gong2 = all over Hong Kong. 參賽 caam1 coi3 = enter a contest. 獎金 zoeng2 gam1 = prize money. 元 jyun4 = dollar (written); spoken 蚊."}
+  - {ref: 15, topic: vocab, text: "參加 caam1 gaa1 = take part, enter. 報名 bou3 meng2 = register, sign up: 報名表 'entry form'. 網站 mong5 zaam6 = website. 或之前 'or before', a written formula."}
+  - {ref: 18, topic: culture, text: "粵曲 jyut6 kuk1 = Cantonese opera songs, sung on their own (粵劇 is the staged opera). In the 1960s–70s, TV variety shows were full of amateur singers."}
+  - {ref: 20, topic: grammar, text: "唔係為咗 A，係 B 'not for A, but B' (P31). 港式 gong2 sik1 = Hong Kong-style: 港式奶茶, 港式茶餐廳."}
+  - {ref: 4, topic: vs-mandarin, text: "The news register is basically Mandarin grammar read in Cantonese sounds: 被送往醫院 is the same sentence in Mandarin. Spoken Cantonese 俾人送咗去 has no Mandarin twin; Mandarin speech still uses 被 or 讓/叫."}
+pron:
+  - {ref: 4, text: "被 'by (passive)' is bei6, low level; spoken 俾 'by, give' is bei2, rising. Hugo's line 22 joke depends on it."}
+  - {ref: 1, text: "新聞 san1 man4 in careful news reading; many people say san1 man2 with a changed tone."}
+  - {ref: 15, text: "的 is dik1 when read aloud from writing; in speech the word is 嘅 ge3."}
+new_words:
+  - {jyutping: "san1 man4", hanzi: 新聞, en: "news"}
+  - {jyutping: "bou3 dou6", hanzi: 報道, en: "report"}
+  - {jyutping: "sau1 hon3", hanzi: 收看, en: "watch (a programme)"}
+  - {jyutping: "hei3 wan1", hanzi: 氣溫, en: "temperature"}
+  - {jyutping: "jyu6 liu6", hanzi: 預料, en: "expect, forecast"}
+  - {jyutping: "wui4 naam4 tin1", hanzi: 回南天, en: "damp spring weather"}
+  - {jyutping: "dei6 baan2", hanzi: 地板, en: "floor"}
+  - {jyutping: "ci1 nap6 nap6", hanzi: 黐立立, en: "sticky"}
+  - {jyutping: "loeng6", hanzi: 輛, en: "classifier for vehicles (written)"}
+  - {jyutping: "si1 gaa1 ce1", hanzi: 私家車, en: "private car"}
+  - {jyutping: "soeng1 zong6", hanzi: 相撞, en: "collide"}
+  - {jyutping: "sing4 haak3", hanzi: 乘客, en: "passenger"}
+  - {jyutping: "bei6", hanzi: 被, en: "by (written passive)"}
+  - {jyutping: "jyu1", hanzi: 於, en: "at, on (written)"}
+  - {jyutping: "daa2 gei1", hanzi: 打機, en: "play video games"}
+  - {jyutping: "ging2 fong1", hanzi: 警方, en: "the police (written)"}
+  - {jyutping: "soeng1 ze2", hanzi: 傷者, en: "the injured"}
+  - {jyutping: "gwan1", hanzi: 均, en: "all (written)"}
+  - {jyutping: "wan2 ding6", hanzi: 穩定, en: "stable"}
+  - {jyutping: "hei2 jan1", hanzi: 起因, en: "cause"}
+  - {jyutping: "ngaau5", hanzi: 咬, en: "bite"}
+  - {jyutping: "seoi1 je5", hanzi: 衰嘢, en: "bad stuff"}
+  - {jyutping: "jip6 gaai3", hanzi: 業界, en: "the trade, industry"}
+  - {jyutping: "bat1 siu2", hanzi: 不少, en: "quite a few"}
+  - {jyutping: "git3 jip6", hanzi: 結業, en: "close down (formal)"}
+  - {jyutping: "bei6 bik1", hanzi: 被逼, en: "be forced"}
+  - {jyutping: "bun1 cin1", hanzi: 搬遷, en: "relocate (formal)"}
+  - {jyutping: "gon2 zau2", hanzi: 趕走, en: "drive away, kick out"}
+  - {jyutping: "geoi2 baan6", hanzi: 舉辦, en: "hold, organise"}
+  - {jyutping: "gong2 sik1", hanzi: 港式, en: "Hong Kong-style"}
+  - {jyutping: "ziu1 mou6", hanzi: 招募, en: "recruit"}
+  - {jyutping: "cyun4 gong2", hanzi: 全港, en: "all over Hong Kong"}
+  - {jyutping: "caam1 coi3", hanzi: 參賽, en: "enter a contest"}
+  - {jyutping: "zoeng2 gam1", hanzi: 獎金, en: "prize money"}
+  - {jyutping: "jyun4", hanzi: 元, en: "dollar (written)"}
+  - {jyutping: "caam1 gaa1", hanzi: 參加, en: "take part, enter"}
+  - {jyutping: "mong5 zaam6", hanzi: 網站, en: "website"}
+  - {jyutping: "bou3 meng2", hanzi: 報名, en: "register, sign up"}
+  - {jyutping: "jyut6 kuk1", hanzi: 粵曲, en: "Cantonese opera song"}
+  - {jyutping: "syu1 min2 jyu5", hanzi: 書面語, en: "written Chinese"}
+exercises:
+  translate:
+    - {hanzi: "我尋日俾雨淋到成身濕。", jyutping: "ngo5 cam4 jat6 bei2 jyu5 lam4 dou3 seng4 san1 sap1.", en: "Yesterday I got soaked through by the rain."}
+    - {hanzi: "佢俾人呃咗兩萬蚊。", jyutping: "keoi5 bei2 jan4 aak1 zo2 loeng5 maan6 man1.", en: "He was cheated out of twenty thousand dollars."}
+    - {hanzi: "回南天，啲地板黐立立。", jyutping: "wui4 naam4 tin1, di1 dei6 baan2 ci1 nap6 nap6.", en: "It's the damp season; the floor is all sticky."}
+    - {hanzi: "梁記決定參加茶餐廳比賽。", jyutping: "loeng4 gei3 kyut3 ding6 caam1 gaa1 caa4 caan1 teng1 bei2 coi3.", en: "梁記 has decided to enter the cha chaan teng contest."}
+    - {hanzi: "不少老店因租金上升而結業。", jyutping: "bat1 siu2 lou5 dim3 jan1 zou1 gam1 soeng5 sing1 ji4 git3 jip6.", en: "Quite a few old shops have closed because of rising rents."}
+  fill:
+    - {hanzi: "三名乘客受傷，___送往醫院。", jyutping: "saam1 ming4 sing4 haak3 sau6 soeng1, ___ sung3 wong5 ji1 jyun2.", answer: "bei6", answer_hanzi: 被, en: "Three passengers were injured and taken to hospital."}
+    - {hanzi: "我___蚊咬到成手都係。", jyutping: "ngo5 ___ man1 ngaau5 dou3 seng4 sau2 dou1 hai6.", answer: "bei2", answer_hanzi: 俾, en: "My whole arm is covered in mosquito bites."}
+    - {hanzi: "請於四月三十日或之前___。", jyutping: "cing2 jyu1 sei3 jyut6 saam1 sap6 jat6 waak6 zi1 cin4 ___.", answer: "bou3 meng2", answer_hanzi: 報名, en: "Please register on or before 30 April."}
+    - {hanzi: "冠軍可以攞十萬蚊___。", jyutping: "gun3 gwan1 ho2 ji5 lo2 sap6 maan6 man1 ___.", answer: "zoeng2 gam1", answer_hanzi: 獎金, en: "The winner gets a hundred thousand dollars in prize money."}
+    - {hanzi: "Ken 今日放假，喺屋企___。", jyutping: "Ken gam1 jat6 fong3 gaa3, hai2 uk1 kei2 ___.", answer: "daa2 gei1", answer_hanzi: 打機, en: "Ken is off today, playing video games at home."}
