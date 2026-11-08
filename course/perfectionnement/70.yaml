@@ -1,0 +1,60 @@
+# 進修 70. Review of P64–P69, and of the whole course: no new words. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 70
+title: {en: "Review: time to bring in the firewood", jyutping: "fuk6 zaap6", hanzi: "復習"}
+genre: review
+review: true
+setting: "Wednesday 22 December 2027, the winter solstice, one year after Hugo's first 冬至 at 梁記 (P22). 梁記 closes early. Around two tables pushed together: 梁伯, Kayan, Hugo, Hiu-ching and her 婆婆, 蓮姐 and 樂仔, 強哥, 何生, the band, and 嘉偉 on video from Manchester."
+dialogue:
+  - {n: 1, speaker: Lin-ze, hanzi: "冬至大過年！大家坐埋嚟，今晚唔做生意，淨係做冬。", jyutping: "dung1 zi3 daai6 gwo3 nin4! daai6 gaa1 co5 maai4 lai4, gam1 maan5 m4 zou6 saang1 ji3, zing6 hai6 zou6 dung1.", en: "The winter solstice is bigger than New Year! Everyone sit down; no business tonight, just the solstice dinner."}
+  - {n: 2, speaker: Hugo, hanzi: "一年前今日，我喺日記度寫：「梁伯一早收咗舖，屋企人一齊做冬。」嗰陣我坐喺最後面，乜都聽唔明。", jyutping: "jat1 nin4 cin4 gam1 jat6, ngo5 hai2 jat6 gei3 dou6 se2: \"loeng4 baak3 jat1 zou2 sau1 zo2 pou3, uk1 kei2 jan4 jat1 cai4 zou6 dung1.\" go2 zan6 ngo5 co5 hai2 zeoi3 hau6 min6, mat1 dou1 teng1 m4 ming4.", en: "A year ago today, I wrote in my diary: '梁伯 closed the shop early, and the family had the solstice dinner together.' Back then I sat at the very back and understood nothing."}
+  - {n: 3, speaker: Leung Pak, hanzi: "而家你坐喺我隔籬，仲識同我嗌交。", jyutping: "ji4 gaa1 nei5 co5 hai2 ngo5 gaak3 lei4, zung6 sik1 tung4 ngo5 aai3 gaau1.", en: "Now you sit next to me, and you can even argue with me."}
+  - {n: 4, speaker: Keung-go, hanzi: "（擺低一碟碟餸）燒肉、雞、魚、菜，仲有阿果學咗成個月嘅燉蛋。", jyutping: "(baai2 dai1 jat1 dip6 dip6 sung3) siu1 juk6, gai1, jyu2, coi3, zung6 jau5 aa3 gwo2 hok6 zo2 seng4 go3 jyut6 ge3 dan6 daan2.", en: "(Setting down plate after plate) Roast pork, chicken, fish, vegetables, and the custard A-Gwo has spent a whole month learning."}
+  - {n: 5, speaker: Hugo, hanzi: "今次冇燶！我將糖撒得好勻，用火槍慢慢咁燒。", jyutping: "gam1 ci3 mou5 nung1! ngo5 zoeng1 tong4 saat3 dak1 hou2 wan4, jung6 fo2 coeng1 maan6 maan2 gam2 siu1.", en: "Not burnt this time! I sprinkled the sugar very evenly and torched it slowly."}
+  - {n: 6, speaker: Grandma, hanzi: "後生仔，你個燉蛋好滑過我孫女整嘅。", jyutping: "hau6 saang1 zai2, nei5 go3 dan6 daan2 hou2 waat6 gwo3 ngo5 syun1 neoi2 zing2 ge3.", en: "Young man, your custard is smoother than my granddaughter's."}
+  - {n: 7, speaker: Hiu-ching, hanzi: "婆婆！你唔通想佢做你個孫，唔要我？", jyutping: "po4 po2! nei5 m4 tung1 soeng2 keoi5 zou6 nei5 go3 syun1, m4 jiu3 ngo5?", en: "Grandma! Don't tell me you'd rather have him as your grandchild instead of me?"}
+  - {n: 8, speaker: Grandma, hanzi: "佢學識游水未？未學識，就唔可以做長洲人。", jyutping: "keoi5 hok6 sik1 jau4 seoi2 mei6? mei6 hok6 sik1, zau6 m4 ho2 ji5 zou6 coeng4 zau1 jan4.", en: "Has he learned to swim yet? If not, he can't be a Cheung Chau man."}
+  - {n: 9, speaker: Hugo, hanzi: "學緊！逢禮拜日朝早喺沙灘練，雖然仲飲咗好多水。", jyutping: "hok6 gan2! fung4 lai5 baai3 jat6 ziu1 zou2 hai2 saa1 taan1 lin6, seoi1 jin4 zung6 jam2 zo2 hou2 do1 seoi2.", en: "I'm learning! Every Sunday morning I practise at the beach, though I'm still swallowing a lot of water."}
+  - {n: 10, speaker: Lok-zai, hanzi: "阿果哥哥，你班學生演完嗰場戲，我同學個個都話想學法文。", jyutping: "aa3 gwo2 go4 go1, nei5 baan1 hok6 saang1 jin2 jyun4 go2 coeng4 hei3, ngo5 tung4 hok6 go3 go3 dou1 waa6 soeng2 hok6 faat3 man2.", en: "Big brother A-Gwo, after your students did their play, all my classmates say they want to learn French."}
+  - {n: 11, speaker: Mr Ho, hanzi: "國華，十年租約，我哋至少仲有十年一齊飲茶。如果你想嘅話，之後我再續。", jyutping: "gwok3 waa4, sap6 nin4 zou1 joek3, ngo5 dei6 zi3 siu2 zung6 jau5 sap6 nin4 jat1 cai4 jam2 caa4. jyu4 gwo2 nei5 soeng2 ge3 waa2, zi1 hau6 ngo5 zoi3 zuk6.", en: "Kwok-wah, with a ten-year lease, we've got at least ten more years of tea together. If you like, I'll renew after that."}
+  - {n: 12, speaker: Leung Pak, hanzi: "十年後我哋兩個都八十歲，飲唔飲到茶都唔知。", jyutping: "sap6 nin4 hau6 ngo5 dei6 loeng5 go3 dou1 baat3 sap6 seoi3, jam2 m4 jam2 dou2 caa4 dou1 m4 zi1.", en: "In ten years we'll both be nearly eighty; who knows if we'll still be able to drink tea."}
+  - {n: 13, speaker: Ka-wai, hanzi: "（喺手機度）阿爸，你夏天嚟英國嘅機票，我已經訂好咗！", jyutping: "(hai2 sau2 gei1 dou6) aa3 baa4, nei5 haa6 tin1 lai4 jing1 gwok3 ge3 gei1 piu3, ngo5 ji5 ging1 deng6 hou2 zo2!", en: "(On the phone) Dad, I've already booked your ticket to England for the summer!"}
+  - {n: 14, speaker: Leung Pak, hanzi: "咁快？……好，我去。不過我要帶茶葉，英國啲茶冇咁濃。", jyutping: "gam3 faai3? …… hou2, ngo5 heoi3. bat1 gwo3 ngo5 jiu3 daai3 caa4 jip6, jing1 gwok3 di1 caa4 mou5 gam3 nung4.", en: "So soon? …Fine, I'll go. But I'm bringing tea leaves: English tea isn't as strong."}
+  - {n: 15, speaker: Kayan, hanzi: "阿爸，你去英國嗰陣，我同阿果睇住舖頭，你放心。", jyutping: "aa3 baa4, nei5 heoi3 jing1 gwok3 go2 zan6, ngo5 tung4 aa3 gwo2 tai2 zyu6 pou3 tau2, nei5 fong3 sam1.", en: "Dad, while you're in England, A-Gwo and I will look after the shop. Don't worry."}
+  - {n: 16, speaker: Leung Pak, hanzi: "我放心。老人家講：落雨收柴。我做咗咁多年，係時候收工喇。", jyutping: "ngo5 fong3 sam1. lou5 jan4 gaa1 gong2: lok6 jyu5 sau1 caai4. ngo5 zou6 zo2 gam3 do1 nin4, hai6 si4 hau6 sau1 gung1 laa3.", en: "I'm not worried. The old saying goes: when it rains, bring in the firewood. I've worked so many years; it's time to call it a day."}
+  - {n: 17, speaker: Hugo, hanzi: "「落雨收柴」即係乜？", jyutping: "\"lok6 jyu5 sau1 caai4\" zik1 hai6 mat1?", en: "What does 'when it rains, bring in the firewood' mean?"}
+  - {n: 18, speaker: Lin-ze, hanzi: "即係一件事做完，大家執好嘢，收工。好似一齣戲做完，或者一首歌完咗。", jyutping: "zik1 hai6 jat1 gin6 si6 zou6 jyun4, daai6 gaa1 zap1 hou2 je5, sau1 gung1. hou2 ci5 jat1 ceot1 hei3 zou6 jyun4, waak6 ze2 jat1 sau2 go1 jyun4 zo2.", en: "It means when something reaches its end, everyone packs up and calls it a day. Like a play ending, or a song coming to its end."}
+  - {n: 19, speaker: Hiu-ching, hanzi: "咁阿果嘅廣東話，係咪都落雨收柴？", jyutping: "gam2 aa3 gwo2 ge3 gwong2 dung1 waa2, hai6 mai6 dou1 lok6 jyu5 sau1 caai4?", en: "So is A-Gwo's Cantonese time to bring in the firewood too?"}
+  - {n: 20, speaker: Hugo, hanzi: "唔係。我學咗一年幾，識講，識寫，識嗌交，識唱歌……不過我知道，我仲有好多嘢未學。", jyutping: "m4 hai6. ngo5 hok6 zo2 jat1 nin4 gei2, sik1 gong2, sik1 se2, sik1 aai3 gaau1, sik1 coeng3 go1 …… bat1 gwo3 ngo5 zi1 dou3, ngo5 zung6 jau5 hou2 do1 je5 mei6 hok6.", en: "No. I've been learning for a year and a bit: I can speak, write, argue, sing… but I know there's still a lot I haven't learned."}
+  - {n: 21, speaker: Leung Pak, hanzi: "咁就學落去。唔好學我咁硬頸，亦唔好學何生咁斯文。學你自己。", jyutping: "gam2 zau6 hok6 lok6 heoi3. m4 hou2 hok6 ngo5 gam3 ngaang6 geng2, jik6 m4 hou2 hok6 ho4 saang1 gam3 si1 man4. hok6 nei5 zi6 gei2.", en: "Then keep learning. Don't be as stubborn as me, or as polite as Mr Ho. Be yourself."}
+  - {n: 22, speaker: Lin-ze, hanzi: "（舉起杯）嚟，大家飲杯！祝梁記，祝深水埗，祝我哋呢一班人，下個冬至仍然坐埋一齊！", jyutping: "(geoi2 hei2 bui1) lai4, daai6 gaa1 jam2 bui1! zuk1 loeng4 gei3, zuk1 sam1 seoi2 bou2, zuk1 ngo5 dei6 ni1 jat1 baan1 jan4, haa6 go3 dung1 zi3 jing4 jin4 co5 maai4 jat1 cai4!", en: "(Raising her cup) Come on, everyone, a toast! To 梁記, to Sham Shui Po, and to all of us, still sitting together next solstice!"}
+  - {n: 23, speaker: All, hanzi: "飲勝！", jyutping: "jam2 sing3!", en: "Cheers!"}
+  - {n: 24, speaker: Hugo, hanzi: "（喺日記度寫）今日冬至。梁伯一早收咗舖，屋企人一齊做冬。今年，我都係屋企人。", jyutping: "(hai2 jat6 gei3 dou6 se2) gam1 jat6 dung1 zi3. loeng4 baak3 jat1 zou2 sau1 zo2 pou3, uk1 kei2 jan4 jat1 cai4 zou6 dung1. gam1 nin4, ngo5 dou1 hai6 uk1 kei2 jan4.", en: "(Writing in his diary) Today, the winter solstice. 梁伯 closed the shop early, and the family had the solstice dinner together. This year, I'm family too."}
+notes:
+  - {ref: 0, topic: grammar, text: "This last review brings back P64–P69 and the whole course: manner 咁 (慢慢咁燒, line 5), comparisons (好滑過, 冇咁濃), rhetorical 唔通 (line 7), conditionals (如果…嘅話, line 11), potentials (飲唔飲到, 聽唔明), 將 (line 5), continuative 落去 (line 21), and the yes/no answers with 係 / 唔係 (lines 19–20)."}
+  - {ref: 1, topic: culture, text: "冬至大過年 'the winter solstice is bigger than New Year' (P22): families close early for the 做冬 dinner. The lesson echoes Hugo's first diary entry, word for word, in line 2 and line 24."}
+  - {ref: 4, topic: vocab, text: "一碟碟 'plate after plate' (doubled classifier, P48). 餸 'dishes (to go with rice)'."}
+  - {ref: 5, topic: grammar, text: "將糖撒得好勻 'sprinkled the sugar very evenly': 將 + object + verb + 得 + result (P57). 勻 'even' (攪勻, P39)."}
+  - {ref: 6, topic: grammar, text: "好滑過 'smoother than': adjective + 過 (P40)."}
+  - {ref: 7, topic: grammar, text: "唔通 (P34): 'don't tell me…?'."}
+  - {ref: 9, topic: vocab, text: "逢禮拜日 'every Sunday' (逢, P18). 學緊 'learning (still)'. Callback to P35: 婆婆's condition was to learn to swim."}
+  - {ref: 11, topic: grammar, text: "如果你想嘅話 'if you like': conditional 嘅話 (P59). 至少 'at least' (P19)."}
+  - {ref: 12, topic: grammar, text: "飲唔飲到茶都唔知 'whether we can still drink tea, who knows': V唔V到 + 都唔知."}
+  - {ref: 16, topic: culture, text: "落雨收柴 'when it rains, bring in the firewood': time to wrap things up, the end of the day's work. 收工 'finish work'. 係時候 'it's time to'."}
+  - {ref: 18, topic: vocab, text: "一齣戲 'a play, a film' (齣 classifier). 一首歌 'a song' (首 classifier)."}
+  - {ref: 21, topic: grammar, text: "學落去 'keep learning' (落去, P30). 唔好學我咁硬頸 'don't be as stubborn as me': 學 + person + 咁 + adjective 'copy someone in being…'."}
+  - {ref: 24, topic: vocab, text: "我都係屋企人 'I'm family too'. The course ends where Hugo's Cantonese began: at a family table."}
+pron: []
+new_words: []
+exercises:
+  translate:
+    - {hanzi: "我將糖撒得好勻，慢慢咁燒。", jyutping: "ngo5 zoeng1 tong4 saat3 dak1 hou2 wan4, maan6 maan2 gam2 siu1.", en: "I sprinkled the sugar evenly and torched it slowly."}
+    - {hanzi: "你個燉蛋好滑過我整嘅。", jyutping: "nei5 go3 dan6 daan2 hou2 waat6 gwo3 ngo5 zing2 ge3.", en: "Your custard is smoother than mine."}
+    - {hanzi: "英國啲茶冇咁濃。", jyutping: "jing1 gwok3 di1 caa4 mou5 gam3 nung4.", en: "English tea isn't as strong."}
+    - {hanzi: "我仲有好多嘢未學，要學落去。", jyutping: "ngo5 zung6 jau5 hou2 do1 je5 mei6 hok6, jiu3 hok6 lok6 heoi3.", en: "There's still a lot I haven't learned; I have to keep going."}
+    - {hanzi: "落雨收柴，係時候收工喇。", jyutping: "lok6 jyu5 sau1 caai4, hai6 si4 hau6 sau1 gung1 laa3.", en: "Time to bring in the firewood: time to call it a day."}
+  fill:
+    - {hanzi: "如果你想___，我再續約。", jyutping: "jyu4 gwo2 nei5 soeng2 ___, ngo5 zoi3 zuk6 joek3.", answer: "ge3 waa2", answer_hanzi: 嘅話, en: "If you like, I'll renew the lease."}
+    - {hanzi: "你___想佢做你個孫，唔要我？", jyutping: "nei5 ___ soeng2 keoi5 zou6 nei5 go3 syun1, m4 jiu3 ngo5?", answer: "m4 tung1", answer_hanzi: 唔通, en: "Don't tell me you'd rather have him as your grandchild?"}
+    - {hanzi: "唔好學我___硬頸。", jyutping: "m4 hou2 hok6 ngo5 ___ ngaang6 geng2.", answer: "gam3", answer_hanzi: 咁, en: "Don't be as stubborn as me."}
+    - {hanzi: "我哋___有十年一齊飲茶。", jyutping: "ngo5 dei6 ___ jau5 sap6 nin4 jat1 cai4 jam2 caa4.", answer: "zung6", answer_hanzi: 仲, en: "We still have ten years of tea together."}
+    - {hanzi: "今年，我都___屋企人。", jyutping: "gam1 nin4, ngo5 dou1 ___ uk1 kei2 jan4.", answer: "hai6", answer_hanzi: 係, en: "This year, I'm family too."}

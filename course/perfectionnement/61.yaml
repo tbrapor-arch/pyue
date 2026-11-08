@@ -1,0 +1,89 @@
+# 進修 61. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 61
+title: {en: "A week in Guangzhou", jyutping: "gwong2 zau1 jat1 go3 lai5 baai3", hanzi: "廣州一個禮拜"}
+intro: "Hugo's diary of a week in Guangzhou: relative clauses with 嘅 and with classifiers (我住嗰間屋, 佢介紹嗰個朋友), code-mixing and code-switching, and the Cantonese of Guangzhou today."
+genre: diary
+review: false
+setting: "Monday 15 to Sunday 21 November 2027. The band has a gig at a Guangzhou livehouse on Saturday. Hugo goes a week early, stays in a room in an old Xiguan house, and keeps his diary in Cantonese."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "十一月十五號，禮拜一。我住嗰間屋係西關大屋，有一百年歷史。屋主陳姨話，以前呢度住嘅都係有錢人。", jyutping: "sap6 jat1 jyut6 sap6 ng5 hou6, lai5 baai3 jat1. ngo5 zyu6 go2 gaan1 uk1 hai6 sai1 gwaan1 daai6 uk1, jau5 jat1 baak3 nin4 lik6 si2. uk1 zyu2 can4 ji1 waa6, ji5 cin4 ni1 dou6 zyu6 ge3 dou1 hai6 jau5 cin2 jan4.", en: "Monday 15 November. The house I'm staying in is an old Xiguan mansion, a hundred years old. The owner, Auntie Chan, says the people who lived here were all rich."}
+  - {n: 2, speaker: Hugo, hanzi: "大門有三層：木門、趟櫳，同埋一度細門。趟櫳係一條條橫嘅木，夏天開大門都唔怕賊入嚟，又夠涼。", jyutping: "daai6 mun4 jau5 saam1 cang4: muk6 mun4, tong3 lung2, tung4 maai4 jat1 dou6 sai3 mun4. tong3 lung2 hai6 jat1 tiu4 tiu4 waang4 ge3 muk6, haa6 tin1 hoi1 daai6 mun4 dou1 m4 paa3 caak2 jap6 lai4, jau6 gau3 loeng4.", en: "The front door has three layers: a wooden door, a 'tong lung' of sliding bars, and a small half-door. The tong lung is a row of horizontal wooden bars: in summer you can leave the main door open without fear of thieves, and it stays cool."}
+  - {n: 3, speaker: Hugo, hanzi: "屋入面有個天井，啲光由上面照落嚟。陳姨每朝喺天井度飲茶、聽粵曲。", jyutping: "uk1 jap6 min6 jau5 go3 tin1 zeng2, di1 gwong1 jau4 soeng6 min6 ziu3 lok6 lai4. can4 ji1 mui5 ziu1 hai2 tin1 zeng2 dou6 jam2 caa4, teng1 jyut6 kuk1.", en: "Inside there's a courtyard open to the sky, and light falls in from above. Every morning Auntie Chan drinks tea and listens to Cantonese opera there."}
+  - {n: 4, speaker: Hugo, hanzi: "十一月十六號，禮拜二。陳姨帶我去佢飲咗五十年嘅茶樓，一盅兩件：一盅茶，兩件點心。", jyutping: "sap6 jat1 jyut6 sap6 luk6 hou6, lai5 baai3 ji6. can4 ji1 daai3 ngo5 heoi3 keoi5 jam2 zo2 ng5 sap6 nin4 ge3 caa4 lau4, jat1 zung1 loeng5 gin6: jat1 zung1 caa4, loeng5 gin6 dim2 sam1.", en: "Tuesday 16 November. Auntie Chan took me to the teahouse she's been going to for fifty years: 'one cup, two pieces', a cup of tea and two dim sum."}
+  - {n: 5, speaker: Hugo, hanzi: "隔籬枱嗰班阿伯講廣東話，個口音同梁伯差唔多，不過有啲字唔同。佢哋叫「搭地鐵」做「坐地鐵」。", jyutping: "gaak3 lei4 toi2 go2 baan1 aa3 baak3 gong2 gwong2 dung1 waa2, go3 hau2 jam1 tung4 loeng4 baak3 caa1 m4 do1, bat1 gwo3 jau5 di1 zi6 m4 tung4. keoi5 dei6 giu3 \"daap3 dei6 tit3\" zou6 \"co5 dei6 tit3\".", en: "The old men at the next table spoke Cantonese with an accent close to 梁伯's, but some words differ. They say 'sit the metro' instead of 'take the metro'."}
+  - {n: 6, speaker: Hugo, hanzi: "十一月十七號，禮拜三。我識咗啲後生，係陳姨個孫介紹嘅朋友。佢哋傾偈，一句廣東話，一句普通話，切換得好自然。", jyutping: "sap6 jat1 jyut6 sap6 cat1 hou6, lai5 baai3 saam1. ngo5 sik1 zo2 di1 hau6 saang1, hai6 can4 ji1 go3 syun1 gaai3 siu6 ge3 pang4 jau5. keoi5 dei6 king1 gai2, jat1 geoi3 gwong2 dung1 waa2, jat1 geoi3 pou2 tung1 waa2, cit3 wun6 dak1 hou2 zi6 jin4.", en: "Wednesday 17 November. I met some young people, friends introduced by Auntie Chan's grandson. When they chat, it's one sentence in Cantonese, one in Mandarin; they switch very naturally."}
+  - {n: 7, speaker: Hugo, hanzi: "佢哋話，學校上堂講普通話，屋企同阿爺阿嫲先講廣東話。好多由外省嚟嘅同學，完全唔識講。", jyutping: "keoi5 dei6 waa6, hok6 haau6 soeng5 tong4 gong2 pou2 tung1 waa2, uk1 kei2 tung4 aa3 je4 aa3 maa4 sin1 gong2 gwong2 dung1 waa2. hou2 do1 jau4 ngoi6 saang2 lai4 ge3 tung4 hok6, jyun4 cyun4 m4 sik1 gong2.", en: "They say classes at school are in Mandarin; they only speak Cantonese at home with their grandparents. Many classmates who came from other provinces can't speak it at all."}
+  - {n: 8, speaker: Hugo, hanzi: "有個叫阿珊嘅女仔話：「我哋呢代人，廣東話識聽識講，但係唔識寫。寫字就自然變咗普通話。」", jyutping: "jau5 go3 giu3 aa3 saan1 ge3 neoi5 zai2 waa6: \"ngo5 dei6 ni1 doi6 jan4, gwong2 dung1 waa2 sik1 teng1 sik1 gong2, daan6 hai6 m4 sik1 se2. se2 zi6 zau6 zi6 jin4 bin3 zo2 pou2 tung1 waa2.\"", en: "A girl called 阿珊 said: 'Our generation can understand and speak Cantonese, but not write it. When we write, it just turns into Mandarin.'"}
+  - {n: 9, speaker: Hugo, hanzi: "我問佢擔唔擔心廣東話會冇咗。佢諗咗一陣：「擔心。不過只要仲有人講粵語歌、睇港劇，佢就唔會死。」", jyutping: "ngo5 man6 keoi5 daam1 m4 daam1 sam1 gwong2 dung1 waa2 wui5 mou5 zo2. keoi5 nam2 zo2 jat1 zan6: \"daam1 sam1. bat1 gwo3 zi2 jiu3 zung6 jau5 jan4 coeng3 jyut6 jyu5 go1, tai2 gong2 kek6, keoi5 zau6 m4 wui5 sei2.\"", en: "I asked her whether she worries Cantonese will disappear. She thought for a moment: 'Yes. But as long as people still sing Cantonese songs and watch Hong Kong dramas, it won't die.'"}
+  - {n: 10, speaker: Hugo, hanzi: "十一月十八號，禮拜四。今日收到演出場地嘅通知：我哋啲歌詞要送去審批，批咗先可以唱。", jyutping: "sap6 jat1 jyut6 sap6 baat3 hou6, lai5 baai3 sei3. gam1 jat6 sau1 dou2 jin2 ceot1 coeng4 dei6 ge3 tung1 zi1: ngo5 dei6 di1 go1 ci4 jiu3 sung3 heoi3 sam2 pai1, pai1 zo2 sin1 ho2 ji5 coeng3.", en: "Thursday 18 November. Today the venue told us our lyrics have to be submitted for approval; we can only sing them once they're approved."}
+  - {n: 11, speaker: Hugo, hanzi: "喺內地，商業演出都要申請許可，歌詞亦要審查。我哋擔心啲香港俚語太多，佢哋睇唔明。", jyutping: "hai2 noi6 dei6, soeng1 jip6 jin2 ceot1 dou1 jiu3 san1 cing2 heoi2 ho2, go1 ci4 jik6 jiu3 sam2 caa4. ngo5 dei6 daam1 sam1 di1 hoeng1 gong2 lei5 jyu5 taai3 do1, keoi5 dei6 tai2 m4 ming4.", en: "On the mainland, commercial shows need a permit, and lyrics are reviewed too. We were worried there'd be too much Hong Kong slang for them to understand."}
+  - {n: 12, speaker: Hugo, hanzi: "十一月十九號，禮拜五。結果批咗五首，有一首要刪一句。阿占話：「刪一句，唱九句，都係我哋嘅歌。」", jyutping: "sap6 jat1 jyut6 sap6 gau2 hou6, lai5 baai3 ng5. git3 gwo2 pai1 zo2 ng5 sau2, jau5 jat1 sau2 jiu3 saan1 jat1 geoi3. aa3 zim1 waa6: \"saan1 jat1 geoi3, coeng3 gau2 geoi3, dou1 hai6 ngo5 dei6 ge3 go1.\"", en: "Friday 19 November. In the end five songs were approved, and one has to lose a line. 阿占 said: 'Cut one line, sing nine: it's still our song.'"}
+  - {n: 13, speaker: Hugo, hanzi: "《冇人提起》我哋冇交。有啲歌，留返喺香港唱。", jyutping: "\"mou5 jan4 tai4 hei2\" ngo5 dei6 mou5 gaau1. jau5 di1 go1, lau4 faan1 hai2 hoeng1 gong2 coeng3.", en: "We didn't submit 'Nobody Brings It Up'. Some songs are kept for Hong Kong."}
+  - {n: 14, speaker: Hugo, hanzi: "十一月二十號，禮拜六。演出晚。場地坐滿後生，有本地人，亦有由北方嚟廣州返工嘅新廣州人。", jyutping: "sap6 jat1 jyut6 ji6 sap6 hou6, lai5 baai3 luk6. jin2 ceot1 maan5. coeng4 dei6 co5 mun5 hau6 saang1, jau5 bun2 dei6 jan4, jik6 jau5 jau4 bak1 fong1 lai4 gwong2 zau1 faan1 gung1 ge3 san1 gwong2 zau1 jan4.", en: "Saturday 20 November. Gig night. The venue was full of young people: locals, and also 'new Guangzhou people' who've come from the north to work."}
+  - {n: 15, speaker: Hugo, hanzi: "唱到《九龍夜車》，前面嗰班識廣東話嘅樂迷跟住唱；後面嗰啲唔識嘅，就跟住拍手。", jyutping: "coeng3 dou3 \"gau2 lung4 je6 ce1\", cin4 min6 go2 baan1 sik1 gwong2 dung1 waa2 ge3 ngok6 mai4 gan1 zyu6 coeng3; hau6 min6 go2 di1 m4 sik1 ge3, zau6 gan1 zyu6 paak3 sau2.", en: "When we played 'Kowloon Night Bus', the fans at the front who know Cantonese sang along; the ones at the back who don't clapped along."}
+  - {n: 16, speaker: Hugo, hanzi: "散場之後，有個北方仔用普通話同我講：「我聽唔明啲歌詞，但係我聽得出你哋好鍾意呢個城市。」", jyutping: "saan3 coeng4 zi1 hau6, jau5 go3 bak1 fong1 zai2 jung6 pou2 tung1 waa2 tung4 ngo5 gong2: \"ngo5 teng1 m4 ming4 di1 go1 ci4, daan6 hai6 ngo5 teng1 dak1 ceot1 nei5 dei6 hou2 zung1 ji3 ni1 go3 sing4 si5.\"", en: "After the show, a young man from the north told me in Mandarin: 'I couldn't understand the lyrics, but I could hear how much you love that city.'"}
+  - {n: 17, speaker: Hugo, hanzi: "十一月廿一號，禮拜日。阿珊介紹咗間國際學校俾我，佢哋想聘請識法文同廣東話嘅老師。", jyutping: "sap6 jat1 jyut6 jaa6 jat1 hou6, lai5 baai3 jat6. aa3 saan1 gaai3 siu6 zo2 gaan1 gwok3 zai3 hok6 haau6 bei2 ngo5, keoi5 dei6 soeng2 ping3 cing2 sik1 faat3 man2 tung4 gwong2 dung1 waa2 ge3 lou5 si1.", en: "Sunday 21 November. 阿珊 introduced me to an international school; they want to hire a teacher who knows French and Cantonese."}
+  - {n: 18, speaker: Hugo, hanzi: "人工高過香港，屋租平好多。老實講，我有啲心郁。", jyutping: "jan4 gung1 gou1 gwo3 hoeng1 gong2, uk1 zou1 peng4 hou2 do1. lou5 sat6 gong2, ngo5 jau5 di1 sam1 juk1.", en: "The pay is higher than in Hong Kong, and rent is much cheaper. Honestly, I'm a little tempted."}
+  - {n: 19, speaker: Hugo, hanzi: "不過我喺深水埗嗰間細房，窗外面就係梁記嘅招牌。我諗起嗰個招牌，就知道答案。", jyutping: "bat1 gwo3 ngo5 hai2 sam1 seoi2 bou2 go2 gaan1 sai3 fong2, coeng1 ngoi6 min6 zau6 hai6 loeng4 gei3 ge3 ziu1 paai4. ngo5 nam2 hei2 go2 go3 ziu1 paai4, zau6 zi1 dou3 daap3 on3.", en: "But from my little room in Sham Shui Po, the 梁記 sign is right outside the window. When I think of that sign, I know the answer."}
+  - {n: 20, speaker: Hugo, hanzi: "臨走，陳姨將一包西關嘅杏仁餅塞俾我：「香港同廣州，講嘅都係廣東話，即係一家人。得閒返嚟飲茶。」", jyutping: "lam4 zau2, can4 ji1 zoeng1 jat1 baau1 sai1 gwaan1 ge3 hang6 jan4 beng2 sak1 bei2 ngo5: \"hoeng1 gong2 tung4 gwong2 zau1, gong2 ge3 dou1 hai6 gwong2 dung1 waa2, zik1 hai6 jat1 gaa1 jan4. dak1 haan4 faan1 lai4 jam2 caa4.\"", en: "As I left, Auntie Chan pressed a packet of Xiguan almond biscuits on me: 'Hong Kong and Guangzhou both speak Cantonese, so we're one family. Come back for tea when you're free.'"}
+  - {n: 21, speaker: Hugo, hanzi: "喺返香港嘅高鐵上面，我發覺我用廣東話寫咗成個禮拜嘅日記。一年前，我連「唔該」都講唔準。", jyutping: "hai2 faan1 hoeng1 gong2 ge3 gou1 tit3 soeng6 min6, ngo5 faat3 gok3 ngo5 jung6 gwong2 dung1 waa2 se2 zo2 seng4 go3 lai5 baai3 ge3 jat6 gei3. jat1 nin4 cin4, ngo5 lin4 \"m4 goi1\" dou1 gong2 m4 zeon2.", en: "On the high-speed train back to Hong Kong, I realised I'd written a whole week's diary in Cantonese. A year ago I couldn't even say 'thank you' properly."}
+notes:
+  - {ref: 1, topic: grammar, text: "Relative clauses with a classifier (P18): 我住嗰間屋 'the house I'm staying in' = clause + 嗰 + classifier + noun, no 嘅 needed. With 嘅: 呢度住嘅（人）'the people who lived here'; 佢飲咗五十年嘅茶樓 (line 4) 'the teahouse she's been going to for fifty years'."}
+  - {ref: 1, topic: culture, text: "西關 Xiguan, the old western quarter of Guangzhou, is known for its 'Xiguan mansions' (西關大屋), built by merchant families in the late Qing and early Republic. 屋主 uk1 zyu2 = homeowner. 陳姨 'Auntie Chan'."}
+  - {ref: 2, topic: culture, text: "趟櫳 tong3 lung2 is the sliding gate of horizontal wooden bars between the outer door and the main door of an old Guangzhou house: it lets air through but keeps thieves (賊) out. 大門 daai6 mun4 = front door; 木門 'wooden door'. 橫 waang4 'horizontal'. 一度 'a (door)': 度 classifier for doors."}
+  - {ref: 3, topic: vocab, text: "天井 tin1 zeng2 = small courtyard open to the sky. 照 'shine'."}
+  - {ref: 4, topic: culture, text: "一盅兩件 jat1 zung1 loeng5 gin6 'one cup, two pieces': the classic Cantonese morning tea, a pot of tea and two dim sum."}
+  - {ref: 5, topic: vs-mandarin, text: "Guangzhou Cantonese is very close to Hong Kong's, but more influenced by Mandarin: 坐地鐵 (Mandarin 坐地鐵) where Hong Kong says 搭地鐵; fewer English loans, more Mandarin ones. Young Guangzhou people often switch (切換 cit3 wun6) between Cantonese and Mandarin in one conversation."}
+  - {ref: 7, topic: culture, text: "Since the 1990s, schools in Guangdong teach in Mandarin; Cantonese is mostly a home language. Many residents come from other provinces (外省). In 2010 a proposal to cut Cantonese from Guangzhou TV led to public protests, and was dropped. 上堂 'attend class' (P9). 阿爺 aa3 je4 = grandfather (father's father); 阿嫲 (P23) = grandmother."}
+  - {ref: 8, topic: grammar, text: "有個叫阿珊嘅女仔 'a girl called 阿珊': 有個 + clause + 嘅 + noun introduces a new person. 呢代人 'this generation'."}
+  - {ref: 9, topic: grammar, text: "只要…就 'as long as…, (then)…': 只要仲有人唱粵語歌，佢就唔會死. 粵語 jyut6 jyu5 = the Cantonese language (formal); 粵語歌 = Cantonese songs."}
+  - {ref: 10, topic: vocab, text: "審批 sam2 pai1 = review and approve; 批 pai1 = approve: 批咗先可以唱. 許可 heoi2 ho2 (line 11) = permit. 內地 'the mainland'. 商業 soeng1 jip6 'commercial'. 申請 san1 cing2 'apply (for)'. 審查 sam2 caa4 'review, censor'."}
+  - {ref: 12, topic: vocab, text: "刪 saan1 = delete, cut. 交 gaau1 (line 13) 'hand in, submit'. 留返 'keep (for later)'."}
+  - {ref: 14, topic: vocab, text: "新廣州人 san1 gwong2 zau1 jan4 = 'new Guangzhou people', migrants from other provinces. 北方 bak1 fong1 'the north'; 北方仔 (line 16) 'a young northerner'. 聽得出 'can tell (by listening)'."}
+  - {ref: 17, topic: vocab, text: "國際學校 gwok3 zai3 hok6 haau6 = international school. 聘請 ping3 cing2 = hire. 心郁 sam1 juk1 (line 18) = tempted. 屋租 uk1 zou1 'rent'. 諗起 nam2 hei2 (line 19) 'think of'."}
+  - {ref: 20, topic: vocab, text: "臨走 'as one leaves'. 杏仁餅 hang6 jan4 beng2 'almond biscuits', a classic Cantonese souvenir. 寫字 se2 zi6 (line 8) 'write'. 塞俾我 'press on me'. 一家人 'one family'."}
+pron:
+  - {ref: 2, text: "趟櫳 tong3 lung2: 櫳 rises."}
+  - {ref: 4, text: "一盅兩件 jat1 zung1 loeng5 gin6: 盅 'cup with lid' is zung1."}
+  - {ref: 6, text: "切換 cit3 wun6: 換 is wun6, as in 換錢."}
+new_words:
+  - {jyutping: "uk1 zyu2", hanzi: 屋主, en: "homeowner"}
+  - {jyutping: "tong3 lung2", hanzi: 趟櫳, en: "sliding bar gate"}
+  - {jyutping: "tin1 zeng2", hanzi: 天井, en: "courtyard open to the sky"}
+  - {jyutping: "jat1 zung1 loeng5 gin6", hanzi: 一盅兩件, en: "tea and two dim sum"}
+  - {jyutping: "cit3 wun6", hanzi: 切換, en: "switch"}
+  - {jyutping: "jyut6 jyu5", hanzi: 粵語, en: "Cantonese (language)"}
+  - {jyutping: "sam2 pai1", hanzi: 審批, en: "review and approve"}
+  - {jyutping: "pai1", hanzi: 批, en: "approve"}
+  - {jyutping: "heoi2 ho2", hanzi: 許可, en: "permit, permission"}
+  - {jyutping: "saan1", hanzi: 刪, en: "delete, cut"}
+  - {jyutping: "san1 gwong2 zau1 jan4", hanzi: 新廣州人, en: "new Guangzhou residents"}
+  - {jyutping: "gwok3 zai3 hok6 haau6", hanzi: 國際學校, en: "international school"}
+  - {jyutping: "ping3 cing2", hanzi: 聘請, en: "hire"}
+  - {jyutping: "sam1 juk1", hanzi: 心郁, en: "tempted"}
+  - {jyutping: "waang4", hanzi: 橫, en: "horizontal"}
+  - {jyutping: "gaau1", hanzi: 交, en: "hand in, submit"}
+  - {jyutping: "bak1 fong1", hanzi: 北方, en: "the north"}
+  - {jyutping: "uk1 zou1", hanzi: 屋租, en: "rent (for a home)"}
+  - {jyutping: "hang6 jan4 beng2", hanzi: 杏仁餅, en: "almond biscuit"}
+  - {jyutping: "aa3 je4", hanzi: 阿爺, en: "grandfather (father's father)"}
+  - {jyutping: "daai6 mun4", hanzi: 大門, en: "front door"}
+  - {jyutping: "soeng1 jip6", hanzi: 商業, en: "commercial"}
+  - {jyutping: "san1 cing2", hanzi: 申請, en: "apply"}
+  - {jyutping: "sam2 caa4", hanzi: 審查, en: "review, censor"}
+  - {jyutping: "nam2 hei2", hanzi: 諗起, en: "think of, recall"}
+  - {jyutping: "se2 zi6", hanzi: 寫字, en: "write"}
+  - {jyutping: "jat1 dou6", hanzi: 一度, en: "a (door): classifier"}
+exercises:
+  translate:
+    - {hanzi: "我住嗰間屋有一百年歷史。", jyutping: "ngo5 zyu6 go2 gaan1 uk1 jau5 jat1 baak3 nin4 lik6 si2.", en: "The house I'm staying in is a hundred years old."}
+    - {hanzi: "佢介紹嗰個朋友識講法文。", jyutping: "keoi5 gaai3 siu6 go2 go3 pang4 jau5 sik1 gong2 faat3 man2.", en: "The friend she introduced speaks French."}
+    - {hanzi: "佢哋一句廣東話，一句普通話，切換得好自然。", jyutping: "keoi5 dei6 jat1 geoi3 gwong2 dung1 waa2, jat1 geoi3 pou2 tung1 waa2, cit3 wun6 dak1 hou2 zi6 jin4.", en: "They switch between Cantonese and Mandarin from one sentence to the next, very naturally."}
+    - {hanzi: "只要仲有人講，粵語就唔會死。", jyutping: "zi2 jiu3 zung6 jau5 jan4 gong2, jyut6 jyu5 zau6 m4 wui5 sei2.", en: "As long as people still speak it, Cantonese won't die."}
+    - {hanzi: "啲歌詞要審批，批咗先可以唱。", jyutping: "di1 go1 ci4 jiu3 sam2 pai1, pai1 zo2 sin1 ho2 ji5 coeng3.", en: "The lyrics have to be approved; we can only sing them once they're approved."}
+  fill:
+    - {hanzi: "佢飲咗五十年___茶樓。", jyutping: "keoi5 jam2 zo2 ng5 sap6 nin4 ___ caa4 lau4.", answer: "ge3", answer_hanzi: 嘅, en: "The teahouse she's been going to for fifty years."}
+    - {hanzi: "我___嗰間學校想聘請老師。", jyutping: "ngo5 ___ go2 gaan1 hok6 haau6 soeng2 ping3 cing2 lou5 si1.", answer: "gaau3", answer_hanzi: 教, en: "The school I teach at wants to hire teachers."}
+    - {hanzi: "有一首歌要___一句。", jyutping: "jau5 jat1 sau2 go1 jiu3 ___ jat1 geoi3.", answer: "saan1", answer_hanzi: 刪, en: "One song has to lose a line."}
+    - {hanzi: "人工高，屋租平，我有啲___。", jyutping: "jan4 gung1 gou1, uk1 zou1 peng4, ngo5 jau5 di1 ___.", answer: "sam1 juk1", answer_hanzi: 心郁, en: "The pay is high and the rent cheap; I'm a bit tempted."}
+    - {hanzi: "飲茶就係一盅___。", jyutping: "jam2 caa4 zau6 hai6 jat1 zung1 ___.", answer: "loeng5 gin6", answer_hanzi: 兩件, en: "Morning tea means one pot and two pieces."}

@@ -1,0 +1,89 @@
+# 進修 64. Written Cantonese with some French, LSHK Jyutping. Not checked by a native speaker yet.
+id: 64
+title: {en: "The teacher", jyutping: "gaau3 syu1 sin1 saang1", hanzi: "教書先生"}
+intro: "Hugo's French class at a secondary school puts on a scene, half French, half Cantonese: manner with 咁, doubling (笑笑口, 慢慢, 個個), and the words of classrooms and acting."
+genre: play
+review: false
+setting: "Wednesday 1 December 2027. Hugo's language school has placed him at a secondary school in Sham Shui Po, where he teaches a French elective to fifteen Form 4 students. For their end-of-term show, the class performs a short play: a Hong Kong student orders breakfast in a Paris café. The French lines are given in Cantonese brackets."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "（喺課室，喺白板寫低劇本個名）各位同學，坐好。下個禮拜表演，今日我哋排一次。劇本大家背咗未？", jyutping: "(hai2 fo3 sat1, hai2 baak6 baan2 se2 dai1 kek6 bun2 go3 meng2) gok3 wai2 tung4 hok6, co5 hou2. haa6 go3 lai5 baai3 biu2 jin2, gam1 jat6 ngo5 dei6 paai4 jat1 ci3. kek6 bun2 daai6 gaa1 bui6 zo2 mei6?", en: "(In the classroom, writing the play's title on the whiteboard) Everyone, sit properly. The performance is next week; today we rehearse once. Has everyone learned the script?"}
+  - {n: 2, speaker: Class monitor, hanzi: "背咗！不過阿傑佢好害羞，唔肯演侍應。", jyutping: "bui6 zo2! bat1 gwo3 aa3 git6 keoi5 hou2 hoi6 sau1, m4 hang2 jin2 si6 jing3.", en: "We have! But 阿傑 is really shy; he won't play the waiter."}
+  - {n: 3, speaker: Hugo, hanzi: "阿傑，唔使怕醜。你個發音係全班最好嘅，扮演侍應啱晒你。", jyutping: "aa3 git6, m4 sai2 paa3 ceu2. nei5 go3 faat3 jam1 hai6 cyun4 baan1 zeoi3 hou2 ge3, baan6 jin2 si6 jing3 ngaam1 saai3 nei5.", en: "阿傑, don't be shy. Your pronunciation is the best in the class; playing the waiter is perfect for you."}
+  - {n: 4, speaker: A-git, hanzi: "……好啦。（企出嚟，同阿詩握手，好細聲咁講）Bonjour……", jyutping: "…… hou2 laa1. (kei5 ceot1 lai4, tung4 aa3 si1 aak1 sau2, hou2 sai3 seng1 gam2 gong2) bonjour ……", en: "…OK. (Stepping forward, shaking 阿詩's hand, saying it very quietly) Bonjour…"}
+  - {n: 5, speaker: Hugo, hanzi: "大大聲啲，笑笑口咁講。法國啲侍應好大方，唔會靜靜雞咁同客講嘢。", jyutping: "daai6 daai6 seng1 di1, siu3 siu3 hau2 gam2 gong2. faat3 gwok3 di1 si6 jing3 hou2 daai6 fong1, m4 wui5 zing6 zing2 gai1 gam2 tung4 haak3 gong2 je5.", en: "Louder, and say it with a smile. French waiters are very self-assured; they don't murmur to customers."}
+  - {n: 6, speaker: A-git, hanzi: "（大大聲咁）Bonjour, monsieur!（早晨，先生！）", jyutping: "(daai6 daai6 seng1 gam2) bonjour, monsieur! (zou2 san4, sin1 saang1!)", en: "(Loudly) Bonjour, monsieur! (Good morning, sir!)"}
+  - {n: 7, speaker: Hugo, hanzi: "好！有自信好多，要讚吓你。下一個：阿詩，你做香港學生，第一次去巴黎，睇完鐵塔就去飲咖啡。", jyutping: "hou2! jau5 zi6 seon3 hou2 do1, jiu3 zaan3 haa5 nei5. haa6 jat1 go3: aa3 si1, nei5 zou6 hoeng1 gong2 hok6 saang1, dai6 jat1 ci3 heoi3 baa1 lai4, tai2 jyun4 tit3 taap3 zau6 heoi3 jam2 gaa3 fe1.", en: "Good! Much more confident: well done. Next: 阿詩, you're the Hong Kong student in Paris for the first time, going for a coffee after seeing the Eiffel Tower."}
+  - {n: 8, speaker: A-si, hanzi: "（坐低，望住餐牌）嘩，冇奶茶，冇菠蘿油，仲有蝸牛……我要一杯咖啡，同一個牛角包。", jyutping: "(co5 dai1, mong6 zyu6 caan1 paai2) waa3, mou5 naai5 caa4, mou5 bo1 lo4 jau4, zung6 jau5 wo1 ngau4 …… ngo5 jiu3 jat1 bui1 gaa3 fe1, tung4 jat1 go3 ngau4 gok3 baau1.", en: "(Sitting down and looking at the menu) Wow, no milk tea, no pineapple buns, and there are snails… I'll have a coffee and a croissant."}
+  - {n: 9, speaker: A-si, hanzi: "（用法文）Un cafe, un croissant, merci.（唔該，一杯咖啡，一個牛角包。）", jyutping: "(jung6 faat3 man2) un cafe, un croissant, merci. (m4 goi1, jat1 bui1 gaa3 fe1, jat1 go3 ngau4 gok3 baau1.)", en: "(In French) A coffee and a croissant, please."}
+  - {n: 10, speaker: A-git, hanzi: "（擺低杯咖啡，慢慢咁行開）", jyutping: "(baai2 dai1 bui1 gaa3 fe1, maan6 maan2 gam2 haang4 hoi1)", en: "(Putting down the coffee and slowly walking off)"}
+  - {n: 11, speaker: A-si, hanzi: "（等咗好耐）佢點解唔再嚟？我想埋單。喺香港，啲侍應會不停嚟問你。", jyutping: "(dang2 zo2 hou2 noi6) keoi5 dim2 gaai2 m4 zoi3 lai4? ngo5 soeng2 maai4 daan1. hai2 hoeng1 gong2, di1 si6 jing3 wui5 bat1 ting4 lai4 man6 nei5.", en: "(After waiting a long time) Why doesn't he come back? I want the bill. In Hong Kong, the waiters keep coming to ask you."}
+  - {n: 12, speaker: Hugo, hanzi: "呢度就係文化差異。喺法國，你唔叫，侍應唔會趕你走。你可以坐成個下晝。", jyutping: "ni1 dou6 zau6 hai6 man4 faa3 caa1 ji6. hai2 faat3 gwok3, nei5 m4 giu3, si6 jing3 m4 wui5 gon2 nei5 zau2. nei5 ho2 ji5 co5 seng4 go3 haa6 zau3.", en: "That's the cultural difference. In France, if you don't call, the waiter won't rush you out. You can sit there all afternoon."}
+  - {n: 13, speaker: Class monitor, hanzi: "咁同梁記一樣！梁伯個掛鐘慢五分鐘，等啲客坐耐啲。", jyutping: "gam2 tung4 loeng4 gei3 jat1 joeng6! loeng4 baak3 go3 gwaa3 zung1 maan6 ng5 fan1 zung1, dang2 di1 haak3 co5 noi6 di1.", en: "Same as 梁記, then! 梁伯's clock is five minutes slow so customers stay longer."}
+  - {n: 14, speaker: Hugo, hanzi: "（笑）你都聽過樂仔個口試？全深水埗都知喇。", jyutping: "(siu3) nei5 dou1 teng1 gwo3 lok6 zai2 go3 hau2 si5? cyun4 sam1 seoi2 bou2 dou1 zi1 laa3.", en: "(Laughing) You've heard about 樂仔's oral exam too? All of Sham Shui Po knows."}
+  - {n: 15, speaker: A-si, hanzi: "（用法文）La note, merci!（唔該，埋單！）……要唔要俾小費？", jyutping: "(jung6 faat3 man2) la note, merci! (m4 goi1, maai4 daan1!) …… jiu3 m4 jiu3 bei2 siu2 fai3?", en: "(In French) The bill, please! …Do I have to tip?"}
+  - {n: 16, speaker: Hugo, hanzi: "法國唔使俾好多，留低一兩個銀包就得。香港茶餐廳就有加一。", jyutping: "faat3 gwok3 m4 sai2 bei2 hou2 do1, lau4 dai1 jat1 loeng5 go3 ngan4 baau1 zau6 dak1. hoeng1 gong2 caa4 caan1 teng1 zau6 jau5 gaa1 jat1.", en: "In France you don't have to leave much; a coin or two is fine. Hong Kong cafés have the ten per cent service charge."}
+  - {n: 17, speaker: A-git, hanzi: "（突然唔記得對白）呃……呃……", jyutping: "(dat6 jin4 m4 gei3 dak1 deoi3 baak6) e2 …… e2 ……", en: "(Suddenly forgetting his line) Er… er…"}
+  - {n: 18, speaker: Hugo, hanzi: "（細聲提詞）Merci, au revoir……（多謝，拜拜）", jyutping: "(sai3 seng1 tai4 ci4) merci, au revoir …… (do1 ze6, baai1 baai3)", en: "(Prompting quietly) Merci, au revoir… (Thank you, goodbye)"}
+  - {n: 19, speaker: A-git, hanzi: "Merci, au revoir!……（停咗一停）阿 Sir，我啱啱忘記咗，係咪好丟臉？", jyutping: "merci, au revoir! …… (ting4 zo2 jat1 ting4) aa3 sir, ngo5 ngaam1 ngaam1 mong4 gei3 zo2, hai6 mai6 hou2 diu1 lim5?", en: "Merci, au revoir! …(Pausing) Sir, I just forgot it. Was that really embarrassing?"}
+  - {n: 20, speaker: Hugo, hanzi: "唔係。我第一年學廣東話，日日都忘記。最緊要係你繼續講落去。", jyutping: "m4 hai6. ngo5 dai6 jat1 nin4 hok6 gwong2 dung1 waa2, jat6 jat6 dou1 mong4 gei3. zeoi3 gan2 jiu3 hai6 nei5 gai3 zuk6 gong2 lok6 heoi3.", en: "No. My first year learning Cantonese, I forgot things every day. What matters is that you keep going."}
+  - {n: 21, speaker: Class monitor, hanzi: "阿 Sir，你學廣東話用咗幾耐？", jyutping: "aa3 sir, nei5 hok6 gwong2 dung1 waa2 jung6 zo2 gei2 noi6?", en: "Sir, how long did it take you to learn Cantonese?"}
+  - {n: 22, speaker: Hugo, hanzi: "一年幾。不過我而家仲學緊，每日都學到新嘢，好似你哋寫法文作文咁。", jyutping: "jat1 nin4 gei2. bat1 gwo3 ngo5 ji4 gaa1 zung6 hok6 gan2, mui5 jat6 dou1 hok6 dou2 san1 je5, hou2 ci5 nei5 dei6 se2 faat3 man2 zok3 man2 gam2.", en: "A year and a bit. But I'm still learning; I learn something new every day, just like you writing French compositions."}
+  - {n: 23, speaker: A-si, hanzi: "阿 Sir，我哋可唔可以喺梁記做表演？俾梁伯睇吓法國嘅茶餐廳係點樣。", jyutping: "aa3 sir, ngo5 dei6 ho2 m4 ho2 ji5 hai2 loeng4 gei3 zou6 biu2 jin2? bei2 loeng4 baak3 tai2 haa5 faat3 gwok3 ge3 caa4 caan1 teng1 hai6 dim2 joeng2.", en: "Sir, could we do the show at 梁記? Show 梁伯 what a French café is like."}
+  - {n: 24, speaker: Hugo, hanzi: "好主意！十二月十八號，梁記五十五周年。你哋個個都要嚟，開開心心咁演。", jyutping: "hou2 zyu2 ji3! sap6 ji6 jyut6 sap6 baat3 hou6, loeng4 gei3 ng5 sap6 ng5 zau1 nin4. nei5 dei6 go3 go3 dou1 jiu3 lai4, hoi1 hoi1 sam1 sam1 gam2 jin2.", en: "Great idea! 18 December is 梁記's fifty-fifth anniversary. You're all coming, and you'll perform it with smiles on your faces."}
+notes:
+  - {ref: 1, topic: vocab, text: "排 'rehearse' (排戲 'rehearse a play'). 課室 fo3 sat1 = classroom; 白板 baak6 baan2 = whiteboard. 劇本 kek6 bun2 = script (of a play). 背 bui6 'learn by heart' (背熟, P62)."}
+  - {ref: 2, topic: vocab, text: "班長 'class monitor'. 害羞 hoi6 sau1 = shy (more neutral than 怕醜, P9). 演 jin2 = act, play (a role); 扮演 baan6 jin2 (line 3) = play the part of. 侍應 si6 jing3 = waiter."}
+  - {ref: 4, topic: grammar, text: "Manner with 咁 (P45): 好細聲咁講 'say it very quietly'; 笑笑口咁講 'say it with a smile' (line 5; 笑笑口 siu3 siu3 hau2 'smiling', doubled); 大大聲咁 'loudly' (line 6); 慢慢咁行開 'slowly walk off' (line 10); 開開心心咁演 'perform happily' (line 24)."}
+  - {ref: 5, topic: vocab, text: "大方 daai6 fong1 = self-assured, at ease (also 'generous'). 握手 aak1 sau2 (line 4) = shake hands. 自信 zi6 seon3 (line 7) = confidence; confident. 讚 zaan3 = praise. 鐵塔 tit3 taap3 'iron tower' = the Eiffel Tower."}
+  - {ref: 8, topic: vocab, text: "牛角包 ngau4 gok3 baau1 'ox-horn bun' = croissant. 蝸牛 wo1 ngau4 = snail. 餐牌 'menu'."}
+  - {ref: 11, topic: vocab, text: "不停 bat1 ting4 'non-stop, keep on'. 行開 haang4 hoi1 (line 10) 'walk off'. 埋單 'pay the bill' (known)."}
+  - {ref: 12, topic: culture, text: "文化差異 'cultural difference' (差異 caa1 ji6 'difference'). In a Hong Kong cha chaan teng, quick turnover is the rule; in a French café, staying for hours over one coffee is normal."}
+  - {ref: 15, topic: culture, text: "小費 siu2 fai3 = tip. In Hong Kong, restaurants add a 10 % service charge (加一 'add one tenth'); cha chaan tengs usually don't, and tipping is rare. 銀包 'coin' (in this sense; also 'wallet')."}
+  - {ref: 18, topic: vocab, text: "提詞 tai4 ci4 = prompt (an actor). 拜拜 'bye-bye'. 忘記 mong4 gei3 (line 19) = forget (written; spoken 唔記得)."}
+  - {ref: 19, topic: culture, text: "阿 Sir 'Sir': what Hong Kong students call a male teacher; a female teacher is 'Miss'. 停咗一停 'paused for a moment' (V咗一V, P51)."}
+  - {ref: 20, topic: grammar, text: "講落去 'keep talking, carry on': 落去 continuative (P30)."}
+  - {ref: 22, topic: grammar, text: "一年幾 'a year and a bit'. 學緊 'still learning'. 作文 zok3 man2 = composition, essay. 好似你哋學法文咁 'just like you learning French'."}
+  - {ref: 24, topic: grammar, text: "Doubling (P48): 個個 'everyone', 開開心心 'happily' (AABB). 好主意 'good idea' (主意 zyu2 ji3 'idea')."}
+  - {ref: 2, topic: vs-mandarin, text: "Cantonese 侍應 = Mandarin 服務員; Cantonese 埋單 = Mandarin 買單 (borrowed from Cantonese, but written with a different character); 牛角包 is shared with Mandarin (also 可頌)."}
+pron:
+  - {ref: 2, text: "侍應 si6 jing3: 應 is jing3 'respond', not jing1 'should'."}
+  - {ref: 5, text: "笑笑口 siu3 siu3 hau2: both 笑 keep the mid level tone."}
+  - {ref: 18, text: "提詞 tai4 ci4: 詞 is ci4, as in 歌詞."}
+new_words:
+  - {jyutping: "kek6 bun2", hanzi: 劇本, en: "script (of a play)"}
+  - {jyutping: "baan1 zoeng2", hanzi: 班長, en: "class monitor"}
+  - {jyutping: "hoi6 sau1", hanzi: 害羞, en: "shy"}
+  - {jyutping: "jin2", hanzi: 演, en: "act, play (a role)"}
+  - {jyutping: "baan6 jin2", hanzi: 扮演, en: "play the part of"}
+  - {jyutping: "si6 jing3", hanzi: 侍應, en: "waiter"}
+  - {jyutping: "siu3 siu3 hau2", hanzi: 笑笑口, en: "smiling"}
+  - {jyutping: "daai6 fong1", hanzi: 大方, en: "self-assured; generous"}
+  - {jyutping: "zi6 seon3", hanzi: 自信, en: "confidence"}
+  - {jyutping: "ngau4 gok3 baau1", hanzi: 牛角包, en: "croissant"}
+  - {jyutping: "caa1 ji6", hanzi: 差異, en: "difference"}
+  - {jyutping: "siu2 fai3", hanzi: 小費, en: "tip"}
+  - {jyutping: "tai4 ci4", hanzi: 提詞, en: "prompt (an actor)"}
+  - {jyutping: "mong4 gei3", hanzi: 忘記, en: "forget"}
+  - {jyutping: "fo3 sat1", hanzi: 課室, en: "classroom"}
+  - {jyutping: "baak6 baan2", hanzi: 白板, en: "whiteboard"}
+  - {jyutping: "aak1 sau2", hanzi: 握手, en: "shake hands"}
+  - {jyutping: "zaan3", hanzi: 讚, en: "praise"}
+  - {jyutping: "tit3 taap3", hanzi: 鐵塔, en: "Eiffel Tower; iron tower"}
+  - {jyutping: "wo1 ngau4", hanzi: 蝸牛, en: "snail"}
+  - {jyutping: "bat1 ting4", hanzi: 不停, en: "non-stop"}
+  - {jyutping: "haang4 hoi1", hanzi: 行開, en: "walk off, step away"}
+  - {jyutping: "zyu2 ji3", hanzi: 主意, en: "idea"}
+  - {jyutping: "zok3 man2", hanzi: 作文, en: "composition"}
+exercises:
+  translate:
+    - {hanzi: "佢好細聲咁講早晨。", jyutping: "keoi5 hou2 sai3 seng1 gam2 gong2 zou2 san4.", en: "He said good morning very quietly."}
+    - {hanzi: "笑笑口咁講，有自信啲。", jyutping: "siu3 siu3 hau2 gam2 gong2, jau5 zi6 seon3 di1.", en: "Say it with a smile, more confidently."}
+    - {hanzi: "佢好害羞，唔肯演侍應。", jyutping: "keoi5 hou2 hoi6 sau1, m4 hang2 jin2 si6 jing3.", en: "He's very shy and won't play the waiter."}
+    - {hanzi: "喺法國唔使俾好多小費。", jyutping: "hai2 faat3 gwok3 m4 sai2 bei2 hou2 do1 siu2 fai3.", en: "In France you don't need to tip much."}
+    - {hanzi: "最緊要係繼續講落去。", jyutping: "zeoi3 gan2 jiu3 hai6 gai3 zuk6 gong2 lok6 heoi3.", en: "What matters is that you keep going."}
+  fill:
+    - {hanzi: "佢慢慢___行開。", jyutping: "keoi5 maan6 maan2 ___ haang4 hoi1.", answer: "gam2", answer_hanzi: 咁, en: "He slowly walked off."}
+    - {hanzi: "你個發音最好，___侍應啱晒你。", jyutping: "nei5 go3 faat3 jam1 zeoi3 hou2, ___ si6 jing3 ngaam1 saai3 nei5.", answer: "baan6 jin2", answer_hanzi: 扮演, en: "Your pronunciation is the best; playing the waiter suits you perfectly."}
+    - {hanzi: "佢唔記得對白，我細聲___。", jyutping: "keoi5 m4 gei3 dak1 deoi3 baak6, ngo5 sai3 seng1 ___.", answer: "tai4 ci4", answer_hanzi: 提詞, en: "He forgot his line, so I prompted him quietly."}
+    - {hanzi: "呢度就係文化___。", jyutping: "ni1 dou6 zau6 hai6 man4 faa3 ___.", answer: "caa1 ji6", answer_hanzi: 差異, en: "That's the cultural difference."}
+    - {hanzi: "你哋個個都要嚟，開開___咁演。", jyutping: "nei5 dei6 go3 go3 dou1 jiu3 lai4, hoi1 hoi1 ___ gam2 jin2.", answer: "sam1 sam1", answer_hanzi: 心心, en: "You're all coming, and you'll perform happily."}

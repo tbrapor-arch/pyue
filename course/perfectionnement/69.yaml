@@ -1,0 +1,81 @@
+# 進修 69. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 69
+title: {en: "Making do", jyutping: "zap1 saang1", hanzi: "執生"}
+intro: "Anniversary night on the roof: the power trips, and the street sings instead. Results with 到 (嘈到, 唱到), aspect particles (起上嚟, 落去, 返, 開), and the words of sound systems and improvising."
+genre: story
+review: false
+setting: "Saturday 18 December 2027, nine in the evening, after 梁伯's speech. 天台派對 plays on the roof above 梁記 with speakers pointing down at Pei Ho Street, packed with neighbours. Hugo tells the story."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "我哋將啲音響搬上天台，喇叭對住條街。拖板插滿晒插頭，Ken 話：「咁多嘢一齊用，實跳掣。」", jyutping: "ngo5 dei6 zoeng1 di1 jam1 hoeng2 bun1 soeng5 tin1 toi4, laa3 baa1 deoi3 zyu6 tiu4 gaai1. to1 baan2 caap3 mun5 saai3 caap3 tau2, Ken waa6: \"gam3 do1 je5 jat1 cai4 jung6, sat6 tiu3 zai3.\"", en: "We carried the sound system up to the roof, speakers pointing at the street. The power strip was full of plugs, and Ken said: 'All that on at once, it's bound to trip.'"}
+  - {n: 2, speaker: Hugo, hanzi: "阿占話佢唔怕：「我哋夾開 band，乜嘢場面未見過？」", jyutping: "aa3 zim1 waa6 keoi5 m4 paa3: \"ngo5 dei6 gaap3 hoi1 band, mat1 je5 coeng4 min6 mei6 gin3 gwo3?\"", en: "阿占 said he wasn't worried: 'We play in a band; what haven't we seen?'"}
+  - {n: 3, speaker: Hugo, hanzi: "第一首係《九龍夜車》。一開始，街上啲人淨係企喺度聽；唱到副歌，大家就跟住拍手，拍到成條街都震。", jyutping: "dai6 jat1 sau2 hai6 \"gau2 lung4 je6 ce1\". jat1 hoi1 ci2, gaai1 soeng6 di1 jan4 zing6 hai6 kei5 hai2 dou6 teng1; coeng3 dou3 fu3 go1, daai6 gaa1 zau6 gan1 zyu6 paak3 sau2, paak3 dou3 seng4 tiu4 gaai1 dou1 zan3.", en: "The first song was 'Kowloon Night Bus'. At first people in the street just stood and listened; when we got to the chorus, everyone clapped along, so hard the whole street shook."}
+  - {n: 4, speaker: Hugo, hanzi: "對面樓啲街坊打開窗，探頭出嚟。有個阿婆仲揮住條毛巾。", jyutping: "deoi3 min6 lau2 di1 gaai1 fong1 daa2 hoi1 coeng1, taam3 tau4 ceot1 lai4. jau5 go3 aa3 po4 zung6 fai1 zyu6 tiu4 mou4 gan1.", en: "Neighbours in the building opposite opened their windows and leaned out. One old lady was even waving a towel."}
+  - {n: 5, speaker: Hugo, hanzi: "第三首係新歌《五十五年》。梁伯真係行咗上天台，企喺阿占隔籬，準備唱副歌。", jyutping: "dai6 saam1 sau2 hai6 san1 go1 \"ng5 sap6 ng5 nin4\". loeng4 baak3 zan1 hai6 haang4 zo2 soeng5 tin1 toi4, kei5 hai2 aa3 zim1 gaak3 lei4, zeon2 bei6 coeng3 fu3 go1.", en: "The third song was the new one, 'Fifty-five Years'. 梁伯 really did climb up to the roof and stood beside 阿占, ready to sing the chorus."}
+  - {n: 6, speaker: Hugo, hanzi: "點知唱咗兩句，「啪」一聲，成個天台黑晒。真係跳咗掣。", jyutping: "dim2 zi1 coeng3 zo2 loeng5 geoi3, \"paak1\" jat1 seng1, seng4 go3 tin1 toi4 hak1 saai3. zan1 hai6 tiu3 zo2 zai3.", en: "But two lines in, 'snap', the whole roof went dark. The power had tripped after all."}
+  - {n: 7, speaker: Hugo, hanzi: "冇咗喇叭，冇咗燈，下面嘈到好似街市。Ken 喺黑暗中大叫：「執生！」", jyutping: "mou5 zo2 laa3 baa1, mou5 zo2 dang1, haa6 min6 cou4 dou3 hou2 ci5 gaai1 si5. Ken hai2 hak1 am3 zung1 daai6 giu3: \"zap1 saang1!\"", en: "No speakers, no lights; down below it got as noisy as a market. In the dark, Ken shouted: 'Improvise!'"}
+  - {n: 8, speaker: Hugo, hanzi: "細So 即刻攞起個木結他，冇插電都彈得。我把 bass 冇電就冇聲，我唯有用手打拍子。", jyutping: "sai3 so1 zik1 hak1 lo2 hei2 go3 muk6 git3 taa1, mou5 caap3 din6 dou1 taan4 dak1. ngo5 baa2 bass mou5 din6 zau6 mou5 seng1, ngo5 wai4 jau5 jung6 sau2 daa2 paak3 zi2.", en: "細So immediately picked up the acoustic guitar, which plays without power. My bass is silent without electricity, so all I could do was clap the beat."}
+  - {n: 9, speaker: Hugo, hanzi: "阿占冇咗咪，就企出天台邊，用把聲清唱。梁伯喺佢隔籬，跟住唱起上嚟。", jyutping: "aa3 zim1 mou5 zo2 mai1, zau6 kei5 ceot1 tin1 toi4 bin1, jung6 baa2 seng1 cing1 coeng3. loeng4 baak3 hai2 keoi5 gaak3 lei4, gan1 zyu6 coeng3 hei2 soeng5 lai4.", en: "With no mic, 阿占 stepped to the edge of the roof and sang unaccompanied. 梁伯, beside him, started singing along."}
+  - {n: 10, speaker: Leung Pak, hanzi: "（大大聲咁唱）五十五年，一杯奶茶……", jyutping: "(daai6 daai6 seng1 gam2 coeng3) ng5 sap6 ng5 nin4, jat1 bui1 naai5 caa4 ……", en: "(Singing loudly) Fifty-five years, one cup of milk tea…"}
+  - {n: 11, speaker: Hugo, hanzi: "佢唱粵曲嘅底子好好，把聲大到成條街都聽到。啲街坊靜咗落嚟。", jyutping: "keoi5 coeng3 jyut6 kuk1 ge3 dai2 zi2 hou2 hou2, baa2 seng1 daai6 dou3 seng4 tiu4 gaai1 dou1 teng1 dou2. di1 gaai1 fong1 zing6 zo2 lok6 lai4.", en: "His Cantonese-opera training served him well: his voice was so loud the whole street could hear. The neighbours fell quiet."}
+  - {n: 12, speaker: Hugo, hanzi: "唱到第二次副歌，下面有人跟住唱。一個，兩個，十個……之後成條街都唱埋落去。", jyutping: "coeng3 dou3 dai6 ji6 ci3 fu3 go1, haa6 min6 jau5 jan4 gan1 zyu6 coeng3. jat1 go3, loeng5 go3, sap6 go3 …… zi1 hau6 seng4 tiu4 gaai1 dou1 coeng3 maai4 lok6 heoi3.", en: "By the second chorus, someone down below was singing along. One, two, ten… then the whole street joined in and kept going."}
+  - {n: 13, speaker: Hugo, hanzi: "有人開咗手機燈，一點一點，好似一街燭光。蓮姐喺下面喊到講唔到嘢。", jyutping: "jau5 jan4 hoi1 zo2 sau2 gei1 dang1, jat1 dim2 jat1 dim2, hou2 ci5 jat1 gaai1 zuk1 gwong1. lin4 ze2 hai2 haa6 min6 haam3 dou3 gong2 m4 dou2 je5.", en: "People switched on their phone lights, dot by dot, like a street full of candles. Down below, 蓮姐 was crying so much she couldn't speak."}
+  - {n: 14, speaker: Hugo, hanzi: "我望落去，見到何生同強哥搭住膊頭唱；樂仔企喺凳上面，唱到聲都啞。", jyutping: "ngo5 mong6 lok6 heoi3, gin3 dou2 ho4 saang1 tung4 koeng4 go1 daap3 zyu6 bok3 tau4 coeng3; lok6 zai2 kei5 hai2 dang3 soeng6 min6, coeng3 dou3 seng1 dou1 aa2.", en: "I looked down and saw Mr Ho and 強哥 singing with their arms round each other's shoulders; 樂仔 was standing on a stool, singing himself hoarse."}
+  - {n: 15, speaker: Hugo, hanzi: "嘉欣部手機仲開住視像，嘉偉喺曼城抱住個女，都跟住唱。", jyutping: "gaa1 jan1 bou6 sau2 gei1 zung6 hoi1 zyu6 si6 zoeng6, gaa1 wai5 hai2 maan6 sing4 pou5 zyu6 go3 neoi2, dou1 gan1 zyu6 coeng3.", en: "Kayan's phone was still on the video call, and in Manchester Ka-wai, holding his daughter, sang along too."}
+  - {n: 16, speaker: Hugo, hanzi: "首歌唱完，冇人拍手。成條街靜咗幾秒，然後突然間一齊大叫，叫到隔幾條街都聽到。", jyutping: "sau2 go1 coeng3 jyun4, mou5 jan4 paak3 sau2. seng4 tiu4 gaai1 zing6 zo2 gei2 miu5, jin4 hau6 dat6 jin4 gaan1 jat1 cai4 daai6 giu3, giu3 dou3 gaak3 gei2 tiu4 gaai1 dou1 teng1 dou2.", en: "When the song ended, nobody clapped. The whole street was silent for a few seconds, then suddenly everyone roared together, so loud you could hear it streets away."}
+  - {n: 17, speaker: Hugo, hanzi: "啱啱好呢個時候，啲燈着返晒。強哥喺樓梯口大叫：「我搞掂咗個總掣！」", jyutping: "ngaam1 ngaam1 hou2 ni1 go3 si4 hau6, di1 dang1 zoek6 faan1 saai3. koeng4 go1 hai2 lau4 tai1 hau2 daai6 giu3: \"ngo5 gaau2 dim6 zo2 go3 zung2 zai3!\"", en: "Just at that moment, the lights all came back on. 強哥 shouted from the stairwell: 'I've fixed the main switch!'"}
+  - {n: 18, speaker: Hugo, hanzi: "阿占笑到碌地：「遲咗啦！我哋清唱仲正！」", jyutping: "aa3 zim1 siu3 dou3 luk1 dei2: \"ci4 zo2 laa1! ngo5 dei6 cing1 coeng3 zung6 zeng3!\"", en: "阿占 laughed so hard he nearly rolled on the floor: 'Too late! We're better unplugged!'"}
+  - {n: 19, speaker: Hugo, hanzi: "梁伯坐低喺天台邊，喘住氣，對我講：「我唱開粵曲，今晚第一次唱你哋啲歌。」", jyutping: "loeng4 baak3 co5 dai1 hai2 tin1 toi4 bin1, cyun2 zyu6 hei3, deoi3 ngo5 gong2: \"ngo5 coeng3 hoi1 jyut6 kuk1, gam1 maan5 dai6 jat1 ci3 coeng3 nei5 dei6 di1 go1.\"", en: "梁伯 sat down at the edge of the roof, out of breath, and said to me: 'I'm used to singing Cantonese opera; tonight's the first time I've sung one of your songs.'"}
+  - {n: 20, speaker: Hugo, hanzi: "我問佢點。佢話：「執生執得幾好。做人都係咁：計劃好晒，跳咗掣，就用把聲唱落去。」", jyutping: "ngo5 man6 keoi5 dim2. keoi5 waa6: \"zap1 saang1 zap1 dak1 gei2 hou2. zou6 jan4 dou1 hai6 gam2: gai3 waak6 hou2 saai3, tiu3 zo2 zai3, zau6 jung6 baa2 seng1 coeng3 lok6 heoi3.\"", en: "I asked him how it was. He said: 'Not bad improvising. Life's like that: you plan everything, the power trips, and you carry on with your own voice.'"}
+  - {n: 21, speaker: Hugo, hanzi: "嗰晚，我喺天台望住成條街，諗返一年前拖住兩個喼嚟到呢度嗰日。原來我搵到嘅，唔止一間房。", jyutping: "go2 maan5, ngo5 hai2 tin1 toi4 mong6 zyu6 seng4 tiu4 gaai1, nam2 faan1 jat1 nin4 cin4 to1 zyu6 loeng5 go3 gip1 lai4 dou3 ni1 dou6 go2 jat6. jyun4 loi4 ngo5 wan2 dou2 ge3, m4 zi2 jat1 gaan1 fong2.", en: "That night, on the roof, looking at the whole street, I thought back to the day a year ago when I arrived here dragging two suitcases. It turns out what I found wasn't just a room."}
+notes:
+  - {ref: 1, topic: vocab, text: "音響 jam1 hoeng2 = sound system; 喇叭 laa3 baa1 = loudspeaker. 拖板 to1 baan2 = power strip; 插頭 caap3 tau2 = plug. 跳掣 tiu3 zai3 = (the power) trips (掣 'switch', P16): 跳咗掣 (line 6)."}
+  - {ref: 2, topic: grammar, text: "Habitual 開 (P30): V + 開 'be used to doing, habitually do': 我哋夾開 band 'we're used to playing in a band'; 我唱開粵曲 'I'm used to singing Cantonese opera' (line 19). 場面 coeng4 min6 'situation, scene'."}
+  - {ref: 3, topic: grammar, text: "Extent with 到 (P44): 拍到成條街都震 'clapped so hard the whole street shook'; 嘈到好似街市 'as noisy as a market' (line 7); 大到成條街都聽到 (line 11); 喊到講唔到嘢 (line 13); 唱到聲都啞 'sang himself hoarse' (line 14); 笑到碌地 'laughed till he rolled on the floor' (line 18). Also 唱到副歌 'when (we) got to the chorus': 到 marking the point reached."}
+  - {ref: 4, topic: vocab, text: "探頭 taam3 tau4 = lean out, poke one's head out. 揮 fai1 'wave'; 毛巾 mou4 gan1 'towel'. 阿婆 'old lady'."}
+  - {ref: 7, topic: culture, text: "執生 zap1 saang1 = improvise, make do when things go wrong: a key word in Hong Kong's live music and TV, and in Hong Kong life generally."}
+  - {ref: 8, topic: vocab, text: "木結他 muk6 git3 taa1 = acoustic guitar. 插電 caap3 din6 'plug in, have power'. 唯有 'have no choice but to'. 打拍子 'keep the beat' (拍子, P20)."}
+  - {ref: 9, topic: grammar, text: "Inchoative 起上嚟 (P30): 唱起上嚟 'start singing'. Continuative 落去: 唱埋落去 'joined in and kept going' (line 12); 唱落去 'carry on singing' (line 20). 清唱 cing1 coeng3 = sing unaccompanied."}
+  - {ref: 11, topic: vocab, text: "底子 dai2 zi2 'foundation, training'. 靜咗落嚟 'fell quiet': 落嚟 for a change towards calm."}
+  - {ref: 13, topic: vocab, text: "手機燈 'phone light'. 一點一點 'dot by dot'. 燭光 zuk1 gwong1 'candlelight'."}
+  - {ref: 14, topic: vocab, text: "搭住膊頭 'with arms over each other's shoulders' (膊頭, P24). 啞 aa2 'hoarse, mute'."}
+  - {ref: 17, topic: grammar, text: "着返 'come back on': 返 'back to normal' (P30). 搞掂 'fixed' (P4). 樓梯口 'top of the stairs'."}
+  - {ref: 20, topic: vocab, text: "執生執得幾好 'not bad at improvising': V + O + V得 + adjective repeats the verb. 計劃好晒 'plan everything' (計劃, P59). 做人 zou6 jan4 'life, how one lives'. 碌地 luk1 dei2 (line 18) 'roll on the floor'."}
+  - {ref: 21, topic: culture, text: "Callback to P1: Hugo arrived at 梁記 in September 2026 with two suitcases (喼 gip1). 諗返 nam2 faan1 'think back to'. 唔止 'not just' (P59)."}
+pron:
+  - {ref: 1, text: "喇叭 laa3 baa1 'loudspeaker'; the same word means 'trumpet' and 'car horn'."}
+  - {ref: 7, text: "執生 zap1 saang1: 生 is saang1 (colloquial), as in 生意."}
+  - {ref: 14, text: "啞 'hoarse' is aa2."}
+new_words:
+  - {jyutping: "jam1 hoeng2", hanzi: 音響, en: "sound system"}
+  - {jyutping: "laa3 baa1", hanzi: 喇叭, en: "loudspeaker; horn"}
+  - {jyutping: "to1 baan2", hanzi: 拖板, en: "power strip"}
+  - {jyutping: "caap3 tau2", hanzi: 插頭, en: "plug"}
+  - {jyutping: "tiu3 zai3", hanzi: 跳掣, en: "(power) trip"}
+  - {jyutping: "taam3 tau4", hanzi: 探頭, en: "lean out, poke one's head out"}
+  - {jyutping: "zap1 saang1", hanzi: 執生, en: "improvise, make do"}
+  - {jyutping: "muk6 git3 taa1", hanzi: 木結他, en: "acoustic guitar"}
+  - {jyutping: "cing1 coeng3", hanzi: 清唱, en: "sing unaccompanied"}
+  - {jyutping: "seng4 tiu4 gaai1", hanzi: 成條街, en: "the whole street"}
+  - {jyutping: "coeng4 min6", hanzi: 場面, en: "situation, scene"}
+  - {jyutping: "fai1", hanzi: 揮, en: "wave"}
+  - {jyutping: "mou4 gan1", hanzi: 毛巾, en: "towel"}
+  - {jyutping: "caap3 din6", hanzi: 插電, en: "plug in"}
+  - {jyutping: "dai2 zi2", hanzi: 底子, en: "foundation, training"}
+  - {jyutping: "aa2", hanzi: 啞, en: "hoarse, mute"}
+  - {jyutping: "luk1 dei2", hanzi: 碌地, en: "roll on the floor"}
+  - {jyutping: "nam2 faan1", hanzi: 諗返, en: "think back to"}
+  - {jyutping: "zuk1 gwong1", hanzi: 燭光, en: "candlelight"}
+  - {jyutping: "zou6 jan4", hanzi: 做人, en: "life, how one lives"}
+exercises:
+  translate:
+    - {hanzi: "咁多嘢一齊用，實跳掣。", jyutping: "gam3 do1 je5 jat1 cai4 jung6, sat6 tiu3 zai3.", en: "With all that on at once, the power's bound to trip."}
+    - {hanzi: "大家拍手拍到成條街都震。", jyutping: "daai6 gaa1 paak3 sau2 paak3 dou3 seng4 tiu4 gaai1 dou1 zan3.", en: "Everyone clapped so hard the whole street shook."}
+    - {hanzi: "冇咗咪，佢就用把聲清唱。", jyutping: "mou5 zo2 mai1, keoi5 zau6 jung6 baa2 seng1 cing1 coeng3.", en: "Without a mic, he sang unaccompanied."}
+    - {hanzi: "我哋夾開 band，識得執生。", jyutping: "ngo5 dei6 gaap3 hoi1 band, sik1 dak1 zap1 saang1.", en: "We're used to playing in a band; we know how to improvise."}
+    - {hanzi: "梁伯跟住唱起上嚟，成條街都唱落去。", jyutping: "loeng4 baak3 gan1 zyu6 coeng3 hei2 soeng5 lai4, seng4 tiu4 gaai1 dou1 coeng3 lok6 heoi3.", en: "梁伯 started singing along, and the whole street kept singing."}
+  fill:
+    - {hanzi: "樂仔唱___聲都啞。", jyutping: "lok6 zai2 coeng3 ___ seng1 dou1 aa2.", answer: "dou3", answer_hanzi: 到, en: "樂仔 sang himself hoarse."}
+    - {hanzi: "我唱___粵曲，第一次唱你哋啲歌。", jyutping: "ngo5 coeng3 ___ jyut6 kuk1, dai6 jat1 ci3 coeng3 nei5 dei6 di1 go1.", answer: "hoi1", answer_hanzi: 開, en: "I'm used to singing Cantonese opera; it's my first time singing your songs."}
+    - {hanzi: "啲燈着___晒。", jyutping: "di1 dang1 zoek6 ___ saai3.", answer: "faan1", answer_hanzi: 返, en: "The lights all came back on."}
+    - {hanzi: "冇電，細So 攞起個___。", jyutping: "mou5 din6, sai3 so1 lo2 hei2 go3 ___.", answer: "muk6 git3 taa1", answer_hanzi: 木結他, en: "With no power, 細So picked up the acoustic guitar."}
+    - {hanzi: "對面啲街坊打開窗，___出嚟。", jyutping: "deoi3 min6 di1 gaai1 fong1 daa2 hoi1 coeng1, ___ ceot1 lai4.", answer: "taam3 tau4", answer_hanzi: 探頭, en: "The neighbours opposite opened their windows and leaned out."}

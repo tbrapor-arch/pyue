@@ -1,0 +1,104 @@
+# 進修 60. Written Chinese (書面語) read in Cantonese, with spoken Cantonese comments. LSHK Jyutping. Not checked by a native speaker yet.
+id: 60
+title: {en: "After 2019", jyutping: "ji6 ling4 jat1 gau2 nin4 zi1 hau6", hanzi: "二零一九年之後"}
+intro: "A magazine article on what changed in Hong Kong's culture and civil society after 2019, and what grew. Quantifiers (所有, 大部分, 不少, 部分) and concessives in the written register (雖然…但是, 儘管, 然而), with the café's comments in the margin."
+genre: article
+review: false
+setting: "Sunday 7 November 2027. A Hong Kong culture magazine has run a long article for the eighth year since 2019. 嘉偉 sent the link from Manchester; Kayan has printed it, and she, 梁伯 and Hugo read it in booth one, scribbling in the margins. Article paragraphs are in written Chinese; the comments are spoken Cantonese."
+dialogue:
+  - {n: 1, speaker: Article, hanzi: "二零一九年之後：一個城市的變與不變", jyutping: "ji6 ling4 jat1 gau2 nin4 zi1 hau6: jat1 go3 sing4 si5 dik1 bin3 jyu5 bat1 bin3", en: "After 2019: what changed in a city, and what didn't"}
+  - {n: 2, speaker: Article, hanzi: "二零二零年六月，國安法生效。政府指出，法例令社會恢復穩定，市民可以重新安心生活。", jyutping: "ji6 ling4 ji6 ling4 nin4 luk6 jyut6, gwok3 on1 faat3 sang1 haau6. zing3 fu2 zi2 ceot1, faat3 lai6 ling6 se5 wui2 fui1 fuk6 wan2 ding6, si5 man4 ho2 ji5 cung4 san1 on1 sam1 sang1 wut6.", en: "In June 2020 the National Security Law took effect. The government says the law has restored stability and that people can live in peace again."}
+  - {n: 3, speaker: Article, hanzi: "然而，不少人認為，城市的公民社會亦因此改變。二零二一年，多份報紙停刊，包括《蘋果日報》及《立場新聞》。", jyutping: "jin4 ji4, bat1 siu2 jan4 jing6 wai4, sing4 si5 dik1 gung1 man4 se5 wui2 jik6 jan1 ci2 goi2 bin3. ji6 ling4 ji6 jat1 nin4, do1 fan6 bou3 zi2 ting4 hon2, baau1 kut3 \"ping4 gwo2 jat6 bou3\" kap6 \"laap6 coeng4 san1 man4\".", en: "However, many believe the city's civil society changed as a result. In 2021 several newspapers closed, including Apple Daily and Stand News."}
+  - {n: 4, speaker: Leung Pak, hanzi: "（喺紙邊寫）《蘋果》我睇咗廿幾年，每朝同奶茶一齊。佢停刊嗰日，我一個人喺卡位坐咗好耐。", jyutping: "(hai2 zi2 bin1 se2) \"ping4 gwo2\" ngo5 tai2 zo2 jaa6 gei2 nin4, mui5 ziu1 tung4 naai5 caa4 jat1 cai4. keoi5 ting4 hon2 go2 jat6, ngo5 jat1 go3 jan4 hai2 kaa1 wai2 co5 zo2 hou2 noi6.", en: "(In the margin) I read Apple Daily for twenty-odd years, every morning with my milk tea. The day it closed, I sat alone in a booth for a long time."}
+  - {n: 5, speaker: Article, hanzi: "同年，數十個工會及組織相繼解散。悼念六四的燭光晚會，自二零二零年起不再在維園舉行。", jyutping: "tung4 nin4, sou3 sap6 go3 gung1 wui2 kap6 zou2 zik1 soeng1 gai3 gaai2 saan3. dou6 nim6 luk6 sei3 dik1 zuk1 gwong1 maan5 wui2, zi6 ji6 ling4 ji6 ling4 nin4 hei2 bat1 zoi3 zoi6 wai4 jyun2 geoi2 hang4.", en: "The same year, dozens of unions and organisations disbanded one after another. The candlelight vigil for June 4th has not been held in Victoria Park since 2020."}
+  - {n: 6, speaker: Article, hanzi: "二零二一年選舉制度改變；二零二四年，本地國安條例通過立法。二零二五年十二月，最後一個主要反對派政黨宣佈解散。", jyutping: "ji6 ling4 ji6 jat1 nin4 syun2 geoi2 zai3 dou6 goi2 bin3; ji6 ling4 ji6 sei3 nin4, bun2 dei6 gwok3 on1 tiu4 lai6 tung1 gwo3 laap6 faat3. ji6 ling4 ji6 ng5 nin4 sap6 ji6 jyut6, zeoi3 hau6 jat1 go3 zyu2 jiu3 faan2 deoi3 paai3 zing3 dong2 syun1 bou3 gaai2 saan3.", en: "In 2021 the electoral system changed; in 2024 a local national security ordinance was passed. In December 2025, the last major opposition party announced it was disbanding."}
+  - {n: 7, speaker: Kayan, hanzi: "（喺下面寫）嗰日阿哥打嚟，講咗一句「完咗」，就收線。", jyutping: "(hai2 haa6 min6 se2) go2 jat6 aa3 go1 daa2 lai4, gong2 zo2 jat1 geoi3 \"jyun4 zo2\", zau6 sau1 sin3.", en: "(Written below) That day my brother called, said just one word, 'Over', and hung up."}
+  - {n: 8, speaker: Article, hanzi: "同時，移民潮令人口下跌。單是英國，已有超過十六萬港人以特別簽證移居。", jyutping: "tung4 si4, ji4 man4 ciu4 ling6 jan4 hau2 haa6 dit3. daan1 si6 jing1 gwok3, ji5 jau5 ciu1 gwo3 sap6 luk6 maan6 gong2 jan4 ji5 dak6 bit6 cim1 zing3 ji4 geoi1.", en: "At the same time, a wave of emigration has reduced the population. Britain alone has received over 160,000 Hongkongers on a special visa."}
+  - {n: 9, speaker: Article, hanzi: "大部分留下的人選擇沉默；部分人則認為，言論的界線變得模糊，創作時需要更加小心。", jyutping: "daai6 bou6 fan6 lau4 haa6 dik1 jan4 syun2 zaak6 cam4 mak6; bou6 fan6 jan4 zak1 jing6 wai4, jin4 leon6 dik1 gaai3 sin3 bin3 dak1 mou4 wu4, cong3 zok3 si4 seoi1 jiu3 gang3 gaa1 siu2 sam1.", en: "Most of those who stayed have chosen silence; some feel the lines on what can be said have blurred, and that one must be more careful when creating."}
+  - {n: 10, speaker: Hugo, hanzi: "（喺紙邊寫）就好似我哋首《冇人提起》，可以寫，唔一定可以唱。", jyutping: "(hai2 zi2 bin1 se2) zau6 hou2 ci5 ngo5 dei6 sau2 \"mou5 jan4 tai4 hei2\", ho2 ji5 se2, m4 jat1 ding6 ho2 ji5 coeng3.", en: "(In the margin) Just like our song 'Nobody Brings It Up': you can write it, but not necessarily sing it."}
+  - {n: 11, speaker: Article, hanzi: "然而，這幾年亦有新事物出現。本地廣東歌重新興起，年輕人重新聽粵語流行曲，演唱會一票難求。", jyutping: "jin4 ji4, ze5 gei2 nin4 jik6 jau5 san1 si6 mat6 ceot1 jin6. bun2 dei6 gwong2 dung1 go1 cung4 san1 hing1 hei2, nin4 hing1 jan4 cung4 san1 teng1 jyut6 jyu5 lau4 hang4 kuk1, jin2 coeng3 wui2 jat1 piu3 naan4 kau4.", en: "Yet new things have also appeared in these years. Local Cantonese songs have made a comeback; young people are listening to Cantopop again, and concert tickets are impossible to get."}
+  - {n: 12, speaker: Article, hanzi: "不少小書店、社區空間及導賞團相繼出現，帶領市民重新認識自己的街道和歷史。", jyutping: "bat1 siu2 siu2 syu1 dim3, se5 keoi1 hung1 gaan1 kap6 dou6 soeng2 tyun4 soeng1 gai3 ceot1 jin6, daai3 ling5 si5 man4 cung4 san1 jing6 sik1 zi6 gei2 dik1 gaai1 dou6 wo4 lik6 si2.", en: "Many small bookshops, community spaces and guided walks have appeared, leading people to rediscover their own streets and history."}
+  - {n: 13, speaker: Kayan, hanzi: "（寫喺紙邊）好似何生話租平啲俾後生開書店，都係咁嘅諗法。", jyutping: "(se2 hai2 zi2 bin1) hou2 ci5 ho4 saang1 waa6 zou1 peng4 di1 bei2 hau6 saang1 hoi1 syu1 dim3, dou1 hai6 gam2 ge3 nam2 faat3.", en: "(Written alongside) Like Mr Ho renting cheaply to young people to open a bookshop: it's the same idea."}
+  - {n: 14, speaker: Article, hanzi: "儘管社會仍然存在分歧，但是無論留下或是離開，不少人都以自己的方式，繼續講廣東話、寫廣東字。", jyutping: "zeon2 gun2 se5 wui2 jing4 jin4 cyun4 zoi6 fan1 kei4, daan6 si6 mou4 leon6 lau4 haa6 waak6 si6 lei4 hoi1, bat1 siu2 jan4 dou1 ji5 zi6 gei2 dik1 fong1 sik1, gai3 zuk6 gong2 gwong2 dung1 waa2, se2 gwong2 dung1 zi6.", en: "Although society remains divided, whether they stayed or left, many people continue, in their own ways, to speak Cantonese and write in Cantonese."}
+  - {n: 15, speaker: Leung Pak, hanzi: "（放低張紙）寫得幾公道。佢冇話政府啱，又冇話政府錯，淨係講發生咗乜嘢。", jyutping: "(fong3 dai1 zoeng1 zi2) se2 dak1 gei2 gung1 dou6. keoi5 mou5 waa6 zing3 fu2 ngaam1, jau6 mou5 waa6 zing3 fu2 co3, zing6 hai6 gong2 faat3 sang1 zo2 mat1 je5.", en: "(Putting the paper down) Quite fairly written. It doesn't say the government's right or wrong; it just says what happened."}
+  - {n: 16, speaker: Kayan, hanzi: "阿爸，你當年最想要嘅就係穩定。你而家覺得點？", jyutping: "aa3 baa4, nei5 dong1 nin4 zeoi3 soeng2 jiu3 ge3 zau6 hai6 wan2 ding6. nei5 ji4 gaa1 gok3 dak1 dim2?", en: "Dad, back then what you wanted most was stability. How do you feel now?"}
+  - {n: 17, speaker: Leung Pak, hanzi: "街上係靜咗，生意都穩定咗。不過我少咗份報紙，少咗個仔喺身邊。雖然穩定，但係屋企冇咗一半。", jyutping: "gaai1 soeng6 hai6 zing6 zo2, saang1 ji3 dou1 wan2 ding6 zo2. bat1 gwo3 ngo5 siu2 zo2 fan6 bou3 zi2, siu2 zo2 go3 zai2 hai2 san1 bin1. seoi1 jin4 wan2 ding6, daan6 hai6 uk1 kei2 mou5 zo2 jat1 bun3.", en: "The streets are quieter, sure, and business is steadier. But I've lost a newspaper, and lost my son by my side. Stable, yes, but half the family is gone."}
+  - {n: 18, speaker: Hugo, hanzi: "我係外人，唔應該講太多。我淨係見到：大家唔同意見，但係仍然坐埋一齊飲奶茶。", jyutping: "ngo5 hai6 ngoi6 jan4, m4 jing1 goi1 gong2 taai3 do1. ngo5 zing6 hai6 gin3 dou2: daai6 gaa1 m4 tung4 ji3 gin3, daan6 hai6 jing4 jin4 co5 maai4 jat1 cai4 jam2 naai5 caa4.", en: "I'm an outsider; I shouldn't say too much. All I see is: people disagree, but they still sit down together over milk tea."}
+  - {n: 19, speaker: Kayan, hanzi: "包容可能係最難嘅嘢。社會撕裂咗，要修補，唔係一日兩日。", jyutping: "baau1 jung4 ho2 nang4 hai6 zeoi3 naan4 ge3 je5. se5 wui2 si1 lit6 zo2, jiu3 sau1 bou2, m4 hai6 jat1 jat6 loeng5 jat6.", en: "Tolerance may be the hardest thing. Society's been torn apart; mending it isn't a matter of a day or two."}
+  - {n: 20, speaker: Leung Pak, hanzi: "我同阿何五十年都可以和解。一個城市，慢慢嚟啦。", jyutping: "ngo5 tung4 aa3 ho4 ng5 sap6 nin4 dou1 ho2 ji5 wo4 gaai2. jat1 go3 sing4 si5, maan6 maan2 lai4 laa1.", en: "Ho and I could make peace after fifty years. A whole city: give it time."}
+  - {n: 21, speaker: Kayan, hanzi: "（將篇文影低，傳俾阿哥）「阿爸睇完喇。佢話：慢慢嚟。」", jyutping: "(zoeng1 pin1 man2 jing2 dai1, cyun4 bei2 aa3 go1) \"aa3 baa4 tai2 jyun4 laa3. keoi5 waa6: maan6 maan2 lai4.\"", en: "(Photographing the article and sending it to her brother) 'Dad's read it. He says: give it time.'"}
+  - {n: 22, speaker: Hugo, hanzi: "（好耐之後，部手機震咗一下）佢覆咗咩？", jyutping: "(hou2 noi6 zi1 hau6, bou6 sau2 gei1 zan3 zo2 jat1 haa5) keoi5 fuk1 zo2 me1?", en: "(Much later, the phone buzzes) What did he reply?"}
+  - {n: 23, speaker: Kayan, hanzi: "一個奶茶嘅 emoji。", jyutping: "jat1 go3 naai5 caa4 ge3 emoji.", en: "A milk-tea emoji."}
+notes:
+  - {ref: 1, topic: vocab, text: "Written register: 的 dik1 = 嘅; 是 si6 = 係; 這 ze5 = 呢; 及 / 和 = 同; 在 zoi6 = 喺; 亦 jik6 = 都; 則 zak1 'on the other hand'. 變與不變 'what changes and what doesn't'."}
+  - {ref: 2, topic: culture, text: "The government's position, stated in the article: the National Security Law (國安法, P45) restored stability (恢復穩定). 指出 'point out, state'. 重新 'again, anew'."}
+  - {ref: 3, topic: culture, text: "In 2021 the newspaper Apple Daily (《蘋果日報》) closed after its assets were frozen and executives arrested; online outlet Stand News (《立場新聞》) closed in December 2021 after a police raid. 報紙 bou3 zi2 = newspaper; 停刊 ting4 hon2 = cease publication. 公民社會 gung1 man4 se5 wui2 = civil society. 然而 jin4 ji4 = however (written)."}
+  - {ref: 5, topic: culture, text: "Dozens of unions (工會 gung1 wui2) and groups (組織 zou2 zik1) disbanded in 2021, including the main teachers' union and the alliance that organised the June 4th vigil (悼念六四 'commemorate June 4th') in Victoria Park (維園). 相繼 'one after another'."}
+  - {ref: 6, topic: culture, text: "2021: electoral changes (選舉制度 syun2 geoi2 zai3 dou6). March 2024: the Safeguarding National Security Ordinance, under Article 23 of the Basic Law (基本法), passed into law (通過立法). 14 December 2025: the Democratic Party, the last major opposition party (反對派政黨), voted to disband."}
+  - {ref: 7, topic: vocab, text: "收線 'hang up'. 完咗 'it's over'."}
+  - {ref: 8, topic: culture, text: "移民潮 ji4 man4 ciu4 = emigration wave; 人口 jan4 hau2 = population; 下跌 haa6 dit3 = fall. Over 160,000 Hongkongers had moved to the UK on the BN(O) visa by 2025. 單是 'alone, just'. 移居 'move to live'."}
+  - {ref: 9, topic: grammar, text: "Written quantifiers (P38): 大部分 'most', 部分 bou6 fan6 'some, part', 不少 'quite a few' (line 3), 數十 'dozens' (line 5). 言論 jin4 leon6 = speech, what is said; 界線 gaai3 sin3 = boundary, line."}
+  - {ref: 11, topic: culture, text: "From around 2021, a Cantopop revival (粵語流行曲 'Cantonese pop songs'), led by local idol groups and indie bands, filled arenas. 興起 'rise, take off'. 演唱會 'concert'; 一票難求 'tickets impossible to get'. 年輕人 'young people'."}
+  - {ref: 12, topic: vocab, text: "社區空間 'community space'. 導賞 dou6 soeng2 = guided tour: 導賞團. 帶領 'lead'. 街道 'streets'."}
+  - {ref: 14, topic: grammar, text: "Written concessives (P52): 儘管 A，但是 B 'although A, B'; 然而 'however'; 無論 A 或是 B，都… 'whether A or B, …'. 存在 'exist'; 分歧 fan1 kei4 = disagreement, divide; 方式 'way, manner'."}
+  - {ref: 17, topic: grammar, text: "Spoken concessive: 雖然穩定，但係屋企冇咗一半 'stable, yes, but half the family is gone' (P29). 係靜咗 'quieter, sure': stressed 係 concedes a point."}
+  - {ref: 19, topic: vocab, text: "包容 baau1 jung4 = tolerance, accept differences. 撕裂 si1 lit6 = tear apart, divide (of society). 修補 sau1 bou2 = mend. 和解 wo4 gaai2 (line 20) = reconcile."}
+  - {ref: 22, topic: vocab, text: "覆 'reply' (a message). 影低 (line 21) 'take a photo of'."}
+pron:
+  - {ref: 3, text: "停刊 ting4 hon2: 刊 is hon2, as in 刊登."}
+  - {ref: 6, text: "選舉 syun2 geoi2: 舉 is geoi2, as in 舉辦 (P37)."}
+  - {ref: 19, text: "撕裂 si1 lit6: 撕 is si1, not sai1."}
+new_words:
+  - {jyutping: "bou3 zi2", hanzi: 報紙, en: "newspaper"}
+  - {jyutping: "ting4 hon2", hanzi: 停刊, en: "cease publication"}
+  - {jyutping: "gung1 man4 se5 wui2", hanzi: 公民社會, en: "civil society"}
+  - {jyutping: "jin4 ji4", hanzi: 然而, en: "however"}
+  - {jyutping: "gung1 wui2", hanzi: 工會, en: "trade union"}
+  - {jyutping: "zou2 zik1", hanzi: 組織, en: "organisation"}
+  - {jyutping: "dou6 nim6", hanzi: 悼念, en: "commemorate (the dead)"}
+  - {jyutping: "syun2 geoi2", hanzi: 選舉, en: "election"}
+  - {jyutping: "zai3 dou6", hanzi: 制度, en: "system"}
+  - {jyutping: "tung1 gwo3", hanzi: 通過, en: "pass (a law); through"}
+  - {jyutping: "laap6 faat3", hanzi: 立法, en: "legislate"}
+  - {jyutping: "zing3 dong2", hanzi: 政黨, en: "political party"}
+  - {jyutping: "ji4 man4 ciu4", hanzi: 移民潮, en: "emigration wave"}
+  - {jyutping: "jan4 hau2", hanzi: 人口, en: "population"}
+  - {jyutping: "haa6 dit3", hanzi: 下跌, en: "fall, drop"}
+  - {jyutping: "bou6 fan6", hanzi: 部分, en: "some, part"}
+  - {jyutping: "jin4 leon6", hanzi: 言論, en: "speech, what is said"}
+  - {jyutping: "gaai3 sin3", hanzi: 界線, en: "boundary, line"}
+  - {jyutping: "jyut6 jyu5 lau4 hang4 kuk1", hanzi: 粵語流行曲, en: "Cantopop"}
+  - {jyutping: "dou6 soeng2", hanzi: 導賞, en: "guided tour"}
+  - {jyutping: "fan1 kei4", hanzi: 分歧, en: "disagreement, divide"}
+  - {jyutping: "baau1 jung4", hanzi: 包容, en: "tolerance"}
+  - {jyutping: "si1 lit6", hanzi: 撕裂, en: "tear apart"}
+  - {jyutping: "sau1 bou2", hanzi: 修補, en: "mend"}
+  - {jyutping: "wo4 gaai2", hanzi: 和解, en: "reconcile"}
+  - {jyutping: "zi2 ceot1", hanzi: 指出, en: "point out, state"}
+  - {jyutping: "faat3 lai6", hanzi: 法例, en: "law, legislation"}
+  - {jyutping: "cung4 san1", hanzi: 重新, en: "again, anew"}
+  - {jyutping: "jan1 ci2", hanzi: 因此, en: "as a result"}
+  - {jyutping: "baau1 kut3", hanzi: 包括, en: "include"}
+  - {jyutping: "soeng1 gai3", hanzi: 相繼, en: "one after another"}
+  - {jyutping: "zyu2 jiu3", hanzi: 主要, en: "main, major"}
+  - {jyutping: "tung4 si4", hanzi: 同時, en: "at the same time"}
+  - {jyutping: "ji4 geoi1", hanzi: 移居, en: "move to live"}
+  - {jyutping: "cyun4 zoi6", hanzi: 存在, en: "exist"}
+  - {jyutping: "mou4 leon6", hanzi: 無論, en: "no matter, whether"}
+  - {jyutping: "fong1 sik1", hanzi: 方式, en: "way, manner"}
+  - {jyutping: "hing1 hei2", hanzi: 興起, en: "rise, take off"}
+  - {jyutping: "daai3 ling5", hanzi: 帶領, en: "lead"}
+  - {jyutping: "daan6 si6", hanzi: 但是, en: "but (written)"}
+exercises:
+  translate:
+    - {hanzi: "多份報紙停刊，部分記者移民。", jyutping: "do1 fan6 bou3 zi2 ting4 hon2, bou6 fan6 gei3 ze2 ji4 man4.", en: "Several newspapers closed, and some journalists emigrated."}
+    - {hanzi: "大部分人選擇沉默。", jyutping: "daai6 bou6 fan6 jan4 syun2 zaak6 cam4 mak6.", en: "Most people chose silence."}
+    - {hanzi: "雖然穩定，但係屋企冇咗一半。", jyutping: "seoi1 jin4 wan2 ding6, daan6 hai6 uk1 kei2 mou5 zo2 jat1 bun3.", en: "Stable, yes, but half the family is gone."}
+    - {hanzi: "社會撕裂咗，要慢慢修補。", jyutping: "se5 wui2 si1 lit6 zo2, jiu3 maan6 maan2 sau1 bou2.", en: "Society's been torn apart; it has to be mended slowly."}
+    - {hanzi: "大家意見唔同，但係仍然可以包容。", jyutping: "daai6 gaa1 ji3 gin3 m4 tung4, daan6 hai6 jing4 jin4 ho2 ji5 baau1 jung4.", en: "People disagree, but they can still accept each other."}
+  fill:
+    - {hanzi: "___社會仍然有分歧，但是不少人繼續講廣東話。", jyutping: "___ se5 wui2 jing4 jin4 jau5 fan1 kei4, daan6 si6 bat1 siu2 jan4 gai3 zuk6 gong2 gwong2 dung1 waa2.", answer: "zeon2 gun2", answer_hanzi: 儘管, en: "Although society is still divided, many people continue to speak Cantonese."}
+    - {hanzi: "移民潮令___下跌。", jyutping: "ji4 man4 ciu4 ling6 ___ haa6 dit3.", answer: "jan4 hau2", answer_hanzi: 人口, en: "The emigration wave has reduced the population."}
+    - {hanzi: "佢哋五十年之後終於___。", jyutping: "keoi5 dei6 ng5 sap6 nin4 zi1 hau6 zung1 jyu1 ___.", answer: "wo4 gaai2", answer_hanzi: 和解, en: "After fifty years they finally made peace."}
+    - {hanzi: "二零二一年，選舉___改變。", jyutping: "ji6 ling4 ji6 jat1 nin4, syun2 geoi2 ___ goi2 bin3.", answer: "zai3 dou6", answer_hanzi: 制度, en: "In 2021 the electoral system changed."}
+    - {hanzi: "數十個工會及___相繼解散。", jyutping: "sou3 sap6 go3 gung1 wui2 kap6 ___ soeng1 gai3 gaai2 saan3.", answer: "zou2 zik1", answer_hanzi: 組織, en: "Dozens of unions and organisations disbanded one after another."}

@@ -1,0 +1,90 @@
+# 進修 65. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 65
+title: {en: "Tap Mun", jyutping: "taap3 mun4", hanzi: "塔門"}
+intro: "A Sunday on a windy little island: comparisons (冇咁…, 越嚟越, 最, 好過) and potential complements (坐唔落, 食唔晒, 行得到), with the words of ferries, grassland and fading villages."
+genre: trip
+review: false
+setting: "Sunday 5 December 2027. Before the anniversary rush, Hiu-ching takes Hugo and Kayan to Tap Mun, a small island off the northeast New Territories: a 'kaito' ferry from Ma Liu Shui, a grassy hilltop, a Tin Hau temple, and a fishing village where only a few old people still live."
+dialogue:
+  - {n: 1, speaker: Hiu-ching, hanzi: "由馬料水搭街渡，要成個鐘頭；由黃石碼頭就快好多，半個鐘就到。", jyutping: "jau4 maa5 liu6 seoi2 daap3 gaai1 dou6, jiu3 seng4 go3 zung1 tau4; jau4 wong4 sek6 maa5 tau4 zau6 faai3 hou2 do1, bun3 go3 zung1 zau6 dou3.", en: "From Ma Liu Shui the kaito takes a whole hour; from Wong Shek Pier it's much faster, just half an hour."}
+  - {n: 2, speaker: Kayan, hanzi: "但係馬料水嗰條航線，可以睇到成個吐露港，景色靚好多。", jyutping: "daan6 hai6 maa5 liu6 seoi2 go2 tiu4 hong4 sin3, ho2 ji5 tai2 dou2 seng4 go3 tou3 lou6 gong2, ging2 sik1 leng3 hou2 do1.", en: "But the Ma Liu Shui route lets you see the whole of Tolo Harbour; the views are far better."}
+  - {n: 3, speaker: Hugo, hanzi: "（喺船上）塔門比長洲細好多，又冇咁多人。", jyutping: "(hai2 syun4 soeng6) taap3 mun4 bei2 coeng4 zau1 sai3 hou2 do1, jau6 mou5 gam3 do1 jan4.", en: "(On the boat) Tap Mun is much smaller than Cheung Chau, and not as crowded."}
+  - {n: 4, speaker: Hiu-ching, hanzi: "平日冇咁多，週末就唔同。以前有段時間，啲人上山頂搭帳篷露營，個草原企都企唔落。", jyutping: "ping4 jat6 mou5 gam3 do1, zau1 mut6 zau6 m4 tung4. ji5 cin4 jau5 dyun6 si4 gaan3, di1 jan4 soeng5 saan1 deng2 daap3 zoeng3 pung4 lou6 jing4, go3 cou2 jyun4 kei5 dou1 kei5 m4 lok6.", en: "Not on weekdays, but weekends are different. There was a time when people pitched tents on the hilltop and the grassland was so packed you couldn't stand."}
+  - {n: 5, speaker: Kayan, hanzi: "我記得新聞講，啲人走嗰陣唔執垃圾，搞到成個草原都係，啲牛食咗仲病咗。", jyutping: "ngo5 gei3 dak1 san1 man4 gong2, di1 jan4 zau2 go2 zan6 m4 zap1 laap6 saap3, gaau2 dou3 seng4 go3 cou2 jyun4 dou1 hai6, di1 ngau4 sik6 zo2 zung6 beng6 zo2.", en: "I remember the news: people left without picking up their rubbish, so the whole grassland was covered, and the cows that ate it got sick."}
+  - {n: 6, speaker: Hugo, hanzi: "（上咗山坡）嘩，風越嚟越大，又越嚟越冷，我頂帽差啲俾佢吹走。", jyutping: "(soeng5 zo2 saan1 bo1) waa3, fung1 jyut6 lai4 jyut6 daai6, jau6 jyut6 lai4 jyut6 laang5, ngo5 deng2 mou2 caa1 di1 bei2 keoi5 ceoi1 zau2.", en: "(Up the slope) Wow, the wind's getting stronger and colder; my hat nearly got blown away."}
+  - {n: 7, speaker: Hiu-ching, hanzi: "塔門係香港最大風嘅地方之一，所以先叫「塔門」，好似一座塔企喺海口。", jyutping: "taap3 mun4 hai6 hoeng1 gong2 zeoi3 daai6 fung1 ge3 dei6 fong1 zi1 jat1, so2 ji5 sin1 giu3 \"taap3 mun4\", hou2 ci5 jat1 zo6 taap3 kei5 hai2 hoi2 hau2.", en: "Tap Mun is one of the windiest places in Hong Kong; some say that's why it's called 'Pagoda Gate', standing at the mouth of the sea like a tower."}
+  - {n: 8, speaker: Kayan, hanzi: "你哋睇嗰幾嚿石頭，疊埋一齊，好似隨時會跌落嚟，但係吹咗幾百年都冇跌。", jyutping: "nei5 dei6 tai2 go2 gei2 gau6 sek6 tau4, dip6 maai4 jat1 cai4, hou2 ci5 ceoi4 si4 wui5 dit3 lok6 lai4, daan6 hai6 ceoi1 zo2 gei2 baak3 nin4 dou1 mou5 dit3.", en: "Look at those rocks piled on top of each other: they look like they could fall at any moment, but they've stood the wind for hundreds of years."}
+  - {n: 9, speaker: Hugo, hanzi: "好似梁記咁：成日話頂唔順，結果企咗五十五年。", jyutping: "hou2 ci5 loeng4 gei3 gam2: sing4 jat6 waa6 ding2 m4 seon6, git3 gwo2 kei5 zo2 ng5 sap6 ng5 nin4.", en: "Like 梁記: always saying it can't hold on, and it's stood for fifty-five years."}
+  - {n: 10, speaker: Hiu-ching, hanzi: "落去條村睇吓啦。以前呢度有成千人，漁船泊滿成個海灣；而家淨係得返幾十個村民，大部分係老人，好多屋都荒廢咗。", jyutping: "lok6 heoi3 tiu4 cyun1 tai2 haa5 laa1. ji5 cin4 ni1 dou6 jau5 sing4 cin1 jan4, jyu4 syun4 paak3 mun5 seng4 go3 hoi2 waan1; ji4 gaa1 zing6 hai6 dak1 faan1 gei2 sap6 go3 cyun1 man4, daai6 bou6 fan6 hai6 lou5 jan4, hou2 do1 uk1 dou1 fong1 fai3 zo2.", en: "Let's go down to the village. There used to be over a thousand people here, fishing boats filling the whole bay; now only a few dozen villagers are left, mostly old, and many houses have been abandoned."}
+  - {n: 11, speaker: Villager, hanzi: "（坐喺門口曬魷魚）後生仔？嚟食海膽炒飯呀？", jyutping: "(co5 hai2 mun4 hau2 saai3 jau4 jyu2) hau6 saang1 zai2? lai4 sik6 hoi2 daam2 caau2 faan6 aa4?", en: "(Sitting at her door, drying squid) Young people? Come for the sea urchin fried rice?"}
+  - {n: 12, speaker: Hugo, hanzi: "婆婆，你喺度住咗幾耐？", jyutping: "po4 po2, nei5 hai2 dou6 zyu6 zo2 gei2 noi6?", en: "Granny, how long have you lived here?"}
+  - {n: 13, speaker: Villager, hanzi: "成世。我啲仔女搬咗出市區，叫我一齊去。我話市區啲屋細過雀籠，我住唔慣。", jyutping: "seng4 sai3. ngo5 di1 zai2 neoi2 bun1 zo2 ceot1 si5 keoi1, giu3 ngo5 jat1 cai4 heoi3. ngo5 waa6 si5 keoi1 di1 uk1 sai3 gwo3 zoek2 lung4, ngo5 zyu6 m4 gwaan3.", en: "All my life. My children moved to the city and asked me to come. I said the flats there are smaller than bird cages; I couldn't get used to it."}
+  - {n: 14, speaker: Kayan, hanzi: "咁你一個人唔悶咩？", jyutping: "gam2 nei5 jat1 go3 jan4 m4 mun6 me1?", en: "Don't you get bored on your own?"}
+  - {n: 15, speaker: Villager, hanzi: "悶乜嘢！週末成村遊客，我煮海膽炒飯都煮唔切。平日就同隔籬幾個老友打麻雀。", jyutping: "mun6 mat1 je5! zau1 mut6 seng4 cyun1 jau4 haak3, ngo5 zyu2 hoi2 daam2 caau2 faan6 dou1 zyu2 m4 cit3. ping4 jat6 zau6 tung4 gaak3 lei4 gei2 go3 lou5 jau5 daa2 maa4 zoek2.", en: "Bored? On weekends the village is full of visitors; I can't cook the sea urchin rice fast enough. On weekdays I play mahjong with a few old friends next door."}
+  - {n: 16, speaker: Hiu-ching, hanzi: "婆婆，三碟海膽炒飯，唔該。", jyutping: "po4 po2, saam1 dip6 hoi2 daam2 caau2 faan6, m4 goi1.", en: "Granny, three plates of sea urchin fried rice, please."}
+  - {n: 17, speaker: Hugo, hanzi: "（食咗兩啖）好食過我喺法國食過嘅海膽！不過份量好大，我一個人食唔晒。", jyutping: "(sik6 zo2 loeng5 daam6) hou2 sik6 gwo3 ngo5 hai2 faat3 gwok3 sik6 gwo3 ge3 hoi2 daam2! bat1 gwo3 fan6 loeng6 hou2 daai6, ngo5 jat1 go3 jan4 sik6 m4 saai3.", en: "(After two mouthfuls) Better than any sea urchin I've eaten in France! But the portion's huge; I can't finish it on my own."}
+  - {n: 18, speaker: Villager, hanzi: "食唔晒就打包。後生仔要食多啲，先行得到上山頂。", jyutping: "sik6 m4 saai3 zau6 daa2 baau1. hau6 saang1 zai2 jiu3 sik6 do1 di1, sin1 haang4 dak1 dou3 soeng5 saan1 deng2.", en: "If you can't finish it, take it away. Young people need to eat more, or they'll never make it up the hill."}
+  - {n: 19, speaker: Kayan, hanzi: "婆婆，我哋下個禮拜六喺深水埗有個周年派對，你嚟唔嚟？", jyutping: "po4 po2, ngo5 dei6 haa6 go3 lai5 baai3 luk6 hai2 sam1 seoi2 bou2 jau5 go3 zau1 nin4 paai3 deoi3, nei5 lai4 m4 lai4?", en: "Granny, we're having an anniversary party in Sham Shui Po a week on Saturday; will you come?"}
+  - {n: 20, speaker: Villager, hanzi: "深水埗？太遠喇，我搭唔到咁多程車。你哋得閒就嚟塔門探我，好過我出去。", jyutping: "sam1 seoi2 bou2? taai3 jyun5 laa3, ngo5 daap3 m4 dou2 gam3 do1 cing4 ce1. nei5 dei6 dak1 haan4 zau6 lai4 taap3 mun4 taam3 ngo5, hou2 gwo3 ngo5 ceot1 heoi3.", en: "Sham Shui Po? Too far; I can't manage all those changes of transport. You come and visit me in Tap Mun when you're free: better than me going out."}
+  - {n: 21, speaker: Hugo, hanzi: "（返程船上，睇住日落）南丫島、長洲、坪洲、塔門……香港啲細島，一個比一個靚。", jyutping: "(faan1 cing4 syun4 soeng6, tai2 zyu6 jat6 lok6) naam4 aa1 dou2, coeng4 zau1, ping4 zau1, taap3 mun4 …… hoeng1 gong2 di1 sai3 dou2, jat1 go3 bei2 jat1 go3 leng3.", en: "(On the boat back, watching the sunset) Lamma, Cheung Chau, Peng Chau, Tap Mun… Hong Kong's little islands, each one lovelier than the last."}
+  - {n: 22, speaker: Hiu-ching, hanzi: "你最鍾意邊個？", jyutping: "nei5 zeoi3 zung1 ji3 bin1 go3?", en: "Which one do you like best?"}
+  - {n: 23, speaker: Hugo, hanzi: "梗係長洲啦。全香港最好嘅導遊住喺度。", jyutping: "gang2 hai6 coeng4 zau1 laa1. cyun4 hoeng1 gong2 zeoi3 hou2 ge3 dou6 jau4 zyu6 hai2 dou6.", en: "Cheung Chau, of course. The best tour guide in Hong Kong lives there."}
+  - {n: 24, speaker: Kayan, hanzi: "（扮嘔）塔門啲風都冇你咁肉麻。", jyutping: "(baan6 au2) taap3 mun4 di1 fung1 dou1 mou5 nei5 gam3 juk6 maa4.", en: "(Pretending to gag) Even Tap Mun's wind isn't as cheesy as you."}
+notes:
+  - {ref: 1, topic: vocab, text: "街渡 gaai1 dou6 'kaito' = small local ferry serving outlying villages. 馬料水 maa5 liu6 seoi2 Ma Liu Shui, near the Chinese University. 黃石碼頭 Wong Shek Pier in Sai Kung."}
+  - {ref: 2, topic: vocab, text: "航線 hong4 sin3 'route (of a ferry, a flight)'. 吐露港 Tolo Harbour. 景色 ging2 sik1 = scenery, view. 靚好多 'far more beautiful': adjective + 好多 'much more'."}
+  - {ref: 3, topic: grammar, text: "Comparison (P40): A 比 B + adjective (細好多) is also used in Cantonese, alongside A + adjective + 過 B; 冇咁多人 'not as crowded'. 好食過… (line 17) 'tastier than…'; 好過我出去 (line 20) 'better than me going out'."}
+  - {ref: 4, topic: grammar, text: "Potentials (P4): 企都企唔落 'couldn't even stand (for lack of room)'; 食唔晒 'can't finish' (line 17); 行得到 'can make it' (line 18); 煮唔切 'can't cook fast enough' (line 15; 切 cit3 'in time'); 搭唔到 'can't manage (to take)' (line 20); 住唔慣 'can't get used to living' (line 13). 草原 cou2 jyun4 = grassland; 平日 ping4 jat6 'weekdays'. 帳篷 zoeng3 pung4 = tent."}
+  - {ref: 5, topic: culture, text: "In the early 2020s, crowds of campers left piles of rubbish on Tap Mun's grassland, and cattle grazing there were reported to have eaten plastic; volunteers and the government ran clean-ups. 執垃圾 'pick up rubbish'."}
+  - {ref: 6, topic: grammar, text: "越嚟越大 'stronger and stronger' (P16). 山坡 saan1 bo1 = slope. 差啲 caa1 di1 'nearly'. 頂帽 'a hat' (帽 mou2; 頂 classifier for hats). 冷 laang5 = cold (written; spoken 凍)."}
+  - {ref: 7, topic: grammar, text: "最大風嘅地方之一 'one of the windiest places': 最 + adjective + 嘅 + noun + 之一 (P54). 海口 hoi2 hau2 'mouth of the sea'."}
+  - {ref: 8, topic: vocab, text: "石頭 sek6 tau4 = rock, stone; 嚿 'lump' (classifier). 疊 dip6 'pile up'. 隨時 'at any moment'."}
+  - {ref: 10, topic: culture, text: "Like many outlying fishing villages, Tap Mun's population has shrunk to a few dozen elderly residents (老人 lou5 jan4) as the young moved to the city (市區). 海灣 'bay'. 成千 'over a thousand'. 漁船 'fishing boat'. 村民 cyun1 man4 = villager; 荒廢 fong1 fai3 = abandoned, derelict."}
+  - {ref: 11, topic: vocab, text: "曬魷魚 'dry squid in the sun' (曬 saai3 'dry in the sun'). 打包 daa2 baau1 (line 18) = take away (leftovers). 海膽 hoi2 daam2 = sea urchin; 海膽炒飯 'sea urchin fried rice', Tap Mun's famous dish."}
+  - {ref: 13, topic: vocab, text: "雀籠 zoek2 lung4 'bird cage': Hong Kong flats are often compared to cages. 住唔慣 'not used to living (there)'."}
+  - {ref: 15, topic: vocab, text: "打麻雀 'play mahjong'. 成村遊客 'the whole village full of tourists'."}
+  - {ref: 21, topic: grammar, text: "一個比一個靚 'each lovelier than the last': 一 + classifier + 比 + 一 + classifier + adjective. 返程 'the return trip'; 程 cing4 = leg of a journey (咁多程車, line 20). 日落 jat6 lok6 = sunset."}
+  - {ref: 3, topic: vs-mandarin, text: "Cantonese has two comparatives: A 細過 B (the Cantonese pattern) and A 比 B 細 (shared with Mandarin). The 過 pattern is more colloquial; 比 is common in longer sentences. Mandarin only has 比: 塔門比長洲小."}
+pron:
+  - {ref: 1, text: "街渡 gaai1 dou6 and 渡輪 dou6 leon4 (P50): 渡 is dou6."}
+  - {ref: 4, text: "草原 cou2 jyun4: 草 is cou2, mid rising."}
+  - {ref: 11, text: "海膽 hoi2 daam2: 膽 is daam2, as in 放膽 (P43)."}
+new_words:
+  - {jyutping: "gaai1 dou6", hanzi: 街渡, en: "kaito, small ferry"}
+  - {jyutping: "maa5 liu6 seoi2", hanzi: 馬料水, en: "Ma Liu Shui"}
+  - {jyutping: "ging2 sik1", hanzi: 景色, en: "scenery"}
+  - {jyutping: "cou2 jyun4", hanzi: 草原, en: "grassland"}
+  - {jyutping: "saan1 bo1", hanzi: 山坡, en: "slope"}
+  - {jyutping: "sek6 tau4", hanzi: 石頭, en: "rock, stone"}
+  - {jyutping: "lou5 jan4", hanzi: 老人, en: "old person"}
+  - {jyutping: "hoi2 daam2", hanzi: 海膽, en: "sea urchin"}
+  - {jyutping: "saai3", hanzi: 曬, en: "dry in the sun"}
+  - {jyutping: "laang5", hanzi: 冷, en: "cold (written)"}
+  - {jyutping: "hong4 sin3", hanzi: 航線, en: "route"}
+  - {jyutping: "ping4 jat6", hanzi: 平日, en: "weekdays"}
+  - {jyutping: "zoeng3 pung4", hanzi: 帳篷, en: "tent"}
+  - {jyutping: "caa1 di1", hanzi: 差啲, en: "nearly"}
+  - {jyutping: "mou2", hanzi: 帽, en: "hat"}
+  - {jyutping: "hoi2 hau2", hanzi: 海口, en: "mouth of the sea"}
+  - {jyutping: "dip6", hanzi: 疊, en: "pile up"}
+  - {jyutping: "cyun1 man4", hanzi: 村民, en: "villager"}
+  - {jyutping: "fong1 fai3", hanzi: 荒廢, en: "abandoned, derelict"}
+  - {jyutping: "zoek2 lung4", hanzi: 雀籠, en: "bird cage"}
+  - {jyutping: "cit3", hanzi: 切, en: "in time (in V唔切)"}
+  - {jyutping: "daa2 baau1", hanzi: 打包, en: "take away (leftovers)"}
+  - {jyutping: "cing4", hanzi: 程, en: "leg of a journey"}
+  - {jyutping: "jat6 lok6", hanzi: 日落, en: "sunset"}
+  - {jyutping: "jyu4 syun4", hanzi: 漁船, en: "fishing boat"}
+exercises:
+  translate:
+    - {hanzi: "塔門比長洲細好多，又冇咁多人。", jyutping: "taap3 mun4 bei2 coeng4 zau1 sai3 hou2 do1, jau6 mou5 gam3 do1 jan4.", en: "Tap Mun is much smaller than Cheung Chau, and not as crowded."}
+    - {hanzi: "份量好大，我一個人食唔晒。", jyutping: "fan6 loeng6 hou2 daai6, ngo5 jat1 go3 jan4 sik6 m4 saai3.", en: "The portion's huge; I can't finish it on my own."}
+    - {hanzi: "風越嚟越大，頂帽差啲吹走。", jyutping: "fung1 jyut6 lai4 jyut6 daai6, deng2 mou2 caa1 di1 ceoi1 zau2.", en: "The wind's getting stronger; the hat nearly blew away."}
+    - {hanzi: "市區啲屋細過雀籠，我住唔慣。", jyutping: "si5 keoi1 di1 uk1 sai3 gwo3 zoek2 lung4, ngo5 zyu6 m4 gwaan3.", en: "City flats are smaller than bird cages; I can't get used to them."}
+    - {hanzi: "香港啲細島，一個比一個靚。", jyutping: "hoeng1 gong2 di1 sai3 dou2, jat1 go3 bei2 jat1 go3 leng3.", en: "Hong Kong's little islands are each lovelier than the last."}
+  fill:
+    - {hanzi: "週末人多到企都企唔___。", jyutping: "zau1 mut6 jan4 do1 dou3 kei5 dou1 kei5 m4 ___.", answer: "lok6", answer_hanzi: 落, en: "At weekends it's so crowded you can't even stand."}
+    - {hanzi: "遊客太多，我煮都煮唔___。", jyutping: "jau4 haak3 taai3 do1, ngo5 zyu2 dou1 zyu2 m4 ___.", answer: "cit3", answer_hanzi: 切, en: "Too many tourists; I can't cook fast enough."}
+    - {hanzi: "呢度係香港最大風嘅地方___。", jyutping: "ni1 dou6 hai6 hoeng1 gong2 zeoi3 daai6 fung1 ge3 dei6 fong1 ___.", answer: "zi1 jat1", answer_hanzi: 之一, en: "This is one of the windiest places in Hong Kong."}
+    - {hanzi: "呢碗炒飯好食___我喺法國食過嘅。", jyutping: "ni1 wun2 caau2 faan6 hou2 sik6 ___ ngo5 hai2 faat3 gwok3 sik6 gwo3 ge3.", answer: "gwo3", answer_hanzi: 過, en: "This fried rice is better than what I've had in France."}
+    - {hanzi: "由馬料水搭___要成個鐘頭。", jyutping: "jau4 maa5 liu6 seoi2 daap3 ___ jiu3 seng4 go3 zung1 tau4.", answer: "gaai1 dou6", answer_hanzi: 街渡, en: "The kaito from Ma Liu Shui takes a whole hour."}

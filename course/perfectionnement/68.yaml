@@ -1,0 +1,86 @@
+# 進修 68. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 68
+title: {en: "One rooster dies, another crows", jyutping: "jat1 gai1 sei2 jat1 gai1 ming4", hanzi: "一雞死一雞鳴"}
+intro: "梁伯's anniversary speech, handing 梁記 over: modal words (應該, 可能, 一定, 實, 梗, 使, 敢), concessives again (雖然…但係, 就算…都, 始終), and the words of speeches, thanks and succession."
+genre: speech
+review: false
+setting: "Saturday 18 December 2027, seven in the evening. Pei Ho Street outside 梁記 is closed off with folding tables full of pineapple buns, milk tea and custard. Neighbours, regulars, 何生, 婆婆 from Cheung Chau, Hugo's students and, on a phone propped on the counter, 嘉偉 from Manchester. 梁伯 stands on a stool with a microphone."
+dialogue:
+  - {n: 1, speaker: Leung Pak, hanzi: "（試咪）喂、喂……各位街坊，各位來賓，晚安。我唔慣講嘢，獻醜喇，大家唔好笑。", jyutping: "(si3 mai1) wai2, wai2 …… gok3 wai2 gaai1 fong1, gok3 wai2 loi4 ban1, maan5 on1. ngo5 m4 gwaan3 gong2 je5, hin3 cau2 laa3, daai6 gaa1 m4 hou2 siu3.", en: "(Testing the mic) Hello, hello… neighbours, guests, good evening. I'm not used to speeches, so forgive my clumsiness, and please don't laugh."}
+  - {n: 2, speaker: Lin-ze, hanzi: "（喺下面大叫）你上過電視㗎！", jyutping: "(hai2 haa6 min6 daai6 giu3) nei5 soeng5 gwo3 din6 si6 gaa3!", en: "(Shouting from below) You've been on TV!"}
+  - {n: 3, speaker: Leung Pak, hanzi: "一九七二年，我先父喺呢度創辦梁記。嗰陣佢只係一個後生仔，冇錢，淨係有一個爐同一個茶壺。", jyutping: "jat1 gau2 cat1 ji6 nin4, ngo5 sin1 fu6 hai2 ni1 dou6 cong3 baan6 loeng4 gei3. go2 zan6 keoi5 zi2 hai6 jat1 go3 hau6 saang1 zai2, mou5 cin2, zing6 hai6 jau5 jat1 go3 lou4 tung4 jat1 go3 caa4 wu2.", en: "In 1972, my late father founded 梁記 here. He was just a young man, with no money: only a stove and a teapot."}
+  - {n: 4, speaker: Leung Pak, hanzi: "佢成日話：做生意唔使聰明，但係一定要守信用。如果佢今晚喺度，佢實好開心。", jyutping: "keoi5 sing4 jat6 waa6: zou6 saang1 ji3 m4 sai2 cung1 ming4, daan6 hai6 jat1 ding6 jiu3 sau2 seon3 jung6. jyu4 gwo2 keoi5 gam1 maan5 hai2 dou6, keoi5 sat6 hou2 hoi1 sam1.", en: "He always said: you don't need to be clever to do business, but you must keep your word. If he were here tonight, he'd surely be very happy."}
+  - {n: 5, speaker: Leung Pak, hanzi: "五十五年，雖然捱過好多次，但係我哋從來冇停過一日。打風都開，沙士都開，就算冇客，都要沖奶茶。", jyutping: "ng5 sap6 ng5 nin4, seoi1 jin4 ngaai4 gwo3 hou2 do1 ci3, daan6 hai6 ngo5 dei6 cung4 loi4 mou5 ting4 gwo3 jat1 jat6. daa2 fung1 dou1 hoi1, saa1 si2 dou1 hoi1, zau6 syun3 mou5 haak3, dou1 jiu3 cung1 naai5 caa4.", en: "Fifty-five years: although we've had many hard times, we've never closed for a single day. Open in typhoons, open during SARS; even with no customers, the milk tea gets made."}
+  - {n: 6, speaker: Leung Pak, hanzi: "上年，我諗住梁記應該捱唔過今年。租貴咗，我個心臟又出事。", jyutping: "soeng6 nin2, ngo5 nam2 zyu6 loeng4 gei3 jing1 goi1 ngaai4 m4 gwo3 gam1 nin4. zou1 gwai3 zo2, ngo5 go3 sam1 zong6 jau6 ceot1 si6.", en: "Last year, I thought 梁記 probably wouldn't survive this year. The rent went up, and then my heart gave out."}
+  - {n: 7, speaker: Leung Pak, hanzi: "我要感謝我嘅老友何志明。佢係業主，亦係我嘅老同學。我哋嗌咗五十年交，今年先和好。", jyutping: "ngo5 jiu3 gam2 ze6 ngo5 ge3 lou5 jau5 ho4 zi3 ming4. keoi5 hai6 jip6 zyu2, jik6 hai6 ngo5 ge3 lou5 tung4 hok6. ngo5 dei6 aai3 zo2 ng5 sap6 nin4 gaau1, gam1 nin4 sin1 wo4 hou2.", en: "I want to thank my old friend Ho Chi-ming. He's the landlord, and my old schoolmate. We quarrelled for fifty years and only made up this year."}
+  - {n: 8, speaker: Mr Ho, hanzi: "（舉起杯茶）係四十九年零十一個月！", jyutping: "(geoi2 hei2 bui1 caa4) hai6 sei3 sap6 gau2 nin4 ling4 sap6 jat1 go3 jyut6!", en: "(Raising his cup of tea) Forty-nine years and eleven months!"}
+  - {n: 9, speaker: Leung Pak, hanzi: "多謝蓮姐，做咗三十年，可能比我更加了解梁記；多謝強哥，樣衰心好；多謝阿嘉偉，喺英國都記住呢度。", jyutping: "do1 ze6 lin4 ze2, zou6 zo2 saam1 sap6 nin4, ho2 nang4 bei2 ngo5 gang3 gaa1 liu5 gaai2 loeng4 gei3; do1 ze6 koeng4 go1, joeng2 seoi1 sam1 hou2; do1 ze6 aa3 gaa1 wai5, hai2 jing1 gwok3 dou1 gei3 zyu6 ni1 dou6.", en: "Thank you, 蓮姐: thirty years here; you may know 梁記 better than I do. Thank you, 強哥: ugly mug, heart of gold. Thank you, Ka-wai, for remembering this place even in England."}
+  - {n: 10, speaker: Ka-wai, hanzi: "（喺手機度）阿爸，我同你個孫女都喺度睇緊！", jyutping: "(hai2 sau2 gei1 dou6) aa3 baa4, ngo5 tung4 nei5 go3 syun1 neoi2 dou1 hai2 dou6 tai2 gan2!", en: "(On the phone) Dad, your granddaughter and I are watching!"}
+  - {n: 11, speaker: Leung Pak, hanzi: "仲有一個人，我梗係要感激：一個由法國嚟嘅鬼佬。佢嚟嗰陣，連「唔該」都講唔準；而家佢會寫歌，仲會喺學校教書。", jyutping: "zung6 jau5 jat1 go3 jan4, ngo5 gang2 hai6 jiu3 gam2 gik1: jat1 go3 jau4 faat3 gwok3 lai4 ge3 gwai2 lou2. keoi5 lai4 go2 zan6, lin4 \"m4 goi1\" dou1 gong2 m4 zeon2; ji4 gaa1 keoi5 wui5 se2 go1, zung6 wui5 hai2 hok6 haau6 gaau3 syu1.", en: "And there's one more person I certainly have to thank: a foreigner from France. When he came, he couldn't even say 'thank you' properly; now he writes songs and teaches at a school."}
+  - {n: 12, speaker: Leung Pak, hanzi: "老實講，我一開始唔敢信佢。一個做銀行嘅人，點會想住喺茶餐廳樓上？不過佢冇走。", jyutping: "lou5 sat6 gong2, ngo5 jat1 hoi1 ci2 m4 gam2 seon3 keoi5. jat1 go3 zou6 ngan4 hong4 ge3 jan4, dim2 wui5 soeng2 zyu6 hai2 caa4 caan1 teng1 lau4 soeng6? bat1 gwo3 keoi5 mou5 zau2.", en: "Honestly, at first I didn't dare trust him. Why would a banker want to live above a cha chaan teng? But he didn't leave."}
+  - {n: 13, speaker: Leung Pak, hanzi: "老人家話：一雞死，一雞鳴。我唔係死，係老咗，應該交棒喇。", jyutping: "lou5 jan4 gaa1 waa6: jat1 gai1 sei2, jat1 gai1 ming4. ngo5 m4 hai6 sei2, hai6 lou5 zo2, jing1 goi1 gaau1 paang5 laa3.", en: "The old saying goes: one rooster dies, another crows. I'm not dying, just getting old; it's time to hand on the baton."}
+  - {n: 14, speaker: Leung Pak, hanzi: "由一月開始，嘉欣繼承梁記，做老闆，係我嘅接班人。佢諗法多，有時太多，但係我信任佢。", jyutping: "jau4 jat1 jyut6 hoi1 ci2, gaa1 jan1 gai3 sing4 loeng4 gei3, zou6 lou5 baan2, hai6 ngo5 ge3 zip3 baan1 jan4. keoi5 nam2 faat3 do1, jau5 si4 taai3 do1, daan6 hai6 ngo5 seon3 jam6 keoi5.", en: "From January, Kayan takes over 梁記 as the boss: she's my successor. She has lots of ideas, sometimes too many, but I trust her."}
+  - {n: 15, speaker: Leung Pak, hanzi: "阿果，你就做我嘅徒弟，逢禮拜六日跟我學撞茶。就算你教書，都唔使放棄夾 band。", jyutping: "aa3 gwo2, nei5 zau6 zou6 ngo5 ge3 tou4 dai2, fung4 lai5 baai3 luk6 jat6 gan1 ngo5 hok6 zong6 caa4. zau6 syun3 nei5 gaau3 syu1, dou1 m4 sai2 fong3 hei3 gaap3 band.", en: "A-Gwo, you'll be my apprentice: every weekend you learn to pull tea with me. Even with your teaching, you don't have to give up the band."}
+  - {n: 16, speaker: Hugo, hanzi: "（喺下面，個眼有啲濕）梁伯，我……我實盡力。", jyutping: "(hai2 haa6 min6, go3 ngaan5 jau5 di1 sap1) loeng4 baak3, ngo5 …… ngo5 sat6 zeon6 lik6.", en: "(Below, eyes a little wet) 梁伯, I… I'll definitely do my best."}
+  - {n: 17, speaker: Leung Pak, hanzi: "我始終係嗰句：奶茶要有心機。茶葉可以換，機器可以用，個心唔可以冇。", jyutping: "ngo5 ci2 zung1 hai6 go2 geoi3: naai5 caa4 jiu3 jau5 sam1 gei1. caa4 jip6 ho2 ji5 wun6, gei1 hei3 ho2 ji5 jung6, go3 sam1 m4 ho2 ji5 mou5.", en: "My line has always been the same: milk tea needs care. You can change the tea leaves, you can use machines, but you can't do without the heart."}
+  - {n: 18, speaker: Leung Pak, hanzi: "梁記可能會變，可能有一日唔再叫梁記，都唔緊要。只要條街仲有一杯熱奶茶，等住啲街坊。", jyutping: "loeng4 gei3 ho2 nang4 wui5 bin3, ho2 nang4 jau5 jat1 jat6 m4 zoi3 giu3 loeng4 gei3, dou1 m4 gan2 jiu3. zi2 jiu3 tiu4 gaai1 zung6 jau5 jat1 bui1 jit6 naai5 caa4, dang2 zyu6 di1 gaai1 fong1.", en: "梁記 may change; maybe one day it won't be called 梁記 any more. That doesn't matter. As long as the street still has a hot milk tea waiting for its neighbours."}
+  - {n: 19, speaker: Leung Pak, hanzi: "好喇，講完。大家舉杯：祝梁記，祝深水埗，祝大家身體健康！", jyutping: "hou2 laa3, gong2 jyun4. daai6 gaa1 geoi2 bui1: zuk1 loeng4 gei3, zuk1 sam1 seoi2 bou2, zuk1 daai6 gaa1 san1 tai2 gin6 hong1!", en: "Right, that's all. Raise your cups: to 梁記, to Sham Shui Po, and to everyone's health!"}
+  - {n: 20, speaker: Crowd, hanzi: "飲勝！", jyutping: "jam2 sing3!", en: "Cheers!"}
+  - {n: 21, speaker: Kayan, hanzi: "（攬住梁伯）阿爸，你講得好好。你敢唔敢再上天台，同佢哋唱副歌？", jyutping: "(laam2 zyu6 loeng4 baak3) aa3 baa4, nei5 gong2 dak1 hou2 hou2. nei5 gam2 m4 gam2 zoi3 soeng5 tin1 toi4, tung4 keoi5 dei6 coeng3 fu3 go1?", en: "(Hugging 梁伯) Dad, that was wonderful. Do you dare go up to the roof and sing the chorus with them?"}
+  - {n: 22, speaker: Leung Pak, hanzi: "敢！唔使扶我，我自己行。", jyutping: "gam2! m4 sai2 fu4 ngo5, ngo5 zi6 gei2 haang4.", en: "I dare! You don't need to help me; I'll walk up myself."}
+notes:
+  - {ref: 1, topic: vocab, text: "試咪 si3 mai1 'test the mic' (咪 mai1 'mic'). 來賓 loi4 ban1 = guests (formal). 唔慣 'not used to'. 獻醜 hin3 cau2 'show one's clumsiness': a modest formula before performing or speaking."}
+  - {ref: 3, topic: vocab, text: "先父 sin1 fu6 = my late father (respectful). 創辦 cong3 baan6 = found, establish. 爐 'stove' (P8)."}
+  - {ref: 4, topic: grammar, text: "Modals (P23): 唔使 'no need to'; 一定要 'must'; 實 'surely' (佢實好開心); 應該 'should; probably' (line 6: 應該捱唔過 'probably wouldn't survive'; line 13: 應該交棒 'should hand over'); 梗係 'of course, certainly' (line 11); 敢 'dare' (lines 12, 21); 可能 'may' (lines 9, 18). 守信用 'keep one's word' (守 sau2 'keep, guard'; 信用 seon3 jung6 'credit, trustworthiness'). 聰明 cung1 ming4 'clever'."}
+  - {ref: 5, topic: grammar, text: "Concessives (P29, P52): 雖然捱過好多次，但係… 'although we went through hard times many times, …'; 就算冇客，都要沖奶茶 'even with no customers, the milk tea gets made'; 就算你教書，都唔使放棄 (line 15); 始終 'all along, still' (line 17, P34)."}
+  - {ref: 6, topic: vocab, text: "捱唔過 'not survive, not get through' (捱, P6). 出事 ceot1 si6 'have an accident, go wrong'."}
+  - {ref: 7, topic: vocab, text: "嗌咗五十年交 'quarrelled for fifty years': 嗌交 is VO, split by 咗 and the duration (P22)."}
+  - {ref: 9, topic: vocab, text: "了解 'understand, know well'. 更加 'even more'. 樣衰心好 'ugly face, good heart', affectionate teasing (樣衰 joeng2 seoi1 'ugly'). 感謝 gam2 ze6 (line 7) / 感激 gam2 gik1 (line 11) = thank, be grateful (more formal than 多謝)."}
+  - {ref: 13, topic: culture, text: "一雞死一雞鳴 'when one rooster dies, another crows': someone always takes over; things carry on. 交棒 gaau1 paang5 = hand over the baton (接棒, P67, is to take it)."}
+  - {ref: 14, topic: vocab, text: "信任 seon3 jam6 = trust. 有時 'sometimes'. 繼承 gai3 sing4 = inherit, take over; 接班人 zip3 baan1 jan4 = successor."}
+  - {ref: 15, topic: vocab, text: "徒弟 'apprentice' (P53). 逢禮拜六日 'every Saturday and Sunday'. 放棄 'give up' (P34)."}
+  - {ref: 16, topic: vocab, text: "盡力 zeon6 lik6 'do one's best'. 個眼有啲濕 'his eyes a little wet'."}
+  - {ref: 19, topic: vocab, text: "舉杯 geoi2 bui1 = raise a glass. 飲勝 jam2 sing3 (line 20) = cheers! 祝 'to (in a toast), wishing'."}
+  - {ref: 22, topic: vocab, text: "扶 fu4 'support (someone walking), help up'."}
+pron:
+  - {ref: 1, text: "咪 'mic' is mai1, from English; 咪 mai5 is 'don't' (咪住, P31)."}
+  - {ref: 13, text: "一雞死一雞鳴 jat1 gai1 sei2 jat1 gai1 ming4: 鳴 is ming4, as in 名."}
+  - {ref: 13, text: "交棒 gaau1 paang5: 棒 is paang5 (P67)."}
+new_words:
+  - {jyutping: "loi4 ban1", hanzi: 來賓, en: "guests"}
+  - {jyutping: "sin1 fu6", hanzi: 先父, en: "my late father"}
+  - {jyutping: "cong3 baan6", hanzi: 創辦, en: "found, establish"}
+  - {jyutping: "gai1 ming4", hanzi: 雞鳴, en: "rooster crows"}
+  - {jyutping: "gaau1 paang5", hanzi: 交棒, en: "hand over the baton"}
+  - {jyutping: "seon3 jam6", hanzi: 信任, en: "trust"}
+  - {jyutping: "geoi2 bui1", hanzi: 舉杯, en: "raise a glass"}
+  - {jyutping: "jam2 sing3", hanzi: 飲勝, en: "cheers!"}
+  - {jyutping: "gang2", hanzi: 梗, en: "certainly (in 梗係)"}
+  - {jyutping: "si3 mai1", hanzi: 試咪, en: "test the mic"}
+  - {jyutping: "hin3 cau2", hanzi: 獻醜, en: "(modest) show one's clumsiness"}
+  - {jyutping: "cung1 ming4", hanzi: 聰明, en: "clever"}
+  - {jyutping: "sau2", hanzi: 守, en: "keep, guard"}
+  - {jyutping: "seon3 jung6", hanzi: 信用, en: "credit, trustworthiness"}
+  - {jyutping: "ceot1 si6", hanzi: 出事, en: "go wrong, have an accident"}
+  - {jyutping: "gam2 ze6", hanzi: 感謝, en: "thank (formal)"}
+  - {jyutping: "gam2 gik1", hanzi: 感激, en: "be grateful"}
+  - {jyutping: "joeng2 seoi1", hanzi: 樣衰, en: "ugly"}
+  - {jyutping: "gai3 sing4", hanzi: 繼承, en: "inherit, take over"}
+  - {jyutping: "zip3 baan1 jan4", hanzi: 接班人, en: "successor"}
+  - {jyutping: "zeon6 lik6", hanzi: 盡力, en: "do one's best"}
+  - {jyutping: "fu4", hanzi: 扶, en: "support, help up"}
+  - {jyutping: "jat1 gai1 sei2", hanzi: 一雞死, en: "(one rooster dies…)"}
+  - {jyutping: "geoi2 hei2", hanzi: 舉起, en: "raise, lift up"}
+exercises:
+  translate:
+    - {hanzi: "如果佢今晚喺度，佢實好開心。", jyutping: "jyu4 gwo2 keoi5 gam1 maan5 hai2 dou6, keoi5 sat6 hou2 hoi1 sam1.", en: "If he were here tonight, he'd surely be very happy."}
+    - {hanzi: "就算冇客，都要沖奶茶。", jyutping: "zau6 syun3 mou5 haak3, dou1 jiu3 cung1 naai5 caa4.", en: "Even with no customers, the milk tea gets made."}
+    - {hanzi: "我老咗，應該交棒喇。", jyutping: "ngo5 lou5 zo2, jing1 goi1 gaau1 paang5 laa3.", en: "I'm old; it's time to hand over."}
+    - {hanzi: "我一開始唔敢信佢。", jyutping: "ngo5 jat1 hoi1 ci2 m4 gam2 seon3 keoi5.", en: "At first I didn't dare trust him."}
+    - {hanzi: "大家舉杯，祝大家身體健康！", jyutping: "daai6 gaa1 geoi2 bui1, zuk1 daai6 gaa1 san1 tai2 gin6 hong1!", en: "Raise your cups: to everyone's health!"}
+  fill:
+    - {hanzi: "做生意唔___聰明，但係一定要守信用。", jyutping: "zou6 saang1 ji3 m4 ___ cung1 ming4, daan6 hai6 jat1 ding6 jiu3 sau2 seon3 jung6.", answer: "sai2", answer_hanzi: 使, en: "You don't need to be clever to do business, but you must keep your word."}
+    - {hanzi: "我___係要多謝佢。", jyutping: "ngo5 ___ hai6 jiu3 do1 ze6 keoi5.", answer: "gang2", answer_hanzi: 梗, en: "Of course I have to thank him."}
+    - {hanzi: "佢諗法好多，但係我___佢。", jyutping: "keoi5 nam2 faat3 hou2 do1, daan6 hai6 ngo5 ___ keoi5.", answer: "seon3 jam6", answer_hanzi: 信任, en: "She has lots of ideas, but I trust her."}
+    - {hanzi: "一九七二年，我先父___梁記。", jyutping: "jat1 gau2 cat1 ji6 nin4, ngo5 sin1 fu6 ___ loeng4 gei3.", answer: "cong3 baan6", answer_hanzi: 創辦, en: "In 1972 my late father founded 梁記."}
+    - {hanzi: "你___唔敢上天台唱歌？", jyutping: "nei5 ___ m4 gam2 soeng5 tin1 toi4 coeng3 go1?", answer: "gam2", answer_hanzi: 敢, en: "Do you dare go up to the roof and sing?"}

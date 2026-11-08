@@ -1,0 +1,93 @@
+# 進修 59. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 59
+title: {en: "Old shops don't die", jyutping: "lou5 pou3 m4 sei2", hanzi: "老舖唔死"}
+intro: "A radio interview with a landlord and a tenant who were rivals for fifty years: conditionals (如果…嘅話, 唔係嘅話, 除非), causatives (令, 搞到), and the words of rents, redevelopment and conservation."
+genre: interview
+review: false
+setting: "Thursday 4 November 2027, eight in the evening. The same radio programme that 梁伯 phoned a year ago (P5) has invited him and 何生 into the studio for a special on old shops. The host, 陳太, takes calls from listeners."
+dialogue:
+  - {n: 1, speaker: Host, hanzi: "各位聽眾晚安。一年前，有位「梁先生，深水埗」打嚟熱線，講舊區加租。今晚佢親自嚟咗，仲帶埋佢個業主。", jyutping: "gok3 wai2 teng1 zung3 maan5 on1. jat1 nin4 cin4, jau5 wai2 \"loeng4 sin1 saang1, sam1 seoi2 bou2\" daa2 lai4 jit6 sin3, gong2 gau6 keoi1 gaa1 zou1. gam1 maan5 keoi5 can1 zi6 lai4 zo2, zung6 daai3 maai4 keoi5 go3 jip6 zyu2.", en: "Good evening, listeners. A year ago, a 'Mr Leung from Sham Shui Po' rang our hotline about rent rises in old districts. Tonight he's here in person, and he's brought his landlord."}
+  - {n: 2, speaker: Leung Pak, hanzi: "陳太，我嗰陣好嬲，講咗好多粗口，好彩你哋㩒咗掣。", jyutping: "can4 taai2, ngo5 go2 zan6 hou2 nau1, gong2 zo2 hou2 do1 cou1 hau2, hou2 coi2 nei5 dei6 gam6 zo2 zai3.", en: "Mrs Chan, I was furious back then and swore a lot; luckily you pressed the button."}
+  - {n: 3, speaker: Host, hanzi: "何生，你點解會將租金凍結十年？好多業主都話，你咁做係蝕底。", jyutping: "ho4 saang1, nei5 dim2 gaai2 wui5 zoeng1 zou1 gam1 dung3 git3 sap6 nin4? hou2 do1 jip6 zyu2 dou1 waa6, nei5 gam2 zou6 hai6 sit6 dai2.", en: "Mr Ho, why did you freeze the rent for ten years? Lots of landlords say you're losing out by doing that."}
+  - {n: 4, speaker: Mr Ho, hanzi: "我唔係貪心嘅人。如果淨係計短期回報嘅話，我的確蝕咗。不過長遠嚟講，如果成條街啲老舖都執晒，啲樓仲有咩價值？", jyutping: "ngo5 m4 hai6 taam1 sam1 ge3 jan4. jyu4 gwo2 zing6 hai6 gai3 dyun2 kei4 wui4 bou3 ge3 waa2, ngo5 dik1 kok3 sit6 zo2. bat1 gwo3 coeng4 jyun5 lai4 gong2, jyu4 gwo2 seng4 tiu4 gaai1 di1 lou5 pou3 dou1 zap1 saai3, di1 lau2 zung6 jau5 me1 gaa3 zik6?", en: "I'm not a greedy man. If you only count short-term returns, I've certainly lost money. But in the long run, if all the old shops on a street close, what are the buildings worth?"}
+  - {n: 5, speaker: Mr Ho, hanzi: "一條街有自己嘅個性，先會有人想嚟。唔係嘅話，間間都係連鎖店，千篇一律。", jyutping: "jat1 tiu4 gaai1 jau5 zi6 gei2 ge3 go3 sing3, sin1 wui5 jau5 jan4 soeng2 lai4. m4 hai6 ge3 waa2, gaan1 gaan1 dou1 hai6 lin4 so2 dim3, cin1 pin1 jat1 leot6.", en: "A street needs its own character before people want to come. Otherwise every shop is a chain store, all the same."}
+  - {n: 6, speaker: Leung Pak, hanzi: "阿何以前唔係咁諗。佢上年加租，搞到我成個月瞓唔着。", jyutping: "aa3 ho4 ji5 cin4 m4 hai6 gam2 nam2. keoi5 soeng6 nin2 gaa1 zou1, gaau2 dou3 ngo5 seng4 go3 jyut6 fan3 m4 zoek6.", en: "Ho didn't think like that before. When he raised the rent last year, I couldn't sleep for a month."}
+  - {n: 7, speaker: Mr Ho, hanzi: "我承認。我以前淨係睇數字。係梁記嗰段片令我明白：一間舖唔止係生意，仲係街坊嘅集體回憶。", jyutping: "ngo5 sing4 jing6. ngo5 ji5 cin4 zing6 hai6 tai2 sou3 zi6. hai6 loeng4 gei3 go2 dyun6 pin2 ling6 ngo5 ming4 baak6: jat1 gaan1 pou3 m4 zi2 hai6 saang1 ji3, zung6 hai6 gaai1 fong1 ge3 zaap6 tai2 wui4 jik1.", en: "I admit it. I used to look only at the figures. It was 梁記's clip that made me understand: a shop isn't just a business; it's the neighbourhood's collective memory."}
+  - {n: 8, speaker: Host, hanzi: "講到保育，政府有冇資助老舖嘅計劃？", jyutping: "gong2 dou3 bou2 juk6, zing3 fu2 jau5 mou5 zi1 zo6 lou5 pou3 ge3 gai3 waak6?", en: "Speaking of conservation, does the government have schemes to support old shops?"}
+  - {n: 9, speaker: Mr Ho, hanzi: "有啲小型計劃，不過舖位係私人物業，租金係業主決定。除非業主肯讓步，唔係嘅話，政府都幫唔到幾多。好多舊樓最後都俾發展商收購，拆咗重建。", jyutping: "jau5 di1 siu2 jing4 gai3 waak6, bat1 gwo3 pou3 wai2 hai6 si1 jan4 mat6 jip6, zou1 gam1 hai6 jip6 zyu2 kyut3 ding6. ceoi4 fei1 jip6 zyu2 hang2 joeng6 bou6, m4 hai6 ge3 waa2, zing3 fu2 dou1 bong1 m4 dou2 gei2 do1. hou2 do1 gau6 lau2 zeoi3 hau6 dou1 bei2 faat3 zin2 soeng1 sau1 gau3, caak3 zo2 cung4 gin3.", en: "There are some small schemes, but shops are private property, and landlords decide the rent. Unless the landlord is willing to give way, the government can't help much. Many old buildings end up bought by developers, torn down and redeveloped."}
+  - {n: 10, speaker: Host, hanzi: "我哋有位聽眾來電。喂，你好？", jyutping: "ngo5 dei6 jau5 wai2 teng1 zung3 loi4 din6. wai2, nei5 hou2?", en: "We have a listener on the line. Hello?"}
+  - {n: 11, speaker: Caller, hanzi: "你好，我係梁記嘅熟客，光顧咗三十年。而家租金公道咗，我好開心。我想問梁伯：如果有日你退休嘅話，梁記點算？", jyutping: "nei5 hou2, ngo5 hai6 loeng4 gei3 ge3 suk6 haak3, gwong1 gu3 zo2 saam1 sap6 nin4. ji4 gaa1 zou1 gam1 gung1 dou6 zo2, ngo5 hou2 hoi1 sam1. ngo5 soeng2 man6 loeng4 baak3: jyu4 gwo2 jau5 jat6 nei5 teoi3 jau1 ge3 waa2, loeng4 gei3 dim2 syun3?", en: "Hello, I'm a regular at 梁記; I've been going there for thirty years. I'm glad the rent's fair now. I'd like to ask 梁伯: if one day you retire, what happens to 梁記?"}
+  - {n: 12, speaker: Leung Pak, hanzi: "唔使驚。我個女已經全職返嚟，仲有個法國仔幫手。佢哋令我放心。", jyutping: "m4 sai2 geng1. ngo5 go3 neoi2 ji5 ging1 cyun4 zik1 faan1 lai4, zung6 jau5 go3 faat3 gwok3 zai2 bong1 sau2. keoi5 dei6 ling6 ngo5 fong3 sam1.", en: "Don't worry. My daughter's back full-time, and there's a French lad helping too. They put my mind at rest."}
+  - {n: 13, speaker: Caller, hanzi: "法國仔？係咪片入面嗰個鬼佬？我個孫成日學佢講「我聽話」！", jyutping: "faat3 gwok3 zai2? hai6 mai6 pin2 jap6 min6 go2 go3 gwai2 lou2? ngo5 go3 syun1 sing4 jat6 hok6 keoi5 gong2 \"ngo5 teng1 waa6\"!", en: "The French lad? The foreigner in the clip? My grandson keeps imitating him saying 'I'll do as I'm told'!"}
+  - {n: 14, speaker: Leung Pak, hanzi: "嗰句係我講嘅！……算啦。", jyutping: "go2 geoi3 hai6 ngo5 gong2 ge3! …… syun3 laa1.", en: "That line was mine! …Never mind."}
+  - {n: 15, speaker: Host, hanzi: "另外，有啲人話老舖應該改革，唔改就會俾時代淘汰。你哋點睇？", jyutping: "ling6 ngoi6, jau5 di1 jan4 waa6 lou5 pou3 jing1 goi1 goi2 gaak3, m4 goi2 zau6 wui5 bei2 si4 doi6 tou4 taai3. nei5 dei6 dim2 tai2?", en: "Some people also say old shops should reform, or they'll be left behind by the times. What do you think?"}
+  - {n: 16, speaker: Leung Pak, hanzi: "改係要改，八達通我都裝咗。不過奶茶個味唔可以改。如果改埋嘅話，梁記就唔係梁記。", jyutping: "goi2 hai6 jiu3 goi2, baat3 daat6 tung1 ngo5 dou1 zong1 zo2. bat1 gwo3 naai5 caa4 go3 mei6 m4 ho2 ji5 goi2. jyu4 gwo2 goi2 maai4 ge3 waa2, loeng4 gei3 zau6 m4 hai6 loeng4 gei3.", en: "Change, yes: I've even put in Octopus. But the taste of the milk tea can't change. If we changed that too, 梁記 wouldn't be 梁記."}
+  - {n: 17, speaker: Mr Ho, hanzi: "我同國華諗咗個新計劃：我喺同一條街仲有兩個空置舖位，我想平租俾後生人做手作，或者開舊書店。", jyutping: "ngo5 tung4 gwok3 waa4 nam2 zo2 go3 san1 gai3 waak6: ngo5 hai2 tung4 jat1 tiu4 gaai1 zung6 jau5 loeng5 go3 hung1 zi3 pou3 wai2, ngo5 soeng2 peng4 zou1 bei2 hau6 saang1 jan4 zou6 sau2 zok3, waak6 ze2 hoi1 gau6 syu1 dim3.", en: "Kwok-wah and I have come up with a new plan: I have two more empty shops on the same street, and I'd like to rent them cheaply to young people for handicrafts, or a second-hand bookshop."}
+  - {n: 18, speaker: Host, hanzi: "嘩，即係由一間老舖，帶旺成條街？", jyutping: "waa3, zik1 hai6 jau4 jat1 gaan1 lou5 pou3, daai3 wong6 seng4 tiu4 gaai1?", en: "Wow, so one old shop brings the whole street to life?"}
+  - {n: 19, speaker: Mr Ho, hanzi: "係。不過有條件：佢哋每日都要嚟梁記食早餐，幫襯街坊生意。", jyutping: "hai6. bat1 gwo3 jau5 tiu4 gin2: keoi5 dei6 mui5 jat6 dou1 jiu3 lai4 loeng4 gei3 sik6 zou2 caan1, bong1 can3 gaai1 fong1 saang1 ji3.", en: "Yes. But on one condition: they have to come to 梁記 for breakfast every day and support local business."}
+  - {n: 20, speaker: Leung Pak, hanzi: "呢個條件係我諗嘅。", jyutping: "ni1 go3 tiu4 gin2 hai6 ngo5 nam2 ge3.", en: "That condition was my idea."}
+  - {n: 21, speaker: Host, hanzi: "最後一條問題：五十年前你哋係情敵，而家係老友。點解？", jyutping: "zeoi3 hau6 jat1 tiu4 man6 tai4: ng5 sap6 nin4 cin4 nei5 dei6 hai6 cing4 dik6, ji4 gaa1 hai6 lou5 jau5. dim2 gaai2?", en: "Last question: fifty years ago you were rivals in love; now you're old friends. Why?"}
+  - {n: 22, speaker: Leung Pak, hanzi: "人老咗，先知道仇係記唔住嘅。記住嘅，係嗰啲一齊食過嘅早餐。", jyutping: "jan4 lou5 zo2, sin1 zi1 dou3 sau4 hai6 gei3 m4 zyu6 ge3. gei3 zyu6 ge3, hai6 go2 di1 jat1 cai4 sik6 gwo3 ge3 zou2 caan1.", en: "Only when you're old do you learn that grudges don't stay. What stays are the breakfasts you've eaten together."}
+  - {n: 23, speaker: Mr Ho, hanzi: "佢講得太好，我唔使講喇。", jyutping: "keoi5 gong2 dak1 taai3 hou2, ngo5 m4 sai2 gong2 laa3.", en: "He said it too well; I needn't say anything."}
+  - {n: 24, speaker: Host, hanzi: "多謝兩位。做生意都要講良心。聽眾朋友，如果你屋企附近都有老舖嘅話，聽朝去幫襯吓佢啦。", jyutping: "do1 ze6 loeng5 wai2. zou6 saang1 ji3 dou1 jiu3 gong2 loeng4 sam1. teng1 zung3 pang4 jau5, jyu4 gwo2 nei5 uk1 kei2 fu6 gan6 dou1 jau5 lou5 pou3 ge3 waa2, ting1 ziu1 heoi3 bong1 can3 haa5 keoi5 laa1.", en: "Thank you both. Business needs a conscience too. Listeners, if there's an old shop near your home, go and give it some business tomorrow morning."}
+notes:
+  - {ref: 1, topic: vocab, text: "聽眾 teng1 zung3 = listeners, audience. 熱線 'hotline'. 舊區 'old district'. 親自 'in person' (P47)."}
+  - {ref: 3, topic: grammar, text: "將 (P57) with an abstract object: 將租金凍結十年 'freeze the rent for ten years'."}
+  - {ref: 4, topic: grammar, text: "Conditionals (P5): 如果 A 嘅話，B 'if A, (then) B': 如果淨係計短期回報嘅話; 如果改埋嘅話 (line 16). 嘅話 alone can mark the condition. 長遠嚟講 'in the long run'. 貪心 taam1 sam1 = greedy. 短期 dyun2 kei4 = short-term; 回報 wui4 bou3 = return (on investment); 價值 gaa3 zik6 = value."}
+  - {ref: 5, topic: grammar, text: "唔係嘅話 m4 hai6 ge3 waa2 'otherwise': 唔係嘅話，間間都係連鎖店. 除非 A，唔係嘅話 B (line 9) 'unless A, otherwise B'."}
+  - {ref: 5, topic: vocab, text: "個性 go3 sing3 = character, personality. 千篇一律 cin1 pin1 jat1 leot6 'a thousand pieces, one pattern' = all the same."}
+  - {ref: 6, topic: grammar, text: "Causatives (P26): 搞到我瞓唔着 'left me unable to sleep' (bad result); 令我明白 'made me understand' (line 7); 令我放心 'put my mind at rest' (line 12)."}
+  - {ref: 7, topic: vocab, text: "集體回憶 zaap6 tai2 wui4 jik1 'collective memory' (回憶 wui4 jik1 = memory): a phrase Hongkongers use for places like old cafés and piers. 唔止 m4 zi2 'not only'. 數字 sou3 zi6 'figures'."}
+  - {ref: 8, topic: vocab, text: "保育 bou2 juk6 = conservation (of heritage). 資助 zi1 zo6 = subsidise. 計劃 gai3 waak6 = scheme, plan. 私人 si1 jan4 'private'; 小型 siu2 jing4 'small-scale'. 發展商 faat3 zin2 soeng1 = (property) developer; 收購 sau1 gau3 = buy up; 拆 'tear down'; 重建 cung4 gin3 = redevelop."}
+  - {ref: 10, topic: vocab, text: "來電 loi4 din6 = (incoming) call. 光顧 gwong1 gu3 (line 11) = patronise, be a customer of (formal); 幫襯 bong1 can3 (line 19) = the everyday word."}
+  - {ref: 15, topic: vocab, text: "時代 'era, the times'. 淘汰 tou4 taai3 = eliminate, leave behind: 俾時代淘汰 'be left behind by the times' (俾 passive, P37)."}
+  - {ref: 17, topic: vocab, text: "空置 hung1 zi3 = vacant, empty. 平租 'rent cheaply'. 手作 sau2 zok3 'handicrafts'. 裝 zong1 (line 16) 'install'. 帶旺 (line 18) 'bring business to, liven up'."}
+  - {ref: 21, topic: vocab, text: "情敵 cing4 dik6 'rival in love'. 公道 gung1 dou6 (line 11) = fair; 良心 loeng4 sam1 (line 24) = conscience. 仇 sau4 'grudge' (P47): 記唔住 'can't keep in mind'."}
+  - {ref: 4, topic: vs-mandarin, text: "Cantonese …嘅話 = Mandarin …的話 (如果下雨的話). Cantonese 唔係嘅話 = Mandarin 不然 / 否則. 幫襯 has no Mandarin twin: Mandarin says 光顧 or 捧場."}
+pron:
+  - {ref: 1, text: "聽眾 teng1 zung3: colloquial teng1, as in 聽日."}
+  - {ref: 8, text: "保育 bou2 juk6: 育 is juk6, as in 教育 gaau3 juk6."}
+  - {ref: 15, text: "淘汰 tou4 taai3: 汰 is taai3, like 太."}
+new_words:
+  - {jyutping: "dyun2 kei4", hanzi: 短期, en: "short-term"}
+  - {jyutping: "wui4 bou3", hanzi: 回報, en: "return (on investment)"}
+  - {jyutping: "gaa3 zik6", hanzi: 價值, en: "value"}
+  - {jyutping: "go3 sing3", hanzi: 個性, en: "character, personality"}
+  - {jyutping: "cin1 pin1 jat1 leot6", hanzi: 千篇一律, en: "all the same"}
+  - {jyutping: "m4 hai6 ge3 waa2", hanzi: 唔係嘅話, en: "otherwise"}
+  - {jyutping: "wui4 jik1", hanzi: 回憶, en: "memory"}
+  - {jyutping: "bou2 juk6", hanzi: 保育, en: "conservation"}
+  - {jyutping: "zi1 zo6", hanzi: 資助, en: "subsidise"}
+  - {jyutping: "gai3 waak6", hanzi: 計劃, en: "plan, scheme"}
+  - {jyutping: "loi4 din6", hanzi: 來電, en: "(incoming) call"}
+  - {jyutping: "gwong1 gu3", hanzi: 光顧, en: "patronise"}
+  - {jyutping: "bong1 can3", hanzi: 幫襯, en: "give business to"}
+  - {jyutping: "hung1 zi3", hanzi: 空置, en: "vacant"}
+  - {jyutping: "m4 zi2", hanzi: 唔止, en: "not only"}
+  - {jyutping: "sou3 zi6", hanzi: 數字, en: "figures, numbers"}
+  - {jyutping: "zaap6 tai2", hanzi: 集體, en: "collective"}
+  - {jyutping: "si1 jan4", hanzi: 私人, en: "private"}
+  - {jyutping: "siu2 jing4", hanzi: 小型, en: "small-scale"}
+  - {jyutping: "tou4 taai3", hanzi: 淘汰, en: "eliminate, leave behind"}
+  - {jyutping: "sau2 zok3", hanzi: 手作, en: "handicrafts"}
+  - {jyutping: "cing4 dik6", hanzi: 情敵, en: "rival in love"}
+  - {jyutping: "zong1", hanzi: 裝, en: "install"}
+  - {jyutping: "taam1 sam1", hanzi: 貪心, en: "greedy"}
+  - {jyutping: "faat3 zin2 soeng1", hanzi: 發展商, en: "developer"}
+  - {jyutping: "sau1 gau3", hanzi: 收購, en: "buy up"}
+  - {jyutping: "cung4 gin3", hanzi: 重建, en: "redevelop"}
+  - {jyutping: "gung1 dou6", hanzi: 公道, en: "fair"}
+  - {jyutping: "loeng4 sam1", hanzi: 良心, en: "conscience"}
+exercises:
+  translate:
+    - {hanzi: "如果淨係計錢嘅話，我蝕咗。", jyutping: "jyu4 gwo2 zing6 hai6 gai3 cin2 ge3 waa2, ngo5 sit6 zo2.", en: "If you only count money, I've lost out."}
+    - {hanzi: "快啲走，唔係嘅話就趕唔切。", jyutping: "faai3 di1 zau2, m4 hai6 ge3 waa2 zau6 gon2 m4 cit3.", en: "Hurry up, otherwise we won't make it."}
+    - {hanzi: "除非業主肯讓步，政府都幫唔到。", jyutping: "ceoi4 fei1 jip6 zyu2 hang2 joeng6 bou6, zing3 fu2 dou1 bong1 m4 dou2.", en: "Unless the landlord gives way, the government can't help."}
+    - {hanzi: "佢加租搞到我成個月瞓唔着。", jyutping: "keoi5 gaa1 zou1 gaau2 dou3 ngo5 seng4 go3 jyut6 fan3 m4 zoek6.", en: "His rent rise left me unable to sleep for a month."}
+    - {hanzi: "間間都係連鎖店，千篇一律。", jyutping: "gaan1 gaan1 dou1 hai6 lin4 so2 dim3, cin1 pin1 jat1 leot6.", en: "Every shop's a chain store; they're all the same."}
+  fill:
+    - {hanzi: "如果你退休___，梁記點算？", jyutping: "jyu4 gwo2 nei5 teoi3 jau1 ___, loeng4 gei3 dim2 syun3?", answer: "ge3 waa2", answer_hanzi: 嘅話, en: "If you retire, what happens to 梁記?"}
+    - {hanzi: "嗰段片___我明白一間舖唔止係生意。", jyutping: "go2 dyun6 pin2 ___ ngo5 ming4 baak6 jat1 gaan1 pou3 m4 zi2 hai6 saang1 ji3.", answer: "ling6", answer_hanzi: 令, en: "That clip made me understand a shop isn't just a business."}
+    - {hanzi: "聽朝去___吓附近啲老舖啦。", jyutping: "ting1 ziu1 heoi3 ___ haa5 fu6 gan6 di1 lou5 pou3 laa1.", answer: "bong1 can3", answer_hanzi: 幫襯, en: "Go and give the old shops nearby some business tomorrow morning."}
+    - {hanzi: "政府有冇___老舖嘅計劃？", jyutping: "zing3 fu2 jau5 mou5 ___ lou5 pou3 ge3 gai3 waak6?", answer: "zi1 zo6", answer_hanzi: 資助, en: "Does the government have schemes to support old shops?"}
+    - {hanzi: "淨係計___回報，我的確蝕咗。", jyutping: "zing6 hai6 gai3 ___ wui4 bou3, ngo5 dik1 kok3 sit6 zo2.", answer: "dyun2 kei4", answer_hanzi: 短期, en: "Counting only short-term returns, I've definitely lost out."}
