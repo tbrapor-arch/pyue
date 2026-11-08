@@ -1,0 +1,96 @@
+# 進修 51. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 51
+title: {en: "Typhoon night", jyutping: "daa2 fung1", hanzi: "打風"}
+intro: "A power cut during Signal 8 and a game of truth or dare: the 俾 passive for things that happen to you (俾雨淋, 俾風吹), 怕 versus 驚, and the words of a night in the dark."
+genre: play
+review: false
+setting: "Night of 17 August 2027, Signal 8. 梁記's shutter is down; inside are 梁伯, 蓮姐, 強哥, Kayan, Hugo, Hiu-ching, and Ken, who came in soaked from his minibus. The hotpot is bubbling when, at eleven, the lights go out."
+dialogue:
+  - {n: 1, speaker: Ken, hanzi: "（成身濕晒）我揸完最後一轉車，行咗兩條街，俾雨淋到成隻落湯雞。", jyutping: "(seng4 san1 sap1 saai3) ngo5 zaa1 jyun4 zeoi3 hau6 jat1 zyun3 ce1, haang4 zo2 loeng5 tiu4 gaai1, bei2 jyu5 lam4 dou3 seng4 zek3 lok6 tong1 gai1.", en: "(Soaked through) I drove the last run, walked two streets, and got drenched like a chicken in soup."}
+  - {n: 2, speaker: Lin-ze, hanzi: "快啲抹乾佢！把遮呢？", jyutping: "faai3 di1 maat3 gon1 keoi5! baa2 ze1 ne1?", en: "Dry yourself off, quick! Where's your umbrella?"}
+  - {n: 3, speaker: Ken, hanzi: "俾風吹反咗，跟住吹走咗。", jyutping: "bei2 fung1 ceoi1 faan2 zo2, gan1 zyu6 ceoi1 zau2 zo2.", en: "The wind blew it inside out, then blew it away."}
+  - {n: 4, speaker: Keung-go, hanzi: "（突然間，啲燈熄晒）……停電。", jyutping: "(dat6 jin4 gaan1, di1 dang1 sik1 saai3) …… ting4 din6.", en: "(Suddenly all the lights go out) …Power cut."}
+  - {n: 5, speaker: Hiu-ching, hanzi: "（喺黑暗中，淨係見到啲影子）邊個掂我隻手？", jyutping: "(hai2 hak1 am3 zung1, zing6 hai6 gin3 dou2 di1 jing2 zi2) bin1 go3 dim3 ngo5 zek3 sau2?", en: "(In the dark, only shadows visible) Who's touching my hand?"}
+  - {n: 6, speaker: Hugo, hanzi: "……我承認，係我。我怕你驚。", jyutping: "…… ngo5 sing4 jing6, hai6 ngo5. ngo5 paa3 nei5 geng1.", en: "…I admit it, it's me. I was afraid you'd be scared."}
+  - {n: 7, speaker: Lin-ze, hanzi: "嘩，好浪漫喎！梁伯，快啲點蠟燭，唔係佢哋兩個唔肯放手。", jyutping: "waa3, hou2 long6 maan6 wo3! loeng4 baak3, faai3 di1 dim2 laap6 zuk1, m4 hai6 keoi5 dei6 loeng5 go3 m4 hang2 fong3 sau2.", en: "Ooh, how romantic! 梁伯, light the candles quick, or those two won't let go."}
+  - {n: 8, speaker: Leung Pak, hanzi: "（點着蠟燭）好彩電筒有電。個掣喺邊？強哥，你去睇吓個總掣。", jyutping: "(dim2 zoek6 laap6 zuk1) hou2 coi2 din6 tung2 jau5 din6. go3 zai3 hai2 bin1? koeng4 go1, nei5 heoi3 tai2 haa5 go3 zung2 zai3.", en: "(Lighting the candles) Luckily the torch has batteries. Where's the switch? 強哥, go and check the main switch."}
+  - {n: 9, speaker: Keung-go, hanzi: "唔關我哋事，成條街都黑晒。嘉欣，你個尿袋仲有冇電？啲手機要充電。", jyutping: "m4 gwaan1 ngo5 dei6 si6, seng4 tiu4 gaai1 dou1 hak1 saai3. gaa1 jan1, nei5 go3 niu6 doi2 zung6 jau5 mou5 din6? di1 sau2 gei1 jiu3 cung1 din6.", en: "It's not us; the whole street's dark. Kayan, has your power bank got any charge? The phones need charging."}
+  - {n: 10, speaker: Kayan, hanzi: "咁大家坐埋嚟，玩真心話大冒險！輪流問，唔准講大話。", jyutping: "gam2 daai6 gaa1 co5 maai4 lai4, waan2 zan1 sam1 waa2 daai6 mou6 him2! leon4 lau4 man6, m4 zeon2 gong2 daai6 waa6.", en: "Then everyone gather round: truth or dare! Take turns asking; no lying allowed."}
+  - {n: 11, speaker: Hiu-ching, hanzi: "我先問阿果：你份合約，續定唔續？", jyutping: "ngo5 sin1 man6 aa3 gwo2: nei5 fan6 hap6 joek3, zuk6 ding6 m4 zuk6?", en: "I'll ask A-Gwo first: your contract, renewing or not?"}
+  - {n: 12, speaker: Hugo, hanzi: "……我上個禮拜已經簽咗。再做兩年。我唔走喇。", jyutping: "…… ngo5 soeng6 go3 lai5 baai3 ji5 ging1 cim1 zo2. zoi3 zou6 loeng5 nin4. ngo5 m4 zau2 laa3.", en: "…I signed it last week. Two more years. I'm not leaving."}
+  - {n: 13, speaker: Hiu-ching, hanzi: "你點解唔同我講？", jyutping: "nei5 dim2 gaai2 m4 tung4 ngo5 gong2?", en: "Why didn't you tell me?"}
+  - {n: 14, speaker: Hugo, hanzi: "我想等打完風，喺海邊同你講。點知俾颱風搶咗先。", jyutping: "ngo5 soeng2 dang2 daa2 jyun4 fung1, hai2 hoi2 bin1 tung4 nei5 gong2. dim2 zi1 bei2 toi4 fung1 coeng2 zo2 sin1.", en: "I wanted to wait till after the typhoon and tell you by the sea. But the typhoon got there first."}
+  - {n: 15, speaker: Lin-ze, hanzi: "輪到我問梁伯：阿玲後來去咗邊？", jyutping: "leon4 dou3 ngo5 man6 loeng4 baak3: aa3 ling4 hau6 loi4 heoi3 zo2 bin1?", en: "My turn to ask 梁伯: where did 阿玲 go in the end?"}
+  - {n: 16, speaker: Leung Pak, hanzi: "（沉默咗一陣）我揀大冒險。", jyutping: "(cam4 mak6 zo2 jat1 zan6) ngo5 gaan2 daai6 mou6 him2.", en: "(Silent for a moment) I choose dare."}
+  - {n: 17, speaker: Kayan, hanzi: "咁你同蓮姐唱一段粵曲！", jyutping: "gam2 nei5 tung4 lin4 ze2 coeng3 jat1 dyun6 jyut6 kuk1!", en: "Then sing a bit of Cantonese opera with 蓮姐!"}
+  - {n: 18, speaker: Lin-ze, hanzi: "我？我唔識唱㗎！……好啦，唱就唱。（兩個唱咗兩句，外面一下閃電，跟住一聲好響嘅雷，個個都震咗一震）", jyutping: "ngo5? ngo5 m4 sik1 coeng3 gaa3! …… hou2 laa1, coeng3 zau6 coeng3. (loeng5 go3 coeng3 zo2 loeng5 geoi3, ngoi6 min6 jat1 haa5 sim2 din6, gan1 zyu6 jat1 seng1 hou2 hoeng2 ge3 leoi4, go3 go3 dou1 zan3 zo2 jat1 zan3)", en: "Me? I can't sing! …Fine, if we must. (They sing a couple of lines; outside, a flash of lightning, then a loud clap of thunder, and everyone jumps)"}
+  - {n: 19, speaker: Keung-go, hanzi: "嚇死人。我屋企啲金魚實俾佢嚇親。", jyutping: "haak3 sei2 jan4. ngo5 uk1 kei2 di1 gam1 jyu2 sat6 bei2 keoi5 haak3 can1.", en: "Scared me to death. My goldfish at home must be terrified."}
+  - {n: 20, speaker: Hugo, hanzi: "強哥，你怕唔怕黑？", jyutping: "koeng4 go1, nei5 paa3 m4 paa3 hak1?", en: "強哥, are you afraid of the dark?"}
+  - {n: 21, speaker: Keung-go, hanzi: "唔怕黑，怕冇電。冇電，個雪櫃啲凍肉就溶晒，聽朝冇早餐。", jyutping: "m4 paa3 hak1, paa3 mou5 din6. mou5 din6, go3 syut3 gwai6 di1 dung3 juk6 zau6 jung4 saai3, ting1 ziu1 mou5 zou2 caan1.", en: "Not afraid of the dark; afraid of no power. No power, and the frozen meat in the fridge thaws; no breakfast tomorrow."}
+  - {n: 22, speaker: Kayan, hanzi: "到我真心話：我諗緊辭咗公司份工，全職返嚟梁記。阿爸，你點睇？", jyutping: "dou3 ngo5 zan1 sam1 waa6: ngo5 nam2 gan2 ci4 zo2 gung1 si1 fan6 gung1, cyun4 zik1 faan1 lai4 loeng4 gei3. aa3 baa4, nei5 dim2 tai2?", en: "My turn for truth: I'm thinking of quitting my company job and coming back to 梁記 full-time. Dad, what do you think?"}
+  - {n: 23, speaker: Leung Pak, hanzi: "（望住蠟燭好耐）……我驚你後悔。不過如果你諗清楚，我唔會反對。", jyutping: "(mong6 zyu6 laap6 zuk1 hou2 noi6) …… ngo5 geng1 nei5 hau6 fui3. bat1 gwo3 jyu4 gwo2 nei5 nam2 cing1 co2, ngo5 m4 wui5 faan2 deoi3.", en: "(Looking at the candle for a long time) …I'm afraid you'll regret it. But if you've thought it through, I won't object."}
+  - {n: 24, speaker: Lin-ze, hanzi: "（啲燈突然着返）嘩，有電喇！……你哋兩個，仲拖住手？", jyutping: "(di1 dang1 dat6 jin4 zoek6 faan1) waa3, jau5 din6 laa3! …… nei5 dei6 loeng5 go3, zung6 to1 zyu6 sau2?", en: "(The lights suddenly come back on) Hey, the power's back! …You two, still holding hands?"}
+  - {n: 25, speaker: Hiu-ching, hanzi: "（即刻放手，面紅晒）冇！……係阿果驚黑啫。", jyutping: "(zik1 hak1 fong3 sau2, min6 hung4 saai3) mou5! …… hai6 aa3 gwo2 geng1 hak1 ze1.", en: "(Letting go at once, blushing) No! …A-Gwo's just scared of the dark."}
+  - {n: 26, speaker: Leung Pak, hanzi: "夠喇夠喇。今晚大家喺度打地鋪，等天光先返屋企。", jyutping: "gau3 laa3 gau3 laa3. gam1 maan5 daai6 gaa1 hai2 dou6 daa2 dei6 pou1, dang2 tin1 gwong1 sin1 faan1 uk1 kei2.", en: "Enough, enough. Tonight everyone sleeps on the floor here, and goes home at daybreak."}
+notes:
+  - {ref: 1, topic: grammar, text: "Adversative 俾 (P37): 俾雨淋 'drenched by the rain'; 俾風吹反咗 'blown inside out by the wind' (line 3); 俾颱風搶咗先 'the typhoon got there first' (line 14); 俾佢嚇親 'frightened by it' (line 19). 落湯雞 lok6 tong1 gai1 'a chicken in soup' = soaked to the skin. 把 baa2 = classifier for umbrellas, knives, chairs: 把遮 (line 2). 一轉車 'one run' (轉, verbal classifier)."}
+  - {ref: 4, topic: vocab, text: "熄 sik1 = go out, switch off: 啲燈熄晒 'all the lights went out'. 停電 ting4 din6 = power cut. 黑 hak1 = dark (also haak1 in 黑白). 黑暗 hak1 am3 = darkness: 黑暗中 (line 5) 'in the dark'; 影子 jing2 zi2 = shadow. 承認 sing4 jing6 (line 6) = admit."}
+  - {ref: 6, topic: vs-mandarin, text: "Cantonese 怕 paa3 and 驚 geng1 overlap: 驚 is everyday 'be scared' (你驚唔驚？); 怕 is 'fear, be afraid that, worry that' and is common with objects (怕黑 'afraid of the dark', 怕冇電, line 21). 我怕你驚 'I was afraid you'd be scared' uses both. Mandarin uses 怕 for both and 驚 only in writing (驚訝, 吃驚)."}
+  - {ref: 7, topic: vocab, text: "浪漫 long6 maan6 'romantic'. 點蠟燭 'light a candle' (蠟燭, P50). 放手 fong3 sau2 'let go'."}
+  - {ref: 8, topic: vocab, text: "掣 zai3 = switch (P16): 總掣 zung2 zai3 'main switch'. 點着 dim2 zoek6 'light (a flame)'. 有電 'have power / battery'."}
+  - {ref: 9, topic: vocab, text: "唔關…事 'nothing to do with…': 唔關我哋事. 尿袋 niu6 doi2 'urine bag' = power bank (slang); 充電 cung1 din6 = charge."}
+  - {ref: 10, topic: culture, text: "真心話大冒險 zan1 sam1 waa2 daai6 mou6 him2 = truth or dare (真心話 'heartfelt words', 大冒險 'great adventure'). 輪流 leon4 lau4 = take turns."}
+  - {ref: 11, topic: grammar, text: "續定唔續？ 'renewing or not?': V 定唔 V, a variant of V唔V with 定 'or' (P8)."}
+  - {ref: 18, topic: grammar, text: "唱就唱 'fine, I'll sing': V 就 V shows reluctant agreement. 震咗一震 'gave a start': V咗一V for a quick single action."}
+  - {ref: 19, topic: vocab, text: "嚇親 haak3 can1 'get a fright' (親 after a verb: suffer an effect). 嚇死人 'scared me to death'. 金魚 gam1 jyu2 'goldfish': 強哥's hobby. 閃電 sim2 din6 (line 18) = lightning; 響 hoeng2 = loud."}
+  - {ref: 21, topic: vocab, text: "凍肉 dung3 juk6 = frozen meat. 溶 jung4 = melt, thaw. 冇電 'no power, flat battery'."}
+  - {ref: 22, topic: vocab, text: "全職 cyun4 zik1 'full-time' (兼職, P34). 點睇 'what do you think?'."}
+  - {ref: 24, topic: vocab, text: "着返 'come back on' (lights). 拖手 to1 sau2 'hold hands' (拖, as in 拍拖): 拖住手. 打地鋪 daa2 dei6 pou1 (line 26) = sleep on the floor; 天光 tin1 gwong1 = daybreak. 面紅 min6 hung4 (line 25) = blush, red in the face."}
+pron:
+  - {ref: 4, text: "熄 'go out (light)' is sik1, like 息."}
+  - {ref: 10, text: "話 rises (waa2) in the game's name 真心話大冒險, but 真心話 alone is zan1 sam1 waa6 (line 22)."}
+  - {ref: 4, text: "黑 is hak1 in 黑暗, 怕黑; haak1 in 黑白, 黑色. Both are heard."}
+new_words:
+  - {jyutping: "sik1", hanzi: 熄, en: "go out, switch off"}
+  - {jyutping: "ting4 din6", hanzi: 停電, en: "power cut"}
+  - {jyutping: "hak1", hanzi: 黑, en: "dark; black"}
+  - {jyutping: "paa3", hanzi: 怕, en: "fear, be afraid (that)"}
+  - {jyutping: "zan1 sam1 waa2 daai6 mou6 him2", hanzi: 真心話大冒險, en: "truth or dare"}
+  - {jyutping: "zan1 sam1 waa6", hanzi: 真心話, en: "the truth, heartfelt words"}
+  - {jyutping: "leon4 lau4", hanzi: 輪流, en: "take turns"}
+  - {jyutping: "dung3 juk6", hanzi: 凍肉, en: "frozen meat"}
+  - {jyutping: "jung4", hanzi: 溶, en: "melt, thaw"}
+  - {jyutping: "min6 hung4", hanzi: 面紅, en: "blush"}
+  - {jyutping: "lok6 tong1 gai1", hanzi: 落湯雞, en: "soaked to the skin"}
+  - {jyutping: "baa2", hanzi: 把, en: "classifier for umbrellas, knives"}
+  - {jyutping: "hak1 am3", hanzi: 黑暗, en: "darkness"}
+  - {jyutping: "jing2 zi2", hanzi: 影子, en: "shadow"}
+  - {jyutping: "sing4 jing6", hanzi: 承認, en: "admit"}
+  - {jyutping: "long6 maan6", hanzi: 浪漫, en: "romantic"}
+  - {jyutping: "fong3 sau2", hanzi: 放手, en: "let go"}
+  - {jyutping: "dim2 zoek6", hanzi: 點着, en: "light (a flame)"}
+  - {jyutping: "zung2 zai3", hanzi: 總掣, en: "main switch"}
+  - {jyutping: "niu6 doi2", hanzi: 尿袋, en: "power bank (slang)"}
+  - {jyutping: "cung1 din6", hanzi: 充電, en: "charge (battery)"}
+  - {jyutping: "sim2 din6", hanzi: 閃電, en: "lightning"}
+  - {jyutping: "hoeng2", hanzi: 響, en: "loud; ring"}
+  - {jyutping: "haak3 can1", hanzi: 嚇親, en: "get a fright"}
+  - {jyutping: "gam1 jyu2", hanzi: 金魚, en: "goldfish"}
+  - {jyutping: "cyun4 zik1", hanzi: 全職, en: "full-time"}
+  - {jyutping: "to1 sau2", hanzi: 拖手, en: "hold hands"}
+  - {jyutping: "daa2 dei6 pou1", hanzi: 打地鋪, en: "sleep on the floor"}
+  - {jyutping: "tin1 gwong1", hanzi: 天光, en: "daybreak"}
+  - {jyutping: "dat6 jin4 gaan1", hanzi: 突然間, en: "all of a sudden"}
+exercises:
+  translate:
+    - {hanzi: "我俾雨淋到成身濕。", jyutping: "ngo5 bei2 jyu5 lam4 dou3 seng4 san1 sap1.", en: "I got soaked through by the rain."}
+    - {hanzi: "我把遮俾風吹走咗。", jyutping: "ngo5 baa2 ze1 bei2 fung1 ceoi1 zau2 zo2.", en: "My umbrella got blown away by the wind."}
+    - {hanzi: "你怕唔怕黑？", jyutping: "nei5 paa3 m4 paa3 hak1?", en: "Are you afraid of the dark?"}
+    - {hanzi: "停電，啲燈熄晒。", jyutping: "ting4 din6, di1 dang1 sik1 saai3.", en: "Power cut: all the lights are out."}
+    - {hanzi: "我哋輪流問，唔准講大話。", jyutping: "ngo5 dei6 leon4 lau4 man6, m4 zeon2 gong2 daai6 waa6.", en: "We take turns asking; no lying allowed."}
+  fill:
+    - {hanzi: "我啲金魚實___行雷嚇親。", jyutping: "ngo5 di1 gam1 jyu2 sat6 ___ haang4 leoi4 haak3 can1.", answer: "bei2", answer_hanzi: 俾, en: "My goldfish must be frightened by the thunder."}
+    - {hanzi: "冇電，雪櫃啲凍肉就___晒。", jyutping: "mou5 din6, syut3 gwai6 di1 dung3 juk6 zau6 ___ saai3.", answer: "jung4", answer_hanzi: 溶, en: "With no power, the frozen meat in the fridge will all thaw."}
+    - {hanzi: "你份合約，續___唔續？", jyutping: "nei5 fan6 hap6 joek3, zuk6 ___ m4 zuk6?", answer: "ding6", answer_hanzi: 定, en: "Your contract: renewing or not?"}
+    - {hanzi: "唱___唱，我唔怕。", jyutping: "coeng3 ___ coeng3, ngo5 m4 paa3.", answer: "zau6", answer_hanzi: 就, en: "Fine, I'll sing; I'm not afraid."}
+    - {hanzi: "佢一放手就___晒。", jyutping: "keoi5 jat1 fong3 sau2 zau6 ___ saai3.", answer: "min6 hung4", answer_hanzi: 面紅, en: "As soon as she let go, she blushed."}
