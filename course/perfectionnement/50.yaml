@@ -1,0 +1,105 @@
+# 進修 50. Written Chinese (書面語) read in Cantonese, with spoken Cantonese around it. LSHK Jyutping. Not checked by a native speaker yet.
+id: 50
+title: {en: "Typhoon Signal No. 8", jyutping: "baat3 hou6 fung1 kau4", hanzi: "八號風球"}
+intro: "Observatory bulletins in written Chinese, retold by 蓮姐 for the regulars: before and after with 之前 / 之後, and the vocabulary of typhoon signals, closures and preparations."
+genre: bulletin
+review: false
+setting: "Tuesday 17 August 2027. Typhoon Yulan is heading for the Pearl River Delta. At 梁記 the radio is on, the regulars are anxious, and 蓮姐 'translates' each bulletin into everyday Cantonese. Hiu-ching is in town for a tour group that has just been cancelled."
+dialogue:
+  - {n: 1, speaker: Radio, hanzi: "天文台已於上午十時四十分發出三號強風信號。", jyutping: "tin1 man4 toi4 ji5 jyu1 soeng6 ng5 sap6 si4 sei3 sap6 fan1 faat3 ceot1 saam1 hou6 koeng4 fung1 seon3 hou6.", en: "The Observatory issued the No. 3 Strong Wind Signal at 10:40 a.m."}
+  - {n: 2, speaker: Lin-ze, hanzi: "即係掛咗三號波。巴士照開，返工照返。", jyutping: "zik1 hai6 gwaa3 zo2 saam1 hou6 bo1. baa1 si2 ziu3 hoi1, faan1 gung1 ziu3 faan1.", en: "That means Signal 3 is up. The buses still run, and you still go to work."}
+  - {n: 3, speaker: Radio, hanzi: "颱風「玉蘭」現集結在香港東南約三百公里，預料向西北移動，時速約二十公里，大致移向珠江口一帶。", jyutping: "toi4 fung1 \"juk6 laan4\" jin6 zaap6 git3 zoi6 hoeng1 gong2 dung1 naam4 joek3 saam1 baak3 gung1 lei5, jyu6 liu6 hoeng3 sai1 bak1 ji4 dung6, si4 cuk1 joek3 ji6 sap6 gung1 lei5, daai6 zi3 ji4 hoeng3 zyu1 gong1 hau2 jat1 daai3.", en: "Typhoon Yulan is now centred about 300 km southeast of Hong Kong. It is forecast to move northwest at about 20 km/h, roughly towards the Pearl River Estuary."}
+  - {n: 4, speaker: Lin-ze, hanzi: "佢喺東南面，一路向西北行，即係直頭衝住我哋嚟。", jyutping: "keoi5 hai2 dung1 naam4 min6, jat1 lou6 hoeng3 sai1 bak1 haang4, zik1 hai6 zik6 tau4 cung1 zyu6 ngo5 dei6 lai4.", en: "It's to the southeast and heading northwest: in other words, straight at us."}
+  - {n: 5, speaker: Radio, hanzi: "天文台預計今晚八時至十時之間，改發八號烈風或暴風信號。", jyutping: "tin1 man4 toi4 jyu6 gai3 gam1 maan5 baat3 si4 zi3 sap6 si4 zi1 gaan1, goi2 faat3 baat3 hou6 lit6 fung1 waak6 bou6 fung1 seon3 hou6.", en: "The Observatory expects to issue the No. 8 Gale or Storm Signal between 8 and 10 p.m. tonight."}
+  - {n: 6, speaker: Hugo, hanzi: "八號波即係點？", jyutping: "baat3 hou6 bo1 zik1 hai6 dim2?", en: "What does Signal 8 mean?"}
+  - {n: 7, speaker: Lin-ze, hanzi: "八號波一掛，學校停課，公司停工，渡輪、小輪全部停駛，巴士都會慢慢停。返工嘅人有兩個鐘頭返屋企。", jyutping: "baat3 hou6 bo1 jat1 gwaa3, hok6 haau6 ting4 fo3, gung1 si1 ting4 gung1, dou6 leon4, siu2 leon4 cyun4 bou6 ting4 sai2, baa1 si2 dou1 wui5 maan6 maan2 ting4. faan1 gung1 ge3 jan4 jau5 loeng5 go3 zung1 tau4 faan1 uk1 kei2.", en: "Once Signal 8 goes up, schools close, offices close, all the ferries stop, and the buses gradually stop too. People at work get two hours to get home."}
+  - {n: 8, speaker: Hiu-ching, hanzi: "大嶼山同長洲啲船一停，我就返唔到屋企。我個旅行團都取消咗，啲客嘅航班全部延誤。", jyutping: "daai6 jyu4 saan1 tung4 coeng4 zau1 di1 syun4 jat1 ting4, ngo5 zau6 faan1 m4 dou2 uk1 kei2. ngo5 go3 leoi5 hang4 tyun4 dou1 ceoi2 siu1 zo2, di1 haak3 ge3 hong4 baan1 cyun4 bou6 jin4 ng6.", en: "Once the boats to Lantau and Cheung Chau stop, I can't get home. My tour's been cancelled, and all my clients' flights are delayed."}
+  - {n: 9, speaker: Radio, hanzi: "市民應盡早完成所有防風措施，並遠離海旁。海邊地區可能出現水浸，水位或會上升。", jyutping: "si5 man4 jing1 zeon6 zou2 jyun4 sing4 so2 jau5 fong4 fung1 cou3 si1, bing6 jyun5 lei4 hoi2 pong4. hoi2 bin1 dei6 keoi1 ho2 nang4 ceot1 jin6 seoi2 zam3, seoi2 wai2 waak6 wui5 soeng5 sing1.", en: "The public should complete all precautions against the wind as early as possible and keep away from the shore. Seaside areas may see flooding, and water levels may rise."}
+  - {n: 10, speaker: Lin-ze, hanzi: "即係：快啲執好嘢，唔好去海邊影浪。上次打風，鯉魚門水浸到成條街變咗條河。", jyutping: "zik1 hai6: faai3 di1 zap1 hou2 je5, m4 hou2 heoi3 hoi2 bin1 jing2 long6. soeng6 ci3 daa2 fung1, lei5 jyu4 mun4 seoi2 zam3 dou3 seng4 tiu4 gaai1 bin3 zo2 tiu4 ho4.", en: "Meaning: get your things in order and don't go to the seafront to film the waves. Last typhoon, Lei Yue Mun flooded so badly the whole street turned into a river."}
+  - {n: 11, speaker: Regular, hanzi: "我哋要唔要搶購啲嘢？超市啲麵包同公仔麵實賣晒。", jyutping: "ngo5 dei6 jiu3 m4 jiu3 coeng2 kau3 di1 je5? ciu1 si5 di1 min6 baau1 tung4 gung1 zai2 min6 sat6 maai6 saai3.", en: "Should we stock up? The supermarket's bread and instant noodles will be sold out for sure."}
+  - {n: 12, speaker: Leung Pak, hanzi: "唔使搶，我哋舖頭乜都有。蠟燭、電筒、罐頭，喺櫃度。", jyutping: "m4 sai2 coeng2, ngo5 dei6 pou3 tau2 mat1 dou1 jau5. laap6 zuk1, din6 tung2, gun3 tau2, hai2 gwai6 dou6.", en: "No need to fight over it; we've got everything in the shop. Candles, torch, tins, in the cupboard."}
+  - {n: 13, speaker: Hugo, hanzi: "要唔要喺玻璃度貼膠紙？我見啲舊相，個個都貼交叉。", jyutping: "jiu3 m4 jiu3 hai2 bo1 lei1 dou6 tip3 gaau1 zi2? ngo5 gin3 di1 gau6 soeng2, go3 go3 dou1 tip3 gaau1 caa1.", en: "Should we tape the glass? In old photos everyone's taped crosses on their windows."}
+  - {n: 14, speaker: Kayan, hanzi: "天文台話貼膠紙冇乜用，最緊要閂好窗，執好啲會俾風吹走嘅嘢。", jyutping: "tin1 man4 toi4 waa6 tip3 gaau1 zi2 mou5 mat1 jung6, zeoi3 gan2 jiu3 saan1 hou2 coeng1, zap1 hou2 di1 wui5 bei2 fung1 ceoi1 zau2 ge3 je5.", en: "The Observatory says taping does little; the main thing is to shut the windows properly and put away anything the wind could blow off."}
+  - {n: 15, speaker: Kayan, hanzi: "大家聽住：掛八號波之前，我哋一定要落閘，等員工夠時間返屋企。", jyutping: "daai6 gaa1 teng1 zyu6: gwaa3 baat3 hou6 bo1 zi1 cin4, ngo5 dei6 jat1 ding6 jiu3 lok6 zaap6, dang2 jyun4 gung1 gau3 si4 gaan3 faan1 uk1 kei2.", en: "Listen, everyone: before Signal 8 goes up, we must pull down the shutter, so the staff have enough time to get home."}
+  - {n: 16, speaker: Radio, hanzi: "天文台已於晚上八時十分改發八號東南烈風或暴風信號。", jyutping: "tin1 man4 toi4 ji5 jyu1 maan5 soeng6 baat3 si4 sap6 fan1 goi2 faat3 baat3 hou6 dung1 naam4 lit6 fung1 waak6 bou6 fung1 seon3 hou6.", en: "The Observatory issued the No. 8 Southeast Gale or Storm Signal at 8:10 p.m."}
+  - {n: 17, speaker: Lin-ze, hanzi: "掛咗喇！快過佢講嘅時間。", jyutping: "gwaa3 zo2 laa3! faai3 gwo3 keoi5 gong2 ge3 si4 gaan3.", en: "It's up! Earlier than they said."}
+  - {n: 18, speaker: Kayan, hanzi: "唔係嘛，我仲未落閘，啲客都未走晒！", jyutping: "m4 hai6 maa3, ngo5 zung6 mei6 lok6 zaap6, di1 haak3 dou1 mei6 zau2 saai3!", en: "No way, I haven't pulled the shutter down, and the customers haven't all left!"}
+  - {n: 19, speaker: Hugo, hanzi: "（望出窗外）啲風好大，對面個招牌吹到搖嚟搖去。", jyutping: "(mong6 ceot1 coeng1 ngoi6) di1 fung1 hou2 daai6, deoi3 min6 go3 ziu1 paai4 ceoi1 dou3 jiu4 lai4 jiu4 heoi3.", en: "(Looking out of the window) The wind's really strong; the sign across the street is swinging back and forth."}
+  - {n: 20, speaker: Leung Pak, hanzi: "而家出去仲危險。打風之後先走，今晚大家喺度過夜。", jyutping: "ji4 gaa1 ceot1 heoi3 zung6 ngai4 him2. daa2 fung1 zi1 hau6 sin1 zau2, gam1 maan5 daai6 gaa1 hai2 dou6 gwo3 je6.", en: "Going out now is even more dangerous. You leave after the storm; tonight, everyone stays here."}
+  - {n: 21, speaker: Radio, hanzi: "颱風將於今晚至聽朝最接近香港。天文台預料，八號信號會維持一段時間，並可能改發更高信號。", jyutping: "toi4 fung1 zoeng1 jyu1 gam1 maan5 zi3 ting1 ziu1 zeoi3 zip3 gan6 hoeng1 gong2. tin1 man4 toi4 jyu6 liu6, baat3 hou6 seon3 hou6 wui5 wai4 ci4 jat1 dyun6 si4 gaan3, bing6 ho2 nang4 goi2 faat3 gang3 gou1 seon3 hou6.", en: "The typhoon will be closest to Hong Kong tonight and tomorrow morning. The Observatory expects Signal 8 to remain in force for some time and a higher signal is possible."}
+  - {n: 22, speaker: Lin-ze, hanzi: "「更高信號」，即係可能掛十號波。我做咗咁多年，見過三次十號波。", jyutping: "\"gang3 gou1 seon3 hou6\", zik1 hai6 ho2 nang4 gwaa3 sap6 hou6 bo1. ngo5 zou6 zo2 gam3 do1 nin4, gin3 gwo3 saam1 ci3 sap6 hou6 bo1.", en: "'A higher signal' means there might be Signal 10. In all my years I've seen Signal 10 three times."}
+  - {n: 23, speaker: Hiu-ching, hanzi: "咁我哋今晚做咩？", jyutping: "gam2 ngo5 dei6 gam1 maan5 zou6 me1?", en: "So what do we do tonight?"}
+  - {n: 24, speaker: Leung Pak, hanzi: "打風就係要喺屋企打邊爐。強哥，開爐！", jyutping: "daa2 fung1 zau6 hai6 jiu3 hai2 uk1 kei2 daa2 bin1 lou4. koeng4 go1, hoi1 lou4!", en: "In a typhoon you have hotpot at home. 強哥, light the stove!"}
+notes:
+  - {ref: 1, topic: culture, text: "Hong Kong's tropical cyclone signals: 1 (standby), 3 (strong wind), 8 (gale or storm, with a direction), 9, and 10 (hurricane). People call them 風球 'wind balls' (from the old hanging shapes) or 波: 三號波, 八號波. The Observatory (天文台) issues them. 信號 seon3 hou6 = signal; 發出 faat3 ceot1 = issue; 改發 = issue (a new signal) instead. 上午 soeng6 ng5 / 晚上 maan5 soeng6 = a.m. / p.m. (written)."}
+  - {ref: 3, topic: vocab, text: "Bulletin words: 集結 zaap6 git3 'centred (lit. gathered)'; 移動 ji4 dung6 'move'; 時速 si4 cuk1 'speed per hour'; 大致 daai6 zi3 'roughly'; 一帶 jat1 daai3 'area, around'. Directions: 東南 dung1 naam4, 西北 sai1 bak1, 東北, 西南. 約 = about."}
+  - {ref: 4, topic: vocab, text: "直頭 'downright' (P36). 衝住…嚟 'heading straight for…'."}
+  - {ref: 5, topic: vocab, text: "預計 jyu6 gai3 = expect, estimate (預料, P37). 烈風 lit6 fung1 = gale; 暴風 bou6 fung1 = storm. 或 = or (written)."}
+  - {ref: 7, topic: grammar, text: "一 + V，… 'as soon as': 八號波一掛 'as soon as Signal 8 goes up'. 停課 ting4 fo3 'classes suspended', 停工 ting4 gung1 'work suspended', 停駛 ting4 sai2 'services stop running' (停, P46). 渡輪 dou6 leon4 / 小輪 siu2 leon4 = ferry."}
+  - {ref: 8, topic: vocab, text: "取消 ceoi2 siu1 = cancel. 航班 hong4 baan1 = flight; 延誤 jin4 ng6 = delayed. 旅行團 'tour group'."}
+  - {ref: 9, topic: vocab, text: "措施 cou3 si1 = measures; 防風措施 'precautions against wind'. 盡早 zeon6 zou2 = as early as possible; 完成 jyun4 sing4 = complete. 遠離 jyun5 lei4 = keep away from. 海旁 'seafront'. 水浸 seoi2 zam3 = flood(ing); 水位 seoi2 wai2 = water level; 地區 dei6 keoi1 'area, district'. 並 = and also (written)."}
+  - {ref: 10, topic: vocab, text: "影浪 'film the waves', a dangerous habit the government warns against. 鯉魚門 Lei Yue Mun, a seaside village that floods in storms."}
+  - {ref: 11, topic: vocab, text: "搶購 coeng2 kau3 = panic-buy. 超市 ciu1 si5 = supermarket. 公仔麵 = instant noodles (from a brand name)."}
+  - {ref: 12, topic: vocab, text: "蠟燭 laap6 zuk1 = candle. 電筒 din6 tung2 = torch."}
+  - {ref: 13, topic: culture, text: "膠紙 gaau1 zi2 = sticky tape; 交叉 gaau1 caa1 = cross. Taping crosses on windows was a common habit; the Observatory now says it doesn't stop glass breaking, and the real precaution is to shut and secure windows."}
+  - {ref: 15, topic: grammar, text: "之前 / 之後 (P45): 掛八號波之前 'before Signal 8 goes up'; 打風之後先走 'leave only after the storm' (line 20). The clause comes first, then 之前 / 之後. 落閘 lok6 zaap6 = pull down the shutter, close up."}
+  - {ref: 21, topic: vocab, text: "接近 'come close'. 維持 wai4 ci4 'remain, maintain'. 過夜 (line 20) 'stay overnight'. 打邊爐 (line 24) 'hotpot', the typhoon-night tradition."}
+  - {ref: 1, topic: vs-mandarin, text: "Hong Kong 風球 and 八號波 have no Mandarin equivalent in speech; Mandarin news says 八號颱風信號. Cantonese 打風 'there's a typhoon' = Mandarin 颳颱風. Mainland China uses a colour scale (藍、黃、橙、紅) rather than numbers."}
+pron:
+  - {ref: 1, text: "信號 seon3 hou6: 號 stays hou6 in 信號 and 三號波."}
+  - {ref: 3, text: "時速 si4 cuk1 and 速度 cuk1 dou6 (P40): 速 is cuk1."}
+  - {ref: 9, text: "水浸 seoi2 zam3: 浸 is zam3, as in 浸浴 'take a bath'."}
+new_words:
+  - {jyutping: "seon3 hou6", hanzi: 信號, en: "signal"}
+  - {jyutping: "faat3 ceot1", hanzi: 發出, en: "issue, send out"}
+  - {jyutping: "bo1", hanzi: 波, en: "(typhoon) signal; ball"}
+  - {jyutping: "zaap6 git3", hanzi: 集結, en: "be centred, gather"}
+  - {jyutping: "dung1 naam4", hanzi: 東南, en: "southeast"}
+  - {jyutping: "sai1 bak1", hanzi: 西北, en: "northwest"}
+  - {jyutping: "ji4 dung6", hanzi: 移動, en: "move"}
+  - {jyutping: "si4 cuk1", hanzi: 時速, en: "speed per hour"}
+  - {jyutping: "daai6 zi3", hanzi: 大致, en: "roughly"}
+  - {jyutping: "jat1 daai3", hanzi: 一帶, en: "area, around"}
+  - {jyutping: "jyu6 gai3", hanzi: 預計, en: "expect, estimate"}
+  - {jyutping: "lit6 fung1", hanzi: 烈風, en: "gale"}
+  - {jyutping: "bou6 fung1", hanzi: 暴風, en: "storm"}
+  - {jyutping: "ting4 fo3", hanzi: 停課, en: "classes suspended"}
+  - {jyutping: "ting4 gung1", hanzi: 停工, en: "work suspended"}
+  - {jyutping: "dou6 leon4", hanzi: 渡輪, en: "ferry"}
+  - {jyutping: "siu2 leon4", hanzi: 小輪, en: "ferry (small)"}
+  - {jyutping: "ting4 sai2", hanzi: 停駛, en: "stop running"}
+  - {jyutping: "ceoi2 siu1", hanzi: 取消, en: "cancel"}
+  - {jyutping: "hong4 baan1", hanzi: 航班, en: "flight"}
+  - {jyutping: "jin4 ng6", hanzi: 延誤, en: "delayed; delay"}
+  - {jyutping: "zeon6 zou2", hanzi: 盡早, en: "as early as possible"}
+  - {jyutping: "cou3 si1", hanzi: 措施, en: "measures"}
+  - {jyutping: "jyun5 lei4", hanzi: 遠離, en: "keep away from"}
+  - {jyutping: "seoi2 zam3", hanzi: 水浸, en: "flood(ing)"}
+  - {jyutping: "seoi2 wai2", hanzi: 水位, en: "water level"}
+  - {jyutping: "coeng2 kau3", hanzi: 搶購, en: "panic-buy"}
+  - {jyutping: "ciu1 si5", hanzi: 超市, en: "supermarket"}
+  - {jyutping: "laap6 zuk1", hanzi: 蠟燭, en: "candle"}
+  - {jyutping: "din6 tung2", hanzi: 電筒, en: "torch"}
+  - {jyutping: "gaau1 zi2", hanzi: 膠紙, en: "sticky tape"}
+  - {jyutping: "gaau1 caa1", hanzi: 交叉, en: "cross"}
+  - {jyutping: "lok6 zaap6", hanzi: 落閘, en: "pull down the shutter"}
+  - {jyutping: "ceoi1", hanzi: 吹, en: "blow"}
+  - {jyutping: "jyun4 sing4", hanzi: 完成, en: "complete, finish"}
+  - {jyutping: "dei6 keoi1", hanzi: 地區, en: "area, district"}
+  - {jyutping: "wai4 ci4", hanzi: 維持, en: "remain, maintain"}
+  - {jyutping: "daa2 bin1 lou4", hanzi: 打邊爐, en: "hotpot"}
+  - {jyutping: "soeng6 ng5", hanzi: 上午, en: "morning, a.m."}
+  - {jyutping: "maan5 soeng6", hanzi: 晚上, en: "evening, p.m."}
+exercises:
+  translate:
+    - {hanzi: "八號波一掛，所有學校都停課。", jyutping: "baat3 hou6 bo1 jat1 gwaa3, so2 jau5 hok6 haau6 dou1 ting4 fo3.", en: "As soon as Signal 8 goes up, all schools close."}
+    - {hanzi: "掛八號波之前，我哋要落閘。", jyutping: "gwaa3 baat3 hou6 bo1 zi1 cin4, ngo5 dei6 jiu3 lok6 zaap6.", en: "We have to close up before Signal 8 goes up."}
+    - {hanzi: "打風之後先出街。", jyutping: "daa2 fung1 zi1 hau6 sin1 ceot1 gaai1.", en: "Only go out after the typhoon."}
+    - {hanzi: "我個航班延誤咗，旅行團都取消咗。", jyutping: "ngo5 go3 hong4 baan1 jin4 ng6 zo2, leoi5 hang4 tyun4 dou1 ceoi2 siu1 zo2.", en: "My flight's delayed, and the tour's been cancelled too."}
+    - {hanzi: "唔使搶購，屋企有蠟燭同電筒。", jyutping: "m4 sai2 coeng2 kau3, uk1 kei2 jau5 laap6 zuk1 tung4 din6 tung2.", en: "No need to panic-buy; we have candles and a torch at home."}
+  fill:
+    - {hanzi: "颱風預料向___移動。", jyutping: "toi4 fung1 jyu6 liu6 hoeng3 ___ ji4 dung6.", answer: "sai1 bak1", answer_hanzi: 西北, en: "The typhoon is forecast to move northwest."}
+    - {hanzi: "八號波一掛，渡輪全部___。", jyutping: "baat3 hou6 bo1 jat1 gwaa3, dou6 leon4 cyun4 bou6 ___.", answer: "ting4 sai2", answer_hanzi: 停駛, en: "Once Signal 8 goes up, all ferries stop running."}
+    - {hanzi: "海邊地區可能有___。", jyutping: "hoi2 bin1 dei6 keoi1 ho2 nang4 jau5 ___.", answer: "seoi2 zam3", answer_hanzi: 水浸, en: "Seaside areas may flood."}
+    - {hanzi: "市民應___完成防風措施。", jyutping: "si5 man4 jing1 ___ jyun4 sing4 fong4 fung1 cou3 si1.", answer: "zeon6 zou2", answer_hanzi: 盡早, en: "The public should complete their precautions as early as possible."}
+    - {hanzi: "對面個招牌俾風___到搖嚟搖去。", jyutping: "deoi3 min6 go3 ziu1 paai4 bei2 fung1 ___ dou3 jiu4 lai4 jiu4 heoi3.", answer: "ceoi1", answer_hanzi: 吹, en: "The sign across the street is being blown back and forth by the wind."}
