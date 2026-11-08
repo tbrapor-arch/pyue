@@ -567,7 +567,7 @@ let deck = store.get('deck', {});
 let lists = store.get('lists', {});
 (function migrateExamList() {   // the exam module's old bookmark list becomes the Exam list
   const old = store.get('examList', null);
-  if (old && old.length && !lists.exam) { lists.exam = { t: 'Exam', w: {} }; old.forEach((id, i) => { lists.exam.w[id] = Date.now() - i; }); try { localStorage.setItem('tshehtu:lists', JSON.stringify(lists)); } catch {} }   // not store.set: sync is not set up yet
+  if (old && old.length && !lists.exam) { lists.exam = { t: 'Exam', w: {} }; old.forEach((id, i) => { lists.exam.w[id] = Date.now() - i; }); try { localStorage.setItem('pyue:lists', JSON.stringify(lists)); } catch {} }   // not store.set: sync is not set up yet
 })();
 const listIds = k => Object.entries((lists[k] || {}).w || {}).filter(([, t]) => t > 0).sort((a, b) => b[1] - a[1]).map(([id]) => id);
 const inList = (k, id) => (((lists[k] || {}).w || {})[id] || 0) > 0;
@@ -1754,7 +1754,7 @@ function showSettings() {
         <span class="sub" style="font-size:.9rem">Your progress is saved in a secret gist and merged when the app opens and after each change. Lessons marked done on one device stay done everywhere.</span>
         <div class="row"><button class="btn small" id="sync-now">Sync now</button><button class="btn small quiet" id="sync-off">Stop syncing on this device</button></div>`
       : `<span>Keep the same progress on your phone and your computer, through your GitHub account (free).</span>
-        <ol class="sub" style="font-size:.9rem;margin:0;padding-left:1.2rem"><li>On GitHub: Settings › Developer settings › Personal access tokens › <b>Fine-grained tokens</b> › Generate. Account permissions: <b>Gists: Read and write</b>. Nothing else.</li>
+        <ol class="sub" style="font-size:.9rem;margin:0;padding-left:1.2rem"><li>On GitHub: Settings › Developer settings › Personal access tokens › <b>Fine-grained tokens</b> › Generate. Account permissions: <b>Gists: Read and write</b>. Owner only, for the optional private module: Repository access › the private repo, <b>Contents: Read-only</b>.</li>
           <li>Paste the token here, on each device.</li></ol>
         <form class="row" id="sync-form"><input id="sync-token" type="password" autocomplete="off" placeholder="github_pat_…" style="flex:1 1 14rem;min-width:0;font:inherit;padding:.5rem .8rem;border:1.5px solid var(--line);border-radius:var(--r);background:var(--bg);color:var(--text)">
           <button class="btn small" type="submit">Connect</button></form>
@@ -1907,7 +1907,7 @@ const Sync = {
 // ---------- private exam module. Nothing of it is in this public page: the "Exam" tab appears only on a device whose
 // GitHub token (the one used for sync) can read the owner's private repo; the module and its content come from there.
 const Exam = {
-  REPO: 'tbrapor-arch/tsehtu-private', CACHE: 'tshehtu-exam', index: null, loaded: null,
+  REPO: 'tbrapor-arch/pyue-private', CACHE: 'pyue-private', index: null, loaded: null,
   get on() { return !!Sync.token && store.get('examOn', false); },
   // is the token allowed to read the private repo? (offline: keep the last answer)
   async check() {
