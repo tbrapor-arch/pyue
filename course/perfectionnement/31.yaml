@@ -43,7 +43,7 @@ notes:
   - {ref: 12, topic: vocab, text: "娶 ceoi2 = (of a man) marry, take a wife: 幾時娶佢？. 嫁 gaa3 = (of a woman) marry, marry into: 嫁咗俾佢 'married him' (line 14); 仲唔嫁？ 'still not married?' (line 16). The neutral word for both is 結婚. 捱得 'tough, can take hardship'."}
   - {ref: 15, topic: vocab, text: "表示 biu2 si6 = show, express. 關心 gwaan1 sam1 = care about; concern. 答晒 'answer them all'."}
   - {ref: 18, topic: culture, text: "全盒 cyun4 hap2 = the New Year 'tray of togetherness', with compartments of sweets: 瓜子 gwaa1 zi2 'melon seeds', 糖冬瓜 'candied winter melon', 糖蓮子 'candied lotus seeds'. Each brings a wish: 甜甜蜜蜜 'sweet and happy' (AABB, P25), 多仔多孫 'many children and grandchildren'."}
-  - {ref: 22, topic: culture, text: "手指山 Finger Hill is Peng Chau's small summit, with a view of Lantau (大嶼山 daai6 jyu4 saan1), Hong Kong's biggest island. 消化 siu1 faa3 = digest: 幫吓消化 'help the digestion'. 頂 'top'."}
+  - {ref: 22, topic: culture, text: "手指山 Finger Hill (手指 sau2 zi2 'finger') is Peng Chau's small summit, with a view of Lantau (大嶼山 daai6 jyu4 saan1), Hong Kong's biggest island. 消化 siu1 faa3 = digest: 幫吓消化 'help the digestion'. 頂 'top'."}
   - {ref: 24, topic: vocab, text: "襯 can3 = suit, match: 好襯 'a perfect match' (of a couple, or clothes)."}
   - {ref: 12, topic: vs-mandarin, text: "Mandarin also has 娶 for men and 嫁 for women. 利是 = Mandarin 紅包; 拜年 is shared. Kin titles differ: Cantonese 姑姐 = Mandarin 姑姑 (younger), 姑丈 = 姑父 / 姑丈."}
 pron:
@@ -70,6 +70,13 @@ new_words:
   - {jyutping: "siu1 faa3", hanzi: 消化, en: "digest"}
   - {jyutping: "daai6 jyu4 saan1", hanzi: 大嶼山, en: "Lantau Island"}
   - {jyutping: "gu1 maa1", hanzi: 姑媽, en: "aunt (father's elder sister)"}
+  - {jyutping: "deng2", hanzi: 頂, en: "top, summit"}
+  - {jyutping: "jau5 ji3 si1", hanzi: 有意思, en: "meaningful; interesting"}
+  - {jyutping: "tim4 mat6", hanzi: 甜蜜, en: "sweet (of love, life)"}
+  - {jyutping: "lin4 zi2", hanzi: 蓮子, en: "lotus seed"}
+  - {jyutping: "tong4 dung1 gwaa1", hanzi: 糖冬瓜, en: "candied winter melon"}
+  - {jyutping: "sau2 zi2", hanzi: 手指, en: "finger"}
+  - {jyutping: "gei2 do1 seoi3", hanzi: 幾多歲, en: "how old"}
   - {jyutping: "faan4", hanzi: 煩, en: "annoying; bothered"}
   - {jyutping: "man6 coeng4 man6 dyun2", hanzi: 問長問短, en: "ask all sorts of questions"}
 exercises:
