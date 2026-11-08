@@ -1,0 +1,95 @@
+# 進修 10. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 10
+title: {en: "Better a bad fate than a bad name", jyutping: "m4 paa3 saang1 waai6 meng6, zi3 paa3 goi2 waai6 meng2", hanzi: "唔怕生壞命，至怕改壞名"}
+genre: interview
+review: false
+setting: "Late October. Kayan has opened an Instagram account for 梁記 and films a short interview with Hugo in booth 3 on her phone. 蓮姐 and 梁伯 are supposed to stay quiet off camera."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "得未？三、二、一……Hello大家好，歡迎嚟到梁記！今日我哋有位特別嘉賓。", jyutping: "dak1 mei6? saam1, ji6, jat1 …… Hello daai6 gaa1 hou2, fun1 jing4 lai4 dou3 loeng4 gei3! gam1 jat6 ngo5 dei6 jau5 wai2 dak6 bit6 gaa1 ban1.", en: "Ready? Three, two, one… Hello everyone, welcome to Leung Kee! Today we have a special guest."}
+  - {n: 2, speaker: Hugo, hanzi: "大家好，我叫雨果，係梁記樓上嘅租客，朝早喺度幫手整奶茶。", jyutping: "daai6 gaa1 hou2, ngo5 giu3 jyu5 gwo2, hai6 loeng4 gei3 lau4 soeng6 ge3 zou1 haak3, ziu1 zou2 hai2 dou6 bong1 sau2 zing2 naai5 caa4.", en: "Hello everyone, I'm Hugo, the tenant upstairs at Leung Kee; in the mornings I help make the milk tea here."}
+  - {n: 3, speaker: Kayan, hanzi: "雨果呢個名好得意。係咪你自己改嘅？", jyutping: "jyu5 gwo2 ni1 go3 meng2 hou2 dak1 ji3. hai6 mai6 nei5 zi6 gei2 goi2 ge3?", en: "'Jyu-gwo' is a cute name. Did you choose it yourself?"}
+  - {n: 4, speaker: Hugo, hanzi: "唔係，係我喺里昂讀中文嗰陣，個老師幫我改嘅。佢話法國最出名嘅作家Victor Hugo，中文就叫雨果。", jyutping: "m4 hai6, hai6 ngo5 hai2 lei5 ngong4 duk6 zung1 man2 go2 zan6, go3 lou5 si1 bong1 ngo5 goi2 ge3. keoi5 waa6 faat3 gwok3 zeoi3 ceot1 meng2 ge3 zok3 gaa1 Victor Hugo, zung1 man2 zau6 giu3 jyu5 gwo2.", en: "No, my teacher gave it to me when I was studying Chinese in Lyon. She said France's most famous writer, Victor Hugo, is called 雨果 in Chinese."}
+  - {n: 5, speaker: Kayan, hanzi: "咁你應該好鍾意佢啲書啦？", jyutping: "gam2 nei5 jing1 goi1 hou2 zung1 ji3 keoi5 di1 syu1 laa1?", en: "So you must love his books?"}
+  - {n: 6, speaker: Hugo, hanzi: "老實講，我淨係睇過《悲慘世界》嘅電影。", jyutping: "lou5 sat6 gong2, ngo5 zing6 hai6 tai2 gwo3 \"bei1 caam2 sai3 gaai3\" ge3 din6 jing2.", en: "To be honest, I've only seen the film of Les Misérables."}
+  - {n: 7, speaker: Lin-ze, hanzi: "（鏡頭外面）雨果好似個生果名，所以我哋叫佢阿果！", jyutping: "(geng3 tau4 ngoi6 min6) jyu5 gwo2 hou2 ci5 go3 saang1 gwo2 meng2, so2 ji5 ngo5 dei6 giu3 keoi5 aa3 gwo2!", en: "(Off camera) 'Jyu-gwo' sounds like a kind of fruit, so we call him A-Gwo!"}
+  - {n: 8, speaker: Kayan, hanzi: "蓮姐，你喺鏡頭外面，唔好出聲住！（對鏡頭）「阿果」呢個名，係蓮姐改嘅，而家成條街都噉叫佢。", jyutping: "lin4 ze2, nei5 hai2 geng3 tau4 ngoi6 min6, m4 hou2 ceot1 seng1 zyu6! (deoi3 geng3 tau4) \"aa3 gwo2\" ni1 go3 meng2, hai6 lin4 ze2 goi2 ge3, ji4 gaa1 seng4 tiu4 gaai1 dou1 gam2 giu3 keoi5.", en: "Lin-ze, you're off camera, keep quiet for now! (To the camera) The name 'A-Gwo' was Lin-ze's idea; now the whole street calls him that."}
+  - {n: 9, speaker: Kayan, hanzi: "講吓你屋企人啦。佢哋都喺法國？", jyutping: "gong2 haa5 nei5 uk1 kei2 jan4 laa1. keoi5 dei6 dou1 hai2 faat3 gwok3?", en: "Tell us about your family. Are they all in France?"}
+  - {n: 10, speaker: Hugo, hanzi: "係。我阿媽喺里昂，以前係小學老師，而家退咗休。我阿爸喺馬賽開書店。佢哋好耐之前已經離咗婚。", jyutping: "hai6. ngo5 aa3 maa1 hai2 lei5 ngong4, ji5 cin4 hai6 siu2 hok6 lou5 si1, ji4 gaa1 teoi3 zo2 jau1. ngo5 aa3 baa4 hai2 maa5 coi3 hoi1 syu1 dim3. keoi5 dei6 hou2 noi6 zi1 cin4 ji5 ging1 lei4 zo2 fan1.", en: "Yes. My mum is in Lyon; she was a primary-school teacher and she's retired now. My dad runs a bookshop in Marseille. They divorced a long time ago."}
+  - {n: 11, speaker: Kayan, hanzi: "咁你阿媽實好掛住你。佢知唔知你而家喺深水埗教法文？", jyutping: "gam2 nei5 aa3 maa1 sat6 hou2 gwaa3 zyu6 nei5. keoi5 zi1 m4 zi1 nei5 ji4 gaa1 hai2 sam1 seoi2 bou2 gaau3 faat3 man2?", en: "Your mum must miss you terribly. Does she know you're teaching French in Sham Shui Po now?"}
+  - {n: 12, speaker: Hugo, hanzi: "（好尷尬）呢段……可唔可以剪咗佢？", jyutping: "(hou2 gaam3 gaai3) ni1 dyun6 …… ho2 m4 ho2 ji5 zin2 zo2 keoi5?", en: "(Very awkward) This bit… could you cut it?"}
+  - {n: 13, speaker: Leung Pak, hanzi: "（鏡頭外面）剪咩呀，佢阿媽又唔識睇中文！", jyutping: "(geng3 tau4 ngoi6 min6) zin2 me1 aa3, keoi5 aa3 maa1 jau6 m4 sik1 tai2 zung1 man2!", en: "(Off camera) Why cut it? His mum can't read Chinese anyway!"}
+  - {n: 14, speaker: Kayan, hanzi: "好啦好啦，第二條問題。你覺得自己係咩性格？", jyutping: "hou2 laa1 hou2 laa1, dai6 ji6 tiu4 man6 tai4. nei5 gok3 dak1 zi6 gei2 hai6 me1 sing3 gaak3?", en: "All right, all right, next question. What kind of personality do you think you have?"}
+  - {n: 15, speaker: Hugo, hanzi: "我諗……我可能有啲懶，不過好有耐性。", jyutping: "ngo5 nam2 …… ngo5 ho2 nang4 jau5 di1 laan5, bat1 gwo3 hou2 jau5 noi6 sing3.", en: "I think… I may be a bit lazy, but I'm very patient."}
+  - {n: 16, speaker: Lin-ze, hanzi: "懶？佢日日六點起身整奶茶，邊度懶呀？佢梗係講笑。", jyutping: "laan5? keoi5 jat6 jat6 luk6 dim2 hei2 san1 zing2 naai5 caa4, bin1 dou6 laan5 aa3? keoi5 gang2 hai6 gong2 siu3.", en: "Lazy? He gets up at six every day to make milk tea: how is that lazy? He must be joking."}
+  - {n: 17, speaker: Kayan, hanzi: "咁你最鍾意深水埗邊樣嘢？", jyutping: "gam2 nei5 zeoi3 zung1 ji3 sam1 seoi2 bou2 bin1 joeng6 je5?", en: "So what do you like best about Sham Shui Po?"}
+  - {n: 18, speaker: Hugo, hanzi: "啲人好真。喺中環，個個都扮好忙；喺深水埗，隔籬個伯伯會直接話我件衫好老土。", jyutping: "di1 jan4 hou2 zan1. hai2 zung1 waan4, go3 go3 dou1 baan6 hou2 mong4; hai2 sam1 seoi2 bou2, gaak3 lei4 go3 baak3 baak3 wui5 zik6 zip3 waa6 ngo5 gin6 saam1 hou2 lou5 tou2.", en: "People are real. In Central everyone pretends to be busy; in Sham Shui Po the old man next door tells you straight out that your shirt is dated."}
+  - {n: 19, speaker: Kayan, hanzi: "哈哈，真係好搞笑。你覺得梁記邊樣嘢最可以代表香港？", jyutping: "haa1 haa1, zan1 hai6 hou2 gaau2 siu3. nei5 gok3 dak1 loeng4 gei3 bin1 joeng6 je5 zeoi3 ho2 ji5 doi6 biu2 hoeng1 gong2?", en: "Ha ha, that's really funny. What do you think at Leung Kee best represents Hong Kong?"}
+  - {n: 20, speaker: Hugo, hanzi: "梗係梁伯整嘅奶茶啦。佢整奶茶好犀利，一定係全香港最好。", jyutping: "gang2 hai6 loeng4 baak3 zing2 ge3 naai5 caa4 laa1. keoi5 zing2 naai5 caa4 hou2 sai1 lei6, jat1 ding6 hai6 cyun4 hoeng1 gong2 zeoi3 hou2.", en: "Uncle Leung's milk tea, of course. He's brilliant at it; it must be the best in Hong Kong."}
+  - {n: 21, speaker: Leung Pak, hanzi: "（鏡頭外面）呢句唔使剪，要留住。", jyutping: "(geng3 tau4 ngoi6 min6) ni1 geoi3 m4 sai2 zin2, jiu3 lau4 zyu6.", en: "(Off camera) No need to cut that line, keep it."}
+  - {n: 22, speaker: Kayan, hanzi: "最後，有冇嘢想同大家講？", jyutping: "zeoi3 hau6, jau5 mou5 je5 soeng2 tung4 daai6 gaa1 gong2?", en: "Finally, anything you'd like to say to everyone?"}
+  - {n: 23, speaker: Hugo, hanzi: "如果你經過深水埗，記得嚟梁記飲杯奶茶。唔使驚，老闆個樣好兇，其實好好人。", jyutping: "jyu4 gwo2 nei5 ging1 gwo3 sam1 seoi2 bou2, gei3 dak1 lai4 loeng4 gei3 jam2 bui1 naai5 caa4. m4 sai2 geng1, lou5 baan2 go3 joeng2 hou2 hung1, kei4 sat6 hou2 hou2 jan4.", en: "If you're passing through Sham Shui Po, remember to drop in at Leung Kee for a milk tea. Don't be scared: the boss looks fierce, but he's actually very nice."}
+  - {n: 24, speaker: Leung Pak, hanzi: "邊個話我個樣兇？", jyutping: "bin1 go3 waa6 ngo5 go3 joeng2 hung1?", en: "Who says I look fierce?"}
+  - {n: 25, speaker: Kayan, hanzi: "阿爸，你而家個樣就好兇呀！（笑）多謝阿果。大家記得like同share！", jyutping: "aa3 baa4, nei5 ji4 gaa1 go3 joeng2 zau6 hou2 hung1 aa3! (siu3) do1 ze6 aa3 gwo2. daai6 gaa1 gei3 dak1 like tung4 share!", en: "Dad, you look very fierce right now! (Laughing) Thank you, A-Gwo. Everyone, remember to like and share!"}
+notes:
+  - {ref: 1, topic: vocab, text: "嘉賓 gaa1 ban1 = guest (on a show, at an event). 得未？ 'ready?' (lit. 'OK yet?'). 歡迎嚟到… 'welcome to …'."}
+  - {ref: 3, topic: vocab, text: "得意 dak1 ji3 = cute, amusing, fun (of names, children, small things); not 'proud' as in Mandarin 得意. 改名 goi2 meng2 = choose or change a name: 改 = change, alter, and also 'give (a name)'."}
+  - {ref: 4, topic: vocab, text: "作家 zok3 gaa1 = writer, author. 出名 ceot1 meng2 = famous. 里昂 Lyon, 馬賽 maa5 coi3 Marseille (line 10): Hong Kong uses its own transcriptions of foreign names."}
+  - {ref: 5, topic: grammar, text: "Modals of likelihood, from weak to strong: 可能 ho2 nang4 'may' (line 15); 應該 jing1 goi1 'should, must (I suppose)': 你應該好鍾意佢啲書啦 'you must like his books, I'd imagine'; 實 sat6 'surely' (line 11: 你阿媽實好掛住你); 一定 jat1 ding6 'definitely' (line 20). 梗係 'of course' (line 16) answers with certainty."}
+  - {ref: 6, topic: vocab, text: "老實講 lou5 sat6 gong2 = to be honest, frankly. 電影 din6 jing2 = film. Book and film titles go in 《》."}
+  - {ref: 7, topic: pronunciation, text: "阿 + a name syllable makes a familiar name: 阿果, 阿欣, 阿峰 (P9). With a surname or a low-toned name, the syllable often rises to tone 2: 阿陳 aa3 can2, 老黃 lou5 wong2. 雨果 already ends in gwo2, so 阿果 aa3 gwo2 sounds just like 'fruit' 果, hence 蓮姐's joke with 生果."}
+  - {ref: 8, topic: grammar, text: "住 zyu6 at the end of a command = 'for now, not yet': 唔好出聲住 'don't say anything for now'; 等陣住 'hang on a bit'. 鏡頭 geng3 tau4 = (camera) lens, the camera's view; 鏡頭外面 'off camera'."}
+  - {ref: 10, topic: grammar, text: "Verb-object compounds split around 咗: 退休 → 退咗休 'has retired', 離婚 → 離咗婚 'got divorced', like 辭咗職 (P4). The full list comes in P22. 書店 syu1 dim3 = bookshop."}
+  - {ref: 12, topic: vocab, text: "尷尬 gaam3 gaai3 = awkward, embarrassing. 剪 zin2 = cut (with scissors; in editing): 剪咗佢 'cut it out' (佢 refers back to 呢段)."}
+  - {ref: 14, topic: vocab, text: "性格 sing3 gaak3 = personality, character. 懶 laan5 = lazy. 耐性 noi6 sing3 = patience: 好有耐性 'very patient'. 條 is the classifier for questions: 第二條問題."}
+  - {ref: 18, topic: vocab, text: "真 zan1 here = genuine, real (of people). 扮 baan6 = pretend: 扮好忙. 隔籬 gaak3 lei4 = next door, neighbouring. 伯伯 baak3 baak3 = old man (polite). 老土 lou5 tou2 = old-fashioned, uncool."}
+  - {ref: 19, topic: vocab, text: "搞笑 gaau2 siu3 = funny, hilarious. 代表 doi6 biu2 = represent, stand for; also 'representative'. 犀利 sai1 lei6 (line 20) = brilliant, formidable: 好犀利 'amazing'."}
+  - {ref: 23, topic: vocab, text: "經過 ging1 gwo3 = pass by, pass through: 經過深水埗. 兇 hung1 = fierce, stern: 個樣好兇 'looks fierce'. 好好人 'a really nice person'."}
+  - {ref: 4, topic: vs-mandarin, text: "Names: Hong Kong friends use 阿 + one syllable of the given name (阿欣, 阿果) or an English name; 老王 / 小王 (surname + 老/小), common in the mainland, is rarer. Polite address uses the surname + 生 (先生), 太 (太太), 小姐: 何生, 陳太. 得意 'cute' and Mandarin 得意 'smug, pleased with oneself' are false friends."}
+pron:
+  - {ref: 10, text: "馬賽 maa5 coi3 'Marseille': 賽 is coi3, as in 賽馬 'horse racing'."}
+  - {ref: 18, text: "伯伯 baak3 baak3: keep both syllables mid level; 阿伯 aa3 baak3 too."}
+  - {ref: 12, text: "尷尬 gaam3 gaai3: two mid-level syllables, g- each time."}
+new_words:
+  - {jyutping: "gaa1 ban1", hanzi: 嘉賓, en: "guest (on a show)"}
+  - {jyutping: "dak1 ji3", hanzi: 得意, en: "cute, amusing"}
+  - {jyutping: "goi2", hanzi: 改, en: "change; give (a name)"}
+  - {jyutping: "zok3 gaa1", hanzi: 作家, en: "writer"}
+  - {jyutping: "lou5 sat6 gong2", hanzi: 老實講, en: "to be honest"}
+  - {jyutping: "din6 jing2", hanzi: 電影, en: "film"}
+  - {jyutping: "geng3 tau4", hanzi: 鏡頭, en: "camera lens, shot"}
+  - {jyutping: "ngoi6 min6", hanzi: 外面, en: "outside"}
+  - {jyutping: "teoi3 jau1", hanzi: 退休, en: "retire"}
+  - {jyutping: "maa5 coi3", hanzi: 馬賽, en: "Marseille"}
+  - {jyutping: "lei4 fan1", hanzi: 離婚, en: "divorce"}
+  - {jyutping: "gaam3 gaai3", hanzi: 尷尬, en: "awkward, embarrassing"}
+  - {jyutping: "zin2", hanzi: 剪, en: "cut"}
+  - {jyutping: "sing3 gaak3", hanzi: 性格, en: "personality"}
+  - {jyutping: "laan5", hanzi: 懶, en: "lazy"}
+  - {jyutping: "noi6 sing3", hanzi: 耐性, en: "patience"}
+  - {jyutping: "gaak3 lei4", hanzi: 隔籬, en: "next door"}
+  - {jyutping: "baak3 baak3", hanzi: 伯伯, en: "old man (polite)"}
+  - {jyutping: "gaau2 siu3", hanzi: 搞笑, en: "funny"}
+  - {jyutping: "doi6 biu2", hanzi: 代表, en: "represent; representative"}
+  - {jyutping: "sai1 lei6", hanzi: 犀利, en: "brilliant, formidable"}
+  - {jyutping: "ging1 gwo3", hanzi: 經過, en: "pass by, pass through"}
+  - {jyutping: "hung1", hanzi: 兇, en: "fierce, stern"}
+  - {jyutping: "fun1 jing4", hanzi: 歡迎, en: "welcome"}
+  - {jyutping: "geoi3", hanzi: 句, en: "sentence (classifier)"}
+  - {jyutping: "syu1 dim3", hanzi: 書店, en: "bookshop"}
+  - {jyutping: "lou5 tou2", hanzi: 老土, en: "old-fashioned, uncool"}
+  - {jyutping: "dang2 zan6", hanzi: 等陣, en: "wait a moment; in a while"}
+  - {jyutping: "bin1 joeng6", hanzi: 邊樣, en: "which (thing)"}
+  - {jyutping: "bei1 caam2", hanzi: 悲慘, en: "tragic, miserable"}
+exercises:
+  translate:
+    - {hanzi: "佢咁晏都未返嚟，應該塞車啩。", jyutping: "keoi5 gam3 aan3 dou1 mei6 faan1 lai4, jing1 goi1 sak1 ce1 gwaa3.", en: "He's still not back this late; must be stuck in traffic, I guess."}
+    - {hanzi: "你阿媽知道你辭咗職，實好嬲。", jyutping: "nei5 aa3 maa1 zi1 dou3 nei5 ci4 zo2 zik1, sat6 hou2 nau1.", en: "When your mum finds out you've quit, she'll surely be upset."}
+    - {hanzi: "我覺得佢性格好好，又有耐性又搞笑。", jyutping: "ngo5 gok3 dak1 keoi5 sing3 gaak3 hou2 hou2, jau6 jau5 noi6 sing3 jau6 gaau2 siu3.", en: "I think she has a great personality: patient and funny."}
+    - {hanzi: "呢間舖可以代表成個深水埗。", jyutping: "ni1 gaan1 pou3 ho2 ji5 doi6 biu2 seng4 go3 sam1 seoi2 bou2.", en: "This shop could stand for the whole of Sham Shui Po."}
+    - {hanzi: "等陣住，我未準備好。", jyutping: "dang2 zan6 zyu6, ngo5 mei6 zeon2 bei6 hou2.", en: "Hang on, I'm not ready yet."}
+  fill:
+    - {hanzi: "佢個樣好___，其實好好人。", jyutping: "keoi5 go3 joeng2 hou2 ___, kei4 sat6 hou2 hou2 jan4.", answer: "hung1", answer_hanzi: 兇, en: "He looks fierce, but he's actually really nice."}
+    - {hanzi: "我哋___咗佢做「阿果」。", jyutping: "ngo5 dei6 ___ zo2 keoi5 zou6 \"aa3 gwo2\".", answer: "giu3", answer_hanzi: 叫, en: "We've started calling him 'A-Gwo'."}
+    - {hanzi: "呢段講得太長，不如___短啲。", jyutping: "ni1 dyun6 gong2 dak1 taai3 coeng4, bat1 jyu4 ___ dyun2 di1.", answer: "zin2", answer_hanzi: 剪, en: "This bit is too long; why not cut it shorter?"}
+    - {hanzi: "佢喺隔籬住咗十年，___係我哋嘅老街坊。", jyutping: "keoi5 hai2 gaak3 lei4 zyu6 zo2 sap6 nin4, ___ hai6 ngo5 dei6 ge3 lou5 gaai1 fong1.", answer: "syun3", answer_hanzi: 算, en: "He's lived next door for ten years; he counts as one of our old neighbours."}
+    - {hanzi: "___，我淨係睇過電影，冇睇過本書。", jyutping: "___, ngo5 zing6 hai6 tai2 gwo3 din6 jing2, mou5 tai2 gwo3 bun2 syu1.", answer: "lou5 sat6 gong2", answer_hanzi: 老實講, en: "To be honest, I've only seen the film, not read the book."}
