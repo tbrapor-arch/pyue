@@ -1,0 +1,89 @@
+# 進修 62. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 62
+title: {en: "My favourite place", jyutping: "ngo5 zeoi3 zung1 ji3 ge3 dei6 fong1", hanzi: "我最鍾意嘅地方"}
+intro: "樂仔 rehearses his school oral exam about 梁記: adjectives before nouns (舊式風扇, 好舊嘅掛鐘), the shape of a short talk (首先, 其次, 總括嚟講), and the words of school life."
+genre: essay
+review: false
+setting: "Thursday 25 November 2027, after school. 蓮姐's grandson 樂仔, now in Primary 5, has an oral exam tomorrow: a two-minute talk on 'My favourite place'. He practises in booth three, in front of 蓮姐, Hugo and 梁伯. The talk is in spoken Cantonese, as Hong Kong oral exams are."
+dialogue:
+  - {n: 1, speaker: Lin-ze, hanzi: "樂仔，聽日口試，你個講稿背熟未？", jyutping: "lok6 zai2, ting1 jat6 hau2 si5, nei5 go3 gong2 gou2 bui6 suk6 mei6?", en: "樂仔, your oral exam is tomorrow: have you learned your talk by heart?"}
+  - {n: 2, speaker: Lok-zai, hanzi: "背熟咗！不過我好緊張。上次測驗我口窒，得咗六十分。", jyutping: "bui6 suk6 zo2! bat1 gwo3 ngo5 hou2 gan2 zoeng1. soeng6 ci3 caak1 jim6 ngo5 hau2 zat6, dak1 zo2 luk6 sap6 fan1.", en: "I have! But I'm really nervous. Last test I got tongue-tied and only got sixty."}
+  - {n: 3, speaker: Hugo, hanzi: "唔使驚，當我哋係評判。準備……開始！", jyutping: "m4 sai2 geng1, dong3 ngo5 dei6 hai6 ping4 pun3. zeon2 bei6 …… hoi1 ci2!", en: "Don't worry; pretend we're the examiners. Ready… go!"}
+  - {n: 4, speaker: Lok-zai, hanzi: "各位老師、各位同學，大家好。我今日嘅題目係「我最鍾意嘅地方」。我最鍾意嘅地方，係深水埗一間茶餐廳，叫梁記。", jyutping: "gok3 wai2 lou5 si1, gok3 wai2 tung4 hok6, daai6 gaa1 hou2. ngo5 gam1 jat6 ge3 tai4 muk6 hai6 \"ngo5 zeoi3 zung1 ji3 ge3 dei6 fong1\". ngo5 zeoi3 zung1 ji3 ge3 dei6 fong1, hai6 sam1 seoi2 bou2 jat1 gaan1 caa4 caan1 teng1, giu3 loeng4 gei3.", en: "Teachers, classmates, good morning. My topic today is 'My favourite place'. My favourite place is a cha chaan teng in Sham Shui Po called 梁記."}
+  - {n: 5, speaker: Lok-zai, hanzi: "首先，梁記好舊。佢有一把舊式吊扇，一個好舊嘅掛鐘，牆上面仲有好多黑白照片。", jyutping: "sau2 sin1, loeng4 gei3 hou2 gau6. keoi5 jau5 jat1 baa2 gau6 sik1 diu3 sin3, jat1 go3 hou2 gau6 ge3 gwaa3 zung1, coeng4 soeng6 min6 zung6 jau5 hou2 do1 haak1 baak6 ziu3 pin2.", en: "First, 梁記 is very old. It has an old-style ceiling fan, a very old wall clock, and lots of black-and-white photos on the walls."}
+  - {n: 6, speaker: Lok-zai, hanzi: "嗰個掛鐘慢咗五分鐘，梁伯話唔使校，因為咁樣啲客可以坐耐啲。", jyutping: "go2 go3 gwaa3 zung1 maan6 zo2 ng5 fan1 zung1, loeng4 baak3 waa6 m4 sai2 gaau3, jan1 wai6 gam2 joeng2 di1 haak3 ho2 ji5 co5 noi6 di1.", en: "That clock is five minutes slow; 梁伯 says there's no need to set it right, because then the customers can sit longer."}
+  - {n: 7, speaker: Leung Pak, hanzi: "（細聲）我幾時講過？", jyutping: "(sai3 seng1) ngo5 gei2 si4 gong2 gwo3?", en: "(Quietly) When did I say that?"}
+  - {n: 8, speaker: Lok-zai, hanzi: "其次，梁記嘅嘢食好好味。我最鍾意食菠蘿油，熱辣辣，個菠蘿皮脆卜卜，入面有一塊凍牛油。", jyutping: "kei4 ci3, loeng4 gei3 ge3 je5 sik6 hou2 hou2 mei6. ngo5 zeoi3 zung1 ji3 sik6 bo1 lo4 jau4, jit6 laat6 laat6, go3 bo1 lo4 pei4 ceoi3 bok1 bok1, jap6 min6 jau5 jat1 faai3 dung3 ngau4 jau4.", en: "Second, the food at 梁記 is delicious. My favourite is the pineapple bun with butter: piping hot, the crust crunchy, with a cold slab of butter inside."}
+  - {n: 9, speaker: Lok-zai, hanzi: "第三，亦係最重要嘅原因：梁記係我第二個屋企。我爸爸媽媽返工返到好晚，放學之後，我就喺三號卡位做功課。", jyutping: "dai6 saam1, jik6 hai6 zeoi3 zung6 jiu3 ge3 jyun4 jan1: loeng4 gei3 hai6 ngo5 dai6 ji6 go3 uk1 kei2. ngo5 baa4 baa1 maa4 maa1 faan1 gung1 faan1 dou3 hou2 maan5, fong3 hok6 zi1 hau6, ngo5 zau6 hai2 saam1 hou6 kaa1 wai2 zou6 gung1 fo3.", en: "Third, and most important: 梁記 is my second home. My mum and dad work very late, so after school I do my homework in booth three."}
+  - {n: 10, speaker: Lok-zai, hanzi: "我婆婆喺度做咗三十年，佢一路斟茶，一路幫我睇默書。我唔識嘅字，佢就叫我問啲客。", jyutping: "ngo5 po4 po2 hai2 dou6 zou6 zo2 saam1 sap6 nin4, keoi5 jat1 lou6 zam1 caa4, jat1 lou6 bong1 ngo5 tai2 mak6 syu1. ngo5 m4 sik1 ge3 zi6, keoi5 zau6 giu3 ngo5 man6 di1 haak3.", en: "My grandma has worked here for thirty years. She pours tea and checks my dictation at the same time. If there's a character I don't know, she tells me to ask the customers."}
+  - {n: 11, speaker: Lok-zai, hanzi: "梁記嘅客好特別：有一個好惡樣嘅廚師，其實佢好好人；有一個法國哥哥，佢嘅廣東話比我爸爸仲好；仲有一個成日板起塊面嘅老闆，但係佢偷偷俾多咗塊牛油我。", jyutping: "loeng4 gei3 ge3 haak3 hou2 dak6 bit6: jau5 jat1 go3 hou2 ok3 joeng2 ge3 cyu4 si1, kei4 sat6 keoi5 hou2 hou2 jan4; jau5 jat1 go3 faat3 gwok3 go4 go1, keoi5 ge3 gwong2 dung1 waa2 bei2 ngo5 baa4 baa1 zung6 hou2; zung6 jau5 jat1 go3 sing4 jat6 baan2 hei2 faai3 min6 ge3 lou5 baan2, daan6 hai6 keoi5 tau1 tau1 bei2 do1 zo2 faai3 ngau4 jau4 ngo5.", en: "The people at 梁記 are special: there's a scary-looking cook who's actually a really kind man; there's a French big brother whose Cantonese is better than my dad's; and there's a boss who always keeps a straight face, but secretly gives me extra butter."}
+  - {n: 12, speaker: Keung-go, hanzi: "（喺廚房探個頭出嚟）邊個惡樣呀？", jyutping: "(hai2 cyu4 fong2 taam3 go3 tau4 ceot1 lai4) bin1 go3 ok3 joeng2 aa3?", en: "(Poking his head out of the kitchen) Who's scary-looking?"}
+  - {n: 13, speaker: Lok-zai, hanzi: "總括嚟講，梁記唔係一間大餐廳，唔係一間新餐廳，但係係一間好溫暖嘅舖頭。多謝各位。", jyutping: "zung2 kut3 lai4 gong2, loeng4 gei3 m4 hai6 jat1 gaan1 daai6 caan1 teng1, m4 hai6 jat1 gaan1 san1 caan1 teng1, daan6 hai6 hai6 jat1 gaan1 hou2 wan1 nyun5 ge3 pou3 tau2. do1 ze6 gok3 wai2.", en: "To sum up, 梁記 isn't a big restaurant or a new restaurant, but it's a very warm little shop. Thank you."}
+  - {n: 14, speaker: Hugo, hanzi: "（鼓掌）好嘢！一分鐘五十秒，啱啱好。", jyutping: "(gu2 zoeng2) hou2 je5! jat1 fan1 zung1 ng5 sap6 miu5, ngaam1 ngaam1 hou2.", en: "(Applauding) Great! One minute fifty: just right."}
+  - {n: 15, speaker: Lin-ze, hanzi: "講得好流利，冇口窒。不過結尾可以慢啲，望住老師講。", jyutping: "gong2 dak1 hou2 lau4 lei6, mou5 hau2 zat6. bat1 gwo3 git3 mei5 ho2 ji5 maan6 di1, mong6 zyu6 lou5 si1 gong2.", en: "Very fluent, no stumbling. But slow down at the end, and look at the teacher as you speak."}
+  - {n: 16, speaker: Leung Pak, hanzi: "開頭講得好。不過「偷偷俾多塊牛油」嗰句，唔好講，你班主任會以為我做生意唔老實。", jyutping: "hoi1 tau4 gong2 dak1 hou2. bat1 gwo3 \"tau1 tau1 bei2 do1 faai3 ngau4 jau4\" go2 geoi3, m4 hou2 gong2, nei5 baan1 zyu2 jam6 wui5 ji5 wai4 ngo5 zou6 saang1 ji3 m4 lou5 sat6.", en: "Good opening. But the line about the secret extra butter, leave it out; your form teacher will think I'm a dishonest businessman."}
+  - {n: 17, speaker: Lok-zai, hanzi: "但係係真㗎！", jyutping: "daan6 hai6 hai6 zan1 gaa3!", en: "But it's true!"}
+  - {n: 18, speaker: Hugo, hanzi: "樂仔，你點解唔講學校？你唔鍾意學校咩？", jyutping: "lok6 zai2, nei5 dim2 gaai2 m4 gong2 hok6 haau6? nei5 m4 zung1 ji3 hok6 haau6 me1?", en: "樂仔, why didn't you talk about school? Don't you like school?"}
+  - {n: 19, speaker: Lok-zai, hanzi: "學校……小息好開心。但係日日都有功課、測驗、默書，放學仲要去補習，好攰。", jyutping: "hok6 haau6 …… siu2 sik1 hou2 hoi1 sam1. daan6 hai6 jat6 jat6 dou1 jau5 gung1 fo3, caak1 jim6, mak6 syu1, fong3 hok6 zung6 jiu3 heoi3 bou2 zaap6, hou2 gui6.", en: "School… break time's fun. But every day there's homework, tests and dictation, and after school I have to go to tutoring. It's exhausting."}
+  - {n: 20, speaker: Lin-ze, hanzi: "香港啲細路就係咁，書包重過自己。", jyutping: "hoeng1 gong2 di1 sai3 lou6 zau6 hai6 gam2, syu1 baau1 cung5 gwo3 zi6 gei2.", en: "That's Hong Kong kids for you: their schoolbags weigh more than they do."}
+  - {n: 21, speaker: Leung Pak, hanzi: "樂仔，如果你聽日攞滿分，我請你食一個禮拜菠蘿油。", jyutping: "lok6 zai2, jyu4 gwo2 nei5 ting1 jat6 lo2 mun5 fan1, ngo5 ceng2 nei5 sik6 jat1 go3 lai5 baai3 bo1 lo4 jau4.", en: "樂仔, if you get full marks tomorrow, I'll treat you to a week of pineapple buns."}
+  - {n: 22, speaker: Lok-zai, hanzi: "如果我唔係滿分呢？", jyutping: "jyu4 gwo2 ngo5 m4 hai6 mun5 fan1 ne1?", en: "And if I don't get full marks?"}
+  - {n: 23, speaker: Leung Pak, hanzi: "……一樣請。不過唔准同你班主任講。", jyutping: "…… jat1 joeng6 ceng2. bat1 gwo3 m4 zeon2 tung4 nei5 baan1 zyu2 jam6 gong2.", en: "…I'll treat you anyway. But don't tell your form teacher."}
+notes:
+  - {ref: 1, topic: culture, text: "Hong Kong primary schools test speaking in Cantonese: the 口試 hau2 si5 'oral exam' includes a short talk (說話). 講稿 gong2 gou2 = script, notes for a talk; 背熟 bui6 suk6 = learn by heart."}
+  - {ref: 2, topic: vocab, text: "測驗 caak1 jim6 = test, quiz (smaller than 考試). 口窒 hau2 zat6 = stumble over words, get tongue-tied. 分 'mark, point'."}
+  - {ref: 4, topic: culture, text: "A school talk opens with a fixed formula: 各位老師、各位同學，大家好 and closes with 多謝各位."}
+  - {ref: 5, topic: grammar, text: "Attributive adjectives (P43): bound, often fixed combinations with no 嘅: 舊式吊扇 'old-style ceiling fan' (舊式 gau6 sik1, 吊扇 diu3 sin3), 黑白照片 'black-and-white photos'. Modified adjectives need 嘅: 好舊嘅掛鐘 'a very old wall clock' (掛鐘 gwaa3 zung1). 照片 ziu3 pin2 = photo."}
+  - {ref: 5, topic: grammar, text: "Structuring a talk: 首先 'first', 其次 'second' (line 8), 第三 'third' (line 9), 總括嚟講 'to sum up' (line 13). 開頭 hoi1 tau4 / 結尾 git3 mei5 (lines 15–16) = beginning / ending."}
+  - {ref: 6, topic: vocab, text: "慢咗五分鐘 'five minutes slow' (adjective + 咗 + amount, P44). 校 gaau3 'adjust, set (a clock)'."}
+  - {ref: 8, topic: vocab, text: "脆卜卜 ceoi3 bok1 bok1 'crunchy' (ABB, P22). 一塊凍牛油 'a slab of cold butter': the 菠蘿油 (P2) is a pineapple bun split with butter."}
+  - {ref: 10, topic: vocab, text: "斟茶 'pour tea' (斟 zam1 'pour'). 默書 mak6 syu1 = dictation, a weekly test in Hong Kong schools: you write a passage from memory."}
+  - {ref: 11, topic: grammar, text: "好好人 'a really kind person' (好 + 好人) and 好惡樣 'scary-looking': adjectives before nouns again. 比我爸爸仲好 'even better than my dad's' (比…仲, the Mandarin-like comparison, also used in Cantonese). 偷偷 tau1 tau1 'secretly'."}
+  - {ref: 14, topic: vocab, text: "鼓掌 gu2 zoeng2 = applaud (拍手, P58, is everyday). 啱啱好 ngaam1 ngaam1 hou2 = just right. 流利 (line 15) = fluent."}
+  - {ref: 16, topic: vocab, text: "班主任 baan1 zyu2 jam6 = form teacher, class teacher. 老實 'honest' (known)."}
+  - {ref: 19, topic: culture, text: "小息 siu2 sik1 = break (between lessons). 補習 bou2 zaap6 = private tutoring, after school: very common in Hong Kong. 書包 syu1 baau1 (line 20) = schoolbag; Hong Kong's heavy schoolbags are a long-running complaint."}
+  - {ref: 21, topic: vocab, text: "滿分 mun5 fan1 = full marks. 一樣請 'I'll treat you all the same'."}
+pron:
+  - {ref: 2, text: "測驗 caak1 jim6: 測 is caak1 in speech (cak1 in careful reading)."}
+  - {ref: 2, text: "口窒 hau2 zat6: 窒 is zat6."}
+  - {ref: 1, text: "背熟 bui6 suk6 'learn by heart': 背 is bui6 here; bui3 is 'back' (背後, P52)."}
+new_words:
+  - {jyutping: "hau2 si5", hanzi: 口試, en: "oral exam"}
+  - {jyutping: "gong2 gou2", hanzi: 講稿, en: "script for a talk"}
+  - {jyutping: "bui6 suk6", hanzi: 背熟, en: "learn by heart"}
+  - {jyutping: "caak1 jim6", hanzi: 測驗, en: "test, quiz"}
+  - {jyutping: "gau6 sik1", hanzi: 舊式, en: "old-style"}
+  - {jyutping: "diu3 sin3", hanzi: 吊扇, en: "ceiling fan"}
+  - {jyutping: "gwaa3 zung1", hanzi: 掛鐘, en: "wall clock"}
+  - {jyutping: "ziu3 pin2", hanzi: 照片, en: "photo"}
+  - {jyutping: "mak6 syu1", hanzi: 默書, en: "dictation"}
+  - {jyutping: "zung2 kut3", hanzi: 總括, en: "sum up"}
+  - {jyutping: "wan1 nyun5", hanzi: 溫暖, en: "warm (feeling)"}
+  - {jyutping: "gu2 zoeng2", hanzi: 鼓掌, en: "applaud"}
+  - {jyutping: "lau4 lei6", hanzi: 流利, en: "fluent"}
+  - {jyutping: "git3 mei5", hanzi: 結尾, en: "ending"}
+  - {jyutping: "hoi1 tau4", hanzi: 開頭, en: "beginning"}
+  - {jyutping: "baan1 zyu2 jam6", hanzi: 班主任, en: "form teacher"}
+  - {jyutping: "siu2 sik1", hanzi: 小息, en: "break (at school)"}
+  - {jyutping: "bou2 zaap6", hanzi: 補習, en: "tutoring"}
+  - {jyutping: "syu1 baau1", hanzi: 書包, en: "schoolbag"}
+  - {jyutping: "mun5 fan1", hanzi: 滿分, en: "full marks"}
+  - {jyutping: "gaau3", hanzi: 校, en: "adjust, set"}
+  - {jyutping: "ceoi3 bok1 bok1", hanzi: 脆卜卜, en: "crunchy"}
+  - {jyutping: "zam1", hanzi: 斟, en: "pour (tea, wine)"}
+  - {jyutping: "tau1 tau1", hanzi: 偷偷, en: "secretly"}
+  - {jyutping: "ngaam1 ngaam1 hou2", hanzi: 啱啱好, en: "just right"}
+  - {jyutping: "zou6 gung1 fo3", hanzi: 做功課, en: "do homework"}
+exercises:
+  translate:
+    - {hanzi: "佢間舖有一把舊式吊扇同一個好舊嘅掛鐘。", jyutping: "keoi5 gaan1 pou3 jau5 jat1 baa2 gau6 sik1 diu3 sin3 tung4 jat1 go3 hou2 gau6 ge3 gwaa3 zung1.", en: "His shop has an old-style ceiling fan and a very old wall clock."}
+    - {hanzi: "首先，佢好舊；其次，佢好溫暖。", jyutping: "sau2 sin1, keoi5 hou2 gau6; kei4 ci3, keoi5 hou2 wan1 nyun5.", en: "First, it's old; second, it's warm."}
+    - {hanzi: "放學之後我要去補習。", jyutping: "fong3 hok6 zi1 hau6 ngo5 jiu3 heoi3 bou2 zaap6.", en: "After school I have to go to tutoring."}
+    - {hanzi: "我聽日有測驗，又有默書。", jyutping: "ngo5 ting1 jat6 jau5 caak1 jim6, jau6 jau5 mak6 syu1.", en: "Tomorrow I have a test and a dictation."}
+    - {hanzi: "總括嚟講，佢係一個好好人。", jyutping: "zung2 kut3 lai4 gong2, keoi5 hai6 jat1 go3 hou2 hou2 jan4.", en: "To sum up, he's a really kind man."}
+  fill:
+    - {hanzi: "你個講稿___未？", jyutping: "nei5 go3 gong2 gou2 ___ mei6?", answer: "bui6 suk6", answer_hanzi: 背熟, en: "Have you learned your script by heart?"}
+    - {hanzi: "上次口試我___，得咗六十分。", jyutping: "soeng6 ci3 hau2 si5 ngo5 ___, dak1 zo2 luk6 sap6 fan1.", answer: "hau2 zat6", answer_hanzi: 口窒, en: "Last oral exam I stumbled and got sixty."}
+    - {hanzi: "牆上面有好多黑白___。", jyutping: "coeng4 soeng6 min6 jau5 hou2 do1 haak1 baak6 ___.", answer: "ziu3 pin2", answer_hanzi: 照片, en: "There are lots of black-and-white photos on the walls."}
+    - {hanzi: "如果你攞___，我請你食菠蘿油。", jyutping: "jyu4 gwo2 nei5 lo2 ___, ngo5 ceng2 nei5 sik6 bo1 lo4 jau4.", answer: "mun5 fan1", answer_hanzi: 滿分, en: "If you get full marks, I'll treat you to pineapple buns."}
+    - {hanzi: "講得好___，冇口窒。", jyutping: "gong2 dak1 hou2 ___, mou5 hau2 zat6.", answer: "lau4 lei6", answer_hanzi: 流利, en: "Very fluent, no stumbling."}
