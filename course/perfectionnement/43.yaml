@@ -82,6 +82,7 @@ new_words:
   - {jyutping: "so4 mui1", hanzi: 傻妹, en: "silly girl"}
   - {jyutping: "baak6 syut1 syut1", hanzi: 白雪雪, en: "snow-white"}
   - {jyutping: "zing6 jing1 jing1", hanzi: 靜英英, en: "dead quiet"}
+  - {jyutping: "dai6 saam1", hanzi: 第三, en: "third"}
 exercises:
   translate:
     - {hanzi: "佢係好人，不過講嘢好粗口。", jyutping: "keoi5 hai6 hou2 jan4, bat1 gwo3 gong2 je5 hou2 cou1 hau2.", en: "He's a good man, but he swears a lot."}
