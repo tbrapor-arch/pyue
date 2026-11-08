@@ -1,0 +1,96 @@
+# 進修 9. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 9
+title: {en: "A blessing in disguise", jyutping: "coi3 jung1 sat1 maa5", hanzi: "塞翁失馬"}
+genre: dialogue
+review: false
+setting: "Mid-October, a Thursday evening. Kayan's friend Ivy, a social worker, runs a community centre in Sham Shui Po and has asked Hugo to teach a free French class to teenagers. Five of them turn up. Ivy watches from the door."
+dialogue:
+  - {n: 1, speaker: Ivy, hanzi: "Hugo，多謝你肯嚟。我哋社區中心啲中學生，好少有機會識外國人。", jyutping: "Hugo, do1 ze6 nei5 hang2 lai4. ngo5 dei6 se5 keoi1 zung1 sam1 di1 zung1 hok6 saang1, hou2 siu2 jau5 gei1 wui6 sik1 ngoi6 gwok3 jan4.", en: "Hugo, thanks for coming. The secondary-school kids at our community centre rarely get the chance to meet foreigners."}
+  - {n: 2, speaker: Hugo, hanzi: "唔使客氣。不過我未教過書，有啲驚。", jyutping: "m4 sai2 haak3 hei3. bat1 gwo3 ngo5 mei6 gaau3 gwo3 syu1, jau5 di1 geng1.", en: "Not at all. But I've never taught before, I'm a bit scared."}
+  - {n: 3, speaker: Ivy, hanzi: "唔使驚，佢哋好乖㗎。不過講定先：學費我哋收得好平，你嘅人工就……暫時唔多。", jyutping: "m4 sai2 geng1, keoi5 dei6 hou2 gwaai1 gaa3. bat1 gwo3 gong2 ding6 sin1: hok6 fai3 ngo5 dei6 sau1 dak1 hou2 peng4, nei5 ge3 jan4 gung1 zau6 …… zaam6 si4 m4 do1.", en: "Don't be, they're very well behaved. But let me say it up front: the fees, we keep them very low, and your pay… isn't much for now."}
+  - {n: 4, speaker: Hugo, hanzi: "錢，我唔擔心。我想試吓教書係咩感覺。", jyutping: "cin2, ngo5 m4 daam1 sam1. ngo5 soeng2 si3 haa5 gaau3 syu1 hai6 me1 gam2 gok3.", en: "Money, I'm not worried about. I want to find out what teaching feels like."}
+  - {n: 5, speaker: Hugo, hanzi: "大家好！我叫雨果，係法國人。今日第一堂，我哋先自我介紹。你叫咩名呀？", jyutping: "daai6 gaa1 hou2! ngo5 giu3 jyu5 gwo2, hai6 faat3 gwok3 jan4. gam1 jat6 dai6 jat1 tong4, ngo5 dei6 sin1 zi6 ngo5 gaai3 siu6. nei5 giu3 me1 meng2 aa3?", en: "Hello everyone! My name is Hugo, I'm French. It's our first lesson today, so let's start by introducing ourselves. What's your name?"}
+  - {n: 6, speaker: Fung, hanzi: "我叫Mbappe。", jyutping: "ngo5 giu3 Mbappe.", en: "My name's Mbappé."}
+  - {n: 7, speaker: Bobo, hanzi: "我叫Zidane！佢係我細佬，所以都姓Mbappe。", jyutping: "ngo5 giu3 Zidane! keoi5 hai6 ngo5 sai3 lou2, so2 ji5 dou1 sing3 Mbappe.", en: "I'm Zidane! He's my little brother, so his surname's Mbappé too."}
+  - {n: 8, speaker: Hugo, hanzi: "好，Zidane同Mbappe。咁你哋兩兄弟嘅法文，應該好叻啦？", jyutping: "hou2, Zidane tung4 Mbappe. gam2 nei5 dei6 loeng5 hing1 dai6 ge3 faat3 man2, jing1 goi1 hou2 lek1 laa1?", en: "Right, Zidane and Mbappé. So you two brothers must speak very good French?"}
+  - {n: 9, speaker: Fung, hanzi: "唔識。我淨係識講「bonjour」同埋「croissant」。", jyutping: "m4 sik1. ngo5 zing6 hai6 sik1 gong2 \"bonjour\" tung4 maai4 \"croissant\".", en: "No. All I can say is 'bonjour' and 'croissant'."}
+  - {n: 10, speaker: Ivy, hanzi: "（喺門口細聲講）佢哋玩緊你呀，Hugo。佢真名叫阿峰。", jyutping: "(hai2 mun4 hau2 sai3 seng1 gong2) keoi5 dei6 waan2 gan2 nei5 aa3, Hugo. keoi5 zan1 meng2 giu3 aa3 fung1.", en: "(Quietly from the door) They're pulling your leg, Hugo. His real name is Fung."}
+  - {n: 11, speaker: Hugo, hanzi: "我知。第一堂就俾人玩，都算係一種經驗。（對Bobo）你呢？點解嚟學法文？", jyutping: "ngo5 zi1. dai6 jat1 tong4 zau6 bei2 jan4 waan2, dou1 syun3 hai6 jat1 zung2 ging1 jim6. (deoi3 Bobo) nei5 ne1? dim2 gaai2 lai4 hok6 faat3 man2?", en: "I know. Getting teased in your very first lesson: that counts as experience too. (To Bobo) And you? Why are you learning French?"}
+  - {n: 12, speaker: Bobo, hanzi: "因為上堂有零食。上個月嘅韓文班冇，所以我哋成班轉咗嚟。", jyutping: "jan1 wai6 soeng5 tong4 jau5 ling4 sik6. soeng6 go3 jyut6 ge3 hon4 man2 baan1 mou5, so2 ji5 ngo5 dei6 seng4 baan1 zyun3 zo2 lai4.", en: "Because there are snacks in class. The Korean class last month didn't have any, so our whole lot switched over here."}
+  - {n: 13, speaker: Hugo, hanzi: "呢個原因好簡單，又好誠實。咁今日我哋就學點樣用法文講「薯片」。", jyutping: "ni1 go3 jyun4 jan1 hou2 gaan2 daan1, jau6 hou2 sing4 sat6. gam2 gam1 jat6 ngo5 dei6 zau6 hok6 dim2 joeng2 jung6 faat3 man2 gong2 \"syu4 pin2\".", en: "That's a simple reason, and an honest one. So today we'll learn how to say 'crisps' in French."}
+  - {n: 14, speaker: Hugo, hanzi: "（落堂之後，對Ivy）結果一個鐘頭，佢哋學識咗「chips」、「merci」同埋「bravo」。", jyutping: "(lok6 tong4 zi1 hau6, deoi3 Ivy) git3 gwo2 jat1 go3 zung1 tau4, keoi5 dei6 hok6 sik1 zo2 \"chips\", \"merci\" tung4 maai4 \"bravo\".", en: "(After class, to Ivy) In the end, after an hour, they'd learnt 'chips', 'merci' and 'bravo'."}
+  - {n: 15, speaker: Ivy, hanzi: "已經唔錯喇。我做社工咁多年，上次個英文老師，俾佢哋激到喊，第二個禮拜就離開咗，冇再返嚟。", jyutping: "ji5 ging1 m4 co3 laa3. ngo5 zou6 se5 gung1 gam3 do1 nin4, soeng6 ci3 go3 jing1 man2 lou5 si1, bei2 keoi5 dei6 gik1 dou3 haam3, dai6 ji6 go3 lai5 baai3 zau6 lei4 hoi1 zo2, mou5 zoi3 faan1 lai4.", en: "That's not bad at all. In all my years as a social worker… last time, the English teacher was driven to tears by them; she left the next week and never came back."}
+  - {n: 16, speaker: Si, hanzi: "（行返入嚟）雨果老師……我可唔可以問一個問題？", jyutping: "(haang4 faan1 jap6 lai4) jyu5 gwo2 lou5 si1 …… ngo5 ho2 m4 ho2 ji5 man6 jat1 go3 man6 tai4?", en: "(Coming back in) Mr Hugo… may I ask a question?"}
+  - {n: 17, speaker: Hugo, hanzi: "當然可以。你係……阿詩？成堂都冇出過聲嗰個。", jyutping: "dong1 jin4 ho2 ji5. nei5 hai6 …… aa3 si1? seng4 tong4 dou1 mou5 ceot1 gwo3 seng1 go2 go3.", en: "Of course. You're… Si? The one who didn't say a word the whole lesson."}
+  - {n: 18, speaker: Si, hanzi: "係。我好想去巴黎讀設計。巴黎嘅大學學費係咪好貴？我屋企冇咩錢。", jyutping: "hai6. ngo5 hou2 soeng2 heoi3 baa1 lai4 duk6 cit3 gai3. baa1 lai4 ge3 daai6 hok6 hok6 fai3 hai6 mai6 hou2 gwai3? ngo5 uk1 kei2 mou5 me1 cin2.", en: "Yes. I really want to study design in Paris. Are university fees in Paris very expensive? My family doesn't have much money."}
+  - {n: 19, speaker: Hugo, hanzi: "法國嘅公立大學其實唔算貴，一年兩萬幾蚊港紙，同香港差唔多。最難嘅係語言。", jyutping: "faat3 gwok3 ge3 gung1 laap6 daai6 hok6 kei4 sat6 m4 syun3 gwai3, jat1 nin4 loeng5 maan6 gei2 man1 gong2 zi2, tung4 hoeng1 gong2 caa1 m4 do1. zeoi3 naan4 ge3 hai6 jyu5 jin4.", en: "Public universities in France aren't really expensive: twenty-odd thousand Hong Kong dollars a year, about the same as here. The hardest part is the language."}
+  - {n: 20, speaker: Si, hanzi: "咁……我下個禮拜可唔可以再嚟？我唔係為咗零食㗎。", jyutping: "gam2 …… ngo5 haa6 go3 lai5 baai3 ho2 m4 ho2 ji5 zoi3 lai4? ngo5 m4 hai6 wai6 zo2 ling4 sik6 gaa3.", en: "Then… can I come again next week? I'm not here for the snacks."}
+  - {n: 21, speaker: Hugo, hanzi: "梗係可以。唔使怕醜，用法文講句「再見」試吓？", jyutping: "gang2 hai6 ho2 ji5. m4 sai2 paa3 cau2, jung6 faat3 man2 gong2 geoi3 \"zoi3 gin3\" si3 haa5?", en: "Of course you can. Don't be shy: try saying 'goodbye' in French?"}
+  - {n: 22, speaker: Si, hanzi: "Au revoir……（好細聲咁講完，就即刻走咗出去）", jyutping: "au revoir …… (hou2 sai3 seng1 gam2 gong2 jyun4, zau6 zik1 hak1 zau2 zo2 ceot1 heoi3)", en: "Au revoir… (She says it in a whisper and hurries straight out.)"}
+  - {n: 23, speaker: Ivy, hanzi: "你睇，塞翁失馬。第一堂俾人玩，結果搵到一個真係想學嘅人。", jyutping: "nei5 tai2, coi3 jung1 sat1 maa5. dai6 jat1 tong4 bei2 jan4 waan2, git3 gwo2 wan2 dou2 jat1 go3 zan1 hai6 soeng2 hok6 ge3 jan4.", en: "You see: a blessing in disguise. You got teased in your first lesson, and in the end you found someone who really wants to learn."}
+  - {n: 24, speaker: Ivy, hanzi: "係喎，你屋企人知唔知你而家教書？", jyutping: "hai6 wo3, nei5 uk1 kei2 jan4 zi1 m4 zi1 nei5 ji4 gaa1 gaau3 syu1?", en: "Oh, by the way, does your family know you're teaching now?"}
+  - {n: 25, speaker: Hugo, hanzi: "唔知……我阿媽以為我仲喺中環返工。辭職呢件事，我暫時唔敢講。", jyutping: "m4 zi1 …… ngo5 aa3 maa1 ji5 wai4 ngo5 zung6 hai2 zung1 waan4 faan1 gung1. ci4 zik1 ni1 gin6 si6, ngo5 zaam6 si4 m4 gam2 gong2.", en: "No… my mum thinks I'm still working in Central. Quitting my job, I don't dare tell her for now."}
+notes:
+  - {ref: 1, topic: vocab, text: "社區中心 se5 keoi1 zung1 sam1 = community centre, run by social-service groups in every district: classes, homework help, activities for the elderly. 中學生 zung1 hok6 saang1 = secondary-school pupil. 機會 gei1 wui6 = chance, opportunity: 好少有機會 'rarely get the chance'."}
+  - {ref: 3, topic: grammar, text: "Topic first (P1), very common when you set terms: 學費我哋收得好平 'the fees, we charge very little'; 錢，我唔擔心 (line 4); 辭職呢件事，我暫時唔敢講 (line 25). The topic can be the object, a whole clause, or 呢件事 'this matter'. 講定先 'let's agree beforehand'."}
+  - {ref: 3, topic: vocab, text: "乖 gwaai1 = well-behaved, good (of children). 學費 hok6 fai3 = school fees, tuition. 暫時 zaam6 si4 = for the moment, for now: 暫時唔多 'not much for now'."}
+  - {ref: 5, topic: vocab, text: "堂 tong4 = classifier for lessons: 第一堂 'the first lesson', 成堂 'the whole lesson' (line 17). 上堂 soeng5 tong4 = attend / have a class; 落堂 lok6 tong4 = class ends (line 14). 自我介紹 zi6 ngo5 gaai3 siu6 = introduce oneself."}
+  - {ref: 7, topic: culture, text: "Football names are a favourite teenage joke on a French teacher. 細佬 sai3 lou2 = younger brother; 兩兄弟 loeng5 hing1 dai6 'the two brothers' (line 8)."}
+  - {ref: 10, topic: vocab, text: "玩 waan2 + person = make fun of, pull someone's leg: 佢哋玩緊你 'they're having you on'. 真名 zan1 meng2 = real name."}
+  - {ref: 11, topic: grammar, text: "The 俾 passive: subject + 俾 + agent + verb, mostly for things that happen to you against your will: 俾人玩 'be teased', 俾佢哋激到喊 'be driven to tears by them' (line 15). The agent must be said; if you don't know who, use 人: 俾人鬧 'get told off'. 算係 = count as: 都算係一種經驗."}
+  - {ref: 12, topic: vocab, text: "零食 ling4 sik6 = snacks. 韓文 hon4 man2 = Korean (language). 成班 'the whole group'. 轉咗嚟 'switched over here'."}
+  - {ref: 13, topic: vocab, text: "原因 jyun4 jan1 = reason, cause: 呢個原因 'this reason'; 因為 introduces it in a sentence. 誠實 sing4 sat6 = honest. 薯片 syu4 pin2 = crisps, potato chips."}
+  - {ref: 14, topic: vocab, text: "結果 git3 gwo2 = in the end, as it turned out (start of a sentence); also the noun 'result'. 學識 (P8) 'have learnt (to do)'. Code-mixed French words stay in Latin letters, as English ones do."}
+  - {ref: 15, topic: vocab, text: "激 gik1 = provoke, wind up, make angry: 激到喊 'wound up till she cried'; 激死人 'infuriating'. 離開 lei4 hoi1 = leave (a place, a job): more formal than 走."}
+  - {ref: 17, topic: vocab, text: "當然 dong1 jin4 = of course (a little more formal than 梗係). 出聲 ceot1 seng1 = make a sound, speak up: 冇出過聲 'didn't say a word'. The relative clause ends the sentence: 成堂都冇出過聲嗰個 'the one who …'."}
+  - {ref: 19, topic: culture, text: "公立 gung1 laap6 = public (school, hospital). French public universities charge non-EU students a few thousand euros a year: twenty-odd thousand Hong Kong dollars (港紙 gong2 zi2, spoken). 設計 cit3 gai3 = design (line 18). 語言 jyu5 jin4 = language."}
+  - {ref: 20, topic: grammar, text: "為咗 wai6 zo2 = for (the sake of), because of: 我唔係為咗零食 'I'm not here for the snacks'. P31 comes back to it. 怕醜 paa3 cau2 (line 21) = shy, bashful; 即刻 zik1 hak1 (line 22) = at once."}
+  - {ref: 11, topic: vs-mandarin, text: "Cantonese 俾 does three jobs: 'give' (俾錢), 'to' (send俾我), and the passive 'by' (俾人玩). Mandarin splits them: 給 for 'give / to', 被 (or spoken 讓, 叫) for the passive. Mandarin 被 can stand alone (他被騙了); Cantonese needs an agent: 佢俾人呃咗."}
+pron:
+  - {ref: 23, text: "塞 is sak1 'block, stuff', but coi3 in 塞翁失馬 (the old man of the frontier, 邊塞)."}
+  - {ref: 18, text: "巴黎 baa1 lai4 'Paris': both syllables are level-ish; don't say baa1 lai5."}
+  - {ref: 12, text: "韓 hon4 'Korea' and 寒 hon4 'cold' sound the same; 汗 hon6 'sweat' differs only in tone."}
+new_words:
+  - {jyutping: "se5 keoi1 zung1 sam1", hanzi: 社區中心, en: "community centre"}
+  - {jyutping: "zung1 hok6 saang1", hanzi: 中學生, en: "secondary-school pupil"}
+  - {jyutping: "gei1 wui6", hanzi: 機會, en: "chance, opportunity"}
+  - {jyutping: "hok6 fai3", hanzi: 學費, en: "school fees, tuition"}
+  - {jyutping: "zaam6 si4", hanzi: 暫時, en: "for the moment, for now"}
+  - {jyutping: "zi6 ngo5 gaai3 siu6", hanzi: 自我介紹, en: "introduce oneself"}
+  - {jyutping: "soeng5 tong4", hanzi: 上堂, en: "have a class"}
+  - {jyutping: "lok6 tong4", hanzi: 落堂, en: "class ends"}
+  - {jyutping: "ling4 sik6", hanzi: 零食, en: "snacks"}
+  - {jyutping: "hon4 man2", hanzi: 韓文, en: "Korean (language)"}
+  - {jyutping: "jyun4 jan1", hanzi: 原因, en: "reason, cause"}
+  - {jyutping: "sing4 sat6", hanzi: 誠實, en: "honest"}
+  - {jyutping: "syu4 pin2", hanzi: 薯片, en: "crisps, potato chips"}
+  - {jyutping: "git3 gwo2", hanzi: 結果, en: "in the end; result"}
+  - {jyutping: "gik1", hanzi: 激, en: "provoke, wind up"}
+  - {jyutping: "lei4 hoi1", hanzi: 離開, en: "leave"}
+  - {jyutping: "dong1 jin4", hanzi: 當然, en: "of course"}
+  - {jyutping: "ceot1 seng1", hanzi: 出聲, en: "make a sound, speak up"}
+  - {jyutping: "baa1 lai4", hanzi: 巴黎, en: "Paris"}
+  - {jyutping: "gung1 laap6", hanzi: 公立, en: "public (school, university)"}
+  - {jyutping: "gong2 zi2", hanzi: 港紙, en: "Hong Kong dollars"}
+  - {jyutping: "paa3 cau2", hanzi: 怕醜, en: "shy"}
+  - {jyutping: "coi3 jung1 sat1 maa5", hanzi: 塞翁失馬, en: "a blessing in disguise"}
+  - {jyutping: "hing1 dai6", hanzi: 兄弟, en: "brothers"}
+  - {jyutping: "bun2 loi4", hanzi: 本來, en: "originally, at first"}
+  - {jyutping: "haak3 hei3", hanzi: 客氣, en: "polite (唔使客氣: you're welcome)"}
+  - {jyutping: "syun3", hanzi: 算, en: "count as; calculate"}
+  - {jyutping: "se5 gung1", hanzi: 社工, en: "social worker"}
+  - {jyutping: "bat1", hanzi: 筆, en: "pen"}
+  - {jyutping: "zoi3 gin3", hanzi: 再見, en: "goodbye"}
+exercises:
+  translate:
+    - {hanzi: "佢第一日返工就俾老闆話。", jyutping: "keoi5 dai6 jat1 jat6 faan1 gung1 zau6 bei2 lou5 baan2 waa6.", en: "He got told off by the boss on his very first day at work."}
+    - {hanzi: "學費，我哋暫時唔收。", jyutping: "hok6 fai3, ngo5 dei6 zaam6 si4 m4 sau1.", en: "Fees, we're not charging any for now."}
+    - {hanzi: "佢離開香港嘅原因好簡單：租金太貴。", jyutping: "keoi5 lei4 hoi1 hoeng1 gong2 ge3 jyun4 jan1 hou2 gaan2 daan1: zou1 gam1 taai3 gwai3.", en: "The reason he left Hong Kong is simple: rents are too high."}
+    - {hanzi: "我本來唔想去，結果玩得好開心。", jyutping: "ngo5 bun2 loi4 m4 soeng2 heoi3, git3 gwo2 waan2 dak1 hou2 hoi1 sam1.", en: "I didn't want to go at first, but in the end I had a great time."}
+    - {hanzi: "佢好怕醜，成堂都冇出聲。", jyutping: "keoi5 hou2 paa3 cau2, seng4 tong4 dou1 mou5 ceot1 seng1.", en: "She's very shy; she didn't say a word the whole lesson."}
+  fill:
+    - {hanzi: "我枝筆___人攞咗。", jyutping: "ngo5 zi1 bat1 ___ jan4 lo2 zo2.", answer: "bei2", answer_hanzi: 俾, en: "Someone has taken my pen."}
+    - {hanzi: "佢哋唔係想學法文，係___咗零食。", jyutping: "keoi5 dei6 m4 hai6 soeng2 hok6 faat3 man2, hai6 ___ zo2 ling4 sik6.", answer: "wai6", answer_hanzi: 為, en: "They don't want to learn French; they're here for the snacks."}
+    - {hanzi: "你可唔可以借我枝筆？——___可以！", jyutping: "nei5 ho2 m4 ho2 ji5 ze3 ngo5 zi1 bat1? —— ___ ho2 ji5!", answer: "dong1 jin4", answer_hanzi: 當然, en: "Can you lend me a pen? — Of course!"}
+    - {hanzi: "上次個老師俾佢哋___到喊。", jyutping: "soeng6 ci3 go3 lou5 si1 bei2 keoi5 dei6 ___ dou3 haam3.", answer: "gik1", answer_hanzi: 激, en: "Last time the teacher was driven to tears by them."}
+    - {hanzi: "辭職呢件事，我___唔敢同阿媽講。", jyutping: "ci4 zik1 ni1 gin6 si6, ngo5 ___ m4 gam2 tung4 aa3 maa1 gong2.", answer: "zaam6 si4", answer_hanzi: 暫時, en: "Quitting my job, I don't dare tell Mum for now."}
