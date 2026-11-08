@@ -1,0 +1,87 @@
+# 進修 31. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 31
+title: {en: "Wishing you prosperity", jyutping: "gung1 hei2 faat3 coi4", hanzi: "恭喜發財"}
+intro: "New Year visits and nosy relatives: saying what something is for (為咗…, 去 / 嚟 + verb), red-packet rules, and family titles."
+genre: dialogue
+review: false
+setting: "The second day of the Lunar New Year (年初二), Sunday 7 February 2027. Kayan takes Hugo to visit her aunt, 梁伯's younger sister, on Peng Chau, a small quiet island near Lantau. 梁伯 stayed at home to rest. The aunt (姑姐) and her husband (姑丈) have a tray of New Year sweets ready."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "年初二，我哋嚟坪洲拜年。姑姐喺度住咗幾十年，佢成日話坪洲細過長洲，又靜過長洲。", jyutping: "nin4 co1 ji6, ngo5 dei6 lai4 ping4 zau1 baai3 nin4. gu1 ze1 hai2 dou6 zyu6 zo2 gei2 sap6 nin4, keoi5 sing4 jat6 waa6 ping4 zau1 sai3 gwo3 coeng4 zau1, jau6 zing6 gwo3 coeng4 zau1.", en: "On the second day of New Year, we've come to Peng Chau to pay New Year visits. My aunt has lived here for decades; she always says Peng Chau is smaller than Cheung Chau, and quieter too."}
+  - {n: 2, speaker: Hugo, hanzi: "喺中環六號碼頭搭船，四十分鐘就到。呢度啲人好似個個都識晒對方。", jyutping: "hai2 zung1 waan4 luk6 hou6 maa5 tau4 daap3 syun4, sei3 sap6 fan1 zung1 zau6 dou3. ni1 dou6 di1 jan4 hou2 ci5 go3 go3 dou1 sik1 saai3 deoi3 fong1.", en: "Forty minutes by ferry from Pier 6 in Central. Everyone here seems to know everyone else."}
+  - {n: 3, speaker: Aunt, hanzi: "恭喜發財！阿欣，入嚟入嚟！呢位就係阿果？好靚仔喎！", jyutping: "gung1 hei2 faat3 coi4! aa3 jan1, jap6 lai4 jap6 lai4! ni1 wai2 zau6 hai6 aa3 gwo2? hou2 leng3 zai2 wo3!", en: "Happy New Year! Kayan, come in, come in! So this is A-Gwo? What a handsome boy!"}
+  - {n: 4, speaker: Hugo, hanzi: "恭喜發財，姑姐！祝你身體健康……（嘉欣踢咗佢一下）……青春常駐！", jyutping: "gung1 hei2 faat3 coi4, gu1 ze1! zuk1 nei5 san1 tai2 gin6 hong1 …… (gaa1 jan1 tek3 zo2 keoi5 jat1 haa5) …… cing1 ceon1 soeng4 zyu3!", en: "Happy New Year, Auntie! Wishing you good health… (Kayan kicks him) …and eternal youth!"}
+  - {n: 5, speaker: Aunt, hanzi: "咁嘴甜！嚟，俾封利是你。", jyutping: "gam3 zeoi2 tim4! lai4, bei2 fung1 lai6 si6 nei5.", en: "What a sweet talker! Here, a red packet for you."}
+  - {n: 6, speaker: Hugo, hanzi: "我都有份？我三十一歲喇。", jyutping: "ngo5 dou1 jau5 fan2? ngo5 saam1 sap6 jat1 seoi3 laa3.", en: "I get one too? I'm thirty-one."}
+  - {n: 7, speaker: Kayan, hanzi: "未結婚就有份，同年紀冇關係。結咗婚嘅人就要派利是。", jyutping: "mei6 git3 fan1 zau6 jau5 fan2, tung4 nin4 gei2 mou5 gwaan1 hai6. git3 zo2 fan1 ge3 jan4 zau6 jiu3 paai3 lai6 si6.", en: "If you're not married you get one; age has nothing to do with it. Married people have to hand them out."}
+  - {n: 8, speaker: Uncle, hanzi: "阿果，你今年幾多歲？做咩工？一個月賺幾多？", jyutping: "aa3 gwo2, nei5 gam1 nin4 gei2 do1 seoi3? zou6 me1 gung1? jat1 go3 jyut6 zaan6 gei2 do1?", en: "A-Gwo, how old are you this year? What do you do? How much do you earn a month?"}
+  - {n: 9, speaker: Kayan, hanzi: "姑丈！新年唔好問人哋人工啦。", jyutping: "gu1 zoeng2! san1 nin4 m4 hou2 man6 jan4 dei6 jan4 gung1 laa1.", en: "Uncle! You don't ask people their salary at New Year."}
+  - {n: 10, speaker: Uncle, hanzi: "問吓啫嘛，我係為咗佢好。有冇女朋友呀？幾時結婚？", jyutping: "man6 haa5 ze1 maa3, ngo5 hai6 wai6 zo2 keoi5 hou2. jau5 mou5 neoi5 pang4 jau5 aa3? gei2 si4 git3 fan1?", en: "I'm only asking; it's for his own good. Got a girlfriend? When's the wedding?"}
+  - {n: 11, speaker: Hugo, hanzi: "呃……有個朋友……佢喺長洲……", jyutping: "e2 …… jau5 go3 pang4 jau5 …… keoi5 hai2 coeng4 zau1 ……", en: "Er… there's a friend… she's on Cheung Chau…"}
+  - {n: 12, speaker: Aunt, hanzi: "長洲女仔好！識游水，又捱得。你幾時娶佢？", jyutping: "coeng4 zau1 neoi5 zai2 hou2! sik1 jau4 seoi2, jau6 ngaai4 dak1. nei5 gei2 si4 ceoi2 keoi5?", en: "Cheung Chau girls are good! They can swim, and they're tough. When are you going to marry her?"}
+  - {n: 13, speaker: Hugo, hanzi: "我哋……先拍咗兩個禮拜拖……", jyutping: "ngo5 dei6 …… sin1 paak3 zo2 loeng5 go3 lai5 baai3 to1 ……", en: "We've… only been going out for two weeks…"}
+  - {n: 14, speaker: Aunt, hanzi: "兩個禮拜都夠㗎喇！我同你姑丈睇咗一次戲，就嫁咗俾佢。", jyutping: "loeng5 go3 lai5 baai3 dou1 gau3 gaa3 laa3! ngo5 tung4 nei5 gu1 zoeng2 tai2 zo2 jat1 ci3 hei3, zau6 gaa3 zo2 bei2 keoi5.", en: "Two weeks is plenty! Your uncle and I went to the cinema once, and then I married him."}
+  - {n: 15, speaker: Kayan, hanzi: "姑姐，而家唔同喇。（細聲對雨果）佢哋問嘢係為咗表示關心，你唔使答晒。", jyutping: "gu1 ze1, ji4 gaa1 m4 tung4 laa3. (sai3 seng1 deoi3 jyu5 gwo2) keoi5 dei6 man6 je5 hai6 wai6 zo2 biu2 si6 gwaan1 sam1, nei5 m4 sai2 daap3 saai3.", en: "Auntie, things are different now. (Quietly to Hugo) They ask questions to show they care; you don't have to answer them all."}
+  - {n: 16, speaker: Uncle, hanzi: "阿欣你呢？你都三十一歲，仲唔嫁？", jyutping: "aa3 jan1 nei5 ne1? nei5 dou1 saam1 sap6 jat1 seoi3, zung6 m4 gaa3?", en: "And you, Kayan? You're thirty-one as well; still not married?"}
+  - {n: 17, speaker: Kayan, hanzi: "姑丈，我……我出去買啲生果先！", jyutping: "gu1 zoeng2, ngo5 …… ngo5 ceot1 heoi3 maai5 di1 saang1 gwo2 sin1!", en: "Uncle, I… I'll just pop out and buy some fruit!"}
+  - {n: 18, speaker: Aunt, hanzi: "唔使買，屋企有晒。坐低，食全盒先。", jyutping: "m4 sai2 maai5, uk1 kei2 jau5 saai3. co5 dai1, sik6 cyun4 hap2 sin1.", en: "No need, we've got everything. Sit down and have something from the sweets tray first."}
+  - {n: 19, speaker: Hugo, hanzi: "（打開全盒）呢啲係乜嘢？", jyutping: "(daa2 hoi1 cyun4 hap2) ni1 di1 hai6 mat1 je5?", en: "(Opening the tray) What are these?"}
+  - {n: 20, speaker: Aunt, hanzi: "瓜子、糖冬瓜、糖蓮子……每樣都有意思：食糖，一年甜甜蜜蜜；食瓜子，多仔多孫。", jyutping: "gwaa1 zi2, tong4 dung1 gwaa1, tong4 lin4 zi2 …… mui5 joeng6 dou1 jau5 ji3 si1: sik6 tong2, jat1 nin4 tim4 tim4 mat6 mat6; sik6 gwaa1 zi2, do1 zai2 do1 syun1.", en: "Melon seeds, candied winter melon, candied lotus seeds… each one means something: eat sweets and your year will be sweet; eat melon seeds and you'll have lots of children and grandchildren."}
+  - {n: 21, speaker: Hugo, hanzi: "咁我食少啲瓜子先。", jyutping: "gam2 ngo5 sik6 siu2 di1 gwaa1 zi2 sin1.", en: "Then I'll go easy on the melon seeds for now."}
+  - {n: 22, speaker: Uncle, hanzi: "哈哈！食完我哋去行手指山，幫吓消化。上到頂，可以睇到成個大嶼山。", jyutping: "haa1 haa1! sik6 jyun4 ngo5 dei6 heoi3 haang4 sau2 zi2 saan1, bong1 haa5 siu1 faa3. soeng5 dou3 deng2, ho2 ji5 tai2 dou2 seng4 go3 daai6 jyu4 saan1.", en: "Ha ha! After we eat, let's walk up Finger Hill to help the digestion. From the top you can see the whole of Lantau."}
+  - {n: 23, speaker: Hugo, hanzi: "好！我上個月行完麥理浩徑，一座細山冇問題。", jyutping: "hou2! ngo5 soeng6 go3 jyut6 haang4 jyun4 mak6 lei5 hou6 ging3, jat1 zo6 sai3 saan1 mou5 man6 tai4.", en: "Great! Last month I finished the MacLehose Trail; a little hill is no problem."}
+  - {n: 24, speaker: Aunt, hanzi: "一百公里？咁捱得，同長洲女仔一樣，好襯！", jyutping: "jat1 baak3 gung1 lei5? gam3 ngaai4 dak1, tung4 coeng4 zau1 neoi5 zai2 jat1 joeng6, hou2 can3!", en: "A hundred kilometres? As tough as a Cheung Chau girl: you're a perfect match!"}
+  - {n: 25, speaker: Kayan, hanzi: "姑姐，你又嚟喇……（對雨果）我話咗你知：拜年唔係為咗食，係為咗俾人問嘢。", jyutping: "gu1 ze1, nei5 jau6 lai4 laa3 …… (deoi3 jyu5 gwo2) ngo5 waa6 zo2 nei5 zi1: baai3 nin4 m4 hai6 wai6 zo2 sik6, hai6 wai6 zo2 bei2 jan4 man6 je5.", en: "Auntie, here you go again… (To Hugo) I told you: New Year visits aren't for eating, they're for being asked questions."}
+notes:
+  - {ref: 1, topic: culture, text: "拜年 baai3 nin4 = pay New Year visits to relatives and friends: 年初二 (the second day) is when people visit family. 坪洲 ping4 zau1 = Peng Chau, a small island off Lantau; ferries go from Central Pier 6. Once a place of lime kilns and a match factory, today it's quiet and full of old residents."}
+  - {ref: 1, topic: vocab, text: "姑姐 gu1 ze1 = aunt (father's younger sister); 姑媽 gu1 maa1 is father's elder sister. Her husband is 姑丈 gu1 zoeng2 (line 9). Cantonese has a title for each relative, depending on which side and which age."}
+  - {ref: 2, topic: vocab, text: "對方 deoi3 fong1 = the other person, each other: 識晒對方 'know each other'."}
+  - {ref: 4, topic: vocab, text: "踢 tek3 = kick. Hugo starts with 身體健康, the wish for old people, and Kayan's kick reminds him of P30: for a woman, 青春常駐."}
+  - {ref: 5, topic: vocab, text: "嘴甜 zeoi2 tim4 = sweet-talking (lit. 'sweet mouth'). 封 fung1 = classifier for red packets and letters: 一封利是. 有份 jau5 fan2 (line 6) = have a share, be included: 我都有份？ 'I get one too?'"}
+  - {ref: 7, topic: culture, text: "Red packets (利是, P30): married people (結咗婚嘅人) give them to children and to unmarried adults of any age. 派 paai3 = hand out: 派利是. 年紀 nin4 gei2 = age. 冇關係 'has nothing to do with it'."}
+  - {ref: 8, topic: culture, text: "New Year visits are famous for nosy questions: age, job, salary, girlfriend, marriage, children. 賺 zaan6 'earn' (P5). Answer vaguely, smile, and offer sweets."}
+  - {ref: 10, topic: grammar, text: "Purpose with 為咗 wai6 zo2 (P9): 我係為咗佢好 'it's for his own good'; 為咗表示關心 'to show they care' (line 15); 唔係為咗食，係為咗… 'not for eating, but for …' (line 25). Also 去 / 嚟 + verb: 出去買啲生果 'go out to buy some fruit' (line 17), 嚟坪洲拜年 'come to Peng Chau to pay visits' (line 1)."}
+  - {ref: 12, topic: vocab, text: "娶 ceoi2 = (of a man) marry, take a wife: 幾時娶佢？. 嫁 gaa3 = (of a woman) marry, marry into: 嫁咗俾佢 'married him' (line 14); 仲唔嫁？ 'still not married?' (line 16). The neutral word for both is 結婚. 捱得 'tough, can take hardship'."}
+  - {ref: 15, topic: vocab, text: "表示 biu2 si6 = show, express. 關心 gwaan1 sam1 = care about; concern. 答晒 'answer them all'."}
+  - {ref: 18, topic: culture, text: "全盒 cyun4 hap2 = the New Year 'tray of togetherness', with compartments of sweets: 瓜子 gwaa1 zi2 'melon seeds', 糖冬瓜 'candied winter melon', 糖蓮子 'candied lotus seeds'. Each brings a wish: 甜甜蜜蜜 'sweet and happy' (AABB, P25), 多仔多孫 'many children and grandchildren'."}
+  - {ref: 22, topic: culture, text: "手指山 Finger Hill is Peng Chau's small summit, with a view of Lantau (大嶼山 daai6 jyu4 saan1), Hong Kong's biggest island. 消化 siu1 faa3 = digest: 幫吓消化 'help the digestion'. 頂 'top'."}
+  - {ref: 24, topic: vocab, text: "襯 can3 = suit, match: 好襯 'a perfect match' (of a couple, or clothes)."}
+  - {ref: 12, topic: vs-mandarin, text: "Mandarin also has 娶 for men and 嫁 for women. 利是 = Mandarin 紅包; 拜年 is shared. Kin titles differ: Cantonese 姑姐 = Mandarin 姑姑 (younger), 姑丈 = 姑父 / 姑丈."}
+pron:
+  - {ref: 9, text: "姑丈 gu1 zoeng2: 丈 rises to zoeng2 in kin titles."}
+  - {ref: 6, text: "有份 jau5 fan2: 份 rises to fan2 here (but 一份工 fan6, P4)."}
+  - {ref: 12, text: "娶 'marry (a wife)' is ceoi2, rising; 嫁 'marry (a husband)' is gaa3."}
+new_words:
+  - {jyutping: "baai3 nin4", hanzi: 拜年, en: "pay New Year visits"}
+  - {jyutping: "ping4 zau1", hanzi: 坪洲, en: "Peng Chau"}
+  - {jyutping: "gu1 ze1", hanzi: 姑姐, en: "aunt (father's younger sister)"}
+  - {jyutping: "gu1 zoeng2", hanzi: 姑丈, en: "uncle (aunt's husband)"}
+  - {jyutping: "deoi3 fong1", hanzi: 對方, en: "the other person, each other"}
+  - {jyutping: "zeoi2 tim4", hanzi: 嘴甜, en: "sweet-talking"}
+  - {jyutping: "paai3", hanzi: 派, en: "hand out"}
+  - {jyutping: "jau5 fan2", hanzi: 有份, en: "have a share, be included"}
+  - {jyutping: "nin4 gei2", hanzi: 年紀, en: "age"}
+  - {jyutping: "gaa3", hanzi: 嫁, en: "(of a woman) marry"}
+  - {jyutping: "ceoi2", hanzi: 娶, en: "(of a man) marry"}
+  - {jyutping: "biu2 si6", hanzi: 表示, en: "show, express"}
+  - {jyutping: "gwaan1 sam1", hanzi: 關心, en: "care about"}
+  - {jyutping: "cyun4 hap2", hanzi: 全盒, en: "New Year sweets tray"}
+  - {jyutping: "gwaa1 zi2", hanzi: 瓜子, en: "melon seeds"}
+  - {jyutping: "dung1 gwaa1", hanzi: 冬瓜, en: "winter melon"}
+  - {jyutping: "siu1 faa3", hanzi: 消化, en: "digest"}
+  - {jyutping: "daai6 jyu4 saan1", hanzi: 大嶼山, en: "Lantau Island"}
+  - {jyutping: "gu1 maa1", hanzi: 姑媽, en: "aunt (father's elder sister)"}
+  - {jyutping: "faan4", hanzi: 煩, en: "annoying; bothered"}
+  - {jyutping: "man6 coeng4 man6 dyun2", hanzi: 問長問短, en: "ask all sorts of questions"}
+exercises:
+  translate:
+    - {hanzi: "我嚟香港係為咗學廣東話。", jyutping: "ngo5 lai4 hoeng1 gong2 hai6 wai6 zo2 hok6 gwong2 dung1 waa2.", en: "I came to Hong Kong to learn Cantonese."}
+    - {hanzi: "佢出咗去買生果。", jyutping: "keoi5 ceot1 zo2 heoi3 maai5 saang1 gwo2.", en: "She's gone out to buy fruit."}
+    - {hanzi: "新年啲親戚成日問長問短，好煩。", jyutping: "san1 nin4 di1 can1 cik1 sing4 jat6 man6 coeng4 man6 dyun2, hou2 faan4.", en: "At New Year the relatives ask endless questions; it's so annoying."}
+    - {hanzi: "佢哋兩個好襯，不如快啲結婚。", jyutping: "keoi5 dei6 loeng5 go3 hou2 can3, bat1 jyu4 faai3 di1 git3 fan1.", en: "Those two are a perfect match; they should hurry up and get married."}
+    - {hanzi: "未結婚嘅人都有利是，同年紀冇關係。", jyutping: "mei6 git3 fan1 ge3 jan4 dou1 jau5 lai6 si6, tung4 nin4 gei2 mou5 gwaan1 hai6.", en: "Unmarried people all get red packets; age has nothing to do with it."}
+  fill:
+    - {hanzi: "佢問你人工，係___表示關心。", jyutping: "keoi5 man6 nei5 jan4 gung1, hai6 ___ biu2 si6 gwaan1 sam1.", answer: "wai6 zo2", answer_hanzi: 為咗, en: "He asks about your salary to show he cares."}
+    - {hanzi: "結咗婚嘅人要___利是。", jyutping: "git3 zo2 fan1 ge3 jan4 jiu3 ___ lai6 si6.", answer: "paai3", answer_hanzi: 派, en: "Married people have to hand out red packets."}
+    - {hanzi: "我姑媽三十年前___咗嚟坪洲。", jyutping: "ngo5 gu1 maa1 saam1 sap6 nin4 cin4 ___ zo2 lai4 ping4 zau1.", answer: "gaa3", answer_hanzi: 嫁, en: "My aunt married and moved to Peng Chau thirty years ago."}
+    - {hanzi: "我都有___？多謝姑姐！", jyutping: "ngo5 dou1 jau5 ___? do1 ze6 gu1 ze1!", answer: "fan2", answer_hanzi: 份, en: "I get one too? Thank you, Auntie!"}
+    - {hanzi: "食完飯行吓山，幫吓___。", jyutping: "sik6 jyun4 faan6 haang4 haa5 saan1, bong1 haa5 ___.", answer: "siu1 faa3", answer_hanzi: 消化, en: "After the meal, a little walk up the hill helps the digestion."}
