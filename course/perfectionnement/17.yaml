@@ -1,0 +1,99 @@
+# 進修 17. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 17
+title: {en: "A good deed struck by lightning", jyutping: "hou2 sam1 zoek6 leoi4 pek3", hanzi: "好心著雷劈"}
+intro: "A one-act comedy of errors: practise passing on questions and orders (佢問你…, 佢叫我唔好…, 我唔知佢係邊個) and the particles 噃, 啫嘛, 之嘛, 咯."
+genre: play
+review: false
+setting: "Late November, six in the morning. 梁伯 opens the kitchen of 梁記 and finds it in a state. Characters: 梁伯; 蓮姐; Hugo; 強哥, the cook (tattoos, crew cut, few words, breeds goldfish, sings Cantonese opera while frying eggs); 樂仔, 蓮姐's grandson, in booth three with his schoolbag."
+dialogue:
+  - {n: 1, speaker: Leung Pak, hanzi: "嘩！邊個搞到成個廚房咁邋遢？地下全部係油，仲有一堆螺絲！", jyutping: "waa3! bin1 go3 gaau2 dou3 seng4 go3 cyu4 fong2 gam3 laat6 taat3? dei6 haa2 cyun4 bou6 hai6 jau4, zung6 jau5 jat1 deoi1 lo4 si1!", en: "What! Who's made such a mess of the kitchen? The floor's covered in oil, and there's a pile of screws!"}
+  - {n: 2, speaker: Hugo, hanzi: "會唔會有人爆格？", jyutping: "wui5 m4 wui5 jau5 jan4 baau3 gaak3?", en: "Could someone have broken in?"}
+  - {n: 3, speaker: Leung Pak, hanzi: "爆格？我個錢箱一蚊都冇少。你去問吓強哥，佢琴晚幾點走。", jyutping: "baau3 gaak3? ngo5 go3 cin4 soeng1 jat1 man1 dou1 mou5 siu2. nei5 heoi3 man6 haa5 koeng4 go1, keoi5 kam4 maan5 gei2 dim2 zau2.", en: "Broken in? Not a dollar's missing from my cash box. Go and ask Keung-go what time he left last night."}
+  - {n: 4, speaker: Lin-ze, hanzi: "唔使問喇，我知！琴晚十點我經過，見到廚房仲有燈，有個黑影喺入面郁嚟郁去。", jyutping: "m4 sai2 man6 laa3, ngo5 zi1! kam4 maan5 sap6 dim2 ngo5 ging1 gwo3, gin3 dou2 cyu4 fong2 zung6 jau5 dang1, jau5 go3 hak1 jing2 hai2 jap6 min6 juk1 lai4 juk1 heoi3.", en: "No need to ask, I know! Last night at ten I walked past and saw the kitchen light still on, and a shadow moving about inside."}
+  - {n: 5, speaker: Lin-ze, hanzi: "個黑影好大隻，戴住頂帽，手上揸住把刀！我嚇到即刻走，爭少少就報警。", jyutping: "go3 hak1 jing2 hou2 daai6 zek3, daai3 zyu6 deng2 mou2, sau2 soeng6 zaa1 zyu6 baa2 dou1! ngo5 haak3 dou3 zik1 hak1 zau2, zaang1 siu2 siu2 zau6 bou3 ging2.", en: "The shadow was huge, wearing a cap, holding a knife! I was so frightened I ran off at once; I nearly called the police."}
+  - {n: 6, speaker: Hugo, hanzi: "好大隻、戴帽……會唔會係新潮茶記啲人，過嚟偷師？", jyutping: "hou2 daai6 zek3, daai3 mou2 …… wui5 m4 wui5 hai6 san1 ciu4 caa4 gei3 di1 jan4, gwo3 lai4 tau1 si1?", en: "Huge, wearing a cap… could it be the people from the new chain café, come to steal our secrets?"}
+  - {n: 7, speaker: Leung Pak, hanzi: "偷師？佢哋用機器㗎，偷我嘅師做乜？", jyutping: "tau1 si1? keoi5 dei6 jung6 gei1 hei3 gaa3, tau1 ngo5 ge3 si1 zou6 mat1?", en: "Steal secrets? They use a machine; what would they want with my secrets?"}
+  - {n: 8, speaker: Keung-go, hanzi: "（入嚟，好攰，一句都冇講，就開始抹地）", jyutping: "(jap6 lai4, hou2 gui6, jat1 geoi3 dou1 mou5 gong2, zau6 hoi1 ci2 maat3 dei6)", en: "(Comes in, exhausted, doesn't say a word, and starts mopping the floor)"}
+  - {n: 9, speaker: Lin-ze, hanzi: "強哥，你琴晚有冇見到個黑影？你知唔知佢係邊個？", jyutping: "koeng4 go1, nei5 kam4 maan5 jau5 mou5 gin3 dou2 go3 hak1 jing2? nei5 zi1 m4 zi1 keoi5 hai6 bin1 go3?", en: "Keung-go, did you see the shadow last night? Do you know who it was?"}
+  - {n: 10, speaker: Keung-go, hanzi: "……唔知。", jyutping: "…… m4 zi1.", en: "…No."}
+  - {n: 11, speaker: Leung Pak, hanzi: "你係廚房阿頭，搞成噉你都唔知？我唔係想鬧你，不過今日你要執好佢。", jyutping: "nei5 hai6 cyu4 fong2 aa3 tau2, gaau2 sing4 gam2 nei5 dou1 m4 zi1? ngo5 m4 hai6 soeng2 naau6 nei5, bat1 gwo3 gam1 jat6 nei5 jiu3 zap1 hou2 keoi5.", en: "You're head of the kitchen and you don't know how it got like this? I'm not trying to tell you off, but you clear it up today."}
+  - {n: 12, speaker: Lok-zai, hanzi: "（喺三號卡位，細聲）阿果哥哥，我知係邊個噃。", jyutping: "(hai2 saam1 hou6 kaa1 wai2, sai3 seng1) aa3 gwo2 go1 go1, ngo5 zi1 hai6 bin1 go3 bo3.", en: "(From booth three, quietly) A-Gwo, I know who it was, you know."}
+  - {n: 13, speaker: Hugo, hanzi: "你知？咁你頭先點解唔講？", jyutping: "nei5 zi1? gam2 nei5 tau4 sin1 dim2 gaai2 m4 gong2?", en: "You know? Then why didn't you say so just now?"}
+  - {n: 14, speaker: Lok-zai, hanzi: "強哥叫我唔好講。佢話講咗就唔係驚喜。", jyutping: "koeng4 go1 giu3 ngo5 m4 hou2 gong2. keoi5 waa6 gong2 zo2 zau6 m4 hai6 ging1 hei2.", en: "Keung-go told me not to tell. He said if I told, it wouldn't be a surprise."}
+  - {n: 15, speaker: Hugo, hanzi: "驚喜？咩驚喜？你可唔可以話我知佢整緊乜？", jyutping: "ging1 hei2? me1 ging1 hei2? nei5 ho2 m4 ho2 ji5 waa6 ngo5 zi1 keoi5 zing2 gan2 mat1?", en: "A surprise? What surprise? Can you tell me what he's been making?"}
+  - {n: 16, speaker: Lok-zai, hanzi: "唔可以。我淨係可以講……係你嘅嘢啫嘛。", jyutping: "m4 ho2 ji5. ngo5 zing6 hai6 ho2 ji5 gong2 …… hai6 nei5 ge3 je5 ze1 maa3.", en: "No. All I can say is… it's something of yours, that's all."}
+  - {n: 17, speaker: Hugo, hanzi: "我嘅嘢？……（突然發覺）我部amp！上個禮拜壞咗，我擺咗喺廚房門口。今朝我發現唔見咗，仲以為俾人偷咗！", jyutping: "ngo5 ge3 je5? …… (dat6 jin4 faat3 gok3) ngo5 bou6 amp! soeng6 go3 lai5 baai3 waai6 zo2, ngo5 baai2 zo2 hai2 cyu4 fong2 mun4 hau2. gam1 ziu1 ngo5 faat3 jin6 m4 gin3 zo2, zung6 ji5 wai4 bei2 jan4 tau1 zo2!", en: "Something of mine? …(It suddenly dawns on him) My amp! It broke last week and I left it by the kitchen door. This morning I found it gone and thought someone had stolen it!"}
+  - {n: 18, speaker: Hugo, hanzi: "（行入廚房）強哥，你琴晚係咪幫我整部amp？", jyutping: "(haang4 jap6 cyu4 fong2) koeng4 go1, nei5 kam4 maan5 hai6 mai6 bong1 ngo5 zing2 bou6 amp?", en: "(Going into the kitchen) Keung-go, were you fixing my amp for me last night?"}
+  - {n: 19, speaker: Keung-go, hanzi: "（停低抹地）……你叫咗成個禮拜「壞咗、壞咗」，我聽到頭都痛。整好咗，喺雪櫃側邊。", jyutping: "(ting4 dai1 maat3 dei6) …… nei5 giu3 zo2 seng4 go3 lai5 baai3 \"waai6 zo2, waai6 zo2\", ngo5 teng1 dou3 tau4 dou1 tung3. zing2 hou2 zo2, hai2 syut3 gwai6 zak1 bin1.", en: "(Stops mopping) …You went on about 'it's broken, it's broken' for a whole week; it gave me a headache. It's fixed. It's beside the fridge."}
+  - {n: 20, speaker: Lin-ze, hanzi: "咁……我見到嘅黑影，同埋把刀……", jyutping: "gam2 …… ngo5 gin3 dou2 ge3 hak1 jing2, tung4 maai4 baa2 dou1 ……", en: "So… the shadow I saw, and the knife…"}
+  - {n: 21, speaker: Keung-go, hanzi: "係我。把係螺絲批，唔係刀。", jyutping: "hai6 ngo5. baa2 hai6 lo4 si1 pai1, m4 hai6 dou1.", en: "That was me. It was a screwdriver, not a knife."}
+  - {n: 22, speaker: Leung Pak, hanzi: "你做好心，點解唔早啲講？我頭先仲鬧咗你！", jyutping: "nei5 zou6 hou2 sam1, dim2 gaai2 m4 zou2 di1 gong2? ngo5 tau4 sin1 zung6 naau6 zo2 nei5!", en: "You were doing a good turn: why didn't you say so earlier? I was just telling you off!"}
+  - {n: 23, speaker: Keung-go, hanzi: "你又冇問。整吓嘢之嘛，使乜講。", jyutping: "nei5 jau6 mou5 man6. zing2 haa5 je5 zi1 maa3, sai2 mat1 gong2.", en: "You didn't ask. I only fixed something; why make a fuss about it?"}
+  - {n: 24, speaker: Lin-ze, hanzi: "唉，好心著雷劈。係我誤會咗，亂講嘢，得罪晒人。", jyutping: "aai1, hou2 sam1 zoek6 leoi4 pek3. hai6 ngo5 ng6 wui6 zo2, lyun6 gong2 je5, dak1 zeoi6 saai3 jan4.", en: "Oh dear, a good deed struck by lightning. I got it wrong, talked nonsense and offended everyone."}
+  - {n: 25, speaker: Hugo, hanzi: "強哥，多謝你。不過下次整完嘢，記得抹埋地咯。", jyutping: "koeng4 go1, do1 ze6 nei5. bat1 gwo3 haa6 ci3 zing2 jyun4 je5, gei3 dak1 maat3 maai4 dei6 lo3.", en: "Keung-go, thank you. But next time you've fixed something, remember to mop the floor too, OK?"}
+  - {n: 26, speaker: Keung-go, hanzi: "（終於笑咗）你學識撞茶先講咯。", jyutping: "(zung1 jyu1 siu3 zo2) nei5 hok6 sik1 zong6 caa4 sin1 gong2 lo3.", en: "(Finally smiling) Learn to pull a proper tea first, then we'll talk."}
+notes:
+  - {ref: 1, topic: vocab, text: "邋遢 laat6 taat3 = dirty, messy. 地下 dei6 haa2 = the floor (dei6 haa6 'underground'). 油 jau4 = oil, grease. 一堆 jat1 deoi1 = a pile of. 螺絲 lo4 si1 = screw; 螺絲批 lo4 si1 pai1 = screwdriver (line 21)."}
+  - {ref: 2, topic: vocab, text: "爆格 baau3 gaak3 = burgle, break in. 報警 bou3 ging2 = call the police (line 5). 錢箱 cin4 soeng1 = cash box."}
+  - {ref: 3, topic: grammar, text: "Indirect questions keep the question's own word order after 問 / 知 / 話我知: 問吓強哥，佢琴晚幾點走 'ask Keung-go what time he left last night'; 你知唔知佢係邊個？ 'do you know who it was?' (line 9); 話我知佢整緊乜 'tell me what he's making' (line 15). No word changes place, unlike English."}
+  - {ref: 4, topic: vocab, text: "黑影 hak1 jing2 = shadow, dark figure. V嚟V去 = V about, back and forth: 郁嚟郁去 'moving about', 行嚟行去 'pacing'."}
+  - {ref: 5, topic: vocab, text: "大隻 daai6 zek3 = big and burly. 戴 daai3 = wear (hats, glasses, watches); 著 zoek3 is for clothes. 嚇到 haak3 dou3 'so frightened (that)'. 爭少少 zaang1 siu2 siu2 = very nearly: 爭 'lack, be short of'."}
+  - {ref: 6, topic: vocab, text: "偷師 tau1 si1 = learn someone's skills on the sly, 'steal the master's secrets' (偷 'steal', 師 'master'). It splits: 偷我嘅師 (line 7)."}
+  - {ref: 11, topic: vocab, text: "阿頭 aa3 tau2 = the boss, head (of a team). 鬧 naau6 = scold, tell off. 搞成噉 'make it like this'. 執好 'tidy up'."}
+  - {ref: 12, topic: grammar, text: "噃 bo3 points out something the listener should notice: 我知係邊個噃 'I know who it was, you know'. Other uses: 好凍噃 'it's cold, mind', 你唔好唔記得噃 'don't forget, will you'."}
+  - {ref: 14, topic: grammar, text: "Reported orders: 叫 + person + (唔好) + verb: 強哥叫我唔好講 'Keung-go told me not to tell'. Reported statements with 話 (P3): 佢話講咗就唔係驚喜. 驚喜 ging1 hei2 = (pleasant) surprise."}
+  - {ref: 16, topic: grammar, text: "啫嘛 ze1 maa3 and 之嘛 zi1 maa3 (line 23) both mean 'only, just, no big deal': 係你嘅嘢啫嘛 'it's only your thing'; 整吓嘢之嘛 'I only fixed something'. They make what you say smaller (啫 alone, P7)."}
+  - {ref: 17, topic: vocab, text: "發覺 faat3 gok3 = realise, become aware: 突然發覺 'it suddenly dawns on him'. 發現 faat3 jin6 = discover, find out: 發現唔見咗 'found it gone'. 發覺 is about understanding, 發現 about finding."}
+  - {ref: 19, topic: vocab, text: "停低 ting4 dai1 = stop (what one is doing). 側邊 zak1 bin1 = beside, next to: 雪櫃側邊 'beside the fridge'."}
+  - {ref: 23, topic: grammar, text: "使乜 sai2 mat1 + verb = why bother …? no need to …: 使乜講 'why make a fuss'. It sounds like a question but means 'there's no need' (rhetorical questions come back in P34)."}
+  - {ref: 24, topic: vocab, text: "好心著雷劈 'a good heart struck by lightning': good intentions punished. 誤會 ng6 wui6 = misunderstand; misunderstanding. 得罪 dak1 zeoi6 = offend: 得罪晒人 'offend everyone'."}
+  - {ref: 25, topic: vs-mandarin, text: "咯 lo3 at the end gives gentle advice or a natural conclusion: 記得抹埋地咯 'remember to mop the floor too, OK'. Mandarin uses 哦 or 啊 (記得拖地哦). Indirect questions work the same way in Mandarin (你知道他是誰嗎), but 叫 + person + verb is Mandarin 叫/讓 too."}
+pron:
+  - {ref: 17, text: "發覺 faat3 gok3 and 發現 faat3 jin6: both start with faat3."}
+  - {ref: 24, text: "好心著雷劈 hou2 sam1 zoek6 leoi4 pek3: 著 is zoek6 'be hit by', 劈 pek3."}
+  - {ref: 25, text: "The particle 咯 is lo3 in this course (also written 囉 lo3); it is not gok3."}
+new_words:
+  - {jyutping: "laat6 taat3", hanzi: 邋遢, en: "dirty, messy"}
+  - {jyutping: "dei6 haa2", hanzi: 地下, en: "the floor"}
+  - {jyutping: "jau4", hanzi: 油, en: "oil, grease"}
+  - {jyutping: "lo4 si1", hanzi: 螺絲, en: "screw"}
+  - {jyutping: "lo4 si1 pai1", hanzi: 螺絲批, en: "screwdriver"}
+  - {jyutping: "baau3 gaak3", hanzi: 爆格, en: "break in, burgle"}
+  - {jyutping: "bou3 ging2", hanzi: 報警, en: "call the police"}
+  - {jyutping: "hak1 jing2", hanzi: 黑影, en: "shadow, dark figure"}
+  - {jyutping: "daai6 zek3", hanzi: 大隻, en: "big and burly"}
+  - {jyutping: "daai3", hanzi: 戴, en: "wear (hat, glasses)"}
+  - {jyutping: "dou1", hanzi: 刀, en: "knife"}
+  - {jyutping: "tau1 si1", hanzi: 偷師, en: "learn on the sly"}
+  - {jyutping: "aa3 tau2", hanzi: 阿頭, en: "boss, head (of a team)"}
+  - {jyutping: "naau6", hanzi: 鬧, en: "scold, tell off"}
+  - {jyutping: "bo3", hanzi: 噃, en: "(particle) mind you, you know"}
+  - {jyutping: "ging1 hei2", hanzi: 驚喜, en: "surprise"}
+  - {jyutping: "ze1 maa3", hanzi: 啫嘛, en: "(particle) only, that's all"}
+  - {jyutping: "zi1 maa3", hanzi: 之嘛, en: "(particle) only, no big deal"}
+  - {jyutping: "faat3 gok3", hanzi: 發覺, en: "realise"}
+  - {jyutping: "faat3 jin6", hanzi: 發現, en: "discover, find out"}
+  - {jyutping: "zak1 bin1", hanzi: 側邊, en: "beside"}
+  - {jyutping: "hou2 sam1", hanzi: 好心, en: "kind; a good turn"}
+  - {jyutping: "sai2 mat1", hanzi: 使乜, en: "why bother, no need to"}
+  - {jyutping: "ng6 wui6", hanzi: 誤會, en: "misunderstand"}
+  - {jyutping: "dak1 zeoi6", hanzi: 得罪, en: "offend"}
+  - {jyutping: "tau1", hanzi: 偷, en: "steal"}
+  - {jyutping: "ting4 dai1", hanzi: 停低, en: "stop (doing something)"}
+  - {jyutping: "mak6 sang1 jan4", hanzi: 陌生人, en: "stranger"}
+  - {jyutping: "zaang1", hanzi: 爭, en: "lack, be short of"}
+  - {jyutping: "leoi4", hanzi: 雷, en: "thunder, lightning"}
+  - {jyutping: "pek3", hanzi: 劈, en: "strike, chop"}
+exercises:
+  translate:
+    - {hanzi: "你可唔可以問吓佢幾點返嚟？", jyutping: "nei5 ho2 m4 ho2 ji5 man6 haa5 keoi5 gei2 dim2 faan1 lai4?", en: "Could you ask him what time he's coming back?"}
+    - {hanzi: "阿媽叫我唔好同陌生人講嘢。", jyutping: "aa3 maa1 giu3 ngo5 m4 hou2 tung4 mak6 sang1 jan4 gong2 je5.", en: "Mum told me not to talk to strangers."}
+    - {hanzi: "我唔知佢係邊個，不過佢好大隻。", jyutping: "ngo5 m4 zi1 keoi5 hai6 bin1 go3, bat1 gwo3 keoi5 hou2 daai6 zek3.", en: "I don't know who he is, but he's huge."}
+    - {hanzi: "我爭少少就趕唔切尾班車。", jyutping: "ngo5 zaang1 siu2 siu2 zau6 gon2 m4 cit3 mei5 baan1 ce1.", en: "I very nearly missed the last bus."}
+    - {hanzi: "佢一句都冇講，我先發覺自己誤會咗佢。", jyutping: "keoi5 jat1 geoi3 dou1 mou5 gong2, ngo5 sin1 faat3 gok3 zi6 gei2 ng6 wui6 zo2 keoi5.", en: "He didn't say a word, and only then did I realise I'd misjudged him."}
+  fill:
+    - {hanzi: "你今朝有冇___我部手機？", jyutping: "nei5 gam1 ziu1 jau5 mou5 ___ ngo5 bou6 sau2 gei1?", answer: "gin3 dou2", answer_hanzi: 見到, en: "Did you see my phone this morning?"}
+    - {hanzi: "強哥___我唔好講。", jyutping: "koeng4 go1 ___ ngo5 m4 hou2 gong2.", answer: "giu3", answer_hanzi: 叫, en: "Keung-go told me not to tell."}
+    - {hanzi: "好凍___，記得著多件衫。", jyutping: "hou2 dung3 ___, gei3 dak1 zoek3 do1 gin6 saam1.", answer: "bo3", answer_hanzi: 噃, en: "It's cold, mind; remember to put on another layer."}
+    - {hanzi: "整吓嘢___，使乜多謝。", jyutping: "zing2 haa5 je5 ___, sai2 mat1 do1 ze6.", answer: "zi1 maa3", answer_hanzi: 之嘛, en: "I only fixed something; no need to thank me."}
+    - {hanzi: "我___個錢箱唔見咗。", jyutping: "ngo5 ___ go3 cin4 soeng1 m4 gin3 zo2.", answer: "faat3 jin6", answer_hanzi: 發現, en: "I found that the cash box was gone."}
