@@ -1,0 +1,60 @@
+# 進修 14. Review of P8–P13: no new words. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 14
+title: {en: "Review: a call from Manchester", jyutping: "fuk6 zaap6", hanzi: "復習"}
+genre: review
+review: true
+setting: "Early November, a Sunday evening after closing. 嘉偉 video-calls from Manchester; the phone is propped against the napkin box in booth three. 梁伯, Kayan, Hugo and 蓮姐 crowd round it. Later someone knocks on the shutter."
+dialogue:
+  - {n: 1, speaker: Ka-wai, hanzi: "喂？見唔見到我？阿爸，我淨係見到你個鼻哥窿！", jyutping: "wai3? gin3 m4 gin3 dou2 ngo5? aa3 baa4, ngo5 zing6 hai6 gin3 dou2 nei5 go3 bei6 go1 lung1!", en: "Hello? Can you see me? Dad, all I can see is your nostril!"}
+  - {n: 2, speaker: Kayan, hanzi: "（攞起部電話）好喇，而家見到晒。阿哥，我send俾你嗰張相，你收到未？", jyutping: "(lo2 hei2 bou6 din6 waa2) hou2 laa3, ji4 gaa1 gin3 dou2 saai3. aa3 go1, ngo5 send bei2 nei5 go2 zoeng1 soeng2, nei5 sau1 dou2 mei6?", en: "(Picking up the phone) There, now you can see everyone. Brother, the photo I sent you, did you get it?"}
+  - {n: 3, speaker: Ka-wai, hanzi: "收到。封信我睇咗三次：四成，由出年一月開始。佢點解咁狠？", jyutping: "sau1 dou2. fung1 seon3 ngo5 tai2 zo2 saam1 ci3: sei3 sing4, jau4 ceot1 nin2 jat1 jyut6 hoi1 ci2. keoi5 dim2 gaai2 gam3 han2?", en: "Got it. The letter, I've read it three times: forty per cent, from January next year. Why is he so harsh?"}
+  - {n: 4, speaker: Leung Pak, hanzi: "冇計諗。執笠就執笠。", jyutping: "mou5 gai2 nam2. zap1 lap1 zau6 zap1 lap1.", en: "Nothing to be done. If we close, we close."}
+  - {n: 5, speaker: Kayan, hanzi: "阿爸，你又嚟喇。上個禮拜你仲喺電台話咬實牙根照做。", jyutping: "aa3 baa4, nei5 jau6 lai4 laa3. soeng6 go3 lai5 baai3 nei5 zung6 hai2 din6 toi4 waa6 ngaau5 sat6 ngaa4 gan1 ziu3 zou6.", en: "Dad, here you go again. A few weeks ago on the radio you said you'd grit your teeth and carry on."}
+  - {n: 6, speaker: Ka-wai, hanzi: "阿爸，根據封信，你仲有成個月時間提出意見。唔好咁快講執笠。", jyutping: "aa3 baa4, gan1 geoi3 fung1 seon3, nei5 zung6 jau5 seng4 go3 jyut6 si4 gaan3 tai4 ceot1 ji3 gin3. m4 hou2 gam3 faai3 gong2 zap1 lap1.", en: "Dad, according to the letter, you've still got a whole month to put your objections. Don't talk about closing so soon."}
+  - {n: 7, speaker: Lin-ze, hanzi: "你阿爸個樣兇，其實好驚。佢瞓唔着，半夜成日落嚟沖奶茶。", jyutping: "nei5 aa3 baa4 go3 joeng2 hung1, kei4 sat6 hou2 geng1. keoi5 fan3 m4 zoek6, bun3 je2 sing4 jat6 lok6 lai4 cung1 naai5 caa4.", en: "Your dad looks fierce, but he's actually scared. He can't sleep; he's always coming down in the middle of the night to make milk tea."}
+  - {n: 8, speaker: Leung Pak, hanzi: "邊個話我驚？我係……試吓新嘅比例。", jyutping: "bin1 go3 waa6 ngo5 geng1? ngo5 hai6 …… si3 haa5 san1 ge3 bei2 lai6.", en: "Who says I'm scared? I'm… trying out a new blend."}
+  - {n: 9, speaker: Hugo, hanzi: "係真嘅。佢教咗我撈茶葉：粗嘅出味，幼嘅出香。不過比例淨係佢自己知。", jyutping: "hai6 zan1 ge3. keoi5 gaau3 zo2 ngo5 lou1 caa4 jip6: cou1 ge3 ceot1 mei6, jau3 ge3 ceot1 hoeng1. bat1 gwo3 bei2 lai6 zing6 hai6 keoi5 zi6 gei2 zi1.", en: "It's true. He's taught me to blend the tea leaves: coarse ones for flavour, fine ones for fragrance. But only he knows the proportions."}
+  - {n: 10, speaker: Ka-wai, hanzi: "阿果，聽講你而家喺社區中心教法文？", jyutping: "aa3 gwo2, teng1 gong2 nei5 ji4 gaa1 hai2 se5 keoi1 zung1 sam1 gaau3 faat3 man2?", en: "A-Gwo, I hear you're teaching French at a community centre now?"}
+  - {n: 11, speaker: Hugo, hanzi: "係，暫時一個禮拜一堂。第一堂俾班中學生玩到死，不過結果有個學生好想學。", jyutping: "hai6, zaam6 si4 jat1 go3 lai5 baai3 jat1 tong4. dai6 jat1 tong4 bei2 baan1 zung1 hok6 saang1 waan2 dou3 sei2, bat1 gwo3 git3 gwo2 jau5 go3 hok6 saang1 hou2 soeng2 hok6.", en: "Yes, one lesson a week for now. In the first one a bunch of teenagers teased me to death, but in the end one student really wants to learn."}
+  - {n: 12, speaker: Kayan, hanzi: "嗰個學生叫阿詩，想去巴黎讀設計，而家每堂都第一個到。", jyutping: "go2 go3 hok6 saang1 giu3 aa3 si1, soeng2 heoi3 baa1 lai4 duk6 cit3 gai3, ji4 gaa1 mui5 tong4 dou1 dai6 jat1 go3 dou3.", en: "The student's called Si; she wants to study design in Paris, and now she's the first to arrive at every lesson."}
+  - {n: 13, speaker: Ka-wai, hanzi: "咁你阿媽呢？知唔知你辭咗職？", jyutping: "gam2 nei5 aa3 maa1 ne1? zi1 m4 zi1 nei5 ci4 zo2 zik1?", en: "And your mum? Does she know you've quit your job?"}
+  - {n: 14, speaker: Hugo, hanzi: "（好尷尬）……暫時都係唔知。", jyutping: "(hou2 gaam3 gaai3) …… zaam6 si4 dou1 hai6 m4 zi1.", en: "(Very awkward) …Not yet."}
+  - {n: 15, speaker: Lin-ze, hanzi: "佢阿媽唔識睇中文，佢喺Instagram講嘅嘢，佢阿媽睇唔明，所以仲未知。", jyutping: "keoi5 aa3 maa1 m4 sik1 tai2 zung1 man2, keoi5 hai2 Instagram gong2 ge3 je5, keoi5 aa3 maa1 tai2 m4 ming4, so2 ji5 zung6 mei6 zi1.", en: "His mum can't read Chinese; what he said on Instagram, she couldn't understand, so she still doesn't know."}
+  - {n: 16, speaker: Kayan, hanzi: "講起Instagram，我寫嗰段講熟客嘅嘢，有成三百個like！黃阿婆隻唐狗，竟然多過我啲fans。", jyutping: "gong2 hei2 Instagram, ngo5 se2 go2 dyun6 gong2 suk6 haak3 ge3 je5, jau5 seng4 saam1 baak3 go3 like! wong4 aa3 po4 zek3 tong4 gau2, ging2 jin4 do1 gwo3 ngo5 di1 fans.", en: "Speaking of Instagram, the piece I wrote about our regulars got three hundred likes! Old Mrs Wong's mongrel actually has more fans than me."}
+  - {n: 17, speaker: Ka-wai, hanzi: "豆豆都有fans？哈哈，真係一樣米養百樣人。", jyutping: "dau6 dau2 dou1 jau5 fans? haa1 haa1, zan1 hai6 jat1 joeng6 mai5 joeng5 baak3 joeng6 jan4.", en: "Dau-dau has fans? Ha ha, it really does take all sorts."}
+  - {n: 18, speaker: Jim, hanzi: "（喺門口拍門）梁伯，唔好意思！阿果，聽日晚八點夾band，記得帶埋你支bass。", jyutping: "(hai2 mun4 hau2 paak3 mun4) loeng4 baak3, m4 hou2 ji3 si1! aa3 gwo2, ting1 jat6 maan5 baat3 dim2 gaap3 band, gei3 dak1 daai3 maai4 nei5 zi1 bass.", en: "(Knocking on the shutter) Uncle Leung, sorry to bother you! A-Gwo, band practice tomorrow at eight, remember to bring your bass."}
+  - {n: 19, speaker: Leung Pak, hanzi: "你就係電台嗰個阿占？你哋嗰間band房搵到未？", jyutping: "nei5 zau6 hai6 din6 toi4 go2 go3 aa3 zim1? nei5 dei6 go2 gaan1 band fong2 wan2 dou2 mei6?", en: "So you're Jim from the radio? Have you found a rehearsal room?"}
+  - {n: 20, speaker: Jim, hanzi: "搵到一間，不過淨係租到年底，之後業主要改做貨倉。同你一樣，都係租嘅問題。", jyutping: "wan2 dou2 jat1 gaan1, bat1 gwo3 zing6 hai6 zou1 dou3 nin4 dai2, zi1 hau6 jip6 zyu2 jiu3 goi2 zou6 fo3 cong1. tung4 nei5 jat1 joeng6, dou1 hai6 zou1 ge3 man6 tai4.", en: "We found one, but only until the end of the year; after that the landlord's turning it into a warehouse. Same as you: it's all about rent."}
+  - {n: 21, speaker: Leung Pak, hanzi: "（嘆氣）而家個個業主都係噉。", jyutping: "(taan3 hei3) ji4 gaa1 go3 go3 jip6 zyu2 dou1 hai6 gam2.", en: "(Sighing) Every landlord's like that these days."}
+  - {n: 22, speaker: Ka-wai, hanzi: "阿爸，你哋兩個不如一齊上電台。", jyutping: "aa3 baa4, nei5 dei6 loeng5 go3 bat1 jyu4 jat1 cai4 soeng5 din6 toi4.", en: "Dad, why don't you two go on the radio together?"}
+  - {n: 23, speaker: Jim, hanzi: "我有個更好嘅計：我哋喺梁記天台表演，賣奶茶幫你交租！", jyutping: "ngo5 jau5 go3 gang3 hou2 ge3 gai2: ngo5 dei6 hai2 loeng4 gei3 tin1 toi4 biu2 jin2, maai6 naai5 caa4 bong1 nei5 gaau1 zou1!", en: "I've got a better plan: we play on Leung Kee's roof and sell milk tea to help you pay the rent!"}
+  - {n: 24, speaker: Leung Pak, hanzi: "天台？唔准！啲街坊實投訴。", jyutping: "tin1 toi4? m4 zeon2! di1 gaai1 fong1 sat6 tau4 sou3.", en: "The roof? Absolutely not! The neighbours will complain, for sure."}
+  - {n: 25, speaker: Lin-ze, hanzi: "阿伯講「唔准」，即係「諗吓先」。", jyutping: "aa3 baak3 gong2 \"m4 zeon2\", zik1 hai6 \"nam2 haa5 sin1\".", en: "When the old man says 'absolutely not', it means 'let me think about it'."}
+notes:
+  - {ref: 0, topic: grammar, text: "This review brings back P8–P13 with no new words. Look for: 俾 passive (俾班中學生玩到死, line 11), habit with 開 (P11) and frequency words, 冚唪唥 / 個個都 (line 21), 竟然 (line 16), topic first (封信我睇咗三次, line 3), written forms behind spoken ones (根據, 提出, 意見)."}
+  - {ref: 2, topic: vocab, text: "攞起 lo2 hei2 'pick up': 起 after a verb = up. 見到晒 'can see everyone': 晒 'all'. 阿哥 aa3 go1 = big brother (as a form of address)."}
+  - {ref: 3, topic: grammar, text: "Topic first again: 封信我睇咗三次 'the letter, I've read it three times'. 由出年一月開始 'from January next year': spoken version of the letter's 由…起 (P13)."}
+  - {ref: 5, topic: vocab, text: "你又嚟喇 'here you go again'. 咬實牙根照做 (P5) 'grit one's teeth and carry on'."}
+  - {ref: 7, topic: grammar, text: "瞓唔着 fan3 m4 zoek6 = can't get to sleep: potential complement (P4) with 着 'succeed in'. 成日 + verb = keep doing."}
+  - {ref: 9, topic: vocab, text: "撈 lou1 = mix (P8). 粗 / 幼 'coarse / fine' and 出味 / 出香 'bring out flavour / fragrance' come straight from 梁伯's card in P8."}
+  - {ref: 11, topic: grammar, text: "俾 + agent + verb + 到 + result: 俾班中學生玩到死 'teased to death by a bunch of teenagers'. The passive (P9) and 到 of degree (P4) combine easily."}
+  - {ref: 16, topic: grammar, text: "講起 X 'speaking of X': 講起Instagram. 多過 do1 gwo3 = more than: 多過我啲fans 'more than my fans' (comparison with 過 comes back in P16). 有成三百個 'a whole three hundred': 成 + number stresses how many."}
+  - {ref: 18, topic: vocab, text: "支 zi1 = classifier for long thin things, including instruments: 一支bass, 一支筆 (P9). 帶埋 'bring along too'."}
+  - {ref: 20, topic: grammar, text: "同你一樣 'same as you'. 都係租嘅問題 'it's all a matter of rent'."}
+  - {ref: 23, topic: vocab, text: "更 gang3 = even more (written-style, also used in speech): 更好嘅計 'a better plan'. 計 gai2 'plan' (P13). 表演 'perform' is a word the learner already knows."}
+  - {ref: 25, topic: culture, text: "蓮姐 decodes 梁伯 again (P13: 佢一講「唔識」，就實係識). In Cantonese family talk, a flat 'no' from the older generation is often an opening position."}
+pron: []
+new_words: []
+exercises:
+  translate:
+    - {hanzi: "根據封信，我哋仲有一個月時間。", jyutping: "gan1 geoi3 fung1 seon3, ngo5 dei6 zung6 jau5 jat1 go3 jyut6 si4 gaan3.", en: "According to the letter, we still have a month."}
+    - {hanzi: "佢俾啲學生玩到唔知點算。", jyutping: "keoi5 bei2 di1 hok6 saang1 waan2 dou3 m4 zi1 dim2 syun3.", en: "The students teased him so much he didn't know what to do."}
+    - {hanzi: "阿婆隻狗竟然多過我啲朋友。", jyutping: "aa3 po4 zek3 gau2 ging2 jin4 do1 gwo3 ngo5 di1 pang4 jau5.", en: "The old lady's dog actually has more friends than me."}
+    - {hanzi: "佢瞓唔着，半夜成日落嚟飲奶茶。", jyutping: "keoi5 fan3 m4 zoek6, bun3 je2 sing4 jat6 lok6 lai4 jam2 naai5 caa4.", en: "He can't sleep, so he keeps coming down at midnight for milk tea."}
+    - {hanzi: "我哋冚唪唥都覺得佢個計好。", jyutping: "ngo5 dei6 ham6 baang6 laang6 dou1 gok3 dak1 keoi5 go3 gai2 hou2.", en: "All of us think his plan is good."}
+  fill:
+    - {hanzi: "我第一堂___班中學生玩到死。", jyutping: "ngo5 dai6 jat1 tong4 ___ baan1 zung1 hok6 saang1 waan2 dou3 sei2.", answer: "bei2", answer_hanzi: 俾, en: "In my first lesson I got teased to death by a bunch of teenagers."}
+    - {hanzi: "佢___第一個到，從來冇遲過。", jyutping: "keoi5 ___ dai6 jat1 go3 dou3, cung4 loi4 mou5 ci4 gwo3.", answer: "mui5 tong4 dou1", answer_hanzi: 每堂都, en: "She's the first to arrive at every lesson; she's never been late."}
+    - {hanzi: "___Instagram，你寫嗰段嘢有幾多個like？", jyutping: "___ Instagram, nei5 se2 go2 dyun6 je5 jau5 gei2 do1 go3 like?", answer: "gong2 hei2", answer_hanzi: 講起, en: "Speaking of Instagram, how many likes did your post get?"}
+    - {hanzi: "阿伯講「唔准」，___係「諗吓先」。", jyutping: "aa3 baak3 gong2 \"m4 zeon2\", ___ hai6 \"nam2 haa5 sin1\".", answer: "zik1", answer_hanzi: 即, en: "When the old man says 'not allowed', it means 'let me think'."}
+    - {hanzi: "四成租，業主真係好___。", jyutping: "sei3 sing4 zou1, jip6 zyu2 zan1 hai6 hou2 ___.", answer: "han2", answer_hanzi: 狠, en: "Forty per cent more rent: the landlord really is ruthless."}

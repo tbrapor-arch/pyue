@@ -87,6 +87,7 @@ new_words:
   - {jyutping: "gaai1 hau2", hanzi: 街口, en: "end of the street, street corner"}
   - {jyutping: "seoi3", hanzi: 稅, en: "tax"}
   - {jyutping: "maan5 on1", hanzi: 晚安, en: "good night; good evening (on air)"}
+  - {jyutping: "ngaau5 sat6 ngaa4 gan1", hanzi: 咬實牙根, en: "grit one's teeth"}
 exercises:
   translate:
     - {hanzi: "如果聽日落雨嘅話，我哋就唔去。", jyutping: "jyu4 gwo2 ting1 jat6 lok6 jyu5 ge3 waa2, ngo5 dei6 zau6 m4 heoi3.", en: "If it rains tomorrow, we won't go."}
