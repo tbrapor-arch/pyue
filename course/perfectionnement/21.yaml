@@ -1,0 +1,60 @@
+# 進修 21. Review of P15–P20: no new words. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 21
+title: {en: "Review: the first gig", jyutping: "fuk6 zaap6", hanzi: "復習"}
+genre: review
+review: true
+setting: "Christmas Eve. A tiny live venue on the top floor of a Kwun Tong factory building, packed with sixty people. The band is about to play its first show, but the poster still says 'New Band'. Kayan has brought 梁伯 and 蓮姐; 強哥 turns up late."
+dialogue:
+  - {n: 1, speaker: Jim, hanzi: "今晚係我哋第一場表演，一陣要同大家介紹隊band，我哋仲未有名！", jyutping: "gam1 maan5 hai6 ngo5 dei6 dai6 jat1 coeng4 biu2 jin2, jat1 zan6 jiu3 tung4 daai6 gaa1 gaai3 siu6 deoi2 band, ngo5 dei6 zung6 mei6 jau5 meng2!", en: "Tonight's our first show; in a minute we have to introduce the band, and we still don't have a name!"}
+  - {n: 2, speaker: Ken, hanzi: "「工廈杯麵」！", jyutping: "\"gung1 haa6 bui1 min6\"!", en: "'Factory Cup Noodles'!"}
+  - {n: 3, speaker: So, hanzi: "唔得。張poster寫住「新樂隊」，已經夠老土。唔好再老土過佢。", jyutping: "m4 dak1. zoeng1 poster se2 zyu6 \"san1 ngok6 deoi2\", ji5 ging1 gau3 lou5 tou2. m4 hou2 zoi3 lou5 tou2 gwo3 keoi5.", en: "No way. The poster says 'New Band'; that's uncool enough already. Let's not be even more uncool than that."}
+  - {n: 4, speaker: Kayan, hanzi: "（同梁伯、蓮姐一齊入嚟）嘩，呢度細過梁記，但係人多過梁記！", jyutping: "(tung4 loeng4 baak3, lin4 ze2 jat1 cai4 jap6 lai4) waa3, ni1 dou6 sai3 gwo3 loeng4 gei3, daan6 hai6 jan4 do1 gwo3 loeng4 gei3!", en: "(Coming in with Leung Pak and Lin-ze) Wow, this place is smaller than Leung Kee, but there are more people than at Leung Kee!"}
+  - {n: 5, speaker: Lin-ze, hanzi: "好嘈呀！阿伯，你頂唔頂得順？", jyutping: "hou2 cou4 aa3! aa3 baak3, nei5 ding2 m4 ding2 dak1 seon6?", en: "So loud! Uncle, can you stand it?"}
+  - {n: 6, speaker: Leung Pak, hanzi: "頂得順。跑馬地啲馬迷大叫，嘈過呢度十倍。", jyutping: "ding2 dak1 seon6. paau2 maa5 dei2 di1 maa5 mai4 daai6 giu3, cou4 gwo3 ni1 dou6 sap6 pui5.", en: "I can stand it. The racing fans shouting at Happy Valley are ten times louder than this."}
+  - {n: 7, speaker: Hugo, hanzi: "梁伯，多謝你嚟。八達通試咗一個月，點呀？", jyutping: "loeng4 baak3, do1 ze6 nei5 lai4. baat3 daat6 tung1 si3 zo2 jat1 go3 jyut6, dim2 aa3?", en: "Uncle Leung, thanks for coming. Octopus has had its month's trial: how did it go?"}
+  - {n: 8, speaker: Kayan, hanzi: "我嚟講：多咗三成新客，多數係後生。雖然有手續費，但係計數仲係賺。", jyutping: "ngo5 lai4 gong2: do1 zo2 saam1 sing4 san1 haak3, do1 sou3 hai6 hau6 saang1. seoi1 jin4 jau5 sau2 zuk6 fai3, daan6 hai6 gai3 sou3 zung6 hai6 zaan6.", en: "I'll tell you: thirty per cent more new customers, mostly young. There's a fee, but when you do the sums, we still come out ahead."}
+  - {n: 9, speaker: Leung Pak, hanzi: "係……不過啲熟客俾開現金，我照舊收現金。佢哋唔慣用卡。", jyutping: "hai6 …… bat1 gwo3 di1 suk6 haak3 bei2 hoi1 jin6 gam1, ngo5 ziu3 gau6 sau1 jin6 gam1. keoi5 dei6 m4 gwaan3 jung6 kaat1.", en: "Yes… but the regulars always pay cash, so I still take cash as usual. They're not used to cards."}
+  - {n: 10, speaker: Lin-ze, hanzi: "新潮茶記嗰邊，聽講優惠完咗，冇以前咁多人喇。有熟客話佢哋啲奶茶甜得滯。", jyutping: "san1 ciu4 caa4 gei3 go2 bin1, teng1 gong2 jau1 wai6 jyun4 zo2, mou5 ji5 cin4 gam3 do1 jan4 laa3. jau5 suk6 haak3 waa6 keoi5 dei6 di1 naai5 caa4 tim4 dak1 zai6.", en: "Over at the chain café, I hear the offer's over and there aren't as many people as before. Some regulars say their milk tea is too sweet."}
+  - {n: 11, speaker: Hugo, hanzi: "（同Kayan偷偷笑咗一下）……我哋都係聽人講嘅。", jyutping: "(tung4 Kayan tau1 tau1 siu3 zo2 jat1 haa5) …… ngo5 dei6 dou1 hai6 teng1 jan4 gong2 ge3.", en: "(Sharing a secret smile with Kayan) …That's what we've heard too."}
+  - {n: 12, speaker: Keung-go, hanzi: "（攞住部amp入嚟）阿果，部amp。我又整過，今次唔使大力拍。", jyutping: "(lo2 zyu6 bou6 amp jap6 lai4) aa3 gwo2, bou6 amp. ngo5 jau6 zing2 gwo3, gam1 ci3 m4 sai2 daai6 lik6 paak3.", en: "(Coming in with the amp) A-Gwo, your amp. I've fixed it again; this time you don't need to whack it."}
+  - {n: 13, speaker: Hugo, hanzi: "強哥！你竟然嚟咗！多謝晒，我請你飲嘢。", jyutping: "koeng4 go1! nei5 ging2 jin4 lai4 zo2! do1 ze6 saai3, ngo5 ceng2 nei5 jam2 je5.", en: "Keung-go! You actually came! Thanks so much, let me buy you a drink."}
+  - {n: 14, speaker: Keung-go, hanzi: "唔使。你學識撞茶先請。", jyutping: "m4 sai2. nei5 hok6 sik1 zong6 caa4 sin1 ceng2.", en: "No need. Learn to pull a proper tea first, then you can buy."}
+  - {n: 15, speaker: So, hanzi: "好喇，仲有五分鐘就開始。隊名呢？", jyutping: "hou2 laa3, zung6 jau5 ng5 fan1 zung1 zau6 hoi1 ci2. deoi2 meng2 ne1?", en: "Right, five minutes to go. What about the name?"}
+  - {n: 16, speaker: Jim, hanzi: "阿果喺廣州攞返嚟嗰張唱片，上面有張相，係一班人喺天台唱歌。不如叫「天台派對」？", jyutping: "aa3 gwo2 hai2 gwong2 zau1 lo2 faan1 lai4 go2 zoeng1 coeng3 pin2, soeng6 min6 jau5 zoeng1 soeng2, hai6 jat1 baan1 jan4 hai2 tin1 toi4 coeng3 go1. bat1 jyu4 giu3 \"tin1 toi4 paai3 deoi3\"?", en: "The record A-Gwo brought back from Guangzhou has a photo of people singing on a rooftop. How about 'Rooftop Party'?"}
+  - {n: 17, speaker: Ken, hanzi: "「天台派對」……好過「工廈杯麵」。", jyutping: "\"tin1 toi4 paai3 deoi3\" …… hou2 gwo3 \"gung1 haa6 bui1 min6\".", en: "'Rooftop Party'… better than 'Factory Cup Noodles'."}
+  - {n: 18, speaker: Leung Pak, hanzi: "天台？我講咗唔准喺我天台開show㗎！", jyutping: "tin1 toi4? ngo5 gong2 zo2 m4 zeon2 hai2 ngo5 tin1 toi4 hoi1 show gaa3!", en: "The roof? I said no shows on my roof!"}
+  - {n: 19, speaker: Lin-ze, hanzi: "阿伯，佢哋冇喺你天台開show，佢哋淨係借你天台個名啫。", jyutping: "aa3 baak3, keoi5 dei6 mou5 hai2 nei5 tin1 toi4 hoi1 show, keoi5 dei6 zing6 hai6 ze3 nei5 tin1 toi4 go3 meng2 ze1.", en: "Uncle, they're not putting on a show on your roof; they're only borrowing its name."}
+  - {n: 20, speaker: Leung Pak, hanzi: "……（諗咗一陣）名就俾你哋用。不過有咩事，唔好搵我。", jyutping: "…… (nam2 zo2 jat1 zan6) meng2 zau6 bei2 nei5 dei6 jung6. bat1 gwo3 jau5 me1 si6, m4 hou2 wan2 ngo5.", en: "…(After a moment's thought) You can have the name. But if anything goes wrong, don't come to me."}
+  - {n: 21, speaker: Jim, hanzi: "（對住個mic）大家好，我哋係「天台派對」。第一首歌，叫《九龍夜車》。", jyutping: "(deoi3 zyu6 go3 mic) daai6 gaa1 hou2, ngo5 dei6 hai6 \"tin1 toi4 paai3 deoi3\". dai6 jat1 sau2 go1, giu3 \"gau2 lung4 je6 ce1\".", en: "(Into the mic) Hello everyone, we're Rooftop Party. Our first song is called 'Kowloon Night Bus'."}
+  - {n: 22, speaker: Kayan, hanzi: "（唱完之後）阿爸，你頭先成首歌都跟住打拍子！", jyutping: "(coeng3 jyun4 zi1 hau6) aa3 baa4, nei5 tau4 sin1 seng4 sau2 go1 dou1 gan1 zyu6 daa2 paak3 zi2!", en: "(After the song) Dad, you were tapping along to the beat the whole song!"}
+  - {n: 23, speaker: Leung Pak, hanzi: "我……我係跟住個節奏郁吓啫。首歌講九龍，講得幾好。", jyutping: "ngo5 …… ngo5 hai6 gan1 zyu6 go3 zit3 zau3 juk1 haa5 ze1. sau2 go1 gong2 gau2 lung4, gong2 dak1 gei2 hou2.", en: "I… I was just moving a bit to the rhythm. The song's about Kowloon; it says it pretty well."}
+  - {n: 24, speaker: Hugo, hanzi: "梁伯話我哋首歌好！今晚係我喺香港最難忘嘅一晚。", jyutping: "loeng4 baak3 waa6 ngo5 dei6 sau2 go1 hou2! gam1 maan5 hai6 ngo5 hai2 hoeng1 gong2 zeoi3 naan4 mong4 ge3 jat1 maan5.", en: "Uncle Leung says our song is good! Tonight is the most unforgettable night I've had in Hong Kong."}
+  - {n: 25, speaker: Lin-ze, hanzi: "咪咁肉麻啦！嚟，飲杯！", jyutping: "mai5 gam3 juk6 maa4 laa1! lai4, jam2 bui1!", en: "Don't be so soppy! Come on, cheers!"}
+notes:
+  - {ref: 0, topic: grammar, text: "This review brings back P15–P20 with no new words. Look for: comparison with 過 and 冇…咁 (lines 3, 4, 6, 10), 得滯 (line 10), 雖然…但係 (line 8), habitual 開 (line 9), verbal classifiers 場 and 首 (lines 1, 21), indirect speech, and the music words of P20."}
+  - {ref: 3, topic: grammar, text: "老土過佢 'more uncool than it': adjective + 過 + X (P16), with 再 'even more'. 夠老土 'uncool enough already'."}
+  - {ref: 4, topic: grammar, text: "Two comparisons in one breath: 細過梁記 'smaller than Leung Kee', 人多過梁記 'more people than Leung Kee'. The noun can go before the adjective: 人多過…"}
+  - {ref: 6, topic: grammar, text: "嘈過呢度十倍 'ten times louder than here': the amount goes after the compared thing, as in 貴過梁記八蚊 (P16)."}
+  - {ref: 9, topic: grammar, text: "俾開現金 'always pay cash' (habitual 開, P11); 照舊 'as usual' (P16); 唔慣 'not used to' (慣, P4)."}
+  - {ref: 10, topic: grammar, text: "冇以前咁多人 'not as many people as before': A 冇 B 咁 + adjective, with 以前 'before' as B."}
+  - {ref: 11, topic: vocab, text: "偷偷 tau1 tau1 'secretly' (from 偷, P17): 偷偷笑 'smile to oneself'. The two keep their secret from P16."}
+  - {ref: 14, topic: grammar, text: "V + 先 + V 'first …, then …': 你學識撞茶先請 'learn to pull tea first, then you can buy (me a drink)'; the same 先 as in 你六點先嚟 (P1)."}
+  - {ref: 16, topic: vocab, text: "攞返嚟 'brought back'. 上面有張相 'there's a photo on it'. 天台 'rooftop' (P12) gives the band its name: 天台派對 'Rooftop Party'."}
+  - {ref: 19, topic: vocab, text: "借 ze3 = borrow; lend. 淨係…啫 'only …, that's all' (P7, P17)."}
+  - {ref: 22, topic: vocab, text: "打拍子 'tap out the beat' (拍子, P20). 跟住 'along with, following'. 節奏 'rhythm' (line 23)."}
+  - {ref: 25, topic: culture, text: "飲杯 'cheers! let's drink': lit. 'drink a glass'; also 飲勝 jam2 sing3 at banquets. 咪咁肉麻 'don't be so soppy': 咪 mai5 'don't' (P1), 肉麻 (P1)."}
+pron: []
+new_words: []
+exercises:
+  translate:
+    - {hanzi: "呢間舖細過梁記，但係人多過梁記。", jyutping: "ni1 gaan1 pou3 sai3 gwo3 loeng4 gei3, daan6 hai6 jan4 do1 gwo3 loeng4 gei3.", en: "This shop is smaller than Leung Kee, but there are more people."}
+    - {hanzi: "佢哋冇以前咁多客，因為優惠完咗。", jyutping: "keoi5 dei6 mou5 ji5 cin4 gam3 do1 haak3, jan1 wai6 jau1 wai6 jyun4 zo2.", en: "They don't have as many customers as before, because the offer is over."}
+    - {hanzi: "雖然好嘈，但係我頂得順。", jyutping: "seoi1 jin4 hou2 cou4, daan6 hai6 ngo5 ding2 dak1 seon6.", en: "It's very loud, but I can stand it."}
+    - {hanzi: "阿伯成首歌都跟住打拍子。", jyutping: "aa3 baak3 seng4 sau2 go1 dou1 gan1 zyu6 daa2 paak3 zi2.", en: "The old man tapped along to the beat for the whole song."}
+    - {hanzi: "我哋淨係借你個名啫，唔會搵你。", jyutping: "ngo5 dei6 zing6 hai6 ze3 nei5 go3 meng2 ze1, m4 wui5 wan2 nei5.", en: "We're only borrowing your name; we won't come bothering you."}
+  fill:
+    - {hanzi: "跑馬地嘈___呢度十倍。", jyutping: "paau2 maa5 dei2 cou4 ___ ni1 dou6 sap6 pui5.", answer: "gwo3", answer_hanzi: 過, en: "Happy Valley is ten times louder than here."}
+    - {hanzi: "啲熟客俾___現金。", jyutping: "di1 suk6 haak3 bei2 ___ jin6 gam1.", answer: "hoi1", answer_hanzi: 開, en: "The regulars always pay cash."}
+    - {hanzi: "佢哋啲奶茶甜___。", jyutping: "keoi5 dei6 di1 naai5 caa4 tim4 ___.", answer: "dak1 zai6", answer_hanzi: 得滯, en: "Their milk tea is too sweet."}
+    - {hanzi: "今晚係我哋第一___表演。", jyutping: "gam1 maan5 hai6 ngo5 dei6 dai6 jat1 ___ biu2 jin2.", answer: "coeng4", answer_hanzi: 場, en: "Tonight is our first show."}
+    - {hanzi: "你學識撞茶___請我。", jyutping: "nei5 hok6 sik1 zong6 caa4 ___ ceng2 ngo5.", answer: "sin1", answer_hanzi: 先, en: "Learn to pull tea first, then you can buy me a drink."}
