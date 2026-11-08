@@ -1,0 +1,60 @@
+# 進修 42. Review of P36–P41: no new words. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 42
+title: {en: "Review: second place", jyutping: "fuk6 zaap6", hanzi: "復習"}
+genre: review
+review: true
+setting: "Sunday 30 May 2027, the birthday of Kayan's late mother. Early in the morning, 梁伯, Kayan and Hugo climb the steps of a hillside cemetery above Chai Wan with fresh flowers. Since the clip of 梁伯 went viral, there has been a queue outside 梁記 every day."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "阿爸，慢慢行，到咗咁滯喇。你唔攰呀？", jyutping: "aa3 baa4, maan6 maan2 haang4, dou3 zo2 gam3 zai6 laa3. nei5 m4 gui6 aa4?", en: "Dad, take it slowly; we're almost there. Aren't you tired?"}
+  - {n: 2, speaker: Leung Pak, hanzi: "係，唔攰。醫生話我行吓樓梯仲好。", jyutping: "hai6, m4 gui6. ji1 sang1 waa6 ngo5 haang4 haa5 lau4 tai1 zung6 hou2.", en: "Right, I'm not. The doctor says climbing a few steps is good for me."}
+  - {n: 3, speaker: Hugo, hanzi: "梁伯，你行得快過我喎。", jyutping: "loeng4 baak3, nei5 haang4 dak1 faai3 gwo3 ngo5 wo3.", en: "梁伯, you're walking faster than me."}
+  - {n: 4, speaker: Leung Pak, hanzi: "你行完麥理浩徑都冇我咁快，係咪平時坐得太多？", jyutping: "nei5 haang4 jyun4 mak6 lei5 hou6 ging3 dou1 mou5 ngo5 gam3 faai3, hai6 mai6 ping4 si4 co5 dak1 taai3 do1?", en: "You've done the MacLehose Trail and you're still not as fast as me. Sitting around too much?"}
+  - {n: 5, speaker: Kayan, hanzi: "（擺低啲花）阿媽，生日快樂。我哋嚟睇你喇。", jyutping: "(baai2 dai1 di1 faa1) aa3 maa1, saang1 jat6 faai3 lok6. ngo5 dei6 lai4 tai2 nei5 laa3.", en: "(Laying down the flowers) Happy birthday, Mum. We've come to see you."}
+  - {n: 6, speaker: Leung Pak, hanzi: "阿芳，同你講個消息：我哋參加咗電視台個比賽，攞咗第二。", jyutping: "aa3 fong1, tung4 nei5 gong2 go3 siu1 sik1: ngo5 dei6 caam1 gaa1 zo2 din6 si6 toi4 go3 bei2 coi3, lo2 zo2 dai6 ji6.", en: "Fong, I've got news for you: we entered the TV station's contest, and came second."}
+  - {n: 7, speaker: Leung Pak, hanzi: "差一分㗎咋，就係因為超過咗三十秒。你都知我講嘢多。", jyutping: "caa1 jat1 fan1 gaa3 zaa3, zau6 hai6 jan1 wai6 ciu1 gwo3 zo2 saam1 sap6 miu5. nei5 dou1 zi1 ngo5 gong2 je5 do1.", en: "Just one point short, all because we went thirty seconds over. You know how much I talk."}
+  - {n: 8, speaker: Kayan, hanzi: "不過輸咗反而好。阿爸嗰段片俾人放上網，每日都有人專登嚟梁記排隊。", jyutping: "bat1 gwo3 syu1 zo2 faan2 ji4 hou2. aa3 baa4 go2 dyun6 pin2 bei2 jan4 fong3 soeng5 mong5, mui5 jat6 dou1 jau5 jan4 zyun1 dang1 lai4 loeng4 gei3 paai4 deoi2.", en: "But losing turned out better. Someone put Dad's clip online, and every day people come to 梁記 specially and queue."}
+  - {n: 9, speaker: Hugo, hanzi: "所有人都想試吓「多啲茶葉」嘅奶茶。啲客越嚟越多，強哥忙到頂唔順。", jyutping: "so2 jau5 jan4 dou1 soeng2 si3 haa5 \"do1 di1 caa4 jip6\" ge3 naai5 caa4. di1 haak3 jyut6 lai4 jyut6 do1, koeng4 go1 mong4 dou3 ding2 m4 seon6.", en: "Everyone wants to try the 'more tea leaves' milk tea. There are more and more customers; 強哥 is so busy he can barely cope."}
+  - {n: 10, speaker: Leung Pak, hanzi: "仲有個後生仔問我：「你係咪片入面個老闆嚟？」我話：「唔係，我係佢阿哥。」", jyutping: "zung6 jau5 go3 hau6 saang1 zai2 man6 ngo5: \"nei5 hai6 mai6 pin2 jap6 min6 go3 lou5 baan2 lai4?\" ngo5 waa6: \"m4 hai6, ngo5 hai6 keoi5 aa3 go1.\"", en: "And a young man asked me: 'Aren't you the boss in the clip?' I said: 'No, I'm his big brother.'"}
+  - {n: 11, speaker: Kayan, hanzi: "係咁嘅咩？阿爸，你都識講笑！", jyutping: "hai6 gam2 ge3 me1? aa3 baa4, nei5 dou1 sik1 gong2 siu3!", en: "Really? Dad, you can actually joke!"}
+  - {n: 12, speaker: Leung Pak, hanzi: "做咗五十年生意，任何客我都搞得掂。", jyutping: "zou6 zo2 ng5 sap6 nin4 saang1 ji3, jam6 ho4 haak3 ngo5 dou1 gaau2 dak1 dim6.", en: "Fifty years in business: I can handle any customer."}
+  - {n: 13, speaker: Hugo, hanzi: "陳生都打電話嚟，話牛油換返舊款，仲平啲啲添。", jyutping: "can4 saang1 dou1 daa2 din6 waa2 lai4, waa6 ngau4 jau4 wun6 faan1 gau6 fun2, zung6 peng4 di1 di1 tim1.", en: "Mr Chan phoned too: the old butter's back, and a tiny bit cheaper as well."}
+  - {n: 14, speaker: Leung Pak, hanzi: "佢見我哋生意好咗，梗係俾面啦。", jyutping: "keoi5 gin3 ngo5 dei6 saang1 ji3 hou2 zo2, gang2 hai6 bei2 min2 laa1.", en: "He's seen business pick up, so of course he's showing some respect."}
+  - {n: 15, speaker: Kayan, hanzi: "不過每日人咁多，我驚啲熟客冇位坐。", jyutping: "bat1 gwo3 mui5 jat6 jan4 gam3 do1, ngo5 geng1 di1 suk6 haak3 mou5 wai2 co5.", en: "But with so many people every day, I'm afraid the regulars will have nowhere to sit."}
+  - {n: 16, speaker: Leung Pak, hanzi: "第一個卡位留俾熟客，任何時候都係。呢個冇得傾。", jyutping: "dai6 jat1 go3 kaa1 wai2 lau4 bei2 suk6 haak3, jam6 ho4 si4 hau6 dou1 hai6. ni1 go3 mou5 dak1 king1.", en: "The first booth is kept for regulars, at all times. That's not negotiable."}
+  - {n: 17, speaker: Hugo, hanzi: "梁伯，你仲記唔記得年初三你喺醫院講嘅嘢？", jyutping: "loeng4 baak3, nei5 zung6 gei3 m4 gei3 dak1 nin4 co1 saam1 nei5 hai2 ji1 jyun2 gong2 ge3 je5?", en: "梁伯, do you remember what you said in hospital on the third day of New Year?"}
+  - {n: 18, speaker: Leung Pak, hanzi: "記得，「我聽話」。所以我而家每日淨係坐喺度沖幾杯奶茶，其他嘢俾嘉欣做。", jyutping: "gei3 dak1, \"ngo5 teng1 waa6\". so2 ji5 ngo5 ji4 gaa1 mui5 jat6 zing6 hai6 co5 hai2 dou6 cung1 gei2 bui1 naai5 caa4, kei4 taa1 je5 bei2 gaa1 jan1 zou6.", en: "I remember: 'I'll do as I'm told.' So now I just sit and make a few cups of milk tea a day, and leave the rest to Kayan."}
+  - {n: 19, speaker: Kayan, hanzi: "阿媽，你聽到冇？佢終於肯俾我做喇。", jyutping: "aa3 maa1, nei5 teng1 dou2 mou5? keoi5 zung1 jyu1 hang2 bei2 ngo5 zou6 laa3.", en: "Mum, did you hear that? He's finally willing to let me run things."}
+  - {n: 20, speaker: Leung Pak, hanzi: "俾你做係俾你做，不過杯奶茶唔啱味，我照鬧。", jyutping: "bei2 nei5 zou6 hai6 bei2 nei5 zou6, bat1 gwo3 bui1 naai5 caa4 m4 ngaam1 mei6, ngo5 ziu3 naau6.", en: "Letting you run things is one thing, but if the milk tea doesn't taste right, I'll still tell you off."}
+  - {n: 21, speaker: Hugo, hanzi: "（望住山下）呢度望到成個海，好靚。", jyutping: "(mong6 zyu6 saan1 haa6) ni1 dou6 mong6 dou2 seng4 go3 hoi2, hou2 leng3.", en: "(Looking down the hill) You can see the whole sea from here; it's beautiful."}
+  - {n: 22, speaker: Leung Pak, hanzi: "佢鍾意海，所以揀呢度。佢以前成日話：人唔使贏晒，開心就夠。", jyutping: "keoi5 zung1 ji3 hoi2, so2 ji5 gaan2 ni1 dou6. keoi5 ji5 cin4 sing4 jat6 waa6: jan4 m4 sai2 jeng4 saai3, hoi1 sam1 zau6 gau3.", en: "She loved the sea, so we chose this spot. She always used to say: you don't have to win everything in life; being happy is enough."}
+  - {n: 23, speaker: Kayan, hanzi: "咁第二都好開心咯。", jyutping: "gam2 dai6 ji6 dou1 hou2 hoi1 sam1 lo3.", en: "Then second place makes us happy too."}
+  - {n: 24, speaker: Leung Pak, hanzi: "走啦，落山食早餐。今日我請，任何嘢都得，除咗新潮茶記。", jyutping: "zau2 laa1, lok6 saan1 sik6 zou2 caan1. gam1 jat6 ngo5 ceng2, jam6 ho4 je5 dou1 dak1, ceoi4 zo2 san1 ciu4 caa4 gei3.", en: "Let's go and have breakfast down the hill. My treat today: anything you like, except 新潮茶記."}
+notes:
+  - {ref: 0, topic: grammar, text: "This review brings back P36–P41 with no new words. Look for: 咁滯 and 啲啲 (lines 1, 13), 每 / 所有 / 任何 + 都 (lines 8, 9, 12, 16, 24), the 俾 passive (lines 8, 15), answers to negative questions (lines 1–2, 10), comparisons (lines 3, 4, 9), and the particles 㗎咋, 嚟, 咯, 嘅咩 (lines 7, 10, 11, 23)."}
+  - {ref: 1, topic: grammar, text: "到咗咁滯 'almost there' (P36). 你唔攰呀？— 係，唔攰 'Right, I'm not' (P39): 係 agrees with the negative question."}
+  - {ref: 3, topic: grammar, text: "Comparison (P40): 行得快過我 'walks faster than me' (V得 + adjective + 過); 冇我咁快 'not as fast as me' (line 4); 越嚟越多 'more and more' (line 9); 坐得太多 'sit too much'."}
+  - {ref: 7, topic: grammar, text: "㗎咋 'only' (P41): 差一分㗎咋 'just one point short'."}
+  - {ref: 8, topic: grammar, text: "俾人放上網 'was put online by someone' (P37): the spoken passive needs an agent, here 人. 每日都… 'every day…' (P38). 反而 'on the contrary, actually' (P15)."}
+  - {ref: 9, topic: grammar, text: "所有人都… 'everyone' (P38). 忙到頂唔順 'so busy he can barely cope' (V到 + result, P26; 頂唔順, P2)."}
+  - {ref: 10, topic: grammar, text: "你係咪…嚟？ (P41): 嚟 classifies: 'are you the boss in the clip?'. 梁伯's 唔係 is a straight answer to a yes/no question, and a joke."}
+  - {ref: 11, topic: grammar, text: "係咁嘅咩？ 'Really? Is that so?' (P41)."}
+  - {ref: 12, topic: grammar, text: "任何客我都搞得掂 'I can handle any customer': 任何 + noun fronted, then 都 (P38)."}
+  - {ref: 13, topic: vocab, text: "Callbacks to P36: 換返舊款 'back to the old brand', 平啲啲 'a tiny bit cheaper', 俾面 'show respect' (line 14)."}
+  - {ref: 16, topic: vocab, text: "任何時候都係 'at all times'. 冇得傾 'not negotiable' (P34)."}
+  - {ref: 20, topic: grammar, text: "俾你做係俾你做，不過… 'letting you run it is one thing, but…': A 係 A，不過 (P40). 照鬧 'still tell off (regardless)'."}
+  - {ref: 23, topic: grammar, text: "咯 (P41): 咁第二都好開心咯 'so second place makes us happy too, then': a conclusion that seems obvious."}
+pron: []
+new_words: []
+exercises:
+  translate:
+    - {hanzi: "我哋到咗咁滯。", jyutping: "ngo5 dei6 dou3 zo2 gam3 zai6.", en: "We're almost there."}
+    - {hanzi: "任何客佢都搞得掂。", jyutping: "jam6 ho4 haak3 keoi5 dou1 gaau2 dak1 dim6.", en: "He can handle any customer."}
+    - {hanzi: "佢嗰段片俾人放咗上網。", jyutping: "keoi5 go2 dyun6 pin2 bei2 jan4 fong3 zo2 soeng5 mong5.", en: "Someone put his clip online."}
+    - {hanzi: "你唔攰呀？— 係，我唔攰。", jyutping: "nei5 m4 gui6 aa4? — hai6, ngo5 m4 gui6.", en: "Aren't you tired? — No, I'm not."}
+    - {hanzi: "啲客越嚟越多。", jyutping: "di1 haak3 jyut6 lai4 jyut6 do1.", en: "There are more and more customers."}
+  fill:
+    - {hanzi: "差一分___，真係可惜。", jyutping: "caa1 jat1 fan1 ___, zan1 hai6 ho2 sik1.", answer: "gaa3 zaa3", answer_hanzi: 㗎咋, en: "Just one point short: such a pity."}
+    - {hanzi: "你行完麥理浩徑都___我咁快。", jyutping: "nei5 haang4 jyun4 mak6 lei5 hou6 ging3 dou1 ___ ngo5 gam3 faai3.", answer: "mou5", answer_hanzi: 冇, en: "You've done the MacLehose Trail and you're still not as fast as me."}
+    - {hanzi: "___人都想試吓呢杯奶茶。", jyutping: "___ jan4 dou1 soeng2 si3 haa5 ni1 bui1 naai5 caa4.", answer: "so2 jau5", answer_hanzi: 所有, en: "Everyone wants to try this milk tea."}
+    - {hanzi: "牛油平咗___。", jyutping: "ngau4 jau4 peng4 zo2 ___.", answer: "di1 di1", answer_hanzi: 啲啲, en: "The butter's got a tiny bit cheaper."}
+    - {hanzi: "你係咪片入面個老闆___？", jyutping: "nei5 hai6 mai6 pin2 jap6 min6 go3 lou5 baan2 ___?", answer: "lai4", answer_hanzi: 嚟, en: "Aren't you the boss in the clip?"}
