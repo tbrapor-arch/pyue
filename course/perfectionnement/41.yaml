@@ -1,0 +1,107 @@
+# 進修 41. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 41
+title: {en: "Macau", jyutping: "ou3 mun2", hanzi: "澳門"}
+intro: "A day in Macau with a professional guide: Portuguese traces in streets and dishes, and more sentence particles: 㗎咋 'only', 嚟 'it's a…', 咯 'then, obviously', 嘅咩 'really?'."
+genre: trip
+review: false
+setting: "Sunday 23 May 2027, a week after the final. To cheer Kayan up, Hiu-ching, who is a tour guide, takes her and Hugo to Macau by bus over the Hong Kong–Zhuhai–Macau Bridge. Morning in the old town around the Ruins of St Paul's, lunch in Taipa."
+dialogue:
+  - {n: 1, speaker: Hiu-ching, hanzi: "到喇！由香港搭巴士過大橋，四十分鐘㗎咋。今日我做導遊，唔收錢。", jyutping: "dou3 laa3! jau4 hoeng1 gong2 daap3 baa1 si2 gwo3 daai6 kiu4, sei3 sap6 fan1 zung1 gaa3 zaa3. gam1 jat6 ngo5 zou6 dou6 jau4, m4 sau1 cin2.", en: "Here we are! Only forty minutes by bus over the bridge from Hong Kong. I'm your guide today, free of charge."}
+  - {n: 2, speaker: Kayan, hanzi: "比賽之後我成個禮拜都提唔起精神，出嚟散吓心都好。", jyutping: "bei2 coi3 zi1 hau6 ngo5 seng4 go3 lai5 baai3 dou1 tai4 m4 hei2 zing1 san4, ceot1 lai4 saan3 haa5 sam1 dou1 hou2.", en: "Since the contest I've had no energy all week; it's good to get out and clear my head."}
+  - {n: 3, speaker: Hugo, hanzi: "你睇啲路牌，一半中文，一半葡文！", jyutping: "nei5 tai2 di1 lou6 paai2, jat1 bun3 zung1 man2, jat1 bun3 pou4 man2!", en: "Look at the street signs: half Chinese, half Portuguese!"}
+  - {n: 4, speaker: Hiu-ching, hanzi: "澳門以前係葡萄牙嘅殖民地，一九九九年回歸中國。好多路名同菜名都係由葡文嚟嘅。", jyutping: "ou3 mun2 ji5 cin4 hai6 pou4 tou4 ngaa4 ge3 zik6 man4 dei6, jat1 gau2 gau2 gau2 nin4 wui4 gwai1 zung1 gwok3. hou2 do1 lou6 meng2 tung4 coi3 meng2 dou1 hai6 jau4 pou4 man2 lai4 ge3.", en: "Macau used to be a Portuguese colony; it returned to China in 1999. Lots of street names and dish names come from Portuguese."}
+  - {n: 5, speaker: Hugo, hanzi: "點解啲地下有黑白波浪嘅？", jyutping: "dim2 gaai2 di1 dei6 haa2 jau5 haak1 baak6 bo1 long6 ge2?", en: "Why are there black and white waves on the ground?"}
+  - {n: 6, speaker: Hiu-ching, hanzi: "嗰啲係黑白石仔砌出嚟嘅，係葡萄牙嘅傳統。你喺里斯本都見到㗎。", jyutping: "go2 di1 hai6 haak1 baak6 sek6 zai2 cai3 ceot1 lai4 ge3, hai6 pou4 tou4 ngaa4 ge3 cyun4 tung2. nei5 hai2 lei5 si1 bun2 dou1 gin3 dou2 gaa3.", en: "They're made of black and white cobbles laid in patterns, a Portuguese tradition. You'd see them in Lisbon too."}
+  - {n: 7, speaker: Kayan, hanzi: "嘩，好多人，擠到行唔郁。", jyutping: "waa3, hou2 do1 jan4, zai1 dou3 haang4 m4 juk1.", en: "Wow, what crowds; it's so packed we can't move."}
+  - {n: 8, speaker: Hiu-ching, hanzi: "前面就係大三巴牌坊。以前係一間教堂，四百年前起嘅，後來俾火燒咗，淨係得返前面一幅牆。", jyutping: "cin4 min6 zau6 hai6 daai6 saam1 baa1 paai4 fong1. ji5 cin4 hai6 jat1 gaan1 gaau3 tong4, sei3 baak3 nin4 cin4 hei2 ge3, hau6 loi4 bei2 fo2 siu1 zo2, zing6 hai6 dak1 faan1 cin4 min6 jat1 fuk1 coeng4.", en: "Up ahead are the Ruins of St Paul's. It used to be a church, built four hundred years ago; later it burned down, and only the front wall is left."}
+  - {n: 9, speaker: Hugo, hanzi: "得一幅牆㗎咋？", jyutping: "dak1 jat1 fuk1 coeng4 gaa3 zaa3?", en: "Just one wall?"}
+  - {n: 10, speaker: Hiu-ching, hanzi: "一幅牆都好有歷史噃。成個舊城都係世界遺產。隔籬就係博物館，入去參觀吓先啦。", jyutping: "jat1 fuk1 coeng4 dou1 hou2 jau5 lik6 si2 bo3. seng4 go3 gau6 sing4 dou1 hai6 sai3 gaai3 wai4 caan2. gaak3 lei4 zau6 hai6 bok3 mat6 gun2, jap6 heoi3 caam1 gun1 haa5 sin1 laa1.", en: "Even one wall has a lot of history, mind you. The whole old town is a World Heritage site. The museum is right next door; let's go in and have a look."}
+  - {n: 11, speaker: Hugo, hanzi: "（喺博物館）呢張係乜嘢嚟？", jyutping: "(hai2 bok3 mat6 gun2) ni1 zoeng1 hai6 mat1 je5 lai4?", en: "(In the museum) What's this?"}
+  - {n: 12, speaker: Hiu-ching, hanzi: "呢張係以前葡國商人航海用嘅地圖嚟。佢哋由歐洲去日本，路上就喺澳門停。", jyutping: "ni1 zoeng1 hai6 ji5 cin4 pou4 gwok3 soeng1 jan4 hong4 hoi2 jung6 ge3 dei6 tou4 lai4. keoi5 dei6 jau4 au1 zau1 heoi3 jat6 bun2, lou6 soeng6 zau6 hai2 ou3 mun2 ting4.", en: "It's a map used by Portuguese merchants at sea. They sailed from Europe to Japan and stopped in Macau on the way."}
+  - {n: 13, speaker: Hugo, hanzi: "即係幾百年前，澳門已經係中西文化交流嘅地方。", jyutping: "zik1 hai6 gei2 baak3 nin4 cin4, ou3 mun2 ji5 ging1 hai6 zung1 sai1 man4 faa3 gaau1 lau4 ge3 dei6 fong1.", en: "So centuries ago, Macau was already a place where Chinese and Western cultures met."}
+  - {n: 14, speaker: Kayan, hanzi: "行到肚餓喇。去氹仔食飯咯！", jyutping: "haang4 dou3 tou5 ngo6 laa3. heoi3 tam5 zai2 sik6 faan6 lo3!", en: "All this walking's made me hungry. Let's go to Taipa and eat, then!"}
+  - {n: 15, speaker: Hiu-ching, hanzi: "呢間係土生葡人開嘅餐廳，有馬介休、免治、葡國雞。", jyutping: "ni1 gaan1 hai6 tou2 sang1 pou4 jan4 hoi1 ge3 caan1 teng1, jau5 maa5 gaai3 jau1, min5 zi6, pou4 gwok3 gai1.", en: "This restaurant is run by Macanese: they have bacalhau, minchi, Portuguese chicken."}
+  - {n: 16, speaker: Hugo, hanzi: "馬介休係乜嘢嚟？", jyutping: "maa5 gaai3 jau1 hai6 mat1 je5 lai4?", en: "What's bacalhau?"}
+  - {n: 17, speaker: Hiu-ching, hanzi: "係用鹽醃過嘅鹹魚嚟，葡文叫 bacalhau。佢哋將鹹魚整成薯仔餅。", jyutping: "hai6 jung6 jim4 jip3 gwo3 ge3 haam4 jyu2 lai4, pou4 man2 giu3 bacalhau. keoi5 dei6 zoeng1 haam4 jyu2 zing2 sing4 syu4 zai2 beng2.", en: "It's salt fish, cured with salt; in Portuguese, bacalhau. They make it into potato cakes."}
+  - {n: 18, speaker: Hugo, hanzi: "鹹魚？法國都有！我阿媽都會用嚟整菜。", jyutping: "haam4 jyu2? faat3 gwok3 dou1 jau5! ngo5 aa3 maa1 dou1 wui5 jung6 lai4 zing2 coi3.", en: "Salt fish? We have it in France too! My mum cooks with it."}
+  - {n: 19, speaker: Hiu-ching, hanzi: "免治就係英文 mince，即係碎肉，炒薯仔粒，配飯食。係土生葡人嘅家常菜。", jyutping: "min5 zi6 zau6 hai6 jing1 man2 mince, zik1 hai6 seoi3 juk6, caau2 syu4 zai2 nap1, pui3 faan6 sik6. hai6 tou2 sang1 pou4 jan4 ge3 gaa1 soeng4 coi3.", en: "Minchi is the English word 'mince': minced meat fried with diced potato, served with rice. It's Macanese home cooking."}
+  - {n: 20, speaker: Hugo, hanzi: "葡萄牙、英國、廣東、東南亞……一碟菜混合晒咁多地方。", jyutping: "pou4 tou4 ngaa4, jing1 gwok3, gwong2 dung1, dung1 naam4 aa3 …… jat1 dip6 coi3 wan6 hap6 saai3 gam3 do1 dei6 fong1.", en: "Portugal, Britain, Canton, Southeast Asia… one dish mixes all those places."}
+  - {n: 21, speaker: Hiu-ching, hanzi: "土生葡人好多都係混血，佢哋嘅菜同語言都係融合出嚟嘅。佢哋自己嘅語言，而家識講嘅人好少咯。", jyutping: "tou2 sang1 pou4 jan4 hou2 do1 dou1 hai6 wan6 hyut3, keoi5 dei6 ge3 coi3 tung4 jyu5 jin4 dou1 hai6 jung4 hap6 ceot1 lai4 ge3. keoi5 dei6 zi6 gei2 ge3 jyu5 jin4, ji4 gaa1 sik1 gong2 ge3 jan4 hou2 siu2 lo3.", en: "Many Macanese are of mixed descent; their food and language grew out of blending. Their own creole has very few speakers left now, sadly."}
+  - {n: 22, speaker: Kayan, hanzi: "葡撻同香港嘅蛋撻有咩唔同？", jyutping: "pou4 taat1 tung4 hoeng1 gong2 ge3 daan6 taat1 jau5 me1 m4 tung4?", en: "What's the difference between a Portuguese tart and a Hong Kong egg tart?"}
+  - {n: 23, speaker: Hiu-ching, hanzi: "葡撻面頭燒到有啲燶，個皮係酥皮，啲蛋冇咁甜。一個十幾蚊之嘛，試吓！", jyutping: "pou4 taat1 min2 tau4 siu1 dou3 jau5 di1 nung1, go3 pei4 hai6 sou1 pei4, di1 daan2 mou5 gam3 tim4. jat1 go3 sap6 gei2 man1 zi1 maa3, si3 haa5!", en: "A Portuguese tart is a little scorched on top, the crust is flaky pastry, and the custard is less sweet. Only ten-odd dollars each: try one!"}
+  - {n: 24, speaker: Hugo, hanzi: "好食過梁記嘅蛋撻……唔好話俾梁伯知噃。", jyutping: "hou2 sik6 gwo3 loeng4 gei3 ge3 daan6 taat1 …… m4 hou2 waa6 bei2 loeng4 baak3 zi1 bo3.", en: "Better than 梁記's egg tarts… don't tell 梁伯, mind."}
+  - {n: 25, speaker: Kayan, hanzi: "（望住手機）係咁嘅咩？阿爸喺比賽講「記得落多啲茶葉」嗰段片，有人放咗上網，已經瘋傳咗！", jyutping: "(mong6 zyu6 sau2 gei1) hai6 gam2 ge3 me1? aa3 baa4 hai2 bei2 coi3 gong2 \"gei3 dak1 lok6 do1 di1 caa4 jip6\" go2 dyun6 pin2, jau5 jan4 fong3 zo2 soeng5 mong5, ji5 ging1 fung1 cyun4 zo2!", en: "(Looking at her phone) Is that so? Someone's posted the clip of Dad saying 'remember to put in more tea leaves' at the contest, and it's gone viral!"}
+notes:
+  - {ref: 1, topic: grammar, text: "㗎咋 gaa3 zaa3 = 'only, just' with emphasis, often after a number: 四十分鐘㗎咋 'only forty minutes'; 得一幅牆㗎咋？ 'just one wall?' (line 9). Compare 之嘛 (P17), lighter and more dismissive: 十幾蚊之嘛 'only ten-odd dollars' (line 23)."}
+  - {ref: 2, topic: vocab, text: "散心 saan3 sam1 = clear one's head, take a break from worries: 散吓心 (VO, split by 吓). 提唔起精神 'can't summon any energy'."}
+  - {ref: 4, topic: culture, text: "澳門 ou3 mun2 = Macau, a Portuguese colony (殖民地 zik6 man4 dei6) from the 16th century until its return (回歸 wui4 gwai1) to China in 1999. 葡萄牙 pou4 tou4 ngaa4 = Portugal; 葡文 pou4 man2 = Portuguese (language). 路牌 lou6 paai2 = street sign."}
+  - {ref: 6, topic: vocab, text: "砌 cai3 = lay, build (bricks, stones, Lego). 波浪 bo1 long6 = waves. 里斯本 Lisbon."}
+  - {ref: 7, topic: vocab, text: "擠 zai1 = crowded, packed: 擠到行唔郁 'so packed you can't move'."}
+  - {ref: 8, topic: culture, text: "大三巴牌坊 daai6 saam1 baa1 paai4 fong1 = the Ruins of St Paul's: 三巴 from 'São Paulo', 牌坊 = a memorial archway. 教堂 gaau3 tong4 = church; 起 hei2 = build; 幅 fuk1 = classifier for walls and paintings."}
+  - {ref: 10, topic: vocab, text: "舊城 'old town'. 世界遺產 'World Heritage (site)' (遺產 wai4 caan2 'heritage, inheritance'). 博物館 bok3 mat6 gun2 = museum; 參觀 caam1 gun1 = visit (a place). 噃 bo3 (P17) points out something the listener should notice."}
+  - {ref: 11, topic: grammar, text: "嚟 lai4 at the end of 係 … 嚟 identifies what something is: 呢張係乜嘢嚟？ 'what is this (thing)?'; 係鹹魚嚟 'it's salt fish' (line 17); 係地圖嚟 (line 12). It's for classifying an object, not for people's jobs."}
+  - {ref: 12, topic: vocab, text: "商人 soeng1 jan4 = merchant; 航海 hong4 hoi2 = sail the seas; 地圖 dei6 tou4 = map. 路上 'on the way'. 交流 gaau1 lau4 (line 13) = exchange: 文化交流."}
+  - {ref: 14, topic: grammar, text: "咯 lo3 closes a suggestion or conclusion that seems obvious or inevitable: 去氹仔食飯咯 'let's go and eat in Taipa, then'; 識講嘅人好少咯 'very few speak it now, that's how it is' (line 21). 氹仔 tam5 zai2 = Taipa island."}
+  - {ref: 15, topic: culture, text: "土生葡人 tou2 sang1 pou4 jan4 = the Macanese, locally born people of mixed Portuguese and Asian descent (混血 wan6 hyut3). Their dishes: 馬介休 maa5 gaai3 jau1 (bacalhau, salt cod), 免治 min5 zi6 (minchi, from English 'mince'), 葡國雞. Their creole, 'Patuá', is now spoken by very few."}
+  - {ref: 17, topic: vocab, text: "鹹魚 haam4 jyu2 = salt fish (鹹, P33); 鹽 jim4 = salt; 醃 jip3 = cure, pickle. 薯仔 syu4 zai2 = potato; 薯仔粒 'diced potato' (line 19). 配 pui3 = go with, be served with; 家常菜 gaa1 soeng4 coi3 = home cooking."}
+  - {ref: 20, topic: vocab, text: "混合 wan6 hap6 = mix; 融合 jung4 hap6 (line 21) = blend, fuse. 東南亞 dung1 naam4 aa3 = Southeast Asia."}
+  - {ref: 23, topic: vocab, text: "葡撻 pou4 taat1 = Portuguese egg tart. 酥皮 sou1 pei2 = flaky pastry (but 個皮 pei4 alone). 啲蛋 'the egg (filling)'. 葡國 pou4 gwok3 = Portugal (everyday): 葡國雞, 葡國菜."}
+  - {ref: 25, topic: grammar, text: "嘅咩 ge3 me1 = surprise or disbelief, 'really? is that so?': 係咁嘅咩？ 瘋傳 fung1 cyun4 = spread like wildfire, go viral; 放上網 'post online'."}
+pron:
+  - {ref: 4, text: "澳門 ou3 mun2: 門 rises in the place name (mun4 elsewhere)."}
+  - {ref: 14, text: "咯 lo3 'then, obviously', mid level, not lok3 or gok3."}
+  - {ref: 17, text: "醃 'cure, pickle' is jip3 in speech; dictionaries also give jim1."}
+new_words:
+  - {jyutping: "ou3 mun2", hanzi: 澳門, en: "Macau"}
+  - {jyutping: "gaa3 zaa3", hanzi: 㗎咋, en: "only, just (particle)"}
+  - {jyutping: "saan3 sam1", hanzi: 散心, en: "clear one's head"}
+  - {jyutping: "lou6 paai2", hanzi: 路牌, en: "street sign"}
+  - {jyutping: "pou4 man2", hanzi: 葡文, en: "Portuguese (language)"}
+  - {jyutping: "pou4 tou4 ngaa4", hanzi: 葡萄牙, en: "Portugal"}
+  - {jyutping: "zik6 man4 dei6", hanzi: 殖民地, en: "colony"}
+  - {jyutping: "wui4 gwai1", hanzi: 回歸, en: "return (of sovereignty)"}
+  - {jyutping: "bo1 long6", hanzi: 波浪, en: "waves"}
+  - {jyutping: "cai3", hanzi: 砌, en: "lay, build (stones)"}
+  - {jyutping: "zai1", hanzi: 擠, en: "crowded, packed"}
+  - {jyutping: "daai6 saam1 baa1", hanzi: 大三巴, en: "Ruins of St Paul's"}
+  - {jyutping: "paai4 fong1", hanzi: 牌坊, en: "memorial archway"}
+  - {jyutping: "gaau3 tong4", hanzi: 教堂, en: "church"}
+  - {jyutping: "hei2", hanzi: 起, en: "build"}
+  - {jyutping: "fuk1", hanzi: 幅, en: "classifier for walls, paintings"}
+  - {jyutping: "pou4 gwok3", hanzi: 葡國, en: "Portugal (everyday)"}
+  - {jyutping: "wai4 caan2", hanzi: 遺產, en: "heritage"}
+  - {jyutping: "bok3 mat6 gun2", hanzi: 博物館, en: "museum"}
+  - {jyutping: "caam1 gun1", hanzi: 參觀, en: "visit (a place)"}
+  - {jyutping: "soeng1 jan4", hanzi: 商人, en: "merchant"}
+  - {jyutping: "hong4 hoi2", hanzi: 航海, en: "sail the seas"}
+  - {jyutping: "dei6 tou4", hanzi: 地圖, en: "map"}
+  - {jyutping: "gaau1 lau4", hanzi: 交流, en: "exchange"}
+  - {jyutping: "tam5 zai2", hanzi: 氹仔, en: "Taipa"}
+  - {jyutping: "tou2 sang1 pou4 jan4", hanzi: 土生葡人, en: "the Macanese"}
+  - {jyutping: "maa5 gaai3 jau1", hanzi: 馬介休, en: "bacalhau, salt cod"}
+  - {jyutping: "min5 zi6", hanzi: 免治, en: "minced (meat)"}
+  - {jyutping: "haam4 jyu2", hanzi: 鹹魚, en: "salt fish"}
+  - {jyutping: "jim4", hanzi: 鹽, en: "salt"}
+  - {jyutping: "syu4 zai2", hanzi: 薯仔, en: "potato"}
+  - {jyutping: "pui3", hanzi: 配, en: "go with, be served with"}
+  - {jyutping: "gaa1 soeng4 coi3", hanzi: 家常菜, en: "home cooking"}
+  - {jyutping: "dung1 naam4 aa3", hanzi: 東南亞, en: "Southeast Asia"}
+  - {jyutping: "wan6 hap6", hanzi: 混合, en: "mix"}
+  - {jyutping: "wan6 hyut3", hanzi: 混血, en: "of mixed descent"}
+  - {jyutping: "jung4 hap6", hanzi: 融合, en: "blend, fuse"}
+  - {jyutping: "pou4 taat1", hanzi: 葡撻, en: "Portuguese egg tart"}
+  - {jyutping: "sou1 pei2", hanzi: 酥皮, en: "flaky pastry"}
+  - {jyutping: "fung1 cyun4", hanzi: 瘋傳, en: "spread widely, go viral"}
+exercises:
+  translate:
+    - {hanzi: "由中環搭船去長洲，一個鐘㗎咋。", jyutping: "jau4 zung1 waan4 daap3 syun4 heoi3 coeng4 zau1, jat1 go3 zung1 gaa3 zaa3.", en: "It's only an hour by ferry from Central to Cheung Chau."}
+    - {hanzi: "呢個係乜嘢嚟？— 係葡撻嚟。", jyutping: "ni1 go3 hai6 mat1 je5 lai4? — hai6 pou4 taat1 lai4.", en: "What's this? — It's a Portuguese tart."}
+    - {hanzi: "落雨就唔去咯。", jyutping: "lok6 jyu5 zau6 m4 heoi3 lo3.", en: "If it rains, we just won't go, then."}
+    - {hanzi: "澳門一九九九年回歸，以前係葡萄牙嘅殖民地。", jyutping: "ou3 mun2 jat1 gau2 gau2 gau2 nin4 wui4 gwai1, ji5 cin4 hai6 pou4 tou4 ngaa4 ge3 zik6 man4 dei6.", en: "Macau returned in 1999; it used to be a Portuguese colony."}
+    - {hanzi: "係咁嘅咩？我唔知噃。", jyutping: "hai6 gam2 ge3 me1? ngo5 m4 zi1 bo3.", en: "Is that so? I didn't know that."}
+  fill:
+    - {hanzi: "一個十幾蚊___，試吓啦！", jyutping: "jat1 go3 sap6 gei2 man1 ___, si3 haa5 laa1!", answer: "zi1 maa3", answer_hanzi: 之嘛, en: "Only ten-odd dollars each; give it a try!"}
+    - {hanzi: "馬介休係鹹魚___。", jyutping: "maa5 gaai3 jau1 hai6 haam4 jyu2 ___.", answer: "lai4", answer_hanzi: 嚟, en: "Bacalhau is salt fish."}
+    - {hanzi: "我哋入去___吓博物館。", jyutping: "ngo5 dei6 jap6 heoi3 ___ haa5 bok3 mat6 gun2.", answer: "caam1 gun1", answer_hanzi: 參觀, en: "Let's go in and look round the museum."}
+    - {hanzi: "佢哋嘅菜係中西文化___出嚟嘅。", jyutping: "keoi5 dei6 ge3 coi3 hai6 zung1 sai1 man4 faa3 ___ ceot1 lai4 ge3.", answer: "jung4 hap6", answer_hanzi: 融合, en: "Their food came out of the blending of Chinese and Western cultures."}
+    - {hanzi: "嗰段片已經___咗。", jyutping: "go2 dyun6 pin2 ji5 ging1 ___ zo2.", answer: "fung1 cyun4", answer_hanzi: 瘋傳, en: "That clip has already gone viral."}

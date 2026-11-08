@@ -1,0 +1,103 @@
+# 進修 38. Semi-formal written Chinese read in Cantonese, with Kayan's notes in spoken Cantonese. LSHK Jyutping. Not checked by a native speaker yet.
+id: 38
+title: {en: "The contest rules", jyutping: "bei2 coi3 zoeng1 cing4", hanzi: "比賽章程"}
+intro: "Reading rules: every, all and any with 每, 所有, 任何 and the 都 that follows them, plus the words of contests and judging."
+genre: document
+review: false
+setting: "Sunday 21 March 2027. Kayan has printed the rules of the TV station's cha chaan teng contest and covered them in yellow sticky notes before the shop meeting. The rules are in semi-formal written Chinese; her notes are in Cantonese."
+dialogue:
+  - {n: 1, speaker: Rules, hanzi: "「港式茶餐廳大比拼」參賽章程", jyutping: "\"gong2 sik1 caa4 caan1 teng1 daai6 bei2 ping3\" caam1 coi3 zoeng1 cing4", en: "Great Hong Kong Cha Chaan Teng Contest: rules for entrants"}
+  - {n: 2, speaker: Rules, hanzi: "一、資格：所有在香港經營滿五年的茶餐廳均可報名。", jyutping: "jat1, zi1 gaak3: so2 jau5 zoi6 hoeng1 gong2 ging1 jing4 mun5 ng5 nin4 dik1 caa4 caan1 teng1 gwan1 ho2 bou3 meng2.", en: "1. Eligibility: all cha chaan tengs that have operated in Hong Kong for at least five years may enter."}
+  - {n: 3, speaker: Kayan, hanzi: "梁記開咗五十幾年，梗係夠資格。我聽日去影印個執照。", jyutping: "loeng4 gei3 hoi1 zo2 ng5 sap6 gei2 nin4, gang2 hai6 gau3 zi1 gaak3. ngo5 ting1 jat6 heoi3 jing2 jan3 go3 zap1 ziu3.", en: "梁記 has been open fifty-odd years, so of course we qualify. I'll photocopy the licence tomorrow."}
+  - {n: 4, speaker: Rules, hanzi: "二、每間茶餐廳須派三名成員參賽，至少一名須為廚師或水吧師傅。", jyutping: "ji6, mui5 gaan1 caa4 caan1 teng1 seoi1 paai3 saam1 ming4 sing4 jyun4 caam1 coi3, zi3 siu2 jat1 ming4 seoi1 wai4 cyu4 si1 waak6 seoi2 baa1 si1 fu2.", en: "2. Each cha chaan teng must send three team members, at least one of whom must be a cook or a drinks-counter master."}
+  - {n: 5, speaker: Kayan, hanzi: "三個人：阿爸（水吧）、強哥（廚房）、我。阿果唔係員工，淨係可以幫手。", jyutping: "saam1 go3 jan4: aa3 baa4 (seoi2 baa1), koeng4 go1 (cyu4 fong2), ngo5. aa3 gwo2 m4 hai6 jyun4 gung1, zing6 hai6 ho2 ji5 bong1 sau2.", en: "Three people: Dad (drinks counter), 強哥 (kitchen), me. A-Gwo isn't staff; he can only help out."}
+  - {n: 6, speaker: Rules, hanzi: "三、比賽分初賽及決賽。初賽將會錄影，入圍的六間茶餐廳將於五月參加決賽。", jyutping: "saam1, bei2 coi3 fan1 co1 coi3 kap6 kyut3 coi3. co1 coi3 zoeng1 wui5 luk6 jing2, jap6 wai4 dik1 luk6 gaan1 caa4 caan1 teng1 zoeng1 jyu1 ng5 jyut6 caam1 gaa1 kyut3 coi3.", en: "3. The contest has a first round and a final. The first round is recorded on video; the six shortlisted cha chaan tengs go through to the final in May."}
+  - {n: 7, speaker: Kayan, hanzi: "即係初賽佢哋派人嚟舖頭錄影。要唔要化妝？阿爸實唔肯。", jyutping: "zik1 hai6 co1 coi3 keoi5 dei6 paai3 jan4 lai4 pou3 tau2 luk6 jing2. jiu3 m4 jiu3 faa3 zong1? aa3 baa4 sat6 m4 hang2.", en: "So for the first round they send people to film at the shop. Will we need make-up? Dad will never agree."}
+  - {n: 8, speaker: Rules, hanzi: "四、評分：味道佔百分之四十，賣相、衛生及創意各佔百分之二十。", jyutping: "sei3, ping4 fan1: mei6 dou6 zim3 baak3 fan6 zi1 sei3 sap6, maai6 soeng3, wai6 sang1 kap6 cong3 ji3 gok3 zim3 baak3 fan6 zi1 ji6 sap6.", en: "4. Scoring: taste counts for 40 per cent; presentation, hygiene and creativity 20 per cent each."}
+  - {n: 9, speaker: Kayan, hanzi: "創意佔兩成！唔可以淨係做傳統嘢。我任何新諗法都想試，阿爸就任何改變都唔鍾意。", jyutping: "cong3 ji3 zim3 loeng5 sing4! m4 ho2 ji5 zing6 hai6 zou6 cyun4 tung2 je5. ngo5 jam6 ho4 san1 nam2 faat3 dou1 soeng2 si3, aa3 baa4 zau6 jam6 ho4 goi2 bin3 dou1 m4 zung1 ji3.", en: "Creativity is twenty per cent! We can't just do the traditional stuff. I want to try any new idea; Dad doesn't like any change at all."}
+  - {n: 10, speaker: Rules, hanzi: "五、所有嘢食必須於現場製作，參賽者不得用任何外面買返嚟嘅嘢食。", jyutping: "ng5, so2 jau5 je5 sik6 bit1 seoi1 jyu1 jin6 coeng4 zai3 zok3, caam1 coi3 ze2 bat1 dak1 jung6 jam6 ho4 ngoi6 min6 maai5 faan1 lai4 ge3 je5 sik6.", en: "5. All food must be made on site; entrants may not use any food bought outside."}
+  - {n: 11, speaker: Kayan, hanzi: "「任何外面買返嚟嘅嘢食」……罐頭淡奶算唔算？冇淡奶就冇港式奶茶！要問清楚大會。", jyutping: "\"jam6 ho4 ngoi6 min6 maai5 faan1 lai4 ge3 je5 sik6\" …… gun3 tau2 daam6 naai5 syun3 m4 syun3? mou5 daam6 naai5 zau6 mou5 gong2 sik1 naai5 caa4! jiu3 man6 cing1 co2 daai6 wui2.", en: "'Any food bought outside'… does tinned evaporated milk count? No evaporated milk, no Hong Kong milk tea! Must check with the organisers."}
+  - {n: 12, speaker: Rules, hanzi: "六、每輪比賽時間為四十五分鐘，超過時間者一律扣分。", jyutping: "luk6, mui5 leon4 bei2 coi3 si4 gaan3 wai4 sei3 sap6 ng5 fan1 zung1, ciu1 gwo3 si4 gaan3 ze2 jat1 leot6 kau3 fan1.", en: "6. Each round is limited to 45 minutes; anyone going over time will lose points, without exception."}
+  - {n: 13, speaker: Kayan, hanzi: "四十五分鐘要整三樣嘢：一杯奶茶、一個餐、一樣創意小食。強哥做嘢快，冇問題。", jyutping: "sei3 sap6 ng5 fan1 zung1 jiu3 zing2 saam1 joeng6 je5: jat1 bui1 naai5 caa4, jat1 go3 caan1, jat1 joeng6 cong3 ji3 siu2 sik6. koeng4 go1 zou6 je5 faai3, mou5 man6 tai4.", en: "Three things in 45 minutes: a milk tea, a set meal, and a creative snack. 強哥 works fast; no problem."}
+  - {n: 14, speaker: Rules, hanzi: "七、大會有權改比賽規則，評審的決定為最終決定。", jyutping: "cat1, daai6 wui2 jau5 kyun4 goi2 bei2 coi3 kwai1 zak1, ping4 sam2 dik1 kyut3 ding6 wai4 zeoi3 zung1 kyut3 ding6.", en: "7. The organisers may change the rules; the judges' decision is final."}
+  - {n: 15, speaker: Kayan, hanzi: "即係佢哋講咗就算。阿爸，千祈唔好同評審嗌交！", jyutping: "zik1 hai6 keoi5 dei6 gong2 zo2 zau6 syun3. aa3 baa4, cin1 kei4 m4 hou2 tung4 ping4 sam2 aai3 gaau1!", en: "So whatever they say goes. Dad, whatever you do, don't argue with the judges!"}
+  - {n: 16, speaker: Rules, hanzi: "八、所有參賽者須簽同意書，同意大會於電視播出比賽片段。", jyutping: "baat3, so2 jau5 caam1 coi3 ze2 seoi1 cim1 tung4 ji3 syu1, tung4 ji3 daai6 wui2 jyu1 din6 si6 bo3 ceot1 bei2 coi3 pin3 dyun6.", en: "8. All entrants must sign a consent form agreeing that the organisers may broadcast footage of the contest on TV."}
+  - {n: 17, speaker: Kayan, hanzi: "阿爸話：「上電視冇所謂，最緊要影得我靚仔。」", jyutping: "aa3 baa4 waa6: \"soeng5 din6 si6 mou5 so2 wai6, zeoi3 gan2 jiu3 jing2 dak1 ngo5 leng3 zai2.\"", en: "Dad says: 'Being on TV is fine, as long as they make me look handsome.'"}
+  - {n: 18, speaker: Rules, hanzi: "九、冠軍可得獎金十萬元及獎盃，亞軍可得獎盃一個。", jyutping: "gau2, gun3 gwan1 ho2 dak1 zoeng2 gam1 sap6 maan6 jyun4 kap6 zoeng2 bui1, aa3 gwan1 ho2 dak1 zoeng2 bui1 jat1 go3.", en: "9. The winner receives 100,000 dollars and a trophy; the runner-up receives a trophy."}
+  - {n: 19, speaker: Kayan, hanzi: "聽講新潮茶記都報咗名。佢哋每間分店都用同一個大廚房，我哋就乜都係人手做。", jyutping: "teng1 gong2 san1 ciu4 caa4 gei3 dou1 bou3 zo2 meng2. keoi5 dei6 mui5 gaan1 fan1 dim3 dou1 jung6 tung4 jat1 go3 daai6 cyu4 fong2, ngo5 dei6 zau6 mat1 dou1 hai6 jan4 sau2 zou6.", en: "I hear 新潮茶記 has entered too. Every one of their branches uses the same big kitchen; we make everything by hand."}
+  - {n: 20, speaker: Kayan, hanzi: "不過，個個熟客都話我哋啲奶茶最滑。我覺得我哋有得揮。", jyutping: "bat1 gwo3, go3 go3 suk6 haak3 dou1 waa6 ngo5 dei6 di1 naai5 caa4 zeoi3 waat6. ngo5 gok3 dak1 ngo5 dei6 jau5 dak1 fai1.", en: "But every one of our regulars says our milk tea is the smoothest. I think we're in with a chance."}
+  - {n: 21, speaker: Kayan, hanzi: "要做：一、影印執照；二、問大會罐頭淡奶得唔得；三、諗一樣創意小食；四、所有人都要早瞓！", jyutping: "jiu3 zou6: jat1, jing2 jan3 zap1 ziu3; ji6, man6 daai6 wui2 gun3 tau2 daam6 naai5 dak1 m4 dak1; saam1, nam2 jat1 joeng6 cong3 ji3 siu2 sik6; sei3, so2 jau5 jan4 dou1 jiu3 zou2 fan3!", en: "To do: 1. Photocopy the licence. 2. Ask the organisers whether tinned evaporated milk is allowed. 3. Think up a creative snack. 4. Everyone goes to bed early!"}
+notes:
+  - {ref: 1, topic: vocab, text: "章程 zoeng1 cing4 = rules, regulations (of a contest, a club). 規則 kwai1 zak1 (line 14) is the everyday word for rules."}
+  - {ref: 2, topic: grammar, text: "所有 so2 jau5 'all' fronts the noun and is followed by 都 in speech, 均 in writing: 所有茶餐廳均可報名; 所有人都要早瞓 (line 21). 都 must come before the verb, never at the end."}
+  - {ref: 2, topic: vocab, text: "資格 zi1 gaak3 = qualifications, eligibility: 夠資格 'qualify'. 經營 ging1 jing4 = run, operate (a business). 執照 zap1 ziu3 = licence: 營業執照 'business licence': 影印執照 (line 3). 影印 jing2 jan3 = photocopy. 須 = must (P13)."}
+  - {ref: 4, topic: grammar, text: "每 mui5 + classifier + noun, then 都 before the verb: 每間茶餐廳都要…, 每個人都要著制服 (line 5). In writing, 須 can replace 都要. 每 alone with time words: 每輪 'each round' (line 12), 每朝 'every morning'."}
+  - {ref: 4, topic: vocab, text: "成員 sing4 jyun4 = member. 廚師 cyu4 si1 = cook, chef. 水吧 seoi2 baa1 'water bar' = the drinks counter of a cha chaan teng, where milk tea and lemon tea are made. "}
+  - {ref: 6, topic: vocab, text: "初賽 co1 coi3 = first round; 決賽 kyut3 coi3 = final. 錄影 luk6 jing2 = record on video. 入圍 jap6 wai4 = be shortlisted. 化妝 faa3 zong1 (line 7) = put on make-up."}
+  - {ref: 8, topic: vocab, text: "評分 ping4 fan1 = scoring, give marks. 佔 zim3 = take up, account for: 佔百分之四十. 賣相 maai6 soeng3 'selling appearance' = how food looks. 衛生 wai6 sang1 = hygiene. 創意 cong3 ji3 = creativity. 各 gok3 = each (written)."}
+  - {ref: 9, topic: grammar, text: "任何 jam6 ho4 'any' (P13) + noun + 都: positive 任何新諗法我都想試 'I want to try any new idea'; negative 任何改變都唔鍾意 'doesn't like any change'. The object comes before the verb, as with 所有 and 每. 諗法 nam2 faat3 = idea, way of thinking."}
+  - {ref: 10, topic: vocab, text: "必須 bit1 seoi1 = must (formal). 現場 jin6 coeng4 = on site, on the spot. 製作 zai3 zok3 = make, produce. 不得 bat1 dak1 = may not (written for 唔准). 參賽者 'entrant'. 外面買返嚟嘅 'bought outside'."}
+  - {ref: 12, topic: vocab, text: "超過 ciu1 gwo3 = exceed, go over. 一律 jat1 leot6 = without exception. 扣分 'deduct points' (扣, P6). 為 wai4 'is' (written)."}
+  - {ref: 14, topic: vocab, text: "大會 daai6 wui2 = the organisers (of an event). 評審 ping4 sam2 = judge, jury (評判, P15, is also used). 講咗就算 (line 15) 'whatever they say goes'."}
+  - {ref: 16, topic: vocab, text: "同意書 tung4 ji3 syu1 = consent form. 播出 bo3 ceot1 = broadcast. 片段 pin3 dyun6 = clip, footage. 最終 zeoi3 zung1 (line 14) = final. 冇所謂 (line 17) 'doesn't matter, fine by me'."}
+  - {ref: 18, topic: vocab, text: "獎盃 zoeng2 bui1 = trophy; 亞軍 aa3 gwan1 = runner-up (冠軍 is the winner)."}
+  - {ref: 19, topic: vocab, text: "分店 fan1 dim3 = branch (of a chain). 人手 jan4 sau2 = by hand; also staff, manpower (人手唔夠 'short-staffed'). 有得揮 jau5 dak1 fai1 (line 20) = have a fighting chance."}
+  - {ref: 9, topic: vs-mandarin, text: "Both languages put 每 / 所有 / 任何 before the verb with 都: Mandarin 每個人都要穿制服, Cantonese 每個人都要著制服. The difference is the rest: Mandarin 想法 = Cantonese 諗法, Mandarin 隨便 for 冇所謂."}
+pron:
+  - {ref: 8, text: "佔 'take up a share' is zim3; 佔領 'occupy' uses the same reading."}
+  - {ref: 12, text: "一律 jat1 leot6: 律 is leot6, like 法律 faat3 leot6."}
+  - {ref: 6, text: "錄影 luk6 jing2 'record on video' and 影印 jing2 jan3 'photocopy' (line 2) share 影 jing2."}
+new_words:
+  - {jyutping: "zoeng1 cing4", hanzi: 章程, en: "rules, regulations"}
+  - {jyutping: "zi1 gaak3", hanzi: 資格, en: "eligibility, qualifications"}
+  - {jyutping: "ging1 jing4", hanzi: 經營, en: "run, operate (a business)"}
+  - {jyutping: "zap1 ziu3", hanzi: 執照, en: "licence"}
+  - {jyutping: "jing2 jan3", hanzi: 影印, en: "photocopy"}
+  - {jyutping: "mui5", hanzi: 每, en: "every, each"}
+  - {jyutping: "sing4 jyun4", hanzi: 成員, en: "member"}
+  - {jyutping: "cyu4 si1", hanzi: 廚師, en: "cook, chef"}
+  - {jyutping: "seoi2 baa1", hanzi: 水吧, en: "drinks counter"}
+  - {jyutping: "jan4 sau2", hanzi: 人手, en: "by hand; manpower"}
+  - {jyutping: "co1 coi3", hanzi: 初賽, en: "first round"}
+  - {jyutping: "kyut3 coi3", hanzi: 決賽, en: "final (contest)"}
+  - {jyutping: "luk6 jing2", hanzi: 錄影, en: "record on video"}
+  - {jyutping: "jap6 wai4", hanzi: 入圍, en: "be shortlisted"}
+  - {jyutping: "faa3 zong1", hanzi: 化妝, en: "put on make-up"}
+  - {jyutping: "ping4 fan1", hanzi: 評分, en: "scoring, give marks"}
+  - {jyutping: "zim3", hanzi: 佔, en: "take up, account for"}
+  - {jyutping: "maai6 soeng3", hanzi: 賣相, en: "presentation (of food)"}
+  - {jyutping: "wai6 sang1", hanzi: 衛生, en: "hygiene"}
+  - {jyutping: "cong3 ji3", hanzi: 創意, en: "creativity"}
+  - {jyutping: "gok3", hanzi: 各, en: "each (written)"}
+  - {jyutping: "nam2 faat3", hanzi: 諗法, en: "idea, way of thinking"}
+  - {jyutping: "bit1 seoi1", hanzi: 必須, en: "must (formal)"}
+  - {jyutping: "jin6 coeng4", hanzi: 現場, en: "on site"}
+  - {jyutping: "zai3 zok3", hanzi: 製作, en: "make, produce"}
+  - {jyutping: "bat1 dak1", hanzi: 不得, en: "may not (written)"}
+  - {jyutping: "jau5 dak1 fai1", hanzi: 有得揮, en: "have a fighting chance"}
+  - {jyutping: "daai6 wui2", hanzi: 大會, en: "organisers"}
+  - {jyutping: "ciu1 gwo3", hanzi: 超過, en: "exceed"}
+  - {jyutping: "jat1 leot6", hanzi: 一律, en: "without exception"}
+  - {jyutping: "siu2 sik6", hanzi: 小食, en: "snack"}
+  - {jyutping: "zeoi3 zung1", hanzi: 最終, en: "final, ultimate"}
+  - {jyutping: "kwai1 zak1", hanzi: 規則, en: "rules"}
+  - {jyutping: "ping4 sam2", hanzi: 評審, en: "judge, jury"}
+  - {jyutping: "tung4 ji3 syu1", hanzi: 同意書, en: "consent form"}
+  - {jyutping: "bo3 ceot1", hanzi: 播出, en: "broadcast"}
+  - {jyutping: "pin3 dyun6", hanzi: 片段, en: "clip, footage"}
+  - {jyutping: "zoeng2 bui1", hanzi: 獎盃, en: "trophy"}
+  - {jyutping: "aa3 gwan1", hanzi: 亞軍, en: "runner-up"}
+  - {jyutping: "fan1 dim3", hanzi: 分店, en: "branch (of a chain)"}
+exercises:
+  translate:
+    - {hanzi: "每個參賽者都要簽同意書。", jyutping: "mui5 go3 caam1 coi3 ze2 dou1 jiu3 cim1 tung4 ji3 syu1.", en: "Every entrant has to sign a consent form."}
+    - {hanzi: "所有嘢食都要喺現場整。", jyutping: "so2 jau5 je5 sik6 dou1 jiu3 hai2 jin6 coeng4 zing2.", en: "All the food has to be made on site."}
+    - {hanzi: "佢任何嘢都唔食。", jyutping: "keoi5 jam6 ho4 je5 dou1 m4 sik6.", en: "He won't eat anything."}
+    - {hanzi: "超過時間嘅隊一律扣分。", jyutping: "ciu1 gwo3 si4 gaan3 ge3 deoi2 jat1 leot6 kau3 fan1.", en: "Teams that go over time lose points, without exception."}
+    - {hanzi: "我哋入圍咗決賽！", jyutping: "ngo5 dei6 jap6 wai4 zo2 kyut3 coi3!", en: "We've made it to the final!"}
+  fill:
+    - {hanzi: "___間分店都用同一個大廚房。", jyutping: "___ gaan1 fan1 dim3 dou1 jung6 tung4 jat1 go3 daai6 cyu4 fong2.", answer: "mui5", answer_hanzi: 每, en: "Every branch uses the same big kitchen."}
+    - {hanzi: "任何新諗法我___想試。", jyutping: "jam6 ho4 san1 nam2 faat3 ngo5 ___ soeng2 si3.", answer: "dou1", answer_hanzi: 都, en: "I want to try any new idea."}
+    - {hanzi: "味道___百分之四十。", jyutping: "mei6 dou6 ___ baak3 fan6 zi1 sei3 sap6.", answer: "zim3", answer_hanzi: 佔, en: "Taste counts for forty per cent."}
+    - {hanzi: "梁記開咗五十幾年，梗係夠___。", jyutping: "loeng4 gei3 hoi1 zo2 ng5 sap6 gei2 nin4, gang2 hai6 gau3 ___.", answer: "zi1 gaak3", answer_hanzi: 資格, en: "梁記 has been open fifty-odd years; of course it qualifies."}
+    - {hanzi: "評審嘅決定係___決定。", jyutping: "ping4 sam2 ge3 kyut3 ding6 hai6 ___ kyut3 ding6.", answer: "zeoi3 zung1", answer_hanzi: 最終, en: "The judges' decision is final."}

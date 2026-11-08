@@ -1,0 +1,107 @@
+# 進修 39. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 39
+title: {en: "Aren't you going?", jyutping: "nei5 m4 heoi3 aa4", hanzi: "你唔去呀？"}
+intro: "A rehearsal for the cameras, and the trap of answering negative questions: 係 agrees with the question, 唔係 contradicts it. Plus the words of cooking a custard and acting natural."
+genre: play
+review: false
+setting: "Thursday 8 April 2027, after closing. The TV crew comes to film 梁記's first round on Saturday. Kayan holds a stopwatch; 蓮姐's grandson 樂仔, ten, films with a phone. On the counter: a pot of milk tea, eggs, sugar and a small blowtorch Hugo has bought."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "後日就錄影喇。今晚綵排一次，我計時，四十五分鐘。樂仔，你做攝影師。", jyutping: "hau6 jat6 zau6 luk6 jing2 laa3. gam1 maan5 coi2 paai4 jat1 ci3, ngo5 gai3 si4, sei3 sap6 ng5 fan1 zung1. lok6 zai2, nei5 zou6 sip3 jing2 si1.", en: "Filming is the day after tomorrow. Tonight we rehearse once; I'll time it, forty-five minutes. 樂仔, you're the cameraman."}
+  - {n: 2, speaker: Lok-zai, hanzi: "收到！我仲可以做導演，叫「開始」！", jyutping: "sau1 dou3! ngo5 zung6 ho2 ji5 zou6 dou6 jin2, giu3 \"hoi1 ci2\"!", en: "Roger! I can be the director too, and shout 'Action!'"}
+  - {n: 3, speaker: Hugo, hanzi: "梁伯，你唔緊張呀？", jyutping: "loeng4 baak3, nei5 m4 gan2 zoeng1 aa4?", en: "梁伯, aren't you nervous?"}
+  - {n: 4, speaker: Leung Pak, hanzi: "係。", jyutping: "hai6.", en: "Right. (= No, I'm not.)"}
+  - {n: 5, speaker: Hugo, hanzi: "唔使驚，梁伯，我陪住你！", jyutping: "m4 sai2 geng1, loeng4 baak3, ngo5 pui4 zyu6 nei5!", en: "Don't be scared, 梁伯, I'm right here with you!"}
+  - {n: 6, speaker: Leung Pak, hanzi: "我話「係」，即係「係，我唔緊張」！你哋法國人點答㗎？", jyutping: "ngo5 waa6 \"hai6\", zik1 hai6 \"hai6, ngo5 m4 gan2 zoeng1\"! nei5 dei6 faat3 gwok3 jan4 dim2 daap3 gaa3?", en: "I said 'right', meaning 'right, I'm not nervous'! How do you French answer?"}
+  - {n: 7, speaker: Lin-ze, hanzi: "阿果，記住：人哋問「你唔……呀？」，你答「係」，即係同意佢，你真係唔；答「唔係」，即係你會。", jyutping: "aa3 gwo2, gei3 zyu6: jan4 dei6 man6 \"nei5 m4 …… aa4?\", nei5 daap3 \"hai6\", zik1 hai6 tung4 ji3 keoi5, nei5 zan1 hai6 m4; daap3 \"m4 hai6\", zik1 hai6 nei5 wui5.", en: "A-Gwo, remember: if someone asks 'Aren't you …?', answering 係 agrees with them: you really aren't. Answering 唔係 means you are."}
+  - {n: 8, speaker: Hugo, hanzi: "明白。（拎起個碗）我諗到樣創意小食：奶茶燉蛋，面頭整一層焦糖，好似法國嘅 crème brûlée 咁。", jyutping: "ming4 baak6. (ling1 hei2 go3 wun2) ngo5 nam2 dou2 joeng6 cong3 ji3 siu2 sik6: naai5 caa4 dan6 daan2, min2 tau4 zing2 jat1 cang4 ziu1 tong4, hou2 ci5 faat3 gwok3 ge3 crème brûlée gam2.", en: "Got it. (Picks up a bowl) I've thought of a creative snack: milk-tea egg custard with a layer of caramel on top, like a French crème brûlée."}
+  - {n: 9, speaker: Keung-go, hanzi: "燉蛋我識整：打蛋，加牛奶，攪勻，隔水蒸十五分鐘。焦糖點整？", jyutping: "dan6 daan2 ngo5 sik1 zing2: daa2 daan2, gaa1 ngau4 naai5, gaau2 wan4, gaak3 seoi2 zing1 sap6 ng5 fan1 zung1. ziu1 tong4 dim2 zing2?", en: "I know how to make custard: beat the eggs, add milk, stir till smooth, steam it for fifteen minutes. How do you do the caramel?"}
+  - {n: 10, speaker: Hugo, hanzi: "面頭撒啲砂糖，用火槍燒到脆。強哥，你冇用過火槍呀？", jyutping: "min2 tau4 saat3 di1 saa1 tong4, jung6 fo2 coeng1 siu1 dou3 ceoi3. koeng4 go1, nei5 mou5 jung6 gwo3 fo2 coeng1 aa4?", en: "Sprinkle sugar on top and burn it with the blowtorch till it's crisp. 強哥, haven't you ever used a blowtorch?"}
+  - {n: 11, speaker: Keung-go, hanzi: "唔係，我用過。以前喺燒味舖，用嚟燒豬皮。", jyutping: "m4 hai6, ngo5 jung6 gwo3. ji5 cin4 hai2 siu1 mei2 pou3, jung6 lai4 siu1 zyu1 pei4.", en: "No, I have. At the roast-meat shop I used to use one on pork skin."}
+  - {n: 12, speaker: Hugo, hanzi: "（細聲）「唔係」，即係佢用過。我學識喇。", jyutping: "(sai3 seng1) \"m4 hai6\", zik1 hai6 keoi5 jung6 gwo3. ngo5 hok6 sik1 laa3.", en: "(Quietly) 'No' means he has used one. I've got it now."}
+  - {n: 13, speaker: Lok-zai, hanzi: "準備……開始！梁伯，望住鏡頭講兩句！", jyutping: "zeon2 bei6 …… hoi1 ci2! loeng4 baak3, mong6 zyu6 geng3 tau4 gong2 loeng5 geoi3!", en: "Ready… action! 梁伯, look at the camera and say a few words!"}
+  - {n: 14, speaker: Leung Pak, hanzi: "（板起塊面，好似讀新聞咁）各位……我係……梁記……老闆。今日……我沖……奶茶。", jyutping: "(baan2 hei2 faai3 min6, hou2 ci5 duk6 san1 man4 gam2) gok3 wai2 …… ngo5 hai6 …… loeng4 gei3 …… lou5 baan2. gam1 jat6 …… ngo5 cung1 …… naai5 caa4.", en: "(Stony-faced, as if reading the news) Everyone… I am… the owner… of 梁記. Today… I make… milk tea."}
+  - {n: 15, speaker: Kayan, hanzi: "阿爸，自然啲！放鬆，有啲表情，微笑吓啦。", jyutping: "aa3 baa4, zi6 jin4 di1! fong3 sung1, jau5 di1 biu2 cing4, mei4 siu3 haa5 laa1.", en: "Dad, be natural! Relax, show some expression, smile a bit."}
+  - {n: 16, speaker: Leung Pak, hanzi: "我唔係唔想笑，係個鏡頭對住我，我個心跳得好快。", jyutping: "ngo5 m4 hai6 m4 soeng2 siu3, hai6 go3 geng3 tau4 deoi3 zyu6 ngo5, ngo5 go3 sam1 tiu3 dak1 hou2 faai3.", en: "It's not that I don't want to smile; it's that the camera's pointing at me and my heart's racing."}
+  - {n: 17, speaker: Keung-go, hanzi: "（聞到陣味）弊，啲焦糖燶咗！火候唔啱，燒得太耐。", jyutping: "(man4 dou2 zan6 mei6) bai6, di1 ziu1 tong4 nung1 zo2! fo2 hau4 m4 ngaam1, siu1 dak1 taai3 noi6.", en: "(Smelling something) Damn, the caramel's burnt! Wrong heat; I left it too long."}
+  - {n: 18, speaker: Hugo, hanzi: "（試咗一匙羹）苦……不過個燉蛋好滑。", jyutping: "(si3 zo2 jat1 ci4 gang1) fu2 …… bat1 gwo3 go3 dan6 daan2 hou2 waat6.", en: "(Tastes a spoonful) Bitter… but the custard's very smooth."}
+  - {n: 19, speaker: Kayan, hanzi: "夠鐘！四十八分鐘，超過咗三分鐘。我哋成晚甩轆。", jyutping: "gau3 zung1! sei3 sap6 baat3 fan1 zung1, ciu1 gwo3 zo2 saam1 fan1 zung1. ngo5 dei6 seng4 maan5 lat1 luk1.", en: "Time! Forty-eight minutes: three over. We've been a mess all evening."}
+  - {n: 20, speaker: Lok-zai, hanzi: "嘉欣姐姐，你唔開心呀？", jyutping: "gaa1 jan1 ze4 ze1, nei5 m4 hoi1 sam1 aa4?", en: "Big sister Kayan, aren't you happy?"}
+  - {n: 21, speaker: Kayan, hanzi: "係，有啲唔開心。綵排出錯，我驚後日都係咁。", jyutping: "hai6, jau5 di1 m4 hoi1 sam1. coi2 paai4 ceot1 co3, ngo5 geng1 hau6 jat6 dou1 hai6 gam2.", en: "Right, I'm a bit unhappy. Things went wrong in rehearsal, and I'm afraid it'll be the same on Saturday."}
+  - {n: 22, speaker: Leung Pak, hanzi: "怕乜嘢？我沖咗五十年奶茶，冇信心先出奇。唔好當係演戲，當係一個普通朝早。", jyutping: "paa3 mat1 je5? ngo5 cung1 zo2 ng5 sap6 nin4 naai5 caa4, mou5 seon3 sam1 sin1 ceot1 kei4. m4 hou2 dong3 hai6 jin2 hei3, dong3 hai6 jat1 go3 pou2 tung1 ziu1 zou2.", en: "What's there to fear? I've made milk tea for fifty years; it would be strange if I weren't confident. Don't treat it as acting; treat it as an ordinary morning."}
+  - {n: 23, speaker: Keung-go, hanzi: "大家拍硬檔。燉蛋我今晚再試三次，認真做，冇問題。", jyutping: "daai6 gaa1 paak3 ngaang6 dong3. dan6 daan2 ngo5 gam1 maan5 zoi3 si3 saam1 ci3, jing6 zan1 zou6, mou5 man6 tai4.", en: "Let's all pull together. I'll try the custard three more times tonight, properly. No problem."}
+  - {n: 24, speaker: Hugo, hanzi: "梁伯，你後日唔會板起塊面呀？", jyutping: "loeng4 baak3, nei5 hau6 jat6 m4 wui5 baan2 hei2 faai3 min6 aa4?", en: "梁伯, you won't keep a stony face on Saturday, will you?"}
+  - {n: 25, speaker: Leung Pak, hanzi: "唔係，我會板起塊面！呢個就係我嘅表現：梁記嘅老闆，從來都唔笑。（大家笑）", jyutping: "m4 hai6, ngo5 wui5 baan2 hei2 faai3 min6! ni1 go3 zau6 hai6 ngo5 ge3 biu2 jin6: loeng4 gei3 ge3 lou5 baan2, cung4 loi4 dou1 m4 siu3. (daai6 gaa1 siu3)", en: "Wrong, I will keep a stony face! That's my performance: the owner of 梁記 never smiles. (Everyone laughs)"}
+notes:
+  - {ref: 1, topic: vocab, text: "綵排 coi2 paai4 = rehearse (for a show). 計時 gai3 si4 = time something, keep time. 攝影師 sip3 jing2 si1 = cameraman, photographer; 導演 dou6 jin2 (line 2) = director. 收到 'received, roger'."}
+  - {ref: 3, topic: grammar, text: "Answering negative questions (P24): 係 'yes, right' agrees with the whole question, negative included: 你唔緊張呀？— 係 = 'right, I'm not'. 唔係 contradicts it: 你冇用過呀？— 唔係，我用過 'no, I have' (line 11). English 'no' and French 'si' work the other way, which is why Hugo trips."}
+  - {ref: 3, topic: grammar, text: "Many speakers avoid the trap by repeating the verb: 你唔緊張呀？— 唔緊張 / 緊張. Repeating the verb is always safe; 係 / 唔係 need care."}
+  - {ref: 8, topic: vocab, text: "燉蛋 dan6 daan2 = steamed egg custard (a cha chaan teng dessert). 焦糖 ziu1 tong4 = caramel. 一層 'a layer' (層, P4). 碗 wun2 = bowl. 面頭 min2 tau4 'on top' (changed tone). 後日 hau6 jat6 (line 1) 'the day after tomorrow'."}
+  - {ref: 9, topic: vocab, text: "Cooking verbs: 打蛋 daa2 daan2 = beat eggs; 攪勻 gaau2 wan4 = stir until even; 隔水蒸 'steam in a water bath' (蒸 zing1 = steam); 撒 saat3 (line 10) = sprinkle; 燒 siu1 = burn, roast. 牛奶 ngau4 naai5 = (cow's) milk."}
+  - {ref: 10, topic: vocab, text: "火槍 fo2 coeng1 = blowtorch. 脆 ceoi3 = crisp. 燒味 siu1 mei2 = roast meats (味 rises), sold in a 燒味舖."}
+  - {ref: 14, topic: vocab, text: "板起塊面 baan2 hei2 faai3 min6 = keep a stony, stern face. 表情 biu2 cing4 (line 15) = facial expression; 微笑 mei4 siu3 = smile (gently); 自然 zi6 jin4 = natural; 放鬆 fong3 sung1 = relax."}
+  - {ref: 16, topic: vocab, text: "心跳 sam1 tiu3 = heartbeat: 個心跳得好快 'my heart's racing'. 對住 'pointing at, facing'."}
+  - {ref: 17, topic: vocab, text: "燶 nung1 = burnt (food). 火候 fo2 hau4 = the heat and timing of cooking: 火候唔啱 'the heat was wrong'. 一陣 zan6 味 'a whiff' (陣, classifier for smells, winds, spells). 夠鐘 gau3 zung1 (line 19) = time's up."}
+  - {ref: 18, topic: vocab, text: "匙羹 ci4 gang1 = spoon: 一匙羹 'a spoonful'. 苦 fu2 = bitter."}
+  - {ref: 19, topic: vocab, text: "甩轆 lat1 luk1 'lose a wheel' = go wrong, fall apart (of a plan or performance). 出錯 ceot1 co3 (line 21) = make mistakes. 夠鐘 'time's up'."}
+  - {ref: 22, topic: vocab, text: "信心 seon3 sam1 = confidence: 冇信心先出奇 'it would be odd not to be confident'. 演戲 jin2 hei3 'act'. 出奇 ceot1 kei4 'strange'. 普通 'ordinary'. 各位 gok3 wai2 (line 14) 'everyone, ladies and gentlemen'. 姐姐 ze4 ze1 (line 20): what a child calls an older girl."}
+  - {ref: 23, topic: vocab, text: "拍硬檔 paak3 ngaang6 dong3 = pull together, back each other up. 認真 jing6 zan1 = serious, conscientious: 認真做."}
+  - {ref: 25, topic: vocab, text: "表現 biu2 jin6 = performance, how one comes across: 佢今日表現好好. 從來都唔 'never (ever)'."}
+  - {ref: 3, topic: vs-mandarin, text: "Mandarin works the same way: 你不緊張嗎？— 是的 (I'm not) / 不，我緊張. The difference is in the words: Cantonese 係 / 唔係 = Mandarin 是 / 不是, and Cantonese questions end in 呀 aa4 where Mandarin uses 嗎."}
+pron:
+  - {ref: 3, text: "In 你唔緊張呀？ the final 呀 is aa4, low falling: the question is surprised and checks an assumption."}
+  - {ref: 17, text: "燶 'burnt' is nung1 for many speakers, lung1 for others (n/l merger)."}
+  - {ref: 8, text: "燉蛋 dan6 daan2: 蛋 rises in the name of the dish, as in 雞蛋 gai1 daan2."}
+new_words:
+  - {jyutping: "coi2 paai4", hanzi: 綵排, en: "rehearse"}
+  - {jyutping: "gai3 si4", hanzi: 計時, en: "keep time, time"}
+  - {jyutping: "sip3 jing2 si1", hanzi: 攝影師, en: "cameraman, photographer"}
+  - {jyutping: "dou6 jin2", hanzi: 導演, en: "director"}
+  - {jyutping: "wun2", hanzi: 碗, en: "bowl"}
+  - {jyutping: "dan6 daan2", hanzi: 燉蛋, en: "steamed egg custard"}
+  - {jyutping: "ziu1 tong4", hanzi: 焦糖, en: "caramel"}
+  - {jyutping: "daa2 daan2", hanzi: 打蛋, en: "beat eggs"}
+  - {jyutping: "ngau4 naai5", hanzi: 牛奶, en: "milk"}
+  - {jyutping: "gaau2 wan4", hanzi: 攪勻, en: "stir until even"}
+  - {jyutping: "zing1", hanzi: 蒸, en: "steam"}
+  - {jyutping: "saat3", hanzi: 撒, en: "sprinkle"}
+  - {jyutping: "fo2 coeng1", hanzi: 火槍, en: "blowtorch"}
+  - {jyutping: "siu1", hanzi: 燒, en: "burn, roast"}
+  - {jyutping: "ceoi3", hanzi: 脆, en: "crisp"}
+  - {jyutping: "baan2 hei2 faai3 min6", hanzi: 板起塊面, en: "keep a stony face"}
+  - {jyutping: "zi6 jin4", hanzi: 自然, en: "natural"}
+  - {jyutping: "fong3 sung1", hanzi: 放鬆, en: "relax"}
+  - {jyutping: "biu2 cing4", hanzi: 表情, en: "facial expression"}
+  - {jyutping: "mei4 siu3", hanzi: 微笑, en: "smile"}
+  - {jyutping: "sam1 tiu3", hanzi: 心跳, en: "heartbeat"}
+  - {jyutping: "nung1", hanzi: 燶, en: "burnt (food)"}
+  - {jyutping: "fo2 hau4", hanzi: 火候, en: "heat and timing (cooking)"}
+  - {jyutping: "ci4 gang1", hanzi: 匙羹, en: "spoon"}
+  - {jyutping: "fu2", hanzi: 苦, en: "bitter"}
+  - {jyutping: "lat1 luk1", hanzi: 甩轆, en: "go wrong, fall apart"}
+  - {jyutping: "ceot1 co3", hanzi: 出錯, en: "make mistakes"}
+  - {jyutping: "seon3 sam1", hanzi: 信心, en: "confidence"}
+  - {jyutping: "paak3 ngaang6 dong3", hanzi: 拍硬檔, en: "pull together"}
+  - {jyutping: "jing6 zan1", hanzi: 認真, en: "serious, conscientious"}
+  - {jyutping: "biu2 jin6", hanzi: 表現, en: "performance"}
+  - {jyutping: "hau6 jat6", hanzi: 後日, en: "the day after tomorrow"}
+  - {jyutping: "min2 tau4", hanzi: 面頭, en: "on top, the top"}
+  - {jyutping: "siu1 mei2", hanzi: 燒味, en: "roast meats"}
+  - {jyutping: "gok3 wai2", hanzi: 各位, en: "everyone (address)"}
+  - {jyutping: "gau3 zung1", hanzi: 夠鐘, en: "time's up"}
+  - {jyutping: "ze4 ze1", hanzi: 姐姐, en: "big sister"}
+  - {jyutping: "ceot1 kei4", hanzi: 出奇, en: "strange, surprising"}
+  - {jyutping: "jin2 hei3", hanzi: 演戲, en: "act (in a play, film)"}
+  - {jyutping: "zan6", hanzi: 陣, en: "a whiff, a spell (classifier)"}
+exercises:
+  translate:
+    - {hanzi: "你唔食呀？— 係，我唔肚餓。", jyutping: "nei5 m4 sik6 aa4? — hai6, ngo5 m4 tou5 ngo6.", en: "Aren't you eating? — No, I'm not hungry."}
+    - {hanzi: "你冇去過長洲呀？— 唔係，我去過兩次。", jyutping: "nei5 mou5 heoi3 gwo3 coeng4 zau1 aa4? — m4 hai6, ngo5 heoi3 gwo3 loeng5 ci3.", en: "Haven't you been to Cheung Chau? — Yes, I've been twice."}
+    - {hanzi: "啲焦糖燶咗，好苦。", jyutping: "di1 ziu1 tong4 nung1 zo2, hou2 fu2.", en: "The caramel's burnt; it's very bitter."}
+    - {hanzi: "影相嗰陣自然啲，微笑吓。", jyutping: "jing2 soeng2 go2 zan6 zi6 jin4 di1, mei4 siu3 haa5.", en: "Be a bit more natural when we take the photo; smile."}
+    - {hanzi: "我哋要拍硬檔，唔好甩轆。", jyutping: "ngo5 dei6 jiu3 paak3 ngaang6 dong3, m4 hou2 lat1 luk1.", en: "We have to pull together and not mess it up."}
+  fill:
+    - {hanzi: "你唔緊張呀？— ___，我唔緊張。", jyutping: "nei5 m4 gan2 zoeng1 aa4? — ___, ngo5 m4 gan2 zoeng1.", answer: "hai6", answer_hanzi: 係, en: "Aren't you nervous? — No, I'm not."}
+    - {hanzi: "你冇用過火槍呀？— ___，我用過。", jyutping: "nei5 mou5 jung6 gwo3 fo2 coeng1 aa4? — ___, ngo5 jung6 gwo3.", answer: "m4 hai6", answer_hanzi: 唔係, en: "Haven't you used a blowtorch? — Yes, I have."}
+    - {hanzi: "打蛋，加牛奶，___，再蒸。", jyutping: "daa2 daan2, gaa1 ngau4 naai5, ___, zoi3 zing1.", answer: "gaau2 wan4", answer_hanzi: 攪勻, en: "Beat the eggs, add milk, stir till smooth, then steam."}
+    - {hanzi: "佢一對住鏡頭就___。", jyutping: "keoi5 jat1 deoi3 zyu6 geng3 tau4 zau6 ___.", answer: "baan2 hei2 faai3 min6", answer_hanzi: 板起塊面, en: "The moment he faces the camera, he goes stony-faced."}
+    - {hanzi: "我沖咗五十年奶茶，好有___。", jyutping: "ngo5 cung1 zo2 ng5 sap6 nin4 naai5 caa4, hou2 jau5 ___.", answer: "seon3 sam1", answer_hanzi: 信心, en: "I've made milk tea for fifty years; I'm very confident."}
