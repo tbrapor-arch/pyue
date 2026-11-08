@@ -1,0 +1,97 @@
+# 進修 27. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 27
+title: {en: "Knowing a little and acting the expert", jyutping: "sik1 siu2 siu2 baan6 doi6 biu2", hanzi: "識少少扮代表"}
+intro: "A day on Cheung Chau: putting actions in order (先…然後…最後, …之前, 一…就) and doing two things at once (一邊…一邊, 一路…一路)."
+genre: dialogue
+review: false
+setting: "Tuesday 19 January, Hiu-ching's day off. Hugo takes the ferry from Central Pier 5 to Cheung Chau, her home island: no cars, bicycles everywhere, a harbour full of fishing boats, and her grandmother's bakery near the Pak Tai Temple."
+dialogue:
+  - {n: 1, speaker: Hiu-ching, hanzi: "長洲冇車，要行路或者踩單車。你識唔識踩？", jyutping: "coeng4 zau1 mou5 ce1, jiu3 haang4 lou6 waak6 ze2 caai2 daan1 ce1. nei5 sik1 m4 sik1 caai2?", en: "There are no cars on Cheung Chau; you walk or cycle. Can you ride a bike?"}
+  - {n: 2, speaker: Hugo, hanzi: "識！我細個喺里昂成日踩。不過好耐冇踩過。", jyutping: "sik1! ngo5 sai3 go3 hai2 lei5 ngong4 sing4 jat6 caai2. bat1 gwo3 hou2 noi6 mou5 caai2 gwo3.", en: "Yes! As a kid in Lyon I cycled all the time. But I haven't for ages."}
+  - {n: 3, speaker: Hiu-ching, hanzi: "咁我哋租兩架單車，先去北帝廟，然後去東灣睇海，最後返我屋企間餅舖。", jyutping: "gam2 ngo5 dei6 zou1 loeng5 gaa3 daan1 ce1, sin1 heoi3 bak1 dai3 miu2, jin4 hau6 heoi3 dung1 waan1 tai2 hoi2, zeoi3 hau6 faan1 ngo5 uk1 kei2 gaan1 beng2 pou2.", en: "Then let's hire two bikes: first the Pak Tai Temple, then Tung Wan to see the sea, and last my family's bakery."}
+  - {n: 4, speaker: Hugo, hanzi: "（踩緊單車）一邊踩車，一邊睇風景，好舒服！", jyutping: "(caai2 gan2 daan1 ce1) jat1 bin1 caai2 ce1, jat1 bin1 tai2 fung1 ging2, hou2 syu1 fuk6!", en: "(Cycling) Riding and looking at the view at the same time: lovely!"}
+  - {n: 5, speaker: Hiu-ching, hanzi: "小心！前面有個阿伯行緊路！", jyutping: "siu2 sam1! cin4 min6 jau5 go3 aa3 baak3 haang4 gan2 lou6!", en: "Careful! There's an old man walking ahead!"}
+  - {n: 6, speaker: Hugo, hanzi: "（急剎車）對唔住，阿伯！", jyutping: "(gap1 saat3 ce1) deoi3 m4 zyu6, aa3 baak3!", en: "(Braking hard) Sorry, uncle!"}
+  - {n: 7, speaker: Hugo, hanzi: "長洲同南丫島好似，冇車，好清靜。", jyutping: "coeng4 zau1 tung4 naam4 aa1 dou2 hou2 ci5, mou5 ce1, hou2 cing1 zing6.", en: "Cheung Chau's like Lamma: no cars, very peaceful."}
+  - {n: 8, speaker: Hiu-ching, hanzi: "唔同㗎。南丫島多啲外國人，長洲多啲漁民同本地人。周末就多遊客，嚟食魚蛋同芒果糯米糍。", jyutping: "m4 tung4 gaa3. naam4 aa1 dou2 do1 di1 ngoi6 gwok3 jan4, coeng4 zau1 do1 di1 jyu4 man4 tung4 bun2 dei6 jan4. zau1 mut6 zau6 do1 jau4 haak3, lai4 sik6 jyu4 daan2 tung4 mong1 gwo2 no6 mai5 ci4.", en: "It's different. Lamma has more foreigners; Cheung Chau has more fishing families and locals. At weekends there are lots of tourists, who come for the fish balls and mango mochi."}
+  - {n: 9, speaker: Hugo, hanzi: "（喺北帝廟門口）我知！我睇過資料：呢間廟係一百年前起嘅，用嚟拜海神。", jyutping: "(hai2 bak1 dai3 miu2 mun4 hau2) ngo5 zi1! ngo5 tai2 gwo3 zi1 liu2: ni1 gaan1 miu2 hai6 jat1 baak3 nin4 cin4 hei2 ge3, jung6 lai4 baai3 hoi2 san4.", en: "(At the temple gate) I know! I read up on it: this temple was built a hundred years ago, to worship the sea god."}
+  - {n: 10, speaker: Hiu-ching, hanzi: "係二百幾年前，一七八三年起嘅。你係咪識少少扮代表呀？", jyutping: "hai6 ji6 baak3 gei2 nin4 cin4, jat1 cat1 baat3 saam1 nin4 hei2 ge3. nei5 hai6 mai6 sik1 siu2 siu2 baan6 doi6 biu2 aa3?", en: "It was more than two hundred years ago: built in 1783. Are you knowing a little and acting the expert?"}
+  - {n: 11, speaker: Hugo, hanzi: "……我淨係睇咗一半。", jyutping: "…… ngo5 zing6 hai6 tai2 zo2 jat1 bun3.", en: "…I only read half of it."}
+  - {n: 12, speaker: Hiu-ching, hanzi: "（喺東灣沙灘）我細個一放學就嚟呢度游水，游完先返屋企食飯。", jyutping: "(hai2 dung1 waan1 saa1 taan1) ngo5 sai3 go3 jat1 fong3 hok6 zau6 lai4 ni1 dou6 jau4 seoi2, jau4 jyun4 sin1 faan1 uk1 kei2 sik6 faan6.", en: "(On Tung Wan beach) As a kid, the moment school was out I'd come here to swim, and only go home for dinner after."}
+  - {n: 13, speaker: Hugo, hanzi: "喺海邊大，一定好開心。", jyutping: "hai2 hoi2 bin1 daai6, jat1 ding6 hou2 hoi1 sam1.", en: "Growing up by the sea must have been wonderful."}
+  - {n: 14, speaker: Hiu-ching, hanzi: "開心係開心，不過島上冇乜工作。我啲同學中學畢業之後，大部分都搬咗出市區。", jyutping: "hoi1 sam1 hai6 hoi1 sam1, bat1 gwo3 dou2 soeng6 mou5 mat1 gung1 zok3. ngo5 di1 tung4 hok6 zung1 hok6 bat1 jip6 zi1 hau6, daai6 bou6 fan6 dou1 bun1 zo2 ceot1 si5 keoi1.", en: "It was, but there's not much work on the island. After secondary school, most of my classmates moved out to the city."}
+  - {n: 15, speaker: Hugo, hanzi: "你點解冇搬？", jyutping: "nei5 dim2 gaai2 mou5 bun1?", en: "Why didn't you move?"}
+  - {n: 16, speaker: Hiu-ching, hanzi: "我搬過兩年，住喺旺角一間劏房，日日聽住隔籬嗌交。後來我寧願日日搭船。", jyutping: "ngo5 bun1 gwo3 loeng5 nin4, zyu6 hai2 wong6 gok3 jat1 gaan1 tong1 fong2, jat6 jat6 teng1 zyu6 gaak3 lei4 aai3 gaau1. hau6 loi4 ngo5 ning4 jyun2 jat6 jat6 daap3 syun4.", en: "I did for two years, in a subdivided flat in Mong Kok, listening to the neighbours quarrel every day. In the end I'd rather take the ferry every day."}
+  - {n: 17, speaker: Grandma, hanzi: "（喺餅舖門口）曉晴，呢個就係你講嗰個法國仔？", jyutping: "(hai2 beng2 pou2 mun4 hau2) hiu2 cing4, ni1 go3 zau6 hai6 nei5 gong2 go2 go3 faat3 gwok3 zai2?", en: "(At the bakery door) Hiu-ching, is this the French boy you told me about?"}
+  - {n: 18, speaker: Hugo, hanzi: "婆婆你好！我想食飽！", jyutping: "po4 po2 nei5 hou2! ngo5 soeng2 sik6 baau2!", en: "Hello, Grandma! I want to eat till I'm full! (He meant: I'd like a bun.)"}
+  - {n: 19, speaker: Grandma, hanzi: "（笑到彎晒腰）食飽？好，我俾五個你，食到你飽為止！", jyutping: "(siu3 dou3 waan1 saai3 jiu1) sik6 baau2? hou2, ngo5 bei2 ng5 go3 nei5, sik6 dou3 nei5 baau2 wai4 zi2!", en: "(Doubled up laughing) Till you're full? Fine, I'll give you five, eat till you're full!"}
+  - {n: 20, speaker: Hiu-ching, hanzi: "佢想講「食包」，唔係「食飽」。包係第一聲，飽係第二聲。", jyutping: "keoi5 soeng2 gong2 \"sik6 baau1\", m4 hai6 \"sik6 baau2\". baau1 hai6 dai6 jat1 seng1, baau2 hai6 dai6 ji6 seng1.", en: "He meant 'eat a bun', not 'eat till full'. 包 is tone one, 飽 is tone two."}
+  - {n: 21, speaker: Hugo, hanzi: "我一緊張，就讀錯聲。", jyutping: "ngo5 jat1 gan2 zoeng1, zau6 duk6 co3 seng1.", en: "Whenever I'm nervous, I get the tones wrong."}
+  - {n: 22, speaker: Grandma, hanzi: "唔緊要，肯學就得。你一路食，我一路講啲長洲嘅故仔俾你聽。", jyutping: "m4 gan2 jiu3, hang2 hok6 zau6 dak1. nei5 jat1 lou6 sik6, ngo5 jat1 lou6 gong2 di1 coeng4 zau1 ge3 gu2 zai2 bei2 nei5 teng1.", en: "Never mind; being willing to learn is what counts. You eat, and while you eat I'll tell you some Cheung Chau stories."}
+  - {n: 23, speaker: Grandma, hanzi: "不過講之前，你要答應我一樣嘢：唔准欺負我個孫女。", jyutping: "bat1 gwo3 gong2 zi1 cin4, nei5 jiu3 daap3 jing3 ngo5 jat1 joeng6 je5: m4 zeon2 hei1 fu6 ngo5 go3 syun1 neoi2.", en: "But before I start, you have to promise me one thing: no pushing my granddaughter around."}
+  - {n: 24, speaker: Hugo, hanzi: "我唔敢！上個禮拜連馬騮都欺負我。", jyutping: "ngo5 m4 gam2! soeng6 go3 lai5 baai3 lin4 maa5 lau1 dou1 hei1 fu6 ngo5.", en: "I wouldn't dare! Last week even the monkeys pushed me around."}
+  - {n: 25, speaker: Hiu-ching, hanzi: "（笑）婆婆，佢講真㗎。", jyutping: "(siu3) po4 po2, keoi5 gong2 zan1 gaa3.", en: "(Laughing) Grandma, he's telling the truth."}
+notes:
+  - {ref: 1, topic: vocab, text: "踩單車 caai2 daan1 ce1 = ride a bike (踩 'tread, pedal'); 踩車 for short (line 4). 單車 daan1 ce1 = bicycle. 行路 haang4 lou6 = walk, go on foot. 或者 = or (in statements)."}
+  - {ref: 3, topic: grammar, text: "Ordering actions: 先 A，然後 B，最後 C 'first A, then B, finally C'. Also A 之前 B 'before A, B' (line 23: 講之前 'before I tell'), A 之後 B (line 14: 畢業之後), and V完先 'only after V-ing' (line 12: 游完先返屋企). 租 'rent, hire' (P1)."}
+  - {ref: 4, topic: grammar, text: "一邊 A 一邊 B jat1 bin1 'A while B', two actions at the same time: 一邊踩車，一邊睇風景. 一路 A 一路 B (line 22: 你一路食，我一路講) means the same and is very common in speech. 風景 fung1 ging2 = view, scenery."}
+  - {ref: 6, topic: vocab, text: "剎車 saat3 ce1 = brake. 急 gap1 = sudden, urgent: 急剎車 'brake hard'."}
+  - {ref: 8, topic: culture, text: "本地人 bun2 dei6 jan4 = local people. Cheung Chau snacks: giant 魚蛋 jyu4 daan2 'fish balls' and 芒果糯米糍 mong1 gwo2 no6 mai5 ci4 'mango mochi' (sticky-rice balls). 芒果 is mong1 gwo2: 芒 has a high tone here."}
+  - {ref: 9, topic: culture, text: "北帝廟 bak1 dai3 miu2, the Pak Tai Temple (1783), honours the god of the sea who protects the island's fishermen; the bun festival (P44) starts there. 資料 zi1 liu2 = information, material. 廟 miu2 = temple."}
+  - {ref: 10, topic: culture, text: "識少少扮代表 'know a little, act as the representative' = know a little and act the expert. A favourite tease for show-offs."}
+  - {ref: 12, topic: grammar, text: "一 A 就 B 'as soon as A, B': 一放學就嚟呢度游水 'the moment school was out, I'd come here'; 我一緊張，就讀錯聲 'whenever I'm nervous, I get the tones wrong' (line 21)."}
+  - {ref: 14, topic: vocab, text: "工作 gung1 zok3 = work, job (more formal than 工). 畢業 bat1 jip6 = graduate, finish school. 大部分 daai6 bou6 fan6 = most, the majority. 市區 si5 keoi1 = the urban area, 'town' (for islanders: Kowloon and Hong Kong Island). 島上 'on the island' (島 dou2)."}
+  - {ref: 16, topic: culture, text: "劏房 tong1 fong2 = a subdivided flat: an ordinary flat cut into tiny rooms, each rented separately. Over 200,000 people live in them, many in Mong Kok and Sham Shui Po. 寧願 (P16) 'would rather'."}
+  - {ref: 19, topic: grammar, text: "V 到 … 為止 wai4 zi2 = V until …: 食到你飽為止 'eat till you're full'. 笑到彎晒腰 'laughed till she doubled up' (彎腰 waan1 jiu1 'bend at the waist')."}
+  - {ref: 20, topic: pronunciation, text: "包 baau1 'bun' (tone 1, high level) vs 飽 baau2 'full' (tone 2, rising). Cantonese tone numbers: 1 high level, 2 high rising, 3 mid level, 4 low falling, 5 low rising, 6 low level. 聲 seng1 here = tone: 第一聲 'tone one', 讀錯聲 'say the wrong tone' (line 21)."}
+  - {ref: 22, topic: vocab, text: "故仔 gu2 zai2 = story (spoken; 故事 written, P20). 肯學就得 'being willing to learn is enough'."}
+  - {ref: 23, topic: vocab, text: "孫女 syun1 neoi2 = granddaughter (孫, P11). 講真 gong2 zan1 (line 25) = be serious, tell the truth: 佢講真㗎 'he means it'."}
+  - {ref: 4, topic: vs-mandarin, text: "一邊…一邊 is shared with Mandarin; 一路…一路 is Cantonese (Mandarin 一路 means 'all the way'). 先…然後 = 先…然後 / 再; 踩單車 = 騎自行車 / 騎單車; 劏房 'subdivided flat' has no mainland word (it's a Hong Kong thing)."}
+pron:
+  - {ref: 1, text: "踩 'pedal' is caai2 (the dictionary also lists coi2); 踩單車 caai2 daan1 ce1."}
+  - {ref: 8, text: "糯米糍 no6 mai5 ci4: 糯 no6 'glutinous'."}
+  - {ref: 18, text: "Tone check: 包 baau1 (high level) vs 飽 baau2 (rising): say 包 flat and high, 飽 like a question."}
+new_words:
+  - {jyutping: "caai2 daan1 ce1", hanzi: 踩單車, en: "ride a bike"}
+  - {jyutping: "caai2", hanzi: 踩, en: "pedal, tread"}
+  - {jyutping: "daan1 ce1", hanzi: 單車, en: "bicycle"}
+  - {jyutping: "jat1 bin1", hanzi: 一邊, en: "while (一邊…一邊)"}
+  - {jyutping: "fung1 ging2", hanzi: 風景, en: "view, scenery"}
+  - {jyutping: "saat3 ce1", hanzi: 剎車, en: "brake"}
+  - {jyutping: "gap1", hanzi: 急, en: "sudden, urgent"}
+  - {jyutping: "bun2 dei6 jan4", hanzi: 本地人, en: "local people"}
+  - {jyutping: "jyu4 daan2", hanzi: 魚蛋, en: "fish ball"}
+  - {jyutping: "mong1 gwo2", hanzi: 芒果, en: "mango"}
+  - {jyutping: "no6 mai5 ci4", hanzi: 糯米糍, en: "mochi, sticky-rice ball"}
+  - {jyutping: "zi1 liu2", hanzi: 資料, en: "information, material"}
+  - {jyutping: "sik1 siu2 siu2 baan6 doi6 biu2", hanzi: 識少少扮代表, en: "know a little and act the expert"}
+  - {jyutping: "gung1 zok3", hanzi: 工作, en: "work, job"}
+  - {jyutping: "bat1 jip6", hanzi: 畢業, en: "graduate"}
+  - {jyutping: "daai6 bou6 fan6", hanzi: 大部分, en: "most, the majority"}
+  - {jyutping: "si5 keoi1", hanzi: 市區, en: "urban area, town"}
+  - {jyutping: "tong1 fong2", hanzi: 劏房, en: "subdivided flat"}
+  - {jyutping: "waan1 jiu1", hanzi: 彎腰, en: "bend at the waist"}
+  - {jyutping: "baau1", hanzi: 包, en: "bun"}
+  - {jyutping: "baau2", hanzi: 飽, en: "full (after eating)"}
+  - {jyutping: "gu2 zai2", hanzi: 故仔, en: "story"}
+  - {jyutping: "syun1 neoi2", hanzi: 孫女, en: "granddaughter"}
+  - {jyutping: "gong2 zan1", hanzi: 講真, en: "be serious, tell the truth"}
+  - {jyutping: "dou2", hanzi: 島, en: "island"}
+  - {jyutping: "haang4 lou6", hanzi: 行路, en: "walk, go on foot"}
+  - {jyutping: "sing1 diu6", hanzi: 聲調, en: "tone"}
+  - {jyutping: "miu2", hanzi: 廟, en: "temple"}
+  - {jyutping: "jiu1", hanzi: 腰, en: "waist"}
+  - {jyutping: "cai4", hanzi: 齊, en: "complete, all (攞齊: take everything)"}
+exercises:
+  translate:
+    - {hanzi: "我哋先食飯，然後去睇戲，最後搭船返屋企。", jyutping: "ngo5 dei6 sin1 sik6 faan6, jin4 hau6 heoi3 tai2 hei3, zeoi3 hau6 daap3 syun4 faan1 uk1 kei2.", en: "First we'll eat, then go to the cinema, and finally take the ferry home."}
+    - {hanzi: "佢一邊踩單車，一邊唱歌。", jyutping: "keoi5 jat1 bin1 caai2 daan1 ce1, jat1 bin1 coeng3 go1.", en: "He sings while he cycles."}
+    - {hanzi: "我一飲咖啡就瞓唔着。", jyutping: "ngo5 jat1 jam2 gaa3 fe1 zau6 fan3 m4 zoek6.", en: "Whenever I drink coffee I can't sleep."}
+    - {hanzi: "落船之前，記得攞齊啲嘢。", jyutping: "lok6 syun4 zi1 cin4, gei3 dak1 lo2 cai4 di1 je5.", en: "Before getting off the ferry, remember to take all your things."}
+    - {hanzi: "大部分同學畢業之後都搬咗出市區。", jyutping: "daai6 bou6 fan6 tung4 hok6 bat1 jip6 zi1 hau6 dou1 bun1 zo2 ceot1 si5 keoi1.", en: "Most of my classmates moved out to the city after graduating."}
+  fill:
+    - {hanzi: "___去北帝廟，___去東灣。", jyutping: "___ heoi3 bak1 dai3 miu2, ___ heoi3 dung1 waan1.", answer: "sin1 / jin4 hau6", answer_hanzi: 先 / 然後, en: "First the Pak Tai Temple, then Tung Wan."}
+    - {hanzi: "我___放學就去游水。", jyutping: "ngo5 ___ fong3 hok6 zau6 heoi3 jau4 seoi2.", answer: "jat1", answer_hanzi: 一, en: "As soon as school was out I'd go swimming."}
+    - {hanzi: "你一路食，我___講。", jyutping: "nei5 jat1 lou6 sik6, ngo5 ___ gong2.", answer: "jat1 lou6", answer_hanzi: 一路, en: "You eat, and I'll talk while you eat."}
+    - {hanzi: "食到你飽___！", jyutping: "sik6 dou3 nei5 baau2 ___!", answer: "wai4 zi2", answer_hanzi: 為止, en: "Eat till you're full!"}
+    - {hanzi: "佢唔係講笑，佢___㗎。", jyutping: "keoi5 m4 hai6 gong2 siu3, keoi5 ___ gaa3.", answer: "gong2 zan1", answer_hanzi: 講真, en: "He's not joking, he means it."}
