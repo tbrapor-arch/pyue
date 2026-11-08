@@ -1,0 +1,102 @@
+# 進修 40. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 40
+title: {en: "The great cha chaan teng contest", jyutping: "caa4 caan1 teng1 daai6 bei2 ping3", hanzi: "茶餐廳大比拼"}
+intro: "A live TV final, commented as it happens: comparison beyond 過 (冇咁, 越嚟越, 最, …得滯, 過頭), and the words for judging taste and texture."
+genre: commentary
+review: false
+setting: "Saturday 15 May 2027, a TV studio in Tseung Kwan O. Of the six finalists, two are left for the last round: 梁記 and the chain 新潮茶記, whose manager Jason runs the milk-tea machine. A host comments live; a food critic judges. Hugo and Kayan watch from the side of the set."
+dialogue:
+  - {n: 1, speaker: Host, hanzi: "各位，歡迎收看《港式茶餐廳大比拼》決賽直播！", jyutping: "gok3 wai2, fun1 jing4 sau1 hon3 \"gong2 sik1 caa4 caan1 teng1 daai6 bei2 ping3\" kyut3 coi3 zik6 bo3!", en: "Good evening, and welcome to the live final of the Great Hong Kong Cha Chaan Teng Contest!"}
+  - {n: 2, speaker: Host, hanzi: "今晚兩位主角：一邊係開咗五十幾年嘅老字號梁記，一邊係全港有二十幾間分店嘅連鎖店新潮茶記。", jyutping: "gam1 maan5 loeng5 wai2 zyu2 gok3: jat1 bin1 hai6 hoi1 zo2 ng5 sap6 gei2 nin4 ge3 lou5 zi6 hou6 loeng4 gei3, jat1 bin1 hai6 cyun4 gong2 jau5 ji6 sap6 gei2 gaan1 fan1 dim3 ge3 lin4 so2 dim3 san1 ciu4 caa4 gei3.", en: "Tonight's two stars: on one side 梁記, an old name open for over fifty years; on the other, the chain 新潮茶記 with twenty-odd branches across Hong Kong."}
+  - {n: 3, speaker: Host, hanzi: "傳統對科技：人手沖奶茶，對自動奶茶機！四十五分鐘，計時開始！", jyutping: "cyun4 tung2 deoi3 fo1 gei6: jan4 sau2 cung1 naai5 caa4, deoi3 zi6 dung6 naai5 caa4 gei1! sei3 sap6 ng5 fan1 zung1, gai3 si4 hoi1 ci2!", en: "Tradition against technology: hand-made milk tea against the automatic milk-tea machine! Forty-five minutes, starting now!"}
+  - {n: 4, speaker: Critic, hanzi: "我哋睇吓梁記：梁師傅將茶喺兩個茶壺之間撞嚟撞去，一次、兩次、三次……佢嘅手勢非常穩定。", jyutping: "ngo5 dei6 tai2 haa5 loeng4 gei3: loeng4 si1 fu2 zoeng1 caa4 hai2 loeng5 go3 caa4 wu2 zi1 gaan1 zong6 lai4 zong6 heoi3, jat1 ci3, loeng5 ci3, saam1 ci3 …… keoi5 ge3 sau2 sai3 fei1 soeng4 wan2 ding6.", en: "Let's look at 梁記: Master Leung pours the tea back and forth between two pots, once, twice, three times… his technique is remarkably steady."}
+  - {n: 5, speaker: Host, hanzi: "新潮茶記嗰邊，經理 Jason 㩒一下掣，部機就出奶茶。效率高好多，速度快過梁記一倍！", jyutping: "san1 ciu4 caa4 gei3 go2 bin1, ging1 lei5 Jason gam6 jat1 haa5 zai3, bou6 gei1 zau6 ceot1 naai5 caa4. haau6 leot2 gou1 hou2 do1, cuk1 dou6 faai3 gwo3 loeng4 gei3 jat1 pui5!", en: "Over at 新潮茶記, manager Jason presses a button and the machine produces milk tea. Far more efficient: twice as fast as 梁記!"}
+  - {n: 6, speaker: Critic, hanzi: "快係快，不過溫度同時間全部由電腦控制，每一杯都一模一樣。", jyutping: "faai3 hai6 faai3, bat1 gwo3 wan1 dou6 tung4 si4 gaan3 cyun4 bou6 jau4 din6 nou5 hung3 zai3, mui5 jat1 bui1 dou1 jat1 mou4 jat1 joeng6.", en: "Fast it certainly is, but temperature and timing are all controlled by computer: every cup is exactly the same."}
+  - {n: 7, speaker: Host, hanzi: "梁記嘅創意小食係奶茶燉蛋！強哥用火槍燒焦糖……今次冇燶！", jyutping: "loeng4 gei3 ge3 cong3 ji3 siu2 sik6 hai6 naai5 caa4 dan6 daan2! koeng4 go1 jung6 fo2 coeng1 siu1 ziu1 tong4 …… gam1 ci3 mou5 nung1!", en: "梁記's creative snack is milk-tea custard! 強哥 caramelises it with the blowtorch… and this time it's not burnt!"}
+  - {n: 8, speaker: Kayan, hanzi: "（喺側邊細聲講）我越嚟越緊張，手心出晒汗。", jyutping: "(hai2 zak1 bin1 sai3 seng1 gong2) ngo5 jyut6 lai4 jyut6 gan2 zoeng1, sau2 sam1 ceot1 saai3 hon6.", en: "(Quietly, from the side) I'm getting more and more nervous; my palms are all sweaty."}
+  - {n: 9, speaker: Hugo, hanzi: "你睇梁伯，佢冇板起塊面，仲對住鏡頭微笑！", jyutping: "nei5 tai2 loeng4 baak3, keoi5 mou5 baan2 hei2 faai3 min6, zung6 deoi3 zyu6 geng3 tau4 mei4 siu3!", en: "Look at 梁伯: no stony face, he's even smiling at the camera!"}
+  - {n: 10, speaker: Host, hanzi: "時間到！評審準備試飲。", jyutping: "si4 gaan3 dou3! ping4 sam2 zeon2 bei6 si3 jam2.", en: "Time's up! The judge gets ready to taste."}
+  - {n: 11, speaker: Critic, hanzi: "新潮茶記杯奶茶好順滑，不過甜得滯，茶味冇梁記咁濃郁。", jyutping: "san1 ciu4 caa4 gei3 bui1 naai5 caa4 hou2 seon6 waat6, bat1 gwo3 tim4 dak1 zai6, caa4 mei6 mou5 loeng4 gei3 gam3 nung4 juk1.", en: "新潮茶記's milk tea is very smooth, but too sweet, and the tea isn't as rich as 梁記's."}
+  - {n: 12, speaker: Critic, hanzi: "梁記杯奶茶口感最有層次，茶同奶好平衡，一啲都唔澀。可惜杯口有茶漬，賣相差少少。", jyutping: "loeng4 gei3 bui1 naai5 caa4 hau2 gam2 zeoi3 jau5 cang4 ci3, caa4 tung4 naai5 hou2 ping4 hang4, jat1 di1 dou1 m4 saap3. ho2 sik1 bui1 hau2 jau5 caa4 zik1, maai6 soeng3 caa1 siu2 siu2.", en: "梁記's milk tea has the most layered mouthfeel; tea and milk are well balanced, not astringent at all. Pity there's a tea stain on the rim: the presentation is a little weaker."}
+  - {n: 13, speaker: Critic, hanzi: "小食方面，新潮嘅芝士菠蘿包好靚，但係芝士多到過頭。梁記嘅奶茶燉蛋係今晚最精彩嘅一樣嘢。", jyutping: "siu2 sik6 fong1 min6, san1 ciu4 ge3 zi1 si2 bo1 lo4 baau1 hou2 leng3, daan6 hai6 zi1 si2 do1 dou3 gwo3 tau4. loeng4 gei3 ge3 naai5 caa4 dan6 daan2 hai6 gam1 maan5 zeoi3 zing1 coi2 ge3 jat1 joeng6 je5.", en: "As for the snacks, 新潮's cheese pineapple bun looks lovely, but it's overloaded with cheese. 梁記's milk-tea custard is the best thing tonight."}
+  - {n: 14, speaker: Host, hanzi: "不過，梁記超過咗時間三十秒，根據規則，一律扣兩分。", jyutping: "bat1 gwo3, loeng4 gei3 ciu1 gwo3 zo2 si4 gaan3 saam1 sap6 miu5, gan1 geoi3 kwai1 zak1, jat1 leot6 kau3 loeng5 fan1.", en: "However, 梁記 went thirty seconds over time, and under the rules that means two points off."}
+  - {n: 15, speaker: Leung Pak, hanzi: "三十秒都扣？", jyutping: "saam1 sap6 miu5 dou1 kau3?", en: "Even thirty seconds?"}
+  - {n: 16, speaker: Kayan, hanzi: "（扯住佢件衫）阿爸！唔好嗌交！", jyutping: "(ce2 zyu6 keoi5 gin6 saam1) aa3 baa4! m4 hou2 aai3 gaau1!", en: "(Tugging at his sleeve) Dad! No arguing!"}
+  - {n: 17, speaker: Host, hanzi: "結果揭曉……新潮茶記九十一分，梁記九十分！新潮茶記以一分勝出！", jyutping: "git3 gwo2 kit3 hiu2 …… san1 ciu4 caa4 gei3 gau2 sap6 jat1 fan1, loeng4 gei3 gau2 sap6 fan1! san1 ciu4 caa4 gei3 ji5 jat1 fan1 sing3 ceot1!", en: "And the result is… 新潮茶記, 91 points; 梁記, 90! 新潮茶記 wins by one point!"}
+  - {n: 18, speaker: Host, hanzi: "全場掌聲！梁記屈居亞軍，真係好可惜。", jyutping: "cyun4 coeng4 zoeng2 sing1! loeng4 gei3 wat1 geoi1 aa3 gwan1, zan1 hai6 hou2 ho2 sik1.", en: "A round of applause! 梁記 has to settle for second place: what a shame."}
+  - {n: 19, speaker: Hugo, hanzi: "一分……就係嗰三十秒。", jyutping: "jat1 fan1 …… zau6 hai6 go2 saam1 sap6 miu5.", en: "One point… it was those thirty seconds."}
+  - {n: 20, speaker: Host, hanzi: "梁師傅，有冇嘢想講？", jyutping: "loeng4 si1 fu2, jau5 mou5 je5 soeng2 gong2?", en: "Master Leung, anything you'd like to say?"}
+  - {n: 21, speaker: Leung Pak, hanzi: "輸就輸。新潮做得好，我恭喜佢哋。不過我想講：奶茶唔係淨係要快、要平，最緊要係有心機。", jyutping: "syu1 zau6 syu1. san1 ciu4 zou6 dak1 hou2, ngo5 gung1 hei2 keoi5 dei6. bat1 gwo3 ngo5 soeng2 gong2: naai5 caa4 m4 hai6 zing6 hai6 jiu3 faai3, jiu3 peng4, zeoi3 gan2 jiu3 hai6 jau5 sam1 gei1.", en: "A loss is a loss. 新潮 did well, and I congratulate them. But I want to say this: milk tea isn't just about being fast and cheap; what matters most is care."}
+  - {n: 22, speaker: Jason, hanzi: "梁師傅，老實講，你杯奶茶好飲過我哋嘅。我細個成日喺梁記食早餐，係你令我想入呢行。", jyutping: "loeng4 si1 fu2, lou5 sat6 gong2, nei5 bui1 naai5 caa4 hou2 jam2 gwo3 ngo5 dei6 ge3. ngo5 sai3 go3 sing4 jat6 hai2 loeng4 gei3 sik6 zou2 caan1, hai6 nei5 ling6 ngo5 soeng2 jap6 ni1 hong4.", en: "Master Leung, honestly, your milk tea tastes better than ours. As a kid I had breakfast at 梁記 all the time; you're the reason I wanted to go into this trade."}
+  - {n: 23, speaker: Leung Pak, hanzi: "咁你部機，記得落多啲茶葉。（全場笑）", jyutping: "gam2 nei5 bou6 gei1, gei3 dak1 lok6 do1 di1 caa4 jip6. (cyun4 coeng4 siu3)", en: "Then remember to put more tea leaves in that machine of yours. (The whole studio laughs)"}
+  - {n: 24, speaker: Host, hanzi: "雖敗猶榮！多謝收看本節目，我哋下次再見！", jyutping: "seoi1 baai6 jau4 wing4! do1 ze6 sau1 hon3 bun2 zit3 muk6, ngo5 dei6 haa6 ci3 zoi3 gin3!", en: "Defeated but with honour! Thank you for watching, and see you next time!"}
+  - {n: 25, speaker: Kayan, hanzi: "亞軍都好，最緊要係阿爸肯笑。", jyutping: "aa3 gwan1 dou1 hou2, zeoi3 gan2 jiu3 hai6 aa3 baa4 hang2 siu3.", en: "Second place is fine; the main thing is that Dad smiled."}
+notes:
+  - {ref: 1, topic: vocab, text: "直播 zik6 bo3 = live broadcast. 節目 zit3 muk6 (line 24) = programme, show. 主角 zyu2 gok3 (line 2) = the lead, the stars. A live host's register mixes formal words (本節目, 根據規則) with fast spoken Cantonese."}
+  - {ref: 2, topic: vocab, text: "老字號 lou5 zi6 hou6 = an old, long-established business name. 連鎖店 lin4 so2 dim3 = chain store. 科技 fo1 gei6 (line 3) = technology; 自動 zi6 dung6 = automatic."}
+  - {ref: 4, topic: culture, text: "Hong Kong milk tea is 'pulled' by pouring it back and forth through a cloth bag between two pots (撞茶), which smooths it. 手勢 sau2 sai3 = hand technique, the touch of a craftsman. 茶壺 'teapot'. 非常 fei1 soeng4 = extremely (a more formal 好)."}
+  - {ref: 5, topic: vocab, text: "㩒掣 gam6 zai3 = press a button (㩒 'press'; 掣, P16). 效率 haau6 leot2 = efficiency; 速度 cuk1 dou6 = speed. 快過梁記一倍 'twice as fast as 梁記': A adj 過 B + amount. 經理 ging1 lei5 = manager."}
+  - {ref: 6, topic: vocab, text: "快係快，不過… 'fast, sure, but…': A 係 A，不過 concedes a point before the objection. 溫度 wan1 dou6 = temperature. 控制 hung3 zai3 = control."}
+  - {ref: 8, topic: grammar, text: "越嚟越 + adjective (P16) 'more and more': 越嚟越緊張. 手心 sau2 sam1 = palm; 出汗 ceot1 hon6 = sweat: 出晒汗 'all sweaty'."}
+  - {ref: 11, topic: grammar, text: "Negative comparison: A 冇 B 咁 + adjective 'A is not as … as B': 茶味冇梁記咁濃郁. Excess: adjective + 得滯 'too…' (P16): 甜得滯 'too sweet'; adjective + 到過頭 'overdone': 多到過頭 (line 13). 順滑 seon6 waat6 = smooth; 濃郁 nung4 juk1 = rich (flavour)."}
+  - {ref: 12, topic: grammar, text: "Superlative 最 + adjective: 口感最有層次 'the most layered mouthfeel', 最精彩 'the most brilliant' (line 13). 口感 hau2 gam2 = mouthfeel; 層次 cang4 ci3 = layers, complexity; 平衡 ping4 hang4 = balanced; 澀 saap3 = astringent, rough on the tongue."}
+  - {ref: 12, topic: vocab, text: "可惜 ho2 sik1 = it's a pity; too bad. 茶漬 caa4 zik1 = tea stain. 杯口 'rim of the cup'. 差少少 'a little weaker'."}
+  - {ref: 13, topic: vocab, text: "方面 'as for, in terms of': 小食方面. 精彩 zing1 coi2 = brilliant, exciting. 過頭 gwo3 tau4 = overdone, too far."}
+  - {ref: 17, topic: vocab, text: "揭曉 kit3 hiu2 = be announced, revealed (of results). 以一分勝出 'win by one point' (勝出 sing3 ceot1 = win, formal; spoken 贏)."}
+  - {ref: 18, topic: vocab, text: "掌聲 zoeng2 sing1 = applause. 全場 cyun4 coeng4 = the whole audience, everyone present. 屈居亞軍 wat1 geoi1 'have to settle for second place'."}
+  - {ref: 22, topic: grammar, text: "Comparison with 過: 好飲過我哋嘅 'tastes better than ours': adjective + 過 + B. 令我想入呢行 'made me want to join this trade' (令, P26)."}
+  - {ref: 24, topic: culture, text: "雖敗猶榮 seoi1 baai6 jau4 wing4 'defeated, yet honoured': a set phrase from written Chinese, used by hosts and sports reporters."}
+  - {ref: 5, topic: vs-mandarin, text: "Cantonese A + adjective + 過 + B (快過梁記) = Mandarin 比 B + adjective (比梁記快). Cantonese 冇 B 咁 adjective = Mandarin 沒有 B 那麼 adjective. 㩒掣 = Mandarin 按按鈕."}
+pron:
+  - {ref: 5, text: "效率 haau6 leot2: 率 rises here; in 速率 and 比率 it's leot2 too."}
+  - {ref: 12, text: "澀 'astringent' is saap3 in this sense; 茶漬 caa4 zik1."}
+  - {ref: 18, text: "掌聲 zoeng2 sing1 uses the reading sing1 of 聲 (literary); in speech 聲 is seng1: 細聲."}
+new_words:
+  - {jyutping: "zik6 bo3", hanzi: 直播, en: "live broadcast"}
+  - {jyutping: "zit3 muk6", hanzi: 節目, en: "programme, show"}
+  - {jyutping: "zyu2 gok3", hanzi: 主角, en: "lead, star"}
+  - {jyutping: "lou5 zi6 hou6", hanzi: 老字號, en: "old established business"}
+  - {jyutping: "lin4 so2 dim3", hanzi: 連鎖店, en: "chain store"}
+  - {jyutping: "fo1 gei6", hanzi: 科技, en: "technology"}
+  - {jyutping: "zi6 dung6", hanzi: 自動, en: "automatic"}
+  - {jyutping: "sau2 sai3", hanzi: 手勢, en: "hand technique"}
+  - {jyutping: "gam6 zai3", hanzi: 㩒掣, en: "press a button"}
+  - {jyutping: "gam6", hanzi: 㩒, en: "press"}
+  - {jyutping: "haau6 leot2", hanzi: 效率, en: "efficiency"}
+  - {jyutping: "cuk1 dou6", hanzi: 速度, en: "speed"}
+  - {jyutping: "ging1 lei5", hanzi: 經理, en: "manager"}
+  - {jyutping: "wan1 dou6", hanzi: 溫度, en: "temperature"}
+  - {jyutping: "hung3 zai3", hanzi: 控制, en: "control"}
+  - {jyutping: "sau2 sam1", hanzi: 手心, en: "palm"}
+  - {jyutping: "ceot1 hon6", hanzi: 出汗, en: "sweat"}
+  - {jyutping: "seon6 waat6", hanzi: 順滑, en: "smooth"}
+  - {jyutping: "mou5 gam3", hanzi: 冇咁, en: "not as (… as)"}
+  - {jyutping: "nung4 juk1", hanzi: 濃郁, en: "rich (flavour)"}
+  - {jyutping: "hau2 gam2", hanzi: 口感, en: "mouthfeel"}
+  - {jyutping: "cang4 ci3", hanzi: 層次, en: "layers, complexity"}
+  - {jyutping: "ping4 hang4", hanzi: 平衡, en: "balanced; balance"}
+  - {jyutping: "saap3", hanzi: 澀, en: "astringent"}
+  - {jyutping: "ho2 sik1", hanzi: 可惜, en: "it's a pity"}
+  - {jyutping: "caa4 zik1", hanzi: 茶漬, en: "tea stain"}
+  - {jyutping: "zing1 coi2", hanzi: 精彩, en: "brilliant, exciting"}
+  - {jyutping: "gwo3 tau4", hanzi: 過頭, en: "overdone, too far"}
+  - {jyutping: "kit3 hiu2", hanzi: 揭曉, en: "be announced (results)"}
+  - {jyutping: "sing3 ceot1", hanzi: 勝出, en: "win (formal)"}
+  - {jyutping: "cyun4 coeng4", hanzi: 全場, en: "the whole audience"}
+  - {jyutping: "zoeng2 sing1", hanzi: 掌聲, en: "applause"}
+  - {jyutping: "wat1 geoi1", hanzi: 屈居, en: "have to settle for (a lower place)"}
+  - {jyutping: "seoi1 baai6 jau4 wing4", hanzi: 雖敗猶榮, en: "defeated but with honour"}
+  - {jyutping: "fei1 soeng4", hanzi: 非常, en: "very, extremely"}
+exercises:
+  translate:
+    - {hanzi: "部機快過人手一倍。", jyutping: "bou6 gei1 faai3 gwo3 jan4 sau2 jat1 pui5.", en: "The machine is twice as fast as doing it by hand."}
+    - {hanzi: "呢杯奶茶冇嗰杯咁濃郁。", jyutping: "ni1 bui1 naai5 caa4 mou5 go2 bui1 gam3 nung4 juk1.", en: "This milk tea isn't as rich as that one."}
+    - {hanzi: "我越嚟越緊張。", jyutping: "ngo5 jyut6 lai4 jyut6 gan2 zoeng1.", en: "I'm getting more and more nervous."}
+    - {hanzi: "啲芝士多到過頭，甜得滯。", jyutping: "di1 zi1 si2 do1 dou3 gwo3 tau4, tim4 dak1 zai6.", en: "There's far too much cheese, and it's too sweet."}
+    - {hanzi: "佢以一分勝出，我哋屈居亞軍。", jyutping: "keoi5 ji5 jat1 fan1 sing3 ceot1, ngo5 dei6 wat1 geoi1 aa3 gwan1.", en: "They won by one point; we had to settle for second."}
+  fill:
+    - {hanzi: "新潮嘅奶茶___梁記咁滑。", jyutping: "san1 ciu4 ge3 naai5 caa4 ___ loeng4 gei3 gam3 waat6.", answer: "mou5", answer_hanzi: 冇, en: "新潮's milk tea isn't as smooth as 梁記's."}
+    - {hanzi: "快係快，___冇乜茶味。", jyutping: "faai3 hai6 faai3, ___ mou5 mat1 caa4 mei6.", answer: "bat1 gwo3", answer_hanzi: 不過, en: "It's fast, sure, but it doesn't taste of much tea."}
+    - {hanzi: "茶同奶好___，一啲都唔澀。", jyutping: "caa4 tung4 naai5 hou2 ___, jat1 di1 dou1 m4 saap3.", answer: "ping4 hang4", answer_hanzi: 平衡, en: "The tea and milk are well balanced, not astringent at all."}
+    - {hanzi: "結果___，梁記係亞軍。", jyutping: "git3 gwo2 ___, loeng4 gei3 hai6 aa3 gwan1.", answer: "kit3 hiu2", answer_hanzi: 揭曉, en: "The results are out: 梁記 is second."}
+    - {hanzi: "差一分就贏，真係好___。", jyutping: "caa1 jat1 fan1 zau6 jeng4, zan1 hai6 hou2 ___.", answer: "ho2 sik1", answer_hanzi: 可惜, en: "One point short of winning: such a pity."}
