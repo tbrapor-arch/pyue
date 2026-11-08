@@ -1,0 +1,100 @@
+# 進修 34. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 34
+title: {en: "To Dad", jyutping: "aa3 baa4 sau1", hanzi: "阿爸收"}
+intro: "A letter Kayan writes in spoken Cantonese to her father in hospital: rhetorical questions with 唔通 'surely not…?' and 使乜 'why on earth…?', and words for family and feelings."
+genre: letter
+review: false
+setting: "年初四, Tuesday 9 February, late at night. 梁伯 is asleep in the ward after his operation. Kayan sits in the corridor and writes him a letter by hand, in the Cantonese she speaks, not in formal written Chinese. The next morning Hugo brings fruit, and 梁伯 reads the letter in front of him."
+dialogue:
+  - {n: 1, speaker: Letter, hanzi: "阿爸：", jyutping: "aa3 baa4:", en: "Dad,"}
+  - {n: 2, speaker: Letter, hanzi: "你瞓咗，我坐喺病房外面寫信俾你。有啲說話我當面講唔出，寫出嚟容易啲。", jyutping: "nei5 fan3 zo2, ngo5 co5 hai2 beng6 fong2 ngoi6 min6 se2 seon3 bei2 nei5. jau5 di1 syut3 waa6 ngo5 dong1 min6 gong2 m4 ceot1, se2 ceot1 lai4 jung4 ji6 di1.", en: "You're asleep, and I'm sitting outside the ward writing to you. There are things I can't say to your face; writing them is easier."}
+  - {n: 3, speaker: Letter, hanzi: "年初三接到強哥電話嗰陣，我驚到成個人震。喺的士度我一路諗：唔通我連阿爸都會冇埋？", jyutping: "nin4 co1 saam1 zip3 dou2 koeng4 go1 din6 waa2 go2 zan6, ngo5 geng1 dou3 seng4 go3 jan4 zan3. hai2 dik1 si2 dou6 ngo5 jat1 lou6 nam2: m4 tung1 ngo5 lin4 aa3 baa4 dou1 wui5 mou5 maai4?", en: "When 強哥 called on the third day, I was shaking all over with fear. All the way in the taxi I kept thinking: surely I'm not going to lose Dad too?"}
+  - {n: 4, speaker: Letter, hanzi: "阿媽過身嗰年，我先十五歲。你一個人睇住間舖，又要湊大我同阿哥，從來冇喺我面前喊過。", jyutping: "aa3 maa1 gwo3 san1 go2 nin4, ngo5 sin1 sap6 ng5 seoi3. nei5 jat1 go3 jan4 tai2 zyu6 gaan1 pou3, jau6 jiu3 cau3 daai6 ngo5 tung4 aa3 go1, cung4 loi4 mou5 hai2 ngo5 min6 cin4 haam3 gwo3.", en: "The year Mum died, I was only fifteen. You ran the shop on your own and brought up my brother and me, and you never once cried in front of me."}
+  - {n: 5, speaker: Letter, hanzi: "我細個成日喺卡位做功課，聞住奶茶味大。我始終覺得，梁記係我第二個屋企。", jyutping: "ngo5 sai3 go3 sing4 jat6 hai2 kaa1 wai2 zou6 gung1 fo3, man4 zyu6 naai5 caa4 mei6 daai6. ngo5 ci2 zung1 gok3 dak1, loeng4 gei3 hai6 ngo5 dai6 ji6 go3 uk1 kei2.", en: "As a child I did my homework in a booth, growing up with the smell of milk tea. I've always felt that 梁記 is my second home."}
+  - {n: 6, speaker: Letter, hanzi: "我知你唔鍾意聽我講改革。我搞八達通、搞星期五夜晚，你成日話：「使乜搞咁多嘢？」", jyutping: "ngo5 zi1 nei5 m4 zung1 ji3 teng1 ngo5 gong2 goi2 gaak3. ngo5 gaau2 baat3 daat6 tung1, gaau2 sing1 kei4 ng5 je6 maan5, nei5 sing4 jat6 waa6: \"sai2 mat1 gaau2 gam3 do1 je5?\"", en: "I know you don't like hearing me talk about reform. When I brought in Octopus and Friday nights, you kept saying: 'Why on earth make such a fuss?'"}
+  - {n: 7, speaker: Letter, hanzi: "其實我唔係想改變梁記，我係想保住佢。", jyutping: "kei4 sat6 ngo5 m4 hai6 soeng2 goi2 bin3 loeng4 gei3, ngo5 hai6 soeng2 bou2 zyu6 keoi5.", en: "The truth is, I don't want to change 梁記; I want to save it."}
+  - {n: 8, speaker: Letter, hanzi: "加租之後你成晚瞓唔着，都唔同我講。使乜一個人承擔晒？唔通我同阿哥唔係你屋企人？", jyutping: "gaa1 zou1 zi1 hau6 nei5 seng4 maan5 fan3 m4 zoek6, dou1 m4 tung4 ngo5 gong2. sai2 mat1 jat1 go3 jan4 sing4 daam1 saai3? m4 tung1 ngo5 tung4 aa3 go1 m4 hai6 nei5 uk1 kei2 jan4?", en: "Since the rent went up you haven't been sleeping, and you never told me. Why carry it all by yourself? Are my brother and I not your family?"}
+  - {n: 9, speaker: Letter, hanzi: "你成日扮堅強，將啲心事收埋喺心底。其實你都可以依靠吓我哋。", jyutping: "nei5 sing4 jat6 baan6 gin1 koeng4, zoeng1 di1 sam1 si6 sau1 maai4 hai2 sam1 dai2. kei4 sat6 nei5 dou1 ho2 ji5 ji1 kaau3 haa5 ngo5 dei6.", en: "You always act strong and keep your worries buried deep inside. You could lean on us a bit, you know."}
+  - {n: 10, speaker: Letter, hanzi: "醫生話你要休息三個月。我同公司講咗，想轉做兼職，一個禮拜返三日，其餘時間返舖頭幫手。", jyutping: "ji1 sang1 waa6 nei5 jiu3 jau1 sik1 saam1 go3 jyut6. ngo5 tung4 gung1 si1 gong2 zo2, soeng2 zyun3 zou6 gim1 zik1, jat1 go3 lai5 baai3 faan1 saam1 jat6, kei4 jyu4 si4 gaan3 faan1 pou3 tau2 bong1 sau2.", en: "The doctor says you need three months' rest. I've told my company I want to go part-time, three days a week, and spend the rest of the time helping at the shop."}
+  - {n: 11, speaker: Letter, hanzi: "你唔使擔心我嘅事業。我諗咗好耐，唔係一時衝動。", jyutping: "nei5 m4 sai2 daam1 sam1 ngo5 ge3 si6 jip6. ngo5 nam2 zo2 hou2 noi6, m4 hai6 jat1 si4 cung1 dung6.", en: "Don't worry about my career. I've thought about it for a long time; it's not a sudden impulse."}
+  - {n: 12, speaker: Letter, hanzi: "你成日話我自私，淨係識諗自己。今次就當我孝順一次啦。", jyutping: "nei5 sing4 jat6 waa6 ngo5 zi6 si1, zing6 hai6 sik1 nam2 zi6 gei2. gam1 ci3 zau6 dong3 ngo5 haau3 seon6 jat1 ci3 laa1.", en: "You always say I'm selfish and only think of myself. This time, let me be a dutiful daughter for once."}
+  - {n: 13, speaker: Letter, hanzi: "我唔會放棄梁記，你都唔好放棄你自己。我會一直支持你，好似你一直支持我咁。", jyutping: "ngo5 m4 wui5 fong3 hei3 loeng4 gei3, nei5 dou1 m4 hou2 fong3 hei3 nei5 zi6 gei2. ngo5 wui5 jat1 zik6 zi1 ci4 nei5, hou2 ci5 nei5 jat1 zik6 zi1 ci4 ngo5 gam2.", en: "I won't give up on 梁記, and you mustn't give up on yourself. I'll always back you, the way you've always backed me."}
+  - {n: 14, speaker: Letter, hanzi: "仲有，戒煙呢樣，冇得傾。", jyutping: "zung6 jau5, gaai3 jin1 ni1 joeng6, mou5 dak1 king1.", en: "And one more thing: quitting smoking is not up for discussion."}
+  - {n: 15, speaker: Letter, hanzi: "個女 嘉欣　年初四夜，病房外面", jyutping: "go3 neoi2 gaa1 jan1, nin4 co1 sei3 je6, beng6 fong2 ngoi6 min6", en: "Your daughter, Kayan. Night of the fourth day, outside the ward"}
+  - {n: 16, speaker: Leung Pak, hanzi: "（睇完封信，好耐都唔出聲）阿果，你睇吓佢啲字跡，同佢阿媽一模一樣。", jyutping: "(tai2 jyun4 fung1 seon3, hou2 noi6 dou1 m4 ceot1 seng1) aa3 gwo2, nei5 tai2 haa5 keoi5 di1 zi6 zik1, tung4 keoi5 aa3 maa1 jat1 mou4 jat1 joeng6.", en: "(After reading the letter, silent for a long time) A-Gwo, look at her handwriting: exactly like her mother's."}
+  - {n: 17, speaker: Hugo, hanzi: "梁伯，你喊呀？", jyutping: "loeng4 baak3, nei5 haam3 aa4?", en: "梁伯, are you crying?"}
+  - {n: 18, speaker: Leung Pak, hanzi: "冇！啲藥令到我對眼好癢啫。", jyutping: "mou5! di1 joek6 ling6 dou3 ngo5 deoi3 ngaan5 hou2 joeng5 ze1.", en: "No! The medicine's just making my eyes itch."}
+  - {n: 19, speaker: Hugo, hanzi: "嘉欣講嘅嘢，你唔通唔同意？", jyutping: "gaa1 jan1 gong2 ge3 je5, nei5 m4 tung1 m4 tung4 ji3?", en: "Surely you don't disagree with what Kayan says?"}
+  - {n: 20, speaker: Leung Pak, hanzi: "同意就同意……但係使乜轉兼職？唔通佢以為我請唔到人咩？", jyutping: "tung4 ji3 zau6 tung4 ji3 …… daan6 hai6 sai2 mat1 zyun3 gim1 zik1? m4 tung1 keoi5 ji5 wai4 ngo5 ceng2 m4 dou2 jan4 me1?", en: "I agree, I suppose… but why on earth go part-time? Does she think I can't hire anyone?"}
+  - {n: 21, speaker: Hugo, hanzi: "加咗租，你真係請得起人咩？", jyutping: "gaa1 zo2 zou1, nei5 zan1 hai6 ceng2 dak1 hei2 jan4 me1?", en: "With the rent rise, can you really afford to hire someone?"}
+  - {n: 22, speaker: Leung Pak, hanzi: "……你哋後生仔，一個二個都咁囉嗦。", jyutping: "…… nei5 dei6 hau6 saang1 zai2, jat1 go3 ji6 go3 dou1 gam3 lo1 so1.", en: "…You young people, every one of you, such nags."}
+  - {n: 23, speaker: Hugo, hanzi: "咁你點答佢？", jyutping: "gam2 nei5 dim2 daap3 keoi5?", en: "So how will you answer her?"}
+  - {n: 24, speaker: Leung Pak, hanzi: "唔使寫信。等佢嚟，我當面同佢講：多謝。", jyutping: "m4 sai2 se2 seon3. dang2 keoi5 lai4, ngo5 dong1 min6 tung4 keoi5 gong2: do1 ze6.", en: "No need for a letter. When she comes, I'll tell her to her face: thank you."}
+notes:
+  - {ref: 1, topic: culture, text: "A personal letter can be written in spoken Cantonese, as here, with 佢, 嘅, 咗 and 唔; formal letters (P13) use standard written Chinese. The title 阿爸收 'for Dad' is what you write on the envelope: name + 收 'to be received by'."}
+  - {ref: 2, topic: vocab, text: "當面 dong1 min6 = to someone's face, in person. 講唔出 'can't bring oneself to say' (V + 唔出, P20). 寫信 se2 seon3 = write a letter; 封信 'the letter' (封 classifier, P31)."}
+  - {ref: 3, topic: grammar, text: "唔通 m4 tung1 opens a rhetorical question, 'surely not…? could it be that…?', often with 咩 or 呀 at the end: 唔通我連阿爸都會冇埋？; 唔通我同阿哥唔係你屋企人？ (line 8); 唔通佢以為我請唔到人咩？ (line 20). The speaker expects the answer 'no'."}
+  - {ref: 3, topic: vocab, text: "震 zan3 = shake, tremble: 驚到成個人震 'shaking all over with fear'. 冇埋 'lose as well' (冇 + 埋 'too')."}
+  - {ref: 4, topic: vocab, text: "過身 gwo3 san1 = pass away (gentle, everyday); 去世 is more formal. 湊 cau3 = look after (a child); 湊大 cau3 daai6 = bring up. 從來冇…過 'never once' (P5)."}
+  - {ref: 5, topic: vocab, text: "始終 ci2 zung1 = all along, after all, in the end: 我始終覺得…. 聞 man4 = smell: 聞住奶茶味大 'grew up smelling milk tea' (味 mei6 'smell, taste'). 功課 gung1 fo3 = homework: 做功課."}
+  - {ref: 6, topic: grammar, text: "使乜 sai2 mat1 (P17) = 'why on earth…? there's no need to…': a rhetorical question that means 'don't': 使乜搞咁多嘢？ 'why make such a fuss?'; 使乜一個人承擔晒？ (line 8); 使乜轉兼職？ (line 20). Compare 唔使 'no need', which is a plain statement."}
+  - {ref: 7, topic: vocab, text: "改革 goi2 gaak3 = reform; 改變 'change' (known). 保住 bou2 zyu6 = save, keep hold of (保 'protect' + 住 'firmly'): 保住梁記."}
+  - {ref: 8, topic: vocab, text: "承擔 sing4 daam1 = take on, bear (a burden, responsibility). 心事 sam1 si6 (line 9) = worries, what's on one's mind; 收埋 sau1 maai4 = hide away; 心底 sam1 dai2 = the bottom of one's heart. 堅強 gin1 koeng4 = strong (in character): 扮堅強 'act strong'. 依靠 ji1 kaau3 = rely on, lean on."}
+  - {ref: 10, topic: vocab, text: "兼職 gim1 zik1 = part-time (job); 全職 is full-time. 其餘 kei4 jyu4 = the rest, the remaining. 衝動 cung1 dung6 (line 11) = impulse; impulsive: 一時衝動 'a moment's impulse'."}
+  - {ref: 12, topic: culture, text: "孝順 haau3 seon6 = filial, dutiful to one's parents, a core family value. 自私 zi6 si1 = selfish. 當我… 'treat it as if I…': 就當我孝順一次啦 'let's say I'm being a good daughter for once'."}
+  - {ref: 13, topic: vocab, text: "放棄 fong3 hei3 = give up. 支持 zi1 ci4 = support, back. 冇得傾 mou5 dak1 king1 (line 14) = not negotiable, 'nothing to discuss'."}
+  - {ref: 16, topic: vocab, text: "字跡 zi6 zik1 = handwriting. 一模一樣 jat1 mou4 jat1 joeng6 = exactly the same. 癢 joeng5 (line 18) = itchy; 令到 ling6 dou3 'make (someone feel or do)', a longer form of 令 (P26). 囉嗦 lo1 so1 (line 22) = nagging, long-winded."}
+  - {ref: 3, topic: vs-mandarin, text: "唔通 = Mandarin 難道 (難道我連爸爸也要失去嗎？). 使乜 = Mandarin 何必 / 幹嘛. 過身 = Mandarin 過世 / 去世. 湊仔 'look after children' = Mandarin 帶孩子."}
+pron:
+  - {ref: 4, text: "湊 'look after' is cau3, same as 湊 in 湊仔; don't confuse with 走 zau2."}
+  - {ref: 5, text: "聞 'smell' is man4 here; man6 in 新聞 'news' is the noun reading."}
+  - {ref: 18, text: "癢 joeng5 'itchy' vs 樣 joeng6 'appearance' (line 16, 一模一樣): rising vs low level."}
+new_words:
+  - {jyutping: "dong1 min6", hanzi: 當面, en: "to someone's face"}
+  - {jyutping: "se2 seon3", hanzi: 寫信, en: "write a letter"}
+  - {jyutping: "zan3", hanzi: 震, en: "shake, tremble"}
+  - {jyutping: "gwo3 san1", hanzi: 過身, en: "pass away"}
+  - {jyutping: "heoi3 sai3", hanzi: 去世, en: "die (formal)"}
+  - {jyutping: "cau3", hanzi: 湊, en: "look after (a child)"}
+  - {jyutping: "cau3 daai6", hanzi: 湊大, en: "bring up (a child)"}
+  - {jyutping: "gung1 fo3", hanzi: 功課, en: "homework"}
+  - {jyutping: "man4", hanzi: 聞, en: "smell"}
+  - {jyutping: "mei6", hanzi: 味, en: "smell, taste"}
+  - {jyutping: "ci2 zung1", hanzi: 始終, en: "all along, in the end"}
+  - {jyutping: "goi2 gaak3", hanzi: 改革, en: "reform"}
+  - {jyutping: "bou2 zyu6", hanzi: 保住, en: "save, keep hold of"}
+  - {jyutping: "sing4 daam1", hanzi: 承擔, en: "take on, bear"}
+  - {jyutping: "gin1 koeng4", hanzi: 堅強, en: "strong (in character)"}
+  - {jyutping: "sam1 si6", hanzi: 心事, en: "worries, what's on one's mind"}
+  - {jyutping: "sau1 maai4", hanzi: 收埋, en: "hide away"}
+  - {jyutping: "sam1 dai2", hanzi: 心底, en: "bottom of one's heart"}
+  - {jyutping: "ji1 kaau3", hanzi: 依靠, en: "rely on"}
+  - {jyutping: "gim1 zik1", hanzi: 兼職, en: "part-time (job)"}
+  - {jyutping: "kei4 jyu4", hanzi: 其餘, en: "the rest"}
+  - {jyutping: "cung1 dung6", hanzi: 衝動, en: "impulse; impulsive"}
+  - {jyutping: "jat1 si4", hanzi: 一時, en: "for a moment, momentary"}
+  - {jyutping: "ling6 dou3", hanzi: 令到, en: "make, cause (someone to)"}
+  - {jyutping: "zai2 neoi2", hanzi: 仔女, en: "children (sons and daughters)"}
+  - {jyutping: "zi6 si1", hanzi: 自私, en: "selfish"}
+  - {jyutping: "haau3 seon6", hanzi: 孝順, en: "filial, dutiful"}
+  - {jyutping: "fong3 hei3", hanzi: 放棄, en: "give up"}
+  - {jyutping: "zi1 ci4", hanzi: 支持, en: "support, back"}
+  - {jyutping: "mou5 dak1 king1", hanzi: 冇得傾, en: "not negotiable"}
+  - {jyutping: "zi6 zik1", hanzi: 字跡, en: "handwriting"}
+  - {jyutping: "jat1 mou4 jat1 joeng6", hanzi: 一模一樣, en: "exactly the same"}
+  - {jyutping: "joeng5", hanzi: 癢, en: "itchy"}
+  - {jyutping: "lo1 so1", hanzi: 囉嗦, en: "nagging, long-winded"}
+  - {jyutping: "m4 ceot1 seng1", hanzi: 唔出聲, en: "stay silent"}
+exercises:
+  translate:
+    - {hanzi: "唔通你唔記得今日係我生日？", jyutping: "m4 tung1 nei5 m4 gei3 dak1 gam1 jat6 hai6 ngo5 saang1 jat6?", en: "Surely you haven't forgotten it's my birthday today?"}
+    - {hanzi: "使乜咁客氣，我哋係屋企人。", jyutping: "sai2 mat1 gam3 haak3 hei3, ngo5 dei6 hai6 uk1 kei2 jan4.", en: "No need to be so polite; we're family."}
+    - {hanzi: "佢一個人湊大三個仔女。", jyutping: "keoi5 jat1 go3 jan4 cau3 daai6 saam1 go3 zai2 neoi2.", en: "She brought up three children on her own."}
+    - {hanzi: "我始終唔想放棄。", jyutping: "ngo5 ci2 zung1 m4 soeng2 fong3 hei3.", en: "In the end, I don't want to give up."}
+    - {hanzi: "佢個女嘅字跡同佢一模一樣。", jyutping: "keoi5 go3 neoi2 ge3 zi6 zik1 tung4 keoi5 jat1 mou4 jat1 joeng6.", en: "His daughter's handwriting is exactly like his."}
+  fill:
+    - {hanzi: "___你以為我唔知咩？", jyutping: "___ nei5 ji5 wai4 ngo5 m4 zi1 me1?", answer: "m4 tung1", answer_hanzi: 唔通, en: "Do you really think I don't know?"}
+    - {hanzi: "___一個人承擔晒？我哋可以幫你。", jyutping: "___ jat1 go3 jan4 sing4 daam1 saai3? ngo5 dei6 ho2 ji5 bong1 nei5.", answer: "sai2 mat1", answer_hanzi: 使乜, en: "Why carry it all alone? We can help you."}
+    - {hanzi: "有啲說話我___講唔出。", jyutping: "jau5 di1 syut3 waa6 ngo5 ___ gong2 m4 ceot1.", answer: "dong1 min6", answer_hanzi: 當面, en: "There are things I can't say to your face."}
+    - {hanzi: "我會一直___你。", jyutping: "ngo5 wui5 jat1 zik6 ___ nei5.", answer: "zi1 ci4", answer_hanzi: 支持, en: "I'll always support you."}
+    - {hanzi: "佢想轉做___，一個禮拜返三日。", jyutping: "keoi5 soeng2 zyun3 zou6 ___, jat1 go3 lai5 baai3 faan1 saam1 jat6.", answer: "gim1 zik1", answer_hanzi: 兼職, en: "She wants to go part-time, three days a week."}
