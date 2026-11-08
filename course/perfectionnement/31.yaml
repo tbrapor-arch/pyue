@@ -25,7 +25,7 @@ dialogue:
   - {n: 17, speaker: Kayan, hanzi: "姑丈，我……我出去買啲生果先！", jyutping: "gu1 zoeng2, ngo5 …… ngo5 ceot1 heoi3 maai5 di1 saang1 gwo2 sin1!", en: "Uncle, I… I'll just pop out and buy some fruit!"}
   - {n: 18, speaker: Aunt, hanzi: "唔使買，屋企有晒。坐低，食全盒先。", jyutping: "m4 sai2 maai5, uk1 kei2 jau5 saai3. co5 dai1, sik6 cyun4 hap2 sin1.", en: "No need, we've got everything. Sit down and have something from the sweets tray first."}
   - {n: 19, speaker: Hugo, hanzi: "（打開全盒）呢啲係乜嘢？", jyutping: "(daa2 hoi1 cyun4 hap2) ni1 di1 hai6 mat1 je5?", en: "(Opening the tray) What are these?"}
-  - {n: 20, speaker: Aunt, hanzi: "瓜子、糖冬瓜、糖蓮子……每樣都有意思：食糖，一年甜甜蜜蜜；食瓜子，多仔多孫。", jyutping: "gwaa1 zi2, tong4 dung1 gwaa1, tong4 lin4 zi2 …… mui5 joeng6 dou1 jau5 ji3 si1: sik6 tong2, jat1 nin4 tim4 tim4 mat6 mat6; sik6 gwaa1 zi2, do1 zai2 do1 syun1.", en: "Melon seeds, candied winter melon, candied lotus seeds… each one means something: eat sweets and your year will be sweet; eat melon seeds and you'll have lots of children and grandchildren."}
+  - {n: 20, speaker: Aunt, hanzi: "瓜子、糖冬瓜、糖蓮子……每樣都有意思：食糖，一年甜甜蜜蜜；食瓜子，多仔多孫。", jyutping: "gwaa1 zi2, tong4 dung1 gwaa1, tong4 lin4 zi2 …… mui5 joeng6 dou1 jau5 ji3 si1: sik6 tong4, jat1 nin4 tim4 tim4 mat6 mat6; sik6 gwaa1 zi2, do1 zai2 do1 syun1.", en: "Melon seeds, candied winter melon, candied lotus seeds… each one means something: eat sweets and your year will be sweet; eat melon seeds and you'll have lots of children and grandchildren."}
   - {n: 21, speaker: Hugo, hanzi: "咁我食少啲瓜子先。", jyutping: "gam2 ngo5 sik6 siu2 di1 gwaa1 zi2 sin1.", en: "Then I'll go easy on the melon seeds for now."}
   - {n: 22, speaker: Uncle, hanzi: "哈哈！食完我哋去行手指山，幫吓消化。上到頂，可以睇到成個大嶼山。", jyutping: "haa1 haa1! sik6 jyun4 ngo5 dei6 heoi3 haang4 sau2 zi2 saan1, bong1 haa5 siu1 faa3. soeng5 dou3 deng2, ho2 ji5 tai2 dou2 seng4 go3 daai6 jyu4 saan1.", en: "Ha ha! After we eat, let's walk up Finger Hill to help the digestion. From the top you can see the whole of Lantau."}
   - {n: 23, speaker: Hugo, hanzi: "好！我上個月行完麥理浩徑，一座細山冇問題。", jyutping: "hou2! ngo5 soeng6 go3 jyut6 haang4 jyun4 mak6 lei5 hou6 ging3, jat1 zo6 sai3 saan1 mou5 man6 tai4.", en: "Great! Last month I finished the MacLehose Trail; a little hill is no problem."}
@@ -77,6 +77,7 @@ new_words:
   - {jyutping: "tong4 dung1 gwaa1", hanzi: 糖冬瓜, en: "candied winter melon"}
   - {jyutping: "sau2 zi2", hanzi: 手指, en: "finger"}
   - {jyutping: "gei2 do1 seoi3", hanzi: 幾多歲, en: "how old"}
+  - {jyutping: "tong4", hanzi: 糖, en: "sugar; sweets"}
   - {jyutping: "faan4", hanzi: 煩, en: "annoying; bothered"}
   - {jyutping: "man6 coeng4 man6 dyun2", hanzi: 問長問短, en: "ask all sorts of questions"}
 exercises:
