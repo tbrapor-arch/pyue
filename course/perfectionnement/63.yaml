@@ -1,0 +1,58 @@
+# 進修 63. Review of P57–P62: no new words. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 63
+title: {en: "Review: plans on the roof", jyutping: "fuk6 zaap6", hanzi: "復習"}
+genre: review
+review: true
+setting: "Saturday 27 November 2027, evening, on the roof above 梁記. 梁記 turns fifty-five on Saturday 18 December. Kayan has called a meeting on the roof with Hugo, Hiu-ching, 阿占 and 梁伯 to plan the anniversary. 樂仔 comes up with his oral exam result."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "十二月十八號，梁記五十五周年。我想將成條街變成一個派對。", jyutping: "sap6 ji6 jyut6 sap6 baat3 hou6, loeng4 gei3 ng5 sap6 ng5 zau1 nin4. ngo5 soeng2 zoeng1 seng4 tiu4 gaai1 bin3 sing4 jat1 go3 paai3 deoi3.", en: "18 December is 梁記's fifty-fifth anniversary. I want to turn the whole street into a party."}
+  - {n: 2, speaker: A-zim, hanzi: "我哋樂隊喺天台表演！上次喺吉隆坡成場跟住唱，今次輪到深水埗。", jyutping: "ngo5 dei6 ngok6 deoi2 hai2 tin1 toi4 biu2 jin2! soeng6 ci3 hai2 gat1 lung4 bo1 seng4 coeng4 gan1 zyu6 coeng3, gam1 ci3 leon4 dou3 sam1 seoi2 bou2.", en: "Our band plays on the roof! Last time in Kuala Lumpur the whole crowd sang along; this time it's Sham Shui Po's turn."}
+  - {n: 3, speaker: Leung Pak, hanzi: "天台企唔企得落咁多人？如果有人跌落去嘅話，點算？", jyutping: "tin1 toi4 kei5 m4 kei5 dak1 lok6 gam3 do1 jan4? jyu4 gwo2 jau5 jan4 dit3 lok6 heoi3 ge3 waa2, dim2 syun3?", en: "Can the roof hold that many people? If someone falls off, what then?"}
+  - {n: 4, speaker: Hugo, hanzi: "樂隊喺天台，啲人喺街度聽。除非落雨，唔係嘅話就冇問題。", jyutping: "ngok6 deoi2 hai2 tin1 toi4, di1 jan4 hai2 gaai1 dou6 teng1. ceoi4 fei1 lok6 jyu5, m4 hai6 ge3 waa2 zau6 mou5 man6 tai4.", en: "The band on the roof, people listening in the street. Unless it rains, there's no problem."}
+  - {n: 5, speaker: Hiu-ching, hanzi: "十二月好少落雨，又唔熱，啱晒。上次喺吉隆坡個熱帶天氣，熱到我行唔郁。", jyutping: "sap6 ji6 jyut6 hou2 siu2 lok6 jyu5, jau6 m4 jit6, ngaam1 saai3. soeng6 ci3 hai2 gat1 lung4 bo1 go3 jit6 daai3 tin1 hei3, jit6 dou3 ngo5 haang4 m4 juk1.", en: "It hardly rains in December, and it's not hot: just right. That tropical weather in Kuala Lumpur was so hot I couldn't move."}
+  - {n: 6, speaker: Kayan, hanzi: "嘢食方面，我哋將菠蘿油、奶茶、燉蛋擺出街，俾街坊試。何生話佢會幫我哋搵枱。", jyutping: "je5 sik6 fong1 min6, ngo5 dei6 zoeng1 bo1 lo4 jau4, naai5 caa4, dan6 daan2 baai2 ceot1 gaai1, bei2 gaai1 fong1 si3. ho4 saang1 waa6 keoi5 wui5 bong1 ngo5 dei6 wan2 toi2.", en: "For food, we'll put pineapple buns, milk tea and custard out in the street for the neighbours to try. Mr Ho says he'll help us find tables."}
+  - {n: 7, speaker: Leung Pak, hanzi: "阿何呢個人，五十年前搶我女朋友，而家幫我搵枱。真係估唔到。", jyutping: "aa3 ho4 ni1 go3 jan4, ng5 sap6 nin4 cin4 coeng2 ngo5 neoi5 pang4 jau5, ji4 gaa1 bong1 ngo5 wan2 toi2. zan1 hai6 gu2 m4 dou2.", en: "That Ho: fifty years ago he stole my girlfriend; now he's finding me tables. Who'd have guessed."}
+  - {n: 8, speaker: Lok-zai, hanzi: "（衝上天台）梁伯！我口試攞咗八十五分！", jyutping: "(cung1 soeng5 tin1 toi4) loeng4 baak3! ngo5 hau2 si5 lo2 zo2 baat3 sap6 ng5 fan1!", en: "(Dashing onto the roof) 梁伯! I got eighty-five in my oral exam!"}
+  - {n: 9, speaker: Leung Pak, hanzi: "唔係滿分？……都一樣請你食菠蘿油。", jyutping: "m4 hai6 mun5 fan1? …… dou1 jat1 joeng6 ceng2 nei5 sik6 bo1 lo4 jau4.", en: "Not full marks? …I'll treat you to pineapple buns all the same."}
+  - {n: 10, speaker: Lok-zai, hanzi: "班主任話我講得好流利。不過佢問我：「偷偷俾多塊牛油」係咪真㗎？", jyutping: "baan1 zyu2 jam6 waa6 ngo5 gong2 dak1 hou2 lau4 lei6. bat1 gwo3 keoi5 man6 ngo5: \"tau1 tau1 bei2 do1 faai3 ngau4 jau4\" hai6 mai6 zan1 gaa3?", en: "My form teacher said I was very fluent. But she asked me whether 'secretly giving extra butter' was true."}
+  - {n: 11, speaker: Leung Pak, hanzi: "……我叫咗你唔好講㗎！", jyutping: "…… ngo5 giu3 zo2 nei5 m4 hou2 gong2 gaa3!", en: "…I told you not to say that!"}
+  - {n: 12, speaker: Hugo, hanzi: "梁伯，你知唔知，我喺廣州住嗰間屋，個屋主都係咁：講嘢好大聲，其實係好好人。", jyutping: "loeng4 baak3, nei5 zi1 m4 zi1, ngo5 hai2 gwong2 zau1 zyu6 go2 gaan1 uk1, go3 uk1 zyu2 dou1 hai6 gam2: gong2 je5 hou2 daai6 seng1, kei4 sat6 hai6 hou2 hou2 jan4.", en: "梁伯, you know what? The owner of the house I stayed at in Guangzhou is just the same: loud, but actually really kind."}
+  - {n: 13, speaker: Hiu-ching, hanzi: "阿果，你喺廣州有冇心郁，想去嗰間國際學校教書？", jyutping: "aa3 gwo2, nei5 hai2 gwong2 zau1 jau5 mou5 sam1 juk1, soeng2 heoi3 go2 gaan1 gwok3 zai3 hok6 haau6 gaau3 syu1?", en: "A-Gwo, in Guangzhou, were you tempted to go and teach at that international school?"}
+  - {n: 14, speaker: Hugo, hanzi: "有少少。不過我諗起梁記個招牌，就知道我想留喺邊度。", jyutping: "jau5 siu2 siu2. bat1 gwo3 ngo5 nam2 hei2 loeng4 gei3 go3 ziu1 paai4, zau6 zi1 dou3 ngo5 soeng2 lau4 hai2 bin1 dou6.", en: "A little. But when I thought of 梁記's sign, I knew where I want to stay."}
+  - {n: 15, speaker: Hiu-ching, hanzi: "淨係因為個招牌？", jyutping: "zing6 hai6 jan1 wai6 go3 ziu1 paai4?", en: "Just because of the sign?"}
+  - {n: 16, speaker: Hugo, hanzi: "仲有招牌下面嘅人，同埋一個由長洲嚟嘅導遊。", jyutping: "zung6 jau5 ziu1 paai4 haa6 min6 ge3 jan4, tung4 maai4 jat1 go3 jau4 coeng4 zau1 lai4 ge3 dou6 jau4.", en: "And the people under the sign, and a tour guide from Cheung Chau."}
+  - {n: 17, speaker: A-zim, hanzi: "嘩，好肉麻！快啲將佢寫入首新歌度！", jyutping: "waa3, hou2 juk6 maa4! faai3 di1 zoeng1 keoi5 se2 jap6 sau2 san1 go1 dou6!", en: "Ugh, so mushy! Quick, put that into the new song!"}
+  - {n: 18, speaker: Kayan, hanzi: "講返周年嘅嘢：雖然而家梁記生意好，但係我想周年嗰日唔收錢，所有嘢食都請街坊。", jyutping: "gong2 faan1 zau1 nin4 ge3 je5: seoi1 jin4 ji4 gaa1 loeng4 gei3 saang1 ji3 hou2, daan6 hai6 ngo5 soeng2 zau1 nin4 go2 jat6 m4 sau1 cin2, so2 jau5 je5 sik6 dou1 ceng2 gaai1 fong1.", en: "Back to the anniversary: although 梁記 is doing well now, I'd like to not charge anything on the anniversary, and treat the neighbours to all the food."}
+  - {n: 19, speaker: Leung Pak, hanzi: "全部請？咁要蝕幾多？", jyutping: "cyun4 bou6 ceng2? gam2 jiu3 sit6 gei2 do1?", en: "Treat everyone? How much will we lose?"}
+  - {n: 20, speaker: Kayan, hanzi: "阿爸，你喺電台講過：一間舖唔止係生意，仲係街坊嘅回憶。", jyutping: "aa3 baa4, nei5 hai2 din6 toi4 gong2 gwo3: jat1 gaan1 pou3 m4 zi2 hai6 saang1 ji3, zung6 hai6 gaai1 fong1 ge3 wui4 jik1.", en: "Dad, you said it on the radio: a shop isn't just a business; it's the neighbourhood's memories."}
+  - {n: 21, speaker: Leung Pak, hanzi: "嗰句係阿何講嘅……不過，講得啱。好，請！", jyutping: "go2 geoi3 hai6 aa3 ho4 gong2 ge3 …… bat1 gwo3, gong2 dak1 ngaam1. hou2, ceng2!", en: "That was Ho's line… but he was right. Fine: it's on us!"}
+  - {n: 22, speaker: Hiu-ching, hanzi: "（望住街上啲燈）一年前，你哋邊個估到今日會喺度一齊諗呢啲？", jyutping: "(mong6 zyu6 gaai1 soeng6 di1 dang1) jat1 nin4 cin4, nei5 dei6 bin1 go3 gu2 dou2 gam1 jat6 wui5 hai2 dou6 jat1 cai4 nam2 ni1 di1?", en: "(Looking at the lights in the street) A year ago, which of you would have guessed we'd be here today planning this together?"}
+  - {n: 23, speaker: Leung Pak, hanzi: "冇人估到。就算將所有嘢準備好，結果都係估唔到。", jyutping: "mou5 jan4 gu2 dou2. zau6 syun3 zoeng1 so2 jau5 je5 zeon2 bei6 hou2, git3 gwo2 dou1 hai6 gu2 m4 dou2.", en: "No one. Even if you prepare everything, things still turn out in ways no one expects."}
+notes:
+  - {ref: 0, topic: grammar, text: "This review brings back P57–P62 with no new words. Look for: 將 (lines 1, 6, 17, 23), potentials (企唔企得落, 行唔郁, 估唔到), conditionals (如果…嘅話, 除非, 唔係嘅話, lines 3–4), concessives (雖然…但係, line 18), relative clauses (我住嗰間屋, 招牌下面嘅人, lines 12, 16) and adjectives before nouns."}
+  - {ref: 1, topic: grammar, text: "將成條街變成一個派對 'turn the whole street into a party': 將 + object + 變成 + result (P57). 周年 'anniversary'."}
+  - {ref: 3, topic: grammar, text: "企唔企得落 'can it hold (that many people standing)?': V唔V得 + 落 (room for). 如果…嘅話，點算？ 'if…, what then?' (P59)."}
+  - {ref: 4, topic: grammar, text: "除非落雨，唔係嘅話就冇問題 'unless it rains, otherwise no problem' (P59)."}
+  - {ref: 5, topic: grammar, text: "熱到我行唔郁 'so hot I couldn't move': extent 到 + potential (P44, P57)."}
+  - {ref: 7, topic: vocab, text: "估唔到 'unpredictable, never would have guessed' (P4)."}
+  - {ref: 12, topic: grammar, text: "我喺廣州住嗰間屋 'the house I stayed in, in Guangzhou': classifier relative clause (P61). 好好人 'a really kind person' (P62)."}
+  - {ref: 16, topic: grammar, text: "招牌下面嘅人 'the people under the sign'; 一個由長洲嚟嘅導遊 'a tour guide from Cheung Chau': 嘅 relative clauses (P61)."}
+  - {ref: 17, topic: vocab, text: "肉麻 'mushy, cringe-making'. 寫入首新歌度 'write it into the new song'."}
+  - {ref: 18, topic: grammar, text: "雖然…但係 (P52). 所有嘢食都請街坊 'treat the neighbours to all the food': 所有 + noun + 都 (P38)."}
+  - {ref: 20, topic: vocab, text: "唔止 'not just' (P59); 回憶 'memories' (P59). 電台 'radio station'."}
+  - {ref: 23, topic: grammar, text: "將所有嘢準備好 'get everything ready' (將 + object + verb + 好)."}
+pron: []
+new_words: []
+exercises:
+  translate:
+    - {hanzi: "我想將成條街變成一個派對。", jyutping: "ngo5 soeng2 zoeng1 seng4 tiu4 gaai1 bin3 sing4 jat1 go3 paai3 deoi3.", en: "I want to turn the whole street into a party."}
+    - {hanzi: "除非落雨，唔係嘅話就冇問題。", jyutping: "ceoi4 fei1 lok6 jyu5, m4 hai6 ge3 waa2 zau6 mou5 man6 tai4.", en: "Unless it rains, there's no problem."}
+    - {hanzi: "我喺廣州住嗰間屋好舊。", jyutping: "ngo5 hai2 gwong2 zau1 zyu6 go2 gaan1 uk1 hou2 gau6.", en: "The house I stayed in in Guangzhou is very old."}
+    - {hanzi: "雖然生意好，但係我想請街坊。", jyutping: "seoi1 jin4 saang1 ji3 hou2, daan6 hai6 ngo5 soeng2 ceng2 gaai1 fong1.", en: "Although business is good, I want to treat the neighbours."}
+    - {hanzi: "真係估唔到。", jyutping: "jan4 sang1 zan1 hai6 gu2 m4 dou2.", en: "Who'd have guessed."}
+  fill:
+    - {hanzi: "我哋___啲嘢食擺出街。", jyutping: "ngo5 dei6 ___ di1 je5 sik6 baai2 ceot1 gaai1.", answer: "zoeng1", answer_hanzi: 將, en: "We'll put the food out in the street."}
+    - {hanzi: "如果有人跌落去___，點算？", jyutping: "jyu4 gwo2 jau5 jan4 dit3 lok6 heoi3 ___, dim2 syun3?", answer: "ge3 waa2", answer_hanzi: 嘅話, en: "If someone falls off, what then?"}
+    - {hanzi: "熱到我行唔___。", jyutping: "jit6 dou3 ngo5 haang4 m4 ___.", answer: "juk1", answer_hanzi: 郁, en: "So hot I couldn't move."}
+    - {hanzi: "一個由長洲嚟___導遊。", jyutping: "jat1 go3 jau4 coeng4 zau1 lai4 ___ dou6 jau4.", answer: "ge3", answer_hanzi: 嘅, en: "A tour guide from Cheung Chau."}
+    - {hanzi: "___嘢食都請街坊。", jyutping: "___ je5 sik6 dou1 ceng2 gaai1 fong1.", answer: "so2 jau5", answer_hanzi: 所有, en: "All the food is on us for the neighbours."}
