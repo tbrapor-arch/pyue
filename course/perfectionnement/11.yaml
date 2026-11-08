@@ -1,0 +1,95 @@
+# 進修 11. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 11
+title: {en: "One kind of rice feeds a hundred kinds of people", jyutping: "jat1 joeng6 mai5 joeng5 baak3 joeng6 jan4", hanzi: "一樣米養百樣人"}
+genre: essay
+review: false
+setting: "Kayan's first post on 梁記's new Instagram account, a long caption under a photo of the café at closing time. She writes as she talks."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "我屋企間冰室，開咗五十幾年。由朝到晚，都有好多熟客。今日想同大家介紹吓佢哋。", jyutping: "ngo5 uk1 kei2 gaan1 bing1 sat1, hoi1 zo2 ng5 sap6 gei2 nin4. jau4 ziu1 dou3 maan5, dou1 jau5 hou2 do1 suk6 haak3. gam1 jat6 soeng2 tung4 daai6 gaa1 gaai3 siu6 haa5 keoi5 dei6.", en: "My family's café has been open for over fifty years. From morning to night there are lots of regulars. Today I'd like to introduce them to you."}
+  - {n: 2, speaker: Kayan, hanzi: "第一位係的士佬陳生。佢每朝七點半準時嚟，坐開門口第一張枱，食開A餐，飲開熱奶茶，二十年都冇變過。", jyutping: "dai6 jat1 wai2 hai6 dik1 si2 lou2 can4 saang1. keoi5 mui5 ziu1 cat1 dim2 bun3 zeon2 si4 lai4, co5 hoi1 mun4 hau2 dai6 jat1 zoeng1 toi2, sik6 hoi1 A caan1, jam2 hoi1 jit6 naai5 caa4, ji6 sap6 nin4 dou1 mou5 bin3 gwo3.", en: "First, Mr Chan the taxi driver. He comes at seven-thirty sharp every morning, sits at his usual table by the door, has his usual Set A and his usual hot milk tea, and hasn't changed in twenty years."}
+  - {n: 3, speaker: Kayan, hanzi: "有一次我阿爸問佢想唔想試吓B餐。佢諗咗好耐，最後話：「唔使喇，食開呢個。」", jyutping: "jau5 jat1 ci3 ngo5 aa3 baa4 man6 keoi5 soeng2 m4 soeng2 si3 haa5 B caan1. keoi5 nam2 zo2 hou2 noi6, zeoi3 hau6 waa6: \"m4 sai2 laa3, sik6 hoi1 ni1 go3.\"", en: "Once my dad asked him if he'd like to try Set B. He thought about it for a long time, then said: 'No thanks, I'm used to this one.'"}
+  - {n: 4, speaker: Kayan, hanzi: "第二位係住喺對面嘅黃阿婆。佢養咗隻細細隻嘅唐狗，叫「豆豆」。", jyutping: "dai6 ji6 wai2 hai6 zyu6 hai2 deoi3 min6 ge3 wong4 aa3 po4. keoi5 joeng5 zo2 zek3 sai3 sai3 zek3 ge3 tong4 gau2, giu3 \"dau6 dau2\".", en: "Second, old Mrs Wong, who lives across the street. She keeps a tiny mongrel called 'Dau-dau' ('Little Bean')."}
+  - {n: 5, speaker: Kayan, hanzi: "阿婆多數十點左右嚟，叫一份牛油多：一半自己食，一半俾豆豆食。", jyutping: "aa3 po4 do1 sou3 sap6 dim2 zo2 jau2 lai4, giu3 jat1 fan6 ngau4 jau4 do1: jat1 bun3 zi6 gei2 sik6, jat1 bun3 bei2 dau6 dau2 sik6.", en: "She usually comes around ten and orders butter toast: half for herself, half for Dau-dau."}
+  - {n: 6, speaker: Kayan, hanzi: "我阿爸話舖頭唔准帶寵物入嚟，但係佢從來冇趕過豆豆走。佢話：「豆豆比好多人客仲有禮貌。」", jyutping: "ngo5 aa3 baa4 waa6 pou3 tau2 m4 zeon2 daai3 cung2 mat6 jap6 lai4, daan6 hai6 keoi5 cung4 loi4 mou5 gon2 gwo3 dau6 dau2 zau2. keoi5 waa6: \"dau6 dau2 bei2 hou2 do1 jan4 haak3 zung6 jau5 lai5 maau6.\"", en: "My dad says no pets in the shop, but he's never once chased Dau-dau out. He says: 'Dau-dau has better manners than a lot of customers.'"}
+  - {n: 7, speaker: Kayan, hanzi: "下晝三點幾，附近中學放學，啲學生成班湧入嚟。", jyutping: "haa6 zau3 saam1 dim2 gei2, fu6 gan6 zung1 hok6 fong3 hok6, di1 hok6 saang1 seng4 baan1 jung2 jap6 lai4.", en: "Just after three in the afternoon, the nearby secondary school lets out and the students pour in by the dozen."}
+  - {n: 8, speaker: Kayan, hanzi: "佢哋叫開凍檸茶同西多士。一張枱坐六個人，講起嘢上嚟，大聲到隔籬枱都聽到。", jyutping: "keoi5 dei6 giu3 hoi1 dung3 ning4 caa4 tung4 sai1 do1 si2. jat1 zoeng1 toi2 co5 luk6 go3 jan4, gong2 hei2 je5 soeng5 lai4, daai6 seng1 dou3 gaak3 lei4 toi2 dou1 teng1 dou2.", en: "They always order iced lemon tea and French toast. Six of them at one table, and once they start talking, they're so loud the next table can hear every word."}
+  - {n: 9, speaker: Kayan, hanzi: "有陣時佢哋會一齊溫書；間唔中又會為咗邊個男仔靚仔，嗌起交上嚟。", jyutping: "jau5 zan6 si4 keoi5 dei6 wui5 jat1 cai4 wan1 syu1; gaan3 m4 zung1 jau6 wui5 wai6 zo2 bin1 go3 naam4 zai2 leng3 zai2, aai3 hei2 gaau1 soeng5 lai4.", en: "Sometimes they study together; now and then they start quarrelling over which boy is the best-looking."}
+  - {n: 10, speaker: Kayan, hanzi: "佢哋讀書未必好叻，不過記性一流：邊個同學鍾意邊個，佢哋全部記得。", jyutping: "keoi5 dei6 duk6 syu1 mei6 bit1 hou2 lek1, bat1 gwo3 gei3 sing3 jat1 lau4: bin1 go3 tung4 hok6 zung1 ji3 bin1 go3, keoi5 dei6 cyun4 bou6 gei3 dak1.", en: "They may not be brilliant at school, but their memory is first-class: which classmate likes whom, they remember it all."}
+  - {n: 11, speaker: Kayan, hanzi: "晚黑十點，有個做夜更嘅保安叔叔嚟食早餐。佢嘅「早餐」，即係我哋嘅宵夜。", jyutping: "maan5 hak1 sap6 dim2, jau5 go3 zou6 je6 gaang1 ge3 bou2 on1 suk1 suk1 lai4 sik6 zou2 caan1. keoi5 ge3 \"zou2 caan1\", zik1 hai6 ngo5 dei6 ge3 siu1 je2.", en: "At ten at night, a security guard on the night shift comes in for breakfast. His 'breakfast' is our late-night snack."}
+  - {n: 12, speaker: Kayan, hanzi: "佢平時好少講嘢。飲完奶茶，就同我阿爸講句「聽日見」，然後返工。", jyutping: "keoi5 ping4 si4 hou2 siu2 gong2 je5. jam2 jyun4 naai5 caa4, zau6 tung4 ngo5 aa3 baa4 gong2 geoi3 \"ting1 jat6 gin3\", jin4 hau6 faan1 gung1.", en: "He hardly ever talks. When he's finished his milk tea, he says 'see you tomorrow' to my dad and then goes to work."}
+  - {n: 13, speaker: Kayan, hanzi: "仲有一個好特別嘅熟客：蓮姐個孫，樂仔。", jyutping: "zung6 jau5 jat1 go3 hou2 dak6 bit6 ge3 suk6 haak3: lin4 ze2 go3 syun1, lok6 zai2.", en: "And there's one very special regular: Lin-ze's grandson, Lok-zai."}
+  - {n: 14, speaker: Kayan, hanzi: "樂仔今年十歲，讀小學四年級。佢放學冇人睇，所以每日都嚟三號卡位溫書。", jyutping: "lok6 zai2 gam1 nin4 sap6 seoi3, duk6 siu2 hok6 sei3 nin4 kap1. keoi5 fong3 hok6 mou5 jan4 tai2, so2 ji5 mui5 jat6 dou1 lai4 saam1 hou6 kaa1 wai2 wan1 syu1.", en: "Lok-zai is ten this year, in Primary 4. There's nobody to look after him after school, so he comes to booth three every day to study."}
+  - {n: 15, speaker: Kayan, hanzi: "佢坐開三號卡位。邊個坐咗佢個位，佢就會黑面。", jyutping: "keoi5 co5 hoi1 saam1 hou6 kaa1 wai2. bin1 go3 co5 zo2 keoi5 go3 wai2, keoi5 zau6 wui5 hak1 min6.", en: "Booth three is his usual seat. If anyone takes it, he sulks."}
+  - {n: 16, speaker: Kayan, hanzi: "我阿爸細個都喺三號卡位溫書。佢話嗰張櫈好旺，坐得多，讀書就會叻。", jyutping: "ngo5 aa3 baa4 sai3 go3 dou1 hai2 saam1 hou6 kaa1 wai2 wan1 syu1. keoi5 waa6 go2 zoeng1 dang3 hou2 wong6, co5 dak1 do1, duk6 syu1 zau6 wui5 lek1.", en: "My dad studied in booth three as a boy too. He says that bench is lucky: sit on it enough and you'll be clever at school."}
+  - {n: 17, speaker: Kayan, hanzi: "樂仔唔信。不過佢間唔中會問我阿爸數學題，我阿爸就扮唔識，叫佢問蓮姐。", jyutping: "lok6 zai2 m4 seon3. bat1 gwo3 keoi5 gaan3 m4 zung1 wui5 man6 ngo5 aa3 baa4 sou3 hok6 tai4, ngo5 aa3 baa4 zau6 baan6 m4 sik1, giu3 keoi5 man6 lin4 ze2.", en: "Lok-zai doesn't believe it. But now and then he asks my dad a maths question, and my dad pretends not to know and tells him to ask Lin-ze."}
+  - {n: 18, speaker: Kayan, hanzi: "最近仲多咗個新熟客：樓上個法國租客，阿果。", jyutping: "zeoi3 gan6 zung6 do1 zo2 go3 san1 suk6 haak3: lau4 soeng6 go3 faat3 gwok3 zou1 haak3, aa3 gwo2.", en: "Lately there's a new regular as well: the French tenant upstairs, A-Gwo."}
+  - {n: 19, speaker: Kayan, hanzi: "佢本來淨係嚟食早餐，而家一日嚟四次，有陣時仲走入廚房幫手。", jyutping: "keoi5 bun2 loi4 zing6 hai6 lai4 sik6 zou2 caan1, ji4 gaa1 jat1 jat6 lai4 sei3 ci3, jau5 zan6 si4 zung6 zau2 jap6 cyu4 fong2 bong1 sau2.", en: "At first he only came for breakfast; now he comes four times a day and sometimes even goes into the kitchen to help."}
+  - {n: 20, speaker: Kayan, hanzi: "黃阿婆第一次見佢，就話佢太瘦。而家佢日日叫豆豆分啲牛油多俾阿果。", jyutping: "wong4 aa3 po4 dai6 jat1 ci3 gin3 keoi5, zau6 waa6 keoi5 taai3 sau3. ji4 gaa1 keoi5 jat6 jat6 giu3 dau6 dau2 fan1 di1 ngau4 jau4 do1 bei2 aa3 gwo2.", en: "The first time Mrs Wong saw him, she said he was too thin. Now every day she tells Dau-dau to share some of the butter toast with A-Gwo."}
+  - {n: 21, speaker: Kayan, hanzi: "一樣米養百樣人。梁記其實冇咩特別：啲枱舊，啲櫈硬，冷氣有時唔夠凍。", jyutping: "jat1 joeng6 mai5 joeng5 baak3 joeng6 jan4. loeng4 gei3 kei4 sat6 mou5 me1 dak6 bit6: di1 toi2 gau6, di1 dang3 ngaang6, laang5 hei3 jau5 si4 m4 gau3 dung3.", en: "One kind of rice feeds a hundred kinds of people. Leung Kee is nothing special really: the tables are old, the benches are hard, and the air conditioning isn't always cold enough."}
+  - {n: 22, speaker: Kayan, hanzi: "但係每個人嚟開呢度，都有自己嘅原因。我諗，呢班人就係梁記最值錢嘅嘢。", jyutping: "daan6 hai6 mui5 go3 jan4 lai4 hoi1 ni1 dou6, dou1 jau5 zi6 gei2 ge3 jyun4 jan1. ngo5 nam2, ni1 baan1 jan4 zau6 hai6 loeng4 gei3 zeoi3 zik6 cin2 ge3 je5.", en: "But everyone who comes here regularly has their own reason. I think these people are the most valuable thing Leung Kee has."}
+  - {n: 23, speaker: Kayan, hanzi: "（如果你都係梁記嘅熟客，記得留言話我知你食開乜嘢！）", jyutping: "(jyu4 gwo2 nei5 dou1 hai6 loeng4 gei3 ge3 suk6 haak3, gei3 dak1 lau4 jin4 waa6 ngo5 zi1 nei5 sik6 hoi1 mat1 je5!)", en: "(If you're a Leung Kee regular too, leave a comment and tell me what you usually have!)"}
+notes:
+  - {ref: 1, topic: vocab, text: "熟客 suk6 haak3 = regular customer (熟 'familiar'). 由朝到晚 'from morning to night'."}
+  - {ref: 2, topic: grammar, text: "開 hoi1 right after a verb marks a habit, 'usually, as one always does': 坐開門口第一張枱 'sits at his usual table', 食開A餐 'always has Set A', 嚟開呢度 'come here regularly' (line 22), 你食開乜嘢？ 'what do you usually have?' (line 23). A noun phrase can follow: 佢坐開三號卡位 'booth three is his usual seat' (line 15)."}
+  - {ref: 2, topic: vocab, text: "的士佬 dik1 si2 lou2 = taxi driver (familiar; polite: 的士司機). 準時 zeon2 si4 = on time, punctual. 變 bin3 (P8) = change: 二十年都冇變過."}
+  - {ref: 4, topic: vocab, text: "阿婆 aa3 po4 = old woman, grandma (any elderly woman, familiar but kind). 養 joeng5 = keep (an animal), raise (a child): 養狗, 養大個仔. 唐狗 tong4 gau2 = local mongrel (lit. 'Chinese dog'). 細細隻 'tiny': a doubled adjective + classifier."}
+  - {ref: 5, topic: vocab, text: "多數 do1 sou3 = usually, mostly: 阿婆多數十點嚟. Frequency, from often to rare: 成日 (P1) 'all the time' → 多數 'usually' → 有陣時 jau5 zan6 si4 'sometimes' (line 9) → 間唔中 gaan3 m4 zung1 'now and then' (line 9) → 好少 'rarely' → 從來唔 (P5) 'never'."}
+  - {ref: 6, topic: vocab, text: "寵物 cung2 mat6 = pet. 唔准 (P8) 'not allowed': 唔准帶寵物入嚟. 趕 gon2 + person + 走 = chase away. 人客 jan4 haak3 = customer (spoken)."}
+  - {ref: 7, topic: vocab, text: "學生 hok6 saang1 = pupil, student. 湧入嚟 jung2 jap6 lai4 'pour in' (湧 = surge). 三點幾 'just after three'."}
+  - {ref: 8, topic: grammar, text: "V起上嚟 hei2 soeng5 lai4 = once (they) start V-ing: 講起嘢上嚟 'once they get talking'. With a verb-object pair, the object goes inside: 講起嘢上嚟, 嗌起交上嚟 (line 9). 大聲 daai6 seng1 = loud."}
+  - {ref: 9, topic: vocab, text: "嗌交 aai3 gaau1 = quarrel, argue (from 嗌, P6). 靚仔 leng3 zai2 = good-looking (of a boy, a man); a waiter may also call any young man 靚仔."}
+  - {ref: 10, topic: vocab, text: "記性 gei3 sing3 = memory (the faculty): 記性好 'good memory'. 同學 tung4 hok6 = classmate, fellow student."}
+  - {ref: 11, topic: vocab, text: "夜更 je6 gaang1 = night shift. 保安 bou2 on1 = security guard; 叔叔 suk1 suk1 = 'uncle' for a man younger than your father. 宵夜 siu1 je2 = late-night snack."}
+  - {ref: 12, topic: vocab, text: "然後 jin4 hau6 = and then, after that: the usual linker in a sequence of actions. 平時 (P3) 'normally'."}
+  - {ref: 14, topic: vocab, text: "孫 syun1 = grandson (as a word on its own, syun1; 孫仔 'grandson', 孫女 'granddaughter'). 四年級 sei3 nin4 kap1 = fourth year, Primary 4 (年級 = school year). 冇人睇 'nobody to look after him'."}
+  - {ref: 15, topic: vocab, text: "黑面 hak1 min6 = sulk, pull a long face (lit. 'black face'). 旺 wong6 (line 16) = lucky, prosperous. 櫈 dang3 = stool, bench. 數學題 (line 17) 'maths problem'."}
+  - {ref: 21, topic: vs-mandarin, text: "一樣米養百樣人 = Mandarin 一樣米養百樣人 / 林子大了什麼鳥都有. The habitual 開 has no Mandarin equivalent: Mandarin says 他平常坐門口那張桌子 or 他吃慣了A餐. 有陣時 ↔ 有時候, 多數 ↔ 大多, 間唔中 ↔ 偶爾."}
+pron:
+  - {ref: 4, text: "養 joeng5 'raise, keep' vs 樣 joeng6 'kind, look': 一樣米養百樣人 = jat1 joeng6 mai5 joeng5 baak3 joeng6 jan4."}
+  - {ref: 13, text: "孫 is syun1 here; you may hear seon3 in some words, but 'grandson' is syun1."}
+  - {ref: 11, text: "宵夜 siu1 je2: 夜 rises to je2, as in 半夜 (P4)."}
+new_words:
+  - {jyutping: "suk6 haak3", hanzi: 熟客, en: "regular customer"}
+  - {jyutping: "dik1 si2 lou2", hanzi: 的士佬, en: "taxi driver (familiar)"}
+  - {jyutping: "zeon2 si4", hanzi: 準時, en: "on time, punctual"}
+  - {jyutping: "aa3 po4", hanzi: 阿婆, en: "old woman, grandma"}
+  - {jyutping: "joeng5", hanzi: 養, en: "keep (an animal), raise"}
+  - {jyutping: "tong4 gau2", hanzi: 唐狗, en: "mongrel, local dog"}
+  - {jyutping: "do1 sou3", hanzi: 多數, en: "usually, mostly"}
+  - {jyutping: "cung2 mat6", hanzi: 寵物, en: "pet"}
+  - {jyutping: "gaai3 siu6", hanzi: 介紹, en: "introduce"}
+  - {jyutping: "hok6 saang1", hanzi: 學生, en: "pupil, student"}
+  - {jyutping: "jung2", hanzi: 湧, en: "surge, pour"}
+  - {jyutping: "daai6 seng1", hanzi: 大聲, en: "loud"}
+  - {jyutping: "jau5 zan6 si4", hanzi: 有陣時, en: "sometimes"}
+  - {jyutping: "gaan3 m4 zung1", hanzi: 間唔中, en: "now and then"}
+  - {jyutping: "aai3 gaau1", hanzi: 嗌交, en: "quarrel"}
+  - {jyutping: "leng3 zai2", hanzi: 靚仔, en: "good-looking (boy, man)"}
+  - {jyutping: "gei3 sing3", hanzi: 記性, en: "memory"}
+  - {jyutping: "tung4 hok6", hanzi: 同學, en: "classmate"}
+  - {jyutping: "je6 gaang1", hanzi: 夜更, en: "night shift"}
+  - {jyutping: "bou2 on1", hanzi: 保安, en: "security guard"}
+  - {jyutping: "suk1 suk1", hanzi: 叔叔, en: "uncle (younger man)"}
+  - {jyutping: "siu1 je2", hanzi: 宵夜, en: "late-night snack"}
+  - {jyutping: "jin4 hau6", hanzi: 然後, en: "and then"}
+  - {jyutping: "syun1", hanzi: 孫, en: "grandson, grandchild"}
+  - {jyutping: "nin4 kap1", hanzi: 年級, en: "school year, grade"}
+  - {jyutping: "hak1 min6", hanzi: 黑面, en: "sulk"}
+  - {jyutping: "dang3", hanzi: 櫈, en: "stool, bench"}
+  - {jyutping: "sou3 hok6", hanzi: 數學, en: "maths"}
+  - {jyutping: "ngaang6", hanzi: 硬, en: "hard"}
+  - {jyutping: "zik6 cin2", hanzi: 值錢, en: "valuable"}
+  - {jyutping: "jat1 joeng6 mai5 joeng5 baak3 joeng6 jan4", hanzi: 一樣米養百樣人, en: "it takes all sorts"}
+exercises:
+  translate:
+    - {hanzi: "我飲開凍奶茶，今日想試吓鴛鴦。", jyutping: "ngo5 jam2 hoi1 dung3 naai5 caa4, gam1 jat6 soeng2 si3 haa5 jyun1 joeng1.", en: "I usually drink iced milk tea; today I'd like to try a yuenyeung."}
+    - {hanzi: "佢哋玩起上嚟，成晚都唔肯走。", jyutping: "keoi5 dei6 waan2 hei2 soeng5 lai4, seng4 maan5 dou1 m4 hang2 zau2.", en: "Once they start having fun, they won't leave all night."}
+    - {hanzi: "阿婆多數朝早嚟，間唔中晏晝都會嚟。", jyutping: "aa3 po4 do1 sou3 ziu1 zou2 lai4, gaan3 m4 zung1 aan3 zau3 dou1 wui5 lai4.", en: "The old lady usually comes in the morning, and now and then at lunchtime too."}
+    - {hanzi: "我細佬養咗兩隻貓，唔准人摸。", jyutping: "ngo5 sai3 lou2 joeng5 zo2 loeng5 zek3 maau1, m4 zeon2 jan4 mo2.", en: "My little brother keeps two cats and won't let anyone touch them."}
+    - {hanzi: "佢記性好差，有陣時連自己幾歲都唔記得。", jyutping: "keoi5 gei3 sing3 hou2 caa1, jau5 zan6 si4 lin4 zi6 gei2 gei2 seoi3 dou1 m4 gei3 dak1.", en: "Her memory is terrible; sometimes she even forgets how old she is."}
+  fill:
+    - {hanzi: "陳生坐___門口第一張枱。", jyutping: "can4 saang1 co5 ___ mun4 hau2 dai6 jat1 zoeng1 toi2.", answer: "hoi1", answer_hanzi: 開, en: "Mr Chan always sits at the first table by the door."}
+    - {hanzi: "佢哋講___嘢___，大聲到隔籬枱都聽到。", jyutping: "keoi5 dei6 gong2 ___ je5 ___, daai6 seng1 dou3 gaak3 lei4 toi2 dou1 teng1 dou2.", answer: "hei2 / soeng5 lai4", answer_hanzi: 起 / 上嚟, en: "Once they start talking, they're so loud the next table can hear."}
+    - {hanzi: "食完飯，佢就同我講句「聽日見」，___返工。", jyutping: "sik6 jyun4 faan6, keoi5 zau6 tung4 ngo5 gong2 geoi3 \"ting1 jat6 gin3\", ___ faan1 gung1.", answer: "jin4 hau6", answer_hanzi: 然後, en: "After eating, he says 'see you tomorrow' to me and then goes to work."}
+    - {hanzi: "邊個坐咗佢個位，佢就會___。", jyutping: "bin1 go3 co5 zo2 keoi5 go3 wai2, keoi5 zau6 wui5 ___.", answer: "hak1 min6", answer_hanzi: 黑面, en: "If anyone takes his seat, he sulks."}
+    - {hanzi: "舖頭___帶寵物入嚟。", jyutping: "pou3 tau2 ___ daai3 cung2 mat6 jap6 lai4.", answer: "m4 zeon2", answer_hanzi: 唔准, en: "Pets are not allowed in the shop."}
