@@ -1,0 +1,106 @@
+# 進修 36. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 36
+title: {en: "Old ginger is the hottest", jyutping: "goeng1 hai6 lou5 ge3 laat6", hanzi: "薑係老嘅辣"}
+intro: "Haggling with a supplier: 'almost' with 咁滯, 'a tiny bit' with 啲啲, everyone and everything with 都, and the words of costs and margins."
+genre: dialogue
+review: false
+setting: "Wednesday 3 March 2027, three in the afternoon. 梁伯 is supposed to be resting, so he sits on a stool by the counter and 'only watches'. Kayan, now at 梁記 three days a week, meets 陳生, the wholesaler who has delivered the shop's evaporated milk, condensed milk, butter and sugar for thirty years. Kayan has a spreadsheet open on her laptop."
+dialogue:
+  - {n: 1, speaker: Mr Chan, hanzi: "梁小姐，坦白講，下個月開始所有貨都要漲價一成。通脹，冇計。", jyutping: "loeng4 siu2 ze2, taan2 baak6 gong2, haa6 go3 jyut6 hoi1 ci2 so2 jau5 fo3 dou1 jiu3 zoeng3 gaa3 jat1 sing4. tung1 zoeng3, mou5 gai2.", en: "Miss Leung, to be frank, from next month every product goes up ten per cent. Inflation, nothing I can do."}
+  - {n: 2, speaker: Kayan, hanzi: "一成？我睇吓個試算表先……租貴咗，成本又漲，我哋嘅利潤直頭冇晒咁滯。", jyutping: "jat1 sing4? ngo5 tai2 haa5 go3 si3 syun3 biu2 sin1 …… zou1 gwai3 zo2, sing4 bun2 jau6 zoeng3, ngo5 dei6 ge3 lei6 jeon6 zik6 tau4 mou5 saai3 gam3 zai6.", en: "Ten per cent? Let me look at my spreadsheet first… The rent's gone up, costs are rising, our margin has practically disappeared."}
+  - {n: 3, speaker: Mr Chan, hanzi: "我都唔想㗎。我做批發，一箱淡奶都係賺啲啲。", jyutping: "ngo5 dou1 m4 soeng2 gaa3. ngo5 zou6 pai1 faat3, jat1 soeng1 daam6 naai5 dou1 hai6 zaan6 di1 di1.", en: "I don't want to either. I'm a wholesaler; I make a tiny bit on each crate of evaporated milk."}
+  - {n: 4, speaker: Kayan, hanzi: "咁……好啦，一成就一成，我哋長期合作，唔好傷感情。", jyutping: "gam2 …… hou2 laa1, jat1 sing4 zau6 jat1 sing4, ngo5 dei6 coeng4 kei4 hap6 zok3, m4 hou2 soeng1 gam2 cing4.", en: "Well… all right, ten per cent it is. We've worked together for years; let's not fall out over it."}
+  - {n: 5, speaker: Leung Pak, hanzi: "（喺張凳度）咪住。陳生，你入行幾多年？", jyutping: "(hai2 zoeng1 dang3 dou6) mai5 zyu6. can4 saang1, nei5 jap6 hong4 gei2 do1 nin4?", en: "(From his stool) Hold on. Mr Chan, how many years have you been in the trade?"}
+  - {n: 6, speaker: Mr Chan, hanzi: "梁伯！你唔係要休息咩？我入行三十二年喇。", jyutping: "loeng4 baak3! nei5 m4 hai6 jiu3 jau1 sik1 me1? ngo5 jap6 hong4 saam1 sap6 ji6 nin4 laa3.", en: "梁伯! Aren't you supposed to be resting? Thirty-two years."}
+  - {n: 7, speaker: Leung Pak, hanzi: "三十二年，你同我做咗三十年生意，我哋係講交情嘅。你一嚟就話加一成，唔俾面我個女？", jyutping: "saam1 sap6 ji6 nin4, nei5 tung4 ngo5 zou6 zo2 saam1 sap6 nin4 sang1 ji3, ngo5 dei6 hai6 gong2 gaau1 cing4 ge3. nei5 jat1 lai4 zau6 waa6 gaa1 jat1 sing4, m4 bei2 min2 ngo5 go3 neoi2?", en: "Thirty-two years, and thirty of them doing business with me: we go by friendship. You walk in and announce ten per cent, and show my daughter no respect?"}
+  - {n: 8, speaker: Mr Chan, hanzi: "唔係唔俾面，係成本真係貴咗。", jyutping: "m4 hai6 m4 bei2 min2, hai6 sing4 bun2 zan1 hai6 gwai3 zo2.", en: "It's not disrespect; my costs really have gone up."}
+  - {n: 9, speaker: Leung Pak, hanzi: "嗱，我同你計吓數。你上個月啲牛油換咗款，細咗一兩；啲雞蛋又細隻咗。你個價錢唔變，個份量少咗，等於已經加咗價。", jyutping: "naa4, ngo5 tung4 nei5 gai3 haa5 sou3. nei5 soeng6 go3 jyut6 di1 ngau4 jau4 wun6 zo2 fun2, sai3 zo2 jat1 loeng2; di1 gai1 daan2 jau6 sai3 zek3 zo2. nei5 go3 gaa3 cin4 m4 bin3, go3 fan6 loeng6 siu2 zo2, dang2 jyu1 ji5 ging1 gaa1 zo2 gaa3.", en: "Look, let me do the sums for you. Last month you changed the brand of butter, and it's an ounce lighter; the eggs have got smaller too. Same price, smaller quantity: that's already a price rise."}
+  - {n: 10, speaker: Kayan, hanzi: "阿爸，你點知㗎？我個試算表都冇呢啲數據。", jyutping: "aa3 baa4, nei5 dim2 zi1 gaa3? ngo5 go3 si3 syun3 biu2 dou1 mou5 ni1 di1 sou3 geoi3.", en: "Dad, how do you know? My spreadsheet doesn't have that data."}
+  - {n: 11, speaker: Leung Pak, hanzi: "我每朝拎上手就知斤兩。我啲數全部喺個腦度，心算快過你部電腦。", jyutping: "ngo5 mui5 ziu1 ling1 soeng5 sau2 zau6 zi1 gan1 loeng2. ngo5 di1 sou3 cyun4 bou6 hai2 go3 nou5 dou6, sam1 syun3 faai3 gwo3 nei5 bou6 din6 nou5.", en: "Every morning I pick them up and know the weight. All my figures are in my head; I do mental arithmetic faster than your computer."}
+  - {n: 12, speaker: Mr Chan, hanzi: "梁伯，你唔好話我偷工減料，我都係跟廠嘅。", jyutping: "loeng4 baak3, nei5 m4 hou2 waa6 ngo5 tau1 gung1 gaam2 liu2, ngo5 dou1 hai6 gan1 cong2 ge3.", en: "梁伯, don't accuse me of cutting corners; I just follow the factory."}
+  - {n: 13, speaker: Leung Pak, hanzi: "我冇話你。我淨係話：生意係長做長有。你迫到我哋蝕本，梁記執咗笠，你都冇咗個客。", jyutping: "ngo5 mou5 waa6 nei5. ngo5 zing6 hai6 waa6: saang1 ji3 hai6 coeng4 zou6 coeng4 jau5. nei5 bik1 dou3 ngo5 dei6 sit6 bun2, loeng4 gei3 zap1 zo2 lap1, nei5 dou1 mou5 zo2 go3 haak3.", en: "I'm not accusing you. I'm only saying: business is for the long run. Push us into losses, 梁記 closes, and you lose a customer too."}
+  - {n: 14, speaker: Mr Chan, hanzi: "咁你想點？", jyutping: "gam2 nei5 soeng2 dim2?", en: "So what do you want?"}
+  - {n: 15, speaker: Leung Pak, hanzi: "淡奶同煉奶加半成，最多。砂糖唔加。牛油換返舊款。", jyutping: "daam6 naai5 tung4 lin6 naai5 gaa1 bun3 sing4, zeoi3 do1. saa1 tong4 m4 gaa1. ngau4 jau4 wun6 faan1 gau6 fun2.", en: "Five per cent on the evaporated and condensed milk, tops. No rise on sugar. And bring back the old butter."}
+  - {n: 16, speaker: Mr Chan, hanzi: "梁伯，你咁樣劈價，我蝕底喎！", jyutping: "loeng4 baak3, nei5 gam2 joeng2 pek3 gaa3, ngo5 sit6 dai2 wo3!", en: "梁伯, slashing the price like that, I'll be the one losing out!"}
+  - {n: 17, speaker: Leung Pak, hanzi: "你蝕底？你每個月喺我度拎幾萬蚊，個個月準時找數，一蚊都冇欠過你。", jyutping: "nei5 sit6 dai2? nei5 mui5 go3 jyut6 hai2 ngo5 dou6 ling1 gei2 maan6 man1, go3 go3 jyut6 zeon2 si4 zaau2 sou3, jat1 man1 dou1 mou5 him3 gwo3 nei5.", en: "You, losing out? Every month you take tens of thousands from me, paid on time every single month; I've never owed you a dollar."}
+  - {n: 18, speaker: Mr Chan, hanzi: "……咁樣啦，淡奶煉奶加半成，砂糖唔加，牛油我盡量。不過你要一次過訂三個月。", jyutping: "…… gam2 joeng2 laa1, daam6 naai5 lin6 naai5 gaa1 bun3 sing4, saa1 tong4 m4 gaa1, ngau4 jau4 ngo5 zeon6 loeng6. bat1 gwo3 nei5 jiu3 jat1 ci3 gwo3 deng6 saam1 go3 jyut6.", en: "…Here's the deal: five per cent on the milks, nothing on sugar, and I'll do my best on the butter. But you order three months in one go."}
+  - {n: 19, speaker: Leung Pak, hanzi: "一言為定。仲有，張單抹咗個零頭。", jyutping: "jat1 jin4 wai4 ding6. zung6 jau5, zoeng1 daan1 maat3 zo2 go3 ling4 tau2.", en: "Deal. And drop the odd dollars on the bill."}
+  - {n: 20, speaker: Mr Chan, hanzi: "你真係……我不嬲都講唔過你。（執埋啲嘢走咗）", jyutping: "nei5 zan1 hai6 …… ngo5 bat1 lau1 dou1 gong2 m4 gwo3 nei5. (zap1 maai4 di1 je5 zau2 zo2)", en: "Honestly… I've never been able to out-talk you. (Packs up and leaves)"}
+  - {n: 21, speaker: Kayan, hanzi: "阿爸，你特登等我講完先出聲，係咪？", jyutping: "aa3 baa4, nei5 dak6 dang1 dang2 ngo5 gong2 jyun4 sin1 ceot1 seng1, hai6 mai6?", en: "Dad, you waited on purpose till I'd finished before you spoke up, didn't you?"}
+  - {n: 22, speaker: Leung Pak, hanzi: "你個試算表好有用，啲數據冚唪唥都啱。不過講價唔係淨係計數，仲要睇人。", jyutping: "nei5 go3 si3 syun3 biu2 hou2 jau5 jung6, di1 sou3 geoi3 ham6 baang6 laang6 dou1 ngaam1. bat1 gwo3 gong2 gaa3 m4 hai6 zing6 hai6 gai3 sou3, zung6 jiu3 tai2 jan4.", en: "Your spreadsheet's very useful, and all the data is right. But haggling isn't just about numbers; you have to read people too."}
+  - {n: 23, speaker: Kayan, hanzi: "真係薑係老嘅辣。下次你教埋我還價，好唔好？", jyutping: "zan1 hai6 goeng1 hai6 lou5 ge3 laat6. haa6 ci3 nei5 gaau3 maai4 ngo5 waan4 gaa3, hou2 m4 hou2?", en: "Old ginger really is the hottest. Next time, teach me to counter-offer too, will you?"}
+  - {n: 24, speaker: Leung Pak, hanzi: "得。不過今日講咗咁多嘢，我攰到瞓得咁滯。攞杯熱茶嚟。", jyutping: "dak1. bat1 gwo3 gam1 jat6 gong2 zo2 gam3 do1 je5, ngo5 gui6 dou3 fan3 dak1 gam3 zai6. lo2 bui1 jit6 caa4 lai4.", en: "Sure. But I've talked so much today I'm almost asleep. Bring me a hot tea."}
+notes:
+  - {ref: 1, topic: vocab, text: "坦白講 taan2 baak6 gong2 = frankly. 漲價 zoeng3 gaa3 = prices go up (of goods); 加價 (P5) = raise a price (someone does it). 通脹 tung1 zoeng3 = inflation. 一成 = ten per cent, 半成 = five per cent (成 'tenth'); 九折 'ten per cent off' counts what you pay."}
+  - {ref: 2, topic: grammar, text: "咁滯 gam3 zai6 at the end of a clause = almost: 冇晒咁滯 'almost all gone', 瞓得咁滯 'almost asleep' (line 24), 賣晒咁滯 'nearly sold out'. 直頭 zik6 tau4 = downright, practically. 試算表 si3 syun3 biu2 = spreadsheet; 數據 sou3 geoi3 (line 10) = data."}
+  - {ref: 2, topic: vocab, text: "成本 sing4 bun2 = cost(s); 利潤 lei6 jeon6 = profit margin; 蝕本 sit6 bun2 (line 13) = make a loss (蝕 sit6 'lose'); 蝕底 sit6 dai2 (line 16) = be the one who loses out, get the worse deal."}
+  - {ref: 3, topic: grammar, text: "啲啲 di1 di1 = a tiny bit, a fraction (smaller than 少少): 賺啲啲 'earn a tiny bit', 平啲啲 'a tiny bit cheaper'. 批發 pai1 faat3 = wholesale; 箱 soeng1 = crate, box (also a classifier: 一箱淡奶)."}
+  - {ref: 4, topic: vocab, text: "長期 coeng4 kei4 = long-term. 合作 hap6 zok3 = work together, cooperate. 傷感情 'hurt feelings, spoil a relationship'."}
+  - {ref: 5, topic: vocab, text: "凳 dang3 = stool (櫈 is another way to write it, P11). 入行 jap6 hong4 'enter a trade': 入行幾多年？"}
+  - {ref: 7, topic: culture, text: "交情 gaau1 cing4 = friendship built over years. 俾面 bei2 min2 'give face' = show respect; 面子 min6 zi2 is face itself. Old Hong Kong business runs on both: you don't surprise a thirty-year partner."}
+  - {ref: 9, topic: vocab, text: "款 fun2 = model, kind, version: 換咗款 'changed brand / version'. 份量 fan6 loeng6 = quantity, portion. 等於 dang2 jyu1 = equal, amount to. 斤兩 gan1 loeng2 (line 11) 'catties and taels' = weight; 一兩 is about 38 g."}
+  - {ref: 9, topic: grammar, text: "Changed tone (P2) again: 雞蛋 gai1 daan2 'egg' (but 蛋撻 daan6 taat1); 糖 tong2 'sweets' but 砂糖 saa1 tong4 'sugar'; 零頭 ling4 tau2 'odd dollars' (line 19) with 頭 rising. The rising tone often marks the everyday, concrete thing."}
+  - {ref: 11, topic: vocab, text: "心算 sam1 syun3 = mental arithmetic; an older generation's skill, like the abacus (算盤). 偷工減料 tau1 gung1 gaam2 liu2 (line 12) = cut corners."}
+  - {ref: 13, topic: culture, text: "生意係長做長有 'business that runs long keeps paying': a merchant's rule against short-term greed. 執笠 'go bust, close down' (P5)."}
+  - {ref: 16, topic: vocab, text: "講價 gong2 gaa3 = haggle; 劈價 pek3 gaa3 'chop the price' = slash a price; 還價 waan4 gaa3 (line 23) = counter-offer. 找數 zaau2 sou3 (line 17) = pay the bill, settle up."}
+  - {ref: 18, topic: vocab, text: "一次過 jat1 ci3 gwo3 = in one go. 盡量 'do one's best'. 一言為定 (line 19) 'it's a deal'. 最多 zeoi3 do1 (line 15) = at most. 不嬲 bat1 lau1 (line 20) = always (up to now): 我不嬲都講唔過你."}
+  - {ref: 23, topic: culture, text: "薑係老嘅辣 'ginger is hottest when old' (薑 goeng1, 老 lou5, 辣 laat6): experience beats youth. 特登 dak6 dang1 (line 21) = on purpose."}
+  - {ref: 1, topic: vs-mandarin, text: "False friend: Cantonese 平 = cheap (Mandarin 便宜); in Mandarin 平 means flat, level. Cantonese 一成 'ten per cent' is also Mandarin, but Mandarin says 打九折 the same way. 漲價 is shared; 劈價 and 找數 are Cantonese only."}
+pron:
+  - {ref: 2, text: "咁滯 gam3 zai6: low level on 滯, like 'almost' trailing off."}
+  - {ref: 3, text: "啲啲 di1 di1, both high level; in quick speech some say dit1 dit1."}
+  - {ref: 13, text: "蝕本 sit6 bun2: 蝕 is sit6 here, not sik6."}
+new_words:
+  - {jyutping: "taan2 baak6", hanzi: 坦白, en: "frank"}
+  - {jyutping: "zoeng3 gaa3", hanzi: 漲價, en: "go up in price"}
+  - {jyutping: "tung1 zoeng3", hanzi: 通脹, en: "inflation"}
+  - {jyutping: "si3 syun3 biu2", hanzi: 試算表, en: "spreadsheet"}
+  - {jyutping: "sing4 bun2", hanzi: 成本, en: "cost(s)"}
+  - {jyutping: "lei6 jeon6", hanzi: 利潤, en: "profit margin"}
+  - {jyutping: "zik6 tau4", hanzi: 直頭, en: "downright, practically"}
+  - {jyutping: "gam3 zai6", hanzi: 咁滯, en: "almost"}
+  - {jyutping: "pai1 faat3", hanzi: 批發, en: "wholesale"}
+  - {jyutping: "soeng1", hanzi: 箱, en: "crate, box"}
+  - {jyutping: "di1 di1", hanzi: 啲啲, en: "a tiny bit"}
+  - {jyutping: "coeng4 kei4", hanzi: 長期, en: "long-term"}
+  - {jyutping: "hap6 zok3", hanzi: 合作, en: "cooperate"}
+  - {jyutping: "dang3", hanzi: 凳, en: "stool"}
+  - {jyutping: "gaau1 cing4", hanzi: 交情, en: "friendship, long ties"}
+  - {jyutping: "jap6 hong4", hanzi: 入行, en: "enter a trade"}
+  - {jyutping: "fun2", hanzi: 款, en: "kind, model, version"}
+  - {jyutping: "fan6 loeng6", hanzi: 份量, en: "quantity, portion"}
+  - {jyutping: "dang2 jyu1", hanzi: 等於, en: "be equal to"}
+  - {jyutping: "sou3 geoi3", hanzi: 數據, en: "data"}
+  - {jyutping: "gan1 loeng2", hanzi: 斤兩, en: "weight"}
+  - {jyutping: "sam1 syun3", hanzi: 心算, en: "mental arithmetic"}
+  - {jyutping: "gong2 gaa3", hanzi: 講價, en: "haggle"}
+  - {jyutping: "tau1 gung1 gaam2 liu2", hanzi: 偷工減料, en: "cut corners"}
+  - {jyutping: "coeng4 zou6 coeng4 jau5", hanzi: 長做長有, en: "long-term business pays"}
+  - {jyutping: "sit6 bun2", hanzi: 蝕本, en: "make a loss"}
+  - {jyutping: "sit6", hanzi: 蝕, en: "lose (money)"}
+  - {jyutping: "zeoi3 do1", hanzi: 最多, en: "at most"}
+  - {jyutping: "saa1 tong4", hanzi: 砂糖, en: "granulated sugar"}
+  - {jyutping: "pek3 gaa3", hanzi: 劈價, en: "slash prices"}
+  - {jyutping: "sit6 dai2", hanzi: 蝕底, en: "lose out, get the worse deal"}
+  - {jyutping: "zaau2 sou3", hanzi: 找數, en: "pay the bill"}
+  - {jyutping: "jat1 ci3 gwo3", hanzi: 一次過, en: "in one go"}
+  - {jyutping: "ling4 tau2", hanzi: 零頭, en: "odd amount, small change"}
+  - {jyutping: "bat1 lau1", hanzi: 不嬲, en: "always (until now)"}
+  - {jyutping: "dak6 dang1", hanzi: 特登, en: "on purpose"}
+  - {jyutping: "goeng1", hanzi: 薑, en: "ginger"}
+  - {jyutping: "lou5", hanzi: 老, en: "old"}
+  - {jyutping: "laat6", hanzi: 辣, en: "hot, spicy"}
+  - {jyutping: "waan4 gaa3", hanzi: 還價, en: "counter-offer"}
+exercises:
+  translate:
+    - {hanzi: "啲菠蘿包賣晒咁滯。", jyutping: "di1 bo1 lo4 baau1 maai6 saai3 gam3 zai6.", en: "The pineapple buns are almost sold out."}
+    - {hanzi: "可唔可以平啲啲？", jyutping: "ho2 m4 ho2 ji5 peng4 di1 di1?", en: "Could you make it a tiny bit cheaper?"}
+    - {hanzi: "佢哋個個月都準時找數。", jyutping: "keoi5 dei6 go3 go3 jyut6 dou1 zeon2 si4 zaau2 sou3.", en: "They pay on time every single month."}
+    - {hanzi: "通脹咁高，成本年年都漲。", jyutping: "tung1 zoeng3 gam3 gou1, sing4 bun2 nin4 nin4 dou1 zoeng3.", en: "With inflation this high, costs go up every year."}
+    - {hanzi: "我唔想蝕底，你最多加半成。", jyutping: "ngo5 m4 soeng2 sit6 dai2, nei5 zeoi3 do1 gaa1 bun3 sing4.", en: "I don't want to lose out; raise it five per cent at most."}
+  fill:
+    - {hanzi: "我攰到瞓得___。", jyutping: "ngo5 gui6 dou3 fan3 dak1 ___.", answer: "gam3 zai6", answer_hanzi: 咁滯, en: "I'm so tired I'm almost asleep."}
+    - {hanzi: "做批發，每箱都係賺___。", jyutping: "zou6 pai1 faat3, mui5 soeng1 dou1 hai6 zaan6 ___.", answer: "di1 di1", answer_hanzi: 啲啲, en: "In wholesale you make a tiny bit on each crate."}
+    - {hanzi: "價錢唔變，份量少咗，___加咗價。", jyutping: "gaa3 cin4 m4 bin3, fan6 loeng6 siu2 zo2, ___ gaa1 zo2 gaa3.", answer: "dang2 jyu1", answer_hanzi: 等於, en: "Same price, smaller quantity: that's the same as a price rise."}
+    - {hanzi: "佢___等我講完先出聲。", jyutping: "keoi5 ___ dang2 ngo5 gong2 jyun4 sin1 ceot1 seng1.", answer: "dak6 dang1", answer_hanzi: 特登, en: "He waited on purpose until I'd finished before he spoke."}
+    - {hanzi: "我___都講唔過佢。", jyutping: "ngo5 ___ dou1 gong2 m4 gwo3 keoi5.", answer: "bat1 lau1", answer_hanzi: 不嬲, en: "I've never been able to out-argue him."}
