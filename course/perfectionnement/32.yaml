@@ -1,0 +1,105 @@
+# 進修 32. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 32
+title: {en: "Drawing a fortune stick at Wong Tai Sin", jyutping: "wong4 daai6 sin1 kau4 cim1", hanzi: "黃大仙求籤"}
+intro: "Hugo tells how he asked the gods about his future: either… or… with 一係…一係, and 'or' in questions with 抑或."
+genre: story
+review: false
+setting: "年初三, Monday 8 February 2027. The third day of the New Year is 赤口, a day for staying away from relatives. Hugo and Hiu-ching take the MTR to Wong Tai Sin Temple in Kowloon, the busiest temple in Hong Kong. Hugo tells the story."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "年初三叫「赤口」，傳統話呢日唔好去拜年，好易嗌交。所以我同曉晴就去咗黃大仙。", jyutping: "nin4 co1 saam1 giu3 \"cek3 hau2\", cyun4 tung2 waa6 ni1 jat6 m4 hou2 heoi3 baai3 nin4, hou2 ji6 aai3 gaau1. so2 ji5 ngo5 tung4 hiu2 cing4 zau6 heoi3 zo2 wong4 daai6 sin1.", en: "The third day of New Year is called 'red mouth'; tradition says you shouldn't pay visits that day, because it's easy to quarrel. So Hiu-ching and I went to Wong Tai Sin."}
+  - {n: 2, speaker: Hugo, hanzi: "一出地鐵站已經人山人海，個個拎住香，啲煙多到我睇唔到前面。", jyutping: "jat1 ceot1 dei6 tit3 zaam6 ji5 ging1 jan4 saan1 jan4 hoi2, go3 go3 ling1 zyu6 hoeng1, di1 jin1 do1 dou3 ngo5 tai2 m4 dou2 cin4 min6.", en: "As soon as we came out of the MTR station there were crowds everywhere, everyone holding incense, and there was so much smoke I couldn't see in front of me."}
+  - {n: 3, speaker: Hiu-ching, hanzi: "黃大仙好靈㗎，有求必應。你想求咩？", jyutping: "wong4 daai6 sin1 hou2 ling4 gaa3, jau5 kau4 bit1 jing3. nei5 soeng2 kau4 me1?", en: "Wong Tai Sin really works, you know: every prayer is answered. What do you want to ask for?"}
+  - {n: 4, speaker: Hugo, hanzi: "求咩好呢？", jyutping: "kau4 me1 hou2 ne1?", en: "What should I ask for?"}
+  - {n: 5, speaker: Hiu-ching, hanzi: "一係求事業，一係求姻緣，唔好兩樣都要。黃大仙好忙㗎。", jyutping: "jat1 hai6 kau4 si6 jip6, jat1 hai6 kau4 jan1 jyun4, m4 hou2 loeng5 joeng6 dou1 jiu3. wong4 daai6 sin1 hou2 mong4 gaa3.", en: "Either you ask about your career or about love; don't ask for both. Wong Tai Sin is very busy."}
+  - {n: 6, speaker: Hugo, hanzi: "咁求事業啦。我份合約做到七月，學校問我續唔續約。我都唔知應該留低，抑或返法國。", jyutping: "gam2 kau4 si6 jip6 laa1. ngo5 fan6 hap6 joek3 zou6 dou3 cat1 jyut6, hok6 haau6 man6 ngo5 zuk6 m4 zuk6 joek3. ngo5 dou1 m4 zi1 jing1 goi1 lau4 dai1, jik1 waak6 faan1 faat3 gwok3.", en: "Career, then. My contract runs until July, and the school has asked whether I'll renew it. I don't know whether I should stay or go back to France."}
+  - {n: 7, speaker: Hugo, hanzi: "我哋先買香、上香，然後跪喺地下。曉晴教我點樣求籤：雙手拎住啲籤，心諗住個問題，一路搖。", jyutping: "ngo5 dei6 sin1 maai5 hoeng1, soeng5 hoeng1, jin4 hau6 gwai6 hai2 dei6 haa2. hiu2 cing4 gaau3 ngo5 dim2 joeng2 kau4 cim1: soeng1 sau2 ling1 zyu6 di1 cim1, sam1 nam2 zyu6 go3 man6 tai4, jat1 lou6 jiu4.", en: "First we bought incense and offered it, then knelt on the ground. Hiu-ching showed me how to draw a stick: hold the sticks in both hands, keep your question in mind, and keep shaking."}
+  - {n: 8, speaker: Hiu-ching, hanzi: "唔好搖得咁大力！搖到有一支籤自己跌出嚟就得。", jyutping: "m4 hou2 jiu4 dak1 gam3 daai6 lik6! jiu4 dou3 jau5 jat1 zi1 cim1 zi6 gei2 dit3 ceot1 lai4 zau6 dak1.", en: "Don't shake so hard! Shake until one stick falls out by itself."}
+  - {n: 9, speaker: Hugo, hanzi: "跌咗兩支出嚟喎……", jyutping: "dit3 zo2 loeng5 zi1 ceot1 lai4 wo3 ……", en: "Two have fallen out…"}
+  - {n: 10, speaker: Hiu-ching, hanzi: "兩支唔得，一係放返入去再搖，一係由頭嚟過。", jyutping: "loeng5 zi1 m4 dak1, jat1 hai6 fong3 faan1 jap6 heoi3 zoi3 jiu4, jat1 hai6 jau4 tau4 lai4 gwo3.", en: "Two doesn't count: either put them back and shake again, or start again from the beginning."}
+  - {n: 11, speaker: Hugo, hanzi: "搖咗好耐，終於跌咗一支出嚟：第四十八籤。我哋拎住支籤，去搵解籤嘅師傅。", jyutping: "jiu4 zo2 hou2 noi6, zung1 jyu1 dit3 zo2 jat1 zi1 ceot1 lai4: dai6 sei3 sap6 baat3 cim1. ngo5 dei6 ling1 zyu6 zi1 cim1, heoi3 wan2 gaai2 cim1 ge3 si1 fu2.", en: "After shaking for ages, one finally fell out: stick number forty-eight. We took it to find a master who interprets the sticks."}
+  - {n: 12, speaker: Master, hanzi: "第四十八籤……唔算好，又唔算差。你問乜嘢？事業，抑或姻緣？", jyutping: "dai6 sei3 sap6 baat3 cim1 …… m4 syun3 hou2, jau6 m4 syun3 caa1. nei5 man6 mat1 je5? si6 jip6, jik1 waak6 jan1 jyun4?", en: "Number forty-eight… neither good nor bad. What did you ask about? Career, or love?"}
+  - {n: 13, speaker: Hugo, hanzi: "前途。我應該留喺香港，抑或返法國？", jyutping: "cin4 tou4. ngo5 jing1 goi1 lau4 hai2 hoeng1 gong2, jik1 waak6 faan1 faat3 gwok3?", en: "My future. Should I stay in Hong Kong, or go back to France?"}
+  - {n: 14, speaker: Master, hanzi: "呢首詩講一個人喺兩個地方之間，兩頭唔到岸。", jyutping: "ni1 sau2 si1 gong2 jat1 go3 jan4 hai2 loeng5 go3 dei6 fong1 zi1 gaan1, loeng5 tau4 m4 dou3 ngon6.", en: "This poem is about a man between two places, unable to reach either shore."}
+  - {n: 15, speaker: Hugo, hanzi: "咁即係點呀？留，定係走？", jyutping: "gam2 zik1 hai6 dim2 aa3? lau4, ding6 hai6 zau2?", en: "So what does that mean? Stay, or leave?"}
+  - {n: 16, speaker: Master, hanzi: "遲早要揀。你一係企喺度諗一世，一係跟住個心走。", jyutping: "ci4 zou2 jiu3 gaan2. nei5 jat1 hai6 kei5 hai2 dou6 nam2 jat1 sai3, jat1 hai6 gan1 zyu6 go3 sam1 zau2.", en: "Sooner or later you have to choose. Either you stand there thinking all your life, or you follow your heart."}
+  - {n: 17, speaker: Hiu-ching, hanzi: "師傅，可唔可以講清楚啲？佢屬豬，今年有冇犯太歲？", jyutping: "si1 fu2, ho2 m4 ho2 ji5 gong2 cing1 co2 di1? keoi5 suk6 zyu1, gam1 nin4 jau5 mou5 faan6 taai3 seoi3?", en: "Master, could you be a bit clearer? He's a Pig; does he clash with the year's god this year?"}
+  - {n: 18, speaker: Master, hanzi: "屬豬今年冇犯太歲，運程唔錯。仲有，佢有貴人，喺海邊。", jyutping: "suk6 zyu1 gam1 nin4 mou5 faan6 taai3 seoi3, wan6 cing4 m4 co3. zung6 jau5, keoi5 jau5 gwai3 jan4, hai2 hoi2 bin1.", en: "Pigs don't clash this year; his luck is good. And there's someone who'll help him, by the sea."}
+  - {n: 19, speaker: Hugo, hanzi: "海邊？香港邊度唔係海邊？", jyutping: "hoi2 bin1? hoeng1 gong2 bin1 dou6 m4 hai6 hoi2 bin1?", en: "By the sea? Where in Hong Kong isn't by the sea?"}
+  - {n: 20, speaker: Master, hanzi: "嗱，運氣呢樣嘢，信就有，唔信就冇。一百蚊，多謝。", jyutping: "naa4, wan6 hei3 ni1 joeng6 je5, seon3 zau6 jau5, m4 seon3 zau6 mou5. jat1 baak3 man1, do1 ze6.", en: "Look, luck is like this: believe and it's there, don't believe and it isn't. A hundred dollars, thank you."}
+  - {n: 21, speaker: Hugo, hanzi: "行出嚟，我話佢講得咁模糊，點解都得。", jyutping: "haang4 ceot1 lai4, ngo5 waa6 keoi5 gong2 dak1 gam3 mou4 wu4, dim2 gaai2 dou1 dak1.", en: "On the way out, I said he'd been so vague that any interpretation would work."}
+  - {n: 22, speaker: Hiu-ching, hanzi: "我覺得佢講得好準。我屋企喺長洲，一出門口就係海。", jyutping: "ngo5 gok3 dak1 keoi5 gong2 dak1 hou2 zeon2. ngo5 uk1 kei2 hai2 coeng4 zau1, jat1 ceot1 mun4 hau2 zau6 hai6 hoi2.", en: "I think he was spot on. My home is on Cheung Chau: step out of the door and there's the sea."}
+  - {n: 23, speaker: Hugo, hanzi: "你頭先跪喺度咁耐，係咪求咗姻緣？", jyutping: "nei5 tau4 sin1 gwai6 hai2 dou6 gam3 noi6, hai6 mai6 kau4 zo2 jan1 jyun4?", en: "You were kneeling there for ages just now: did you ask about love?"}
+  - {n: 24, speaker: Hiu-ching, hanzi: "唔話你知。如果將來心願實現，我哋要一齊返嚟還神。", jyutping: "m4 waa6 nei5 zi1. jyu4 gwo2 zoeng1 loi4 sam1 jyun6 sat6 jin6, ngo5 dei6 jiu3 jat1 cai4 faan1 lai4 waan4 san4.", en: "Not telling. If my wish comes true one day, we'll have to come back together to thank the god."}
+  - {n: 25, speaker: Hugo, hanzi: "我對支籤半信半疑，但係我好樂觀。點知啱啱行到地鐵站，嘉欣就打電話嚟，喊住講：「阿爸喺舖頭暈咗！」", jyutping: "ngo5 deoi3 zi1 cim1 bun3 seon3 bun3 ji4, daan6 hai6 ngo5 hou2 lok6 gun1. dim2 zi1 ngaam1 ngaam1 haang4 dou3 dei6 tit3 zaam6, gaa1 jan1 zau6 daa2 din6 waa2 lai4, haam3 zyu6 gong2: \"aa3 baa4 hai2 pou3 tau2 wan4 zo2!\"", en: "I half believed the stick, but I was very optimistic. Then, just as we reached the MTR station, Kayan phoned, crying: 'Dad has collapsed in the shop!'"}
+notes:
+  - {ref: 1, topic: culture, text: "赤口 cek3 hau2 'red mouth': the third day of New Year, said to bring quarrels, so people avoid visiting and go to temples instead. 黃大仙 wong4 daai6 sin1 = Wong Tai Sin, a Taoist immortal, and the temple and district named after him."}
+  - {ref: 2, topic: vocab, text: "人山人海 jan4 saan1 jan4 hoi2 'mountains and seas of people' = huge crowds. 煙 jin1 = smoke (also cigarettes). 多到… 'so many that…' (degree with 到, P26)."}
+  - {ref: 3, topic: vocab, text: "靈 ling4 = (of a god or charm) efficacious, that works: 好靈. 有求必應 jau5 kau4 bit1 jing3 'every request is answered', said of a god. 求 'ask for, pray for' (P2): 求事業, 求姻緣, 求籤."}
+  - {ref: 5, topic: grammar, text: "一係 A，一係 B jat1 hai6 = either A or B: 一係求事業，一係求姻緣. Also on its own in suggestions, 'or else, alternatively': 一係我哋聽日再嚟. 事業 si6 jip6 = career; 姻緣 jan1 jyun4 = love, the fate that brings a couple together."}
+  - {ref: 6, topic: grammar, text: "抑或 jik1 waak6 = or, in questions offering a choice: 留低，抑或返法國？. Same job as 定係 (P8), a little more careful in tone; in statements use 或者 (P10). 合約 hap6 joek3 = contract; 續約 zuk6 joek3 = renew a contract: 續唔續約 'renew or not' (V-唔-V splits a VO compound, P22)."}
+  - {ref: 7, topic: culture, text: "求籤 kau4 cim1 = draw a fortune stick: you offer incense (上香 soeng5 hoeng1), kneel (跪 gwai6), shake (搖 jiu4) a bamboo cup of numbered sticks (籤 cim1) until one falls out, then take the number to a reader who interprets it (解籤 gaai2 cim1). 解 gaai2 = explain, interpret."}
+  - {ref: 10, topic: vocab, text: "由頭嚟過 'start again from the beginning'. 放返入去 'put back in'."}
+  - {ref: 11, topic: vocab, text: "師傅 si1 fu2 = master: a polite way to address a craftsman, driver, cook or fortune-teller. Each stick has a poem (詩 si1); its number is read 第四十八籤."}
+  - {ref: 13, topic: vocab, text: "前途 cin4 tou4 = future prospects (of a person, a career, a city). 將來 zoeng1 loi4 (line 24) = the future, in the future: 如果將來…"}
+  - {ref: 14, topic: vocab, text: "…之間 zi1 gaan1 = between: 兩個地方之間. 兩頭唔到岸 loeng5 tau4 m4 dou3 ngon6 'reach neither shore' = stuck between two choices, belonging to neither. 遲早 ci4 zou2 (line 16) = sooner or later."}
+  - {ref: 17, topic: culture, text: "生肖: each year has an animal; 屬 suk6 = be born in the year of: 佢屬豬 'he's a Pig'. 太歲 taai3 seoi3 is the god of the year; 犯太歲 faan6 taai3 seoi3 'offend the year's god' means a bad year for some signs, and people go to temples to make offerings. 2027 is the Goat; Pigs are fine. 運程 wan6 cing4 = fortune for the year. 貴人 gwai3 jan4 = someone who helps you at a key moment."}
+  - {ref: 21, topic: vocab, text: "模糊 mou4 wu4 = vague, blurry. 準 zeon2 (line 22) = accurate: 講得好準 'spot on'."}
+  - {ref: 24, topic: culture, text: "心願 sam1 jyun6 = a wish; 實現 sat6 jin6 = come true, realise. 還神 waan4 san4 = go back to thank a god when your wish is granted. 半信半疑 bun3 seon3 bun3 ji4 (line 25) 'half believing, half doubting'; 樂觀 lok6 gun1 = optimistic."}
+  - {ref: 6, topic: vs-mandarin, text: "抑或 = Mandarin 還是 in questions: 你留下還是回法國？. Cantonese 一係…一係 = Mandarin 要麼…要麼 / 或者…或者. 搖 and 跪 are shared."}
+pron:
+  - {ref: 6, text: "抑或 jik1 waak6: 抑 is jik1, not ngik1 or jap1."}
+  - {ref: 11, text: "師傅 si1 fu2: 傅 rises to fu2 in this word."}
+  - {ref: 17, text: "屬 'be born in the year of' is suk6; 豬 'pig' is zyu1, high level."}
+new_words:
+  - {jyutping: "wong4 daai6 sin1", hanzi: 黃大仙, en: "Wong Tai Sin (temple, district)"}
+  - {jyutping: "cek3 hau2", hanzi: 赤口, en: "'red mouth', 3rd day of New Year"}
+  - {jyutping: "jan4 saan1 jan4 hoi2", hanzi: 人山人海, en: "huge crowds"}
+  - {jyutping: "jin1", hanzi: 煙, en: "smoke; cigarette"}
+  - {jyutping: "ling4", hanzi: 靈, en: "efficacious (of a god)"}
+  - {jyutping: "jau5 kau4 bit1 jing3", hanzi: 有求必應, en: "every prayer is answered"}
+  - {jyutping: "jat1 hai6", hanzi: 一係, en: "either… or; or else"}
+  - {jyutping: "si6 jip6", hanzi: 事業, en: "career"}
+  - {jyutping: "jan1 jyun4", hanzi: 姻緣, en: "love, marriage fate"}
+  - {jyutping: "hap6 joek3", hanzi: 合約, en: "contract"}
+  - {jyutping: "zuk6 joek3", hanzi: 續約, en: "renew a contract"}
+  - {jyutping: "jik1 waak6", hanzi: 抑或, en: "or (in questions)"}
+  - {jyutping: "soeng5 hoeng1", hanzi: 上香, en: "offer incense"}
+  - {jyutping: "gwai6", hanzi: 跪, en: "kneel"}
+  - {jyutping: "kau4 cim1", hanzi: 求籤, en: "draw a fortune stick"}
+  - {jyutping: "cim1", hanzi: 籤, en: "fortune stick"}
+  - {jyutping: "jiu4", hanzi: 搖, en: "shake"}
+  - {jyutping: "gaai2 cim1", hanzi: 解籤, en: "interpret a fortune stick"}
+  - {jyutping: "gaai2", hanzi: 解, en: "explain, interpret"}
+  - {jyutping: "si1 fu2", hanzi: 師傅, en: "master (polite address)"}
+  - {jyutping: "si1", hanzi: 詩, en: "poem"}
+  - {jyutping: "cin4 tou4", hanzi: 前途, en: "future prospects"}
+  - {jyutping: "loeng5 tau4 m4 dou3 ngon6", hanzi: 兩頭唔到岸, en: "stuck between two sides"}
+  - {jyutping: "ci4 zou2", hanzi: 遲早, en: "sooner or later"}
+  - {jyutping: "suk6", hanzi: 屬, en: "be born in the year of"}
+  - {jyutping: "zyu1", hanzi: 豬, en: "pig"}
+  - {jyutping: "faan6 taai3 seoi3", hanzi: 犯太歲, en: "clash with the year's god"}
+  - {jyutping: "taai3 seoi3", hanzi: 太歲, en: "god of the year"}
+  - {jyutping: "wan6 cing4", hanzi: 運程, en: "fortune for the year"}
+  - {jyutping: "gwai3 jan4", hanzi: 貴人, en: "benefactor, helper"}
+  - {jyutping: "mou4 wu4", hanzi: 模糊, en: "vague, blurry"}
+  - {jyutping: "zeon2", hanzi: 準, en: "accurate"}
+  - {jyutping: "zi1 gaan1", hanzi: 之間, en: "between"}
+  - {jyutping: "zoeng1 loi4", hanzi: 將來, en: "the future"}
+  - {jyutping: "sam1 jyun6", hanzi: 心願, en: "wish"}
+  - {jyutping: "sat6 jin6", hanzi: 實現, en: "come true, realise"}
+  - {jyutping: "waan4 san4", hanzi: 還神, en: "thank a god for a granted wish"}
+  - {jyutping: "bun3 seon3 bun3 ji4", hanzi: 半信半疑, en: "half believing"}
+  - {jyutping: "lok6 gun1", hanzi: 樂觀, en: "optimistic"}
+exercises:
+  translate:
+    - {hanzi: "你一係今日續約，一係下個月搬走。", jyutping: "nei5 jat1 hai6 gam1 jat6 zuk6 joek3, jat1 hai6 haa6 go3 jyut6 bun1 zau2.", en: "Either you renew the contract today, or you move out next month."}
+    - {hanzi: "你想飲咖啡，抑或飲茶？", jyutping: "nei5 soeng2 jam2 gaa3 fe1, jik1 waak6 jam2 caa4?", en: "Would you like coffee, or tea?"}
+    - {hanzi: "年初三黃大仙人山人海。", jyutping: "nin4 co1 saam1 wong4 daai6 sin1 jan4 saan1 jan4 hoi2.", en: "On the third day of New Year, Wong Tai Sin is packed."}
+    - {hanzi: "佢講得好模糊，我半信半疑。", jyutping: "keoi5 gong2 dak1 hou2 mou4 wu4, ngo5 bun3 seon3 bun3 ji4.", en: "What he said was very vague; I half believe it."}
+    - {hanzi: "遲早要揀，唔可以成世兩頭唔到岸。", jyutping: "ci4 zou2 jiu3 gaan2, m4 ho2 ji5 seng4 sai3 loeng5 tau4 m4 dou3 ngon6.", en: "Sooner or later you have to choose; you can't spend your whole life stuck between two sides."}
+  fill:
+    - {hanzi: "___我哋聽日再嚟，今日太多人。", jyutping: "___ ngo5 dei6 ting1 jat6 zoi3 lai4, gam1 jat6 taai3 do1 jan4.", answer: "jat1 hai6", answer_hanzi: 一係, en: "Or else let's come again tomorrow; there are too many people today."}
+    - {hanzi: "你問事業，___姻緣？", jyutping: "nei5 man6 si6 jip6, ___ jan1 jyun4?", answer: "jik1 waak6", answer_hanzi: 抑或, en: "Are you asking about your career, or about love?"}
+    - {hanzi: "跪低，雙手拎住啲籤，一路___。", jyutping: "gwai6 dai1, soeng1 sau2 ling1 zyu6 di1 cim1, jat1 lou6 ___.", answer: "jiu4", answer_hanzi: 搖, en: "Kneel down, hold the sticks in both hands, and keep shaking."}
+    - {hanzi: "我屬豬，今年冇___。", jyutping: "ngo5 suk6 zyu1, gam1 nin4 mou5 ___.", answer: "faan6 taai3 seoi3", answer_hanzi: 犯太歲, en: "I'm a Pig; I don't clash with the year's god this year."}
+    - {hanzi: "如果心願___，就要返嚟還神。", jyutping: "jyu4 gwo2 sam1 jyun6 ___, zau6 jiu3 faan1 lai4 waan4 san4.", answer: "sat6 jin6", answer_hanzi: 實現, en: "If your wish comes true, you have to come back and thank the god."}

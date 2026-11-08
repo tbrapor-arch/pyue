@@ -1,0 +1,96 @@
+# 進修 30. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 30
+title: {en: "New Year scrolls", jyutping: "fai1 ceon1", hanzi: "揮春"}
+intro: "Who gets which New Year wish: set phrases for every kind of person, and two endings that carry an action on, 起上嚟 and 落去."
+genre: document
+review: false
+setting: "The day before New Year's Eve, early February 2027, the start of the Year of the Goat. 梁伯 is writing red New Year scrolls (揮春) with a brush at the counter. Kayan has made Hugo a list of the wishes and who to give them to, with her own notes."
+dialogue:
+  - {n: 1, speaker: List, hanzi: "梁記新年揮春清單（嘉欣整理）", jyutping: "loeng4 gei3 san1 nin4 fai1 ceon1 cing1 daan1 (gaa1 jan1 zing2 lei5)", en: "Leung Kee New Year scroll list (compiled by Kayan)"}
+  - {n: 2, speaker: Kayan, hanzi: "阿果話佢唔識新年講咩，我就寫低呢張清單。揮春係紅色嘅紙，寫住吉祥說話，貼喺門口同牆上面。", jyutping: "aa3 gwo2 waa6 keoi5 m4 sik1 san1 nin4 gong2 me1, ngo5 zau6 se2 dai1 ni1 zoeng1 cing1 daan1. fai1 ceon1 hai6 hung4 sik1 ge3 zi2, se2 zyu6 gat1 coeng4 syut3 waa6, tip3 hai2 mun4 hau2 tung4 coeng4 soeng6 min6.", en: "A-Gwo says he doesn't know what to say at New Year, so I've written this list. 揮春 are red papers with lucky words written on them, stuck by the door and on the walls."}
+  - {n: 3, speaker: List, hanzi: "恭喜發財", jyutping: "gung1 hei2 faat3 coi4", en: "Congratulations and be prosperous"}
+  - {n: 4, speaker: Kayan, hanzi: "人人都講得。細路講完，就會伸手攞利是。", jyutping: "jan4 jan4 dou1 gong2 dak1. sai3 lou6 gong2 jyun4, zau6 wui5 san1 sau2 lo2 lai6 si6.", en: "Anyone can say it. When kids say it, they hold out their hands for a red packet."}
+  - {n: 5, speaker: List, hanzi: "身體健康", jyutping: "san1 tai2 gin6 hong1", en: "Good health"}
+  - {n: 6, speaker: Kayan, hanzi: "俾老人家，例如我阿爸。佢最近成日頭暈，今年呢張我要貼大張啲。", jyutping: "bei2 lou5 jan4 gaa1, lai6 jyu4 ngo5 aa3 baa4. keoi5 zeoi3 gan6 sing4 jat6 tau4 wan4, gam1 nin4 ni1 zoeng1 ngo5 jiu3 tip3 daai6 zoeng1 di1.", en: "For older people, like my dad. He's been dizzy a lot lately; this year I'm putting up a bigger one."}
+  - {n: 7, speaker: List, hanzi: "生意興隆", jyutping: "saang1 ji3 hing1 lung4", en: "Thriving business"}
+  - {n: 8, speaker: Kayan, hanzi: "貼喺梁記門口。今年租貴咗，呢四個字要寫大啲、紅啲。", jyutping: "tip3 hai2 loeng4 gei3 mun4 hau2. gam1 nin4 zou1 gwai3 zo2, ni1 sei3 go3 zi6 jiu3 se2 daai6 di1, hung4 di1.", en: "On Leung Kee's door. The rent's gone up this year; these four characters need to be bigger and redder."}
+  - {n: 9, speaker: List, hanzi: "學業進步", jyutping: "hok6 jip6 zeon3 bou6", en: "Progress in your studies"}
+  - {n: 10, speaker: Kayan, hanzi: "俾學生，例如樂仔、阿詩。樂仔話佢唔要「進步」，佢要「成績第一」。", jyutping: "bei2 hok6 saang1, lai6 jyu4 lok6 zai2, aa3 si1. lok6 zai2 waa6 keoi5 m4 jiu3 \"zeon3 bou6\", keoi5 jiu3 \"sing4 zik1 dai6 jat1\".", en: "For students, like Lok-zai and Si. Lok-zai says he doesn't want 'progress', he wants 'top marks'."}
+  - {n: 11, speaker: List, hanzi: "龍馬精神", jyutping: "lung4 maa5 zing1 san4", en: "The vigour of a dragon-horse"}
+  - {n: 12, speaker: Kayan, hanzi: "都係俾老人家，祝佢哋好似龍同馬咁有精神。阿爸收到呢句最開心，因為佢鍾意馬。", jyutping: "dou1 hai6 bei2 lou5 jan4 gaa1, zuk1 keoi5 dei6 hou2 ci5 lung4 tung4 maa5 gam3 jau5 zing1 san4. aa3 baa4 sau1 dou2 ni1 geoi3 zeoi3 hoi1 sam1, jan1 wai6 keoi5 zung1 ji3 maa5.", en: "Also for older people, wishing them the energy of a dragon and a horse. Dad likes this one best, because he loves horses."}
+  - {n: 13, speaker: List, hanzi: "青春常駐", jyutping: "cing1 ceon1 soeng4 zyu3", en: "Eternal youth"}
+  - {n: 14, speaker: Kayan, hanzi: "俾女士。千祈唔好同蓮姐講「身體健康」，佢會話你嫌佢老。", jyutping: "bei2 neoi5 si6. cin1 kei4 m4 hou2 tung4 lin4 ze2 gong2 \"san1 tai2 gin6 hong1\", keoi5 wui5 waa6 nei5 jim4 keoi5 lou5.", en: "For women. Whatever you do, don't say 'good health' to Lin-ze: she'll say you think she's old."}
+  - {n: 15, speaker: List, hanzi: "心想事成　萬事如意", jyutping: "sam1 soeng2 si6 sing4 maan6 si6 jyu4 ji3", en: "May your wishes come true; may all go as you wish"}
+  - {n: 16, speaker: Kayan, hanzi: "乜人都啱用。如果唔知講咩，講呢兩句就最安全。", jyutping: "mat1 jan4 dou1 ngaam1 jung6. jyu4 gwo2 m4 zi1 gong2 me1, gong2 ni1 loeng5 geoi3 zau6 zeoi3 on1 cyun4.", en: "These suit anybody. If you don't know what to say, these two are the safest."}
+  - {n: 17, speaker: List, hanzi: "步步高陞", jyutping: "bou6 bou6 gou1 sing1", en: "Rise step by step"}
+  - {n: 18, speaker: Kayan, hanzi: "俾返工嘅人，祝佢升職。不過唔好同阿果講，佢啱啱辭咗職。", jyutping: "bei2 faan1 gung1 ge3 jan4, zuk1 keoi5 sing1 zik1. bat1 gwo3 m4 hou2 tung4 aa3 gwo2 gong2, keoi5 ngaam1 ngaam1 ci4 zo2 zik1.", en: "For people with jobs, wishing them promotion. But don't say it to A-Gwo; he's only just quit his job."}
+  - {n: 19, speaker: List, hanzi: "福（倒轉貼）", jyutping: "fuk1 (dou3 zyun3 tip3)", en: "Fortune (stuck upside down)"}
+  - {n: 20, speaker: Kayan, hanzi: "「福」字要倒轉貼，因為「倒」同「到」讀音一樣：「福倒」即係「福到」，福氣到咗嚟。", jyutping: "\"fuk1\" zi6 jiu3 dou3 zyun3 tip3, jan1 wai6 \"dou3\" tung4 \"dou3\" duk6 jam1 jat1 joeng6: \"fuk1 dou3\" zik1 hai6 \"fuk1 dou3\", fuk1 hei3 dou3 zo2 lai4.", en: "The character 'fortune' goes upside down, because 'upside down' and 'arrive' are pronounced the same: 'fortune upside down' means 'fortune has arrived'."}
+  - {n: 21, speaker: Kayan, hanzi: "今年係羊年。阿爸寫起揮春上嚟，成個人精神晒，好似唔記得咗頭暈。", jyutping: "gam1 nin4 hai6 joeng4 nin4. aa3 baa4 se2 hei2 fai1 ceon1 soeng5 lai4, seng4 go3 jan4 zing1 san4 saai3, hou2 ci5 m4 gei3 dak1 zo2 tau4 wan4.", en: "This year is the Year of the Goat. Once Dad gets going on the scrolls, he perks right up, as if he's forgotten about his dizzy spells."}
+  - {n: 22, speaker: Kayan, hanzi: "佢話：「梁記開得一年，我就寫一年。間舖開得落去，我就寫落去。」", jyutping: "keoi5 waa6: \"loeng4 gei3 hoi1 dak1 jat1 nin4, ngo5 zau6 se2 jat1 nin4. gaan1 pou3 hoi1 dak1 lok6 heoi3, ngo5 zau6 se2 lok6 heoi3.\"", en: "He says: 'As long as Leung Kee stays open another year, I'll write another year. As long as the shop keeps going, I'll keep writing.'"}
+  - {n: 23, speaker: Kayan, hanzi: "阿果，你就寫張「出入平安」俾曉晴啦：佢日日搭船，最需要。", jyutping: "aa3 gwo2, nei5 zau6 se2 zoeng1 \"ceot1 jap6 ping4 on1\" bei2 hiu2 cing4 laa1: keoi5 jat6 jat6 daap3 syun4, zeoi3 seoi1 jiu3.", en: "A-Gwo, you write 'safe comings and goings' for Hiu-ching: she takes the ferry every day; she needs it most."}
+  - {n: 24, speaker: Kayan, hanzi: "PS：蓮姐叫我加多句：新年唔好講「死」同「輸」，連書都唔好送，因為「書」同「輸」讀音一樣。", jyutping: "PS: lin4 ze2 giu3 ngo5 gaa1 do1 geoi3: san1 nin4 m4 hou2 gong2 \"sei2\" tung4 \"syu1\", lin4 syu1 dou1 m4 hou2 sung3, jan1 wai6 \"syu1\" tung4 \"syu1\" duk6 jam1 jat1 joeng6.", en: "PS: Lin-ze told me to add a line: at New Year don't say 'die' or 'lose', and don't even give books, because 'book' and 'lose' are pronounced the same."}
+notes:
+  - {ref: 1, topic: vocab, text: "揮春 fai1 ceon1 = New Year scrolls: red paper with four-character wishes, written with a brush (毛筆 mou4 bat1). 清單 cing1 daan1 = list. 整理 zing2 lei5 = compile, sort out, tidy."}
+  - {ref: 2, topic: vocab, text: "吉祥 gat1 coeng4 = auspicious, lucky: 吉祥說話 'lucky words'. 貼 tip3 = stick, post up. 牆 coeng4 = wall."}
+  - {ref: 4, topic: culture, text: "利是 lai6 si6 = a red packet of money, given by married people to children and unmarried adults at New Year (P31). 伸手 san1 sau2 = hold out one's hand. 細路 'kids'."}
+  - {ref: 5, topic: register, text: "New Year wishes are four-character set phrases in written style, said aloud in Cantonese: 身體健康 san1 tai2 gin6 hong1 'good health'. Match the wish to the person: you'd wish health to the old, progress to students, business to shopkeepers."}
+  - {ref: 7, topic: vocab, text: "生意興隆 saang1 ji3 hing1 lung4 'thriving business': 興 hing1 = flourish, 興隆 = prosperous."}
+  - {ref: 9, topic: vocab, text: "學業 hok6 jip6 = studies, schoolwork; 進步 = progress. 成績 sing4 zik1 (line 10) = results, grades: 成績第一 'top of the class'."}
+  - {ref: 11, topic: culture, text: "龍馬精神 lung4 maa5 zing1 san4 'the spirit of a dragon-horse' = full of vigour, said to older people. 祝 'wish': 祝佢哋… 'wishing them …'."}
+  - {ref: 13, topic: culture, text: "青春常駐 cing1 ceon1 soeng4 zyu3 'may youth stay with you' is for women. 女士 neoi5 si6 = woman, lady (polite). 嫌 jim4 = find fault with, think someone is too …: 嫌佢老 'think she's old'. 千祈 (P10 exercise) 'whatever you do'."}
+  - {ref: 15, topic: vocab, text: "心想事成 sam1 soeng2 si6 sing4 'may your wishes come true' and 萬事如意 maan6 si6 jyu4 ji3 'may everything go as you wish' are the all-purpose wishes. 安全 'safe' (line 16)."}
+  - {ref: 18, topic: vocab, text: "步步高陞 bou6 bou6 gou1 sing1 (line 17) 'rise step by step': for people with careers. 升職 sing1 zik1 = be promoted."}
+  - {ref: 20, topic: culture, text: "倒轉 dou3 zyun3 = upside down. The 福 'fortune' scroll is hung upside down because 倒 dou3 'upside down' sounds like 到 dou3 'arrive': 福倒 = 福到 'fortune has come'. 福氣 fuk1 hei3 = good fortune, blessings."}
+  - {ref: 21, topic: grammar, text: "V 起 (object) 上嚟 'once (he) starts V-ing' (P11): 寫起揮春上嚟 'once he gets going on the scrolls'. 精神晒 'perks right up' (精神, P3; 晒 'completely'). 羊年 joeng4 nin4 = the Year of the Goat (2027)."}
+  - {ref: 22, topic: grammar, text: "落去 lok6 heoi3 after a verb = carry on V-ing: 寫落去 'keep writing', 開得落去 'can keep going' (with potential 得, P4). It's the opposite of 起上嚟 'start'."}
+  - {ref: 23, topic: culture, text: "出入平安 ceot1 jap6 ping4 on1 'safe comings and goings': often stuck on doors and in cars and boats. 需要 'need'."}
+  - {ref: 24, topic: vs-mandarin, text: "The puns are Cantonese: 書 syu1 'book' = 輸 syu1 'lose' (Mandarin shū / shū, also a pun there); 倒 / 到 dou3 (Mandarin dào / dào, the same pun). The set wishes are shared with Mandarin, but read with Cantonese sounds: 恭喜發財 gung1 hei2 faat3 coi4 ↔ gōngxǐ fācái."}
+pron:
+  - {ref: 3, text: "恭喜發財 gung1 hei2 faat3 coi4: 喜 is hei2, rising."}
+  - {ref: 13, text: "青春常駐 cing1 ceon1 soeng4 zyu3: 駐 is zyu3."}
+  - {ref: 17, text: "步步高陞 bou6 bou6 gou1 sing1: 陞 'rise' is sing1, like 升."}
+new_words:
+  - {jyutping: "fai1 ceon1", hanzi: 揮春, en: "New Year scroll"}
+  - {jyutping: "cing1 daan1", hanzi: 清單, en: "list"}
+  - {jyutping: "zing2 lei5", hanzi: 整理, en: "compile, tidy"}
+  - {jyutping: "gat1 coeng4", hanzi: 吉祥, en: "auspicious"}
+  - {jyutping: "coeng4", hanzi: 牆, en: "wall"}
+  - {jyutping: "san1 sau2", hanzi: 伸手, en: "hold out one's hand"}
+  - {jyutping: "lai6 si6", hanzi: 利是, en: "red packet"}
+  - {jyutping: "san1 tai2 gin6 hong1", hanzi: 身體健康, en: "good health (wish)"}
+  - {jyutping: "saang1 ji3 hing1 lung4", hanzi: 生意興隆, en: "thriving business (wish)"}
+  - {jyutping: "hing1 lung4", hanzi: 興隆, en: "prosperous"}
+  - {jyutping: "hok6 jip6", hanzi: 學業, en: "studies"}
+  - {jyutping: "sing4 zik1", hanzi: 成績, en: "results, grades"}
+  - {jyutping: "lung4 maa5 zing1 san4", hanzi: 龍馬精神, en: "vigour (wish for elders)"}
+  - {jyutping: "cing1 ceon1", hanzi: 青春, en: "youth"}
+  - {jyutping: "se2 dai1", hanzi: 寫低, en: "write down"}
+  - {jyutping: "sau1 dou2", hanzi: 收到, en: "receive"}
+  - {jyutping: "neoi5 si6", hanzi: 女士, en: "lady, woman"}
+  - {jyutping: "jim4", hanzi: 嫌, en: "find fault with"}
+  - {jyutping: "sam1 soeng2 si6 sing4", hanzi: 心想事成, en: "may your wishes come true"}
+  - {jyutping: "maan6 si6 jyu4 ji3", hanzi: 萬事如意, en: "may all go as you wish"}
+  - {jyutping: "sing1 zik1", hanzi: 升職, en: "be promoted"}
+  - {jyutping: "dou3 zyun3", hanzi: 倒轉, en: "upside down"}
+  - {jyutping: "ceot1 jap6 ping4 on1", hanzi: 出入平安, en: "safe comings and goings (wish)"}
+  - {jyutping: "fuk1 hei3", hanzi: 福氣, en: "good fortune"}
+  - {jyutping: "mou4 bat1", hanzi: 毛筆, en: "writing brush"}
+  - {jyutping: "fuk1", hanzi: 福, en: "fortune, blessing"}
+  - {jyutping: "lung4", hanzi: 龍, en: "dragon"}
+  - {jyutping: "hung4 sik1", hanzi: 紅色, en: "red"}
+  - {jyutping: "joeng4", hanzi: 羊, en: "goat, sheep"}
+  - {jyutping: "zi2", hanzi: 紙, en: "paper"}
+exercises:
+  translate:
+    - {hanzi: "佢講起話上嚟，成個鐘都唔停。", jyutping: "keoi5 gong2 hei2 waa2 soeng5 lai4, seng4 go3 zung1 dou1 m4 ting4.", en: "Once she starts talking, she doesn't stop for an hour."}
+    - {hanzi: "唔好停，繼續講落去。", jyutping: "m4 hou2 ting4, gai3 zuk6 gong2 lok6 heoi3.", en: "Don't stop, carry on talking."}
+    - {hanzi: "祝你新年快樂，身體健康！", jyutping: "zuk1 nei5 san1 nin4 faai3 lok6, san1 tai2 gin6 hong1!", en: "Happy New Year, and good health to you!"}
+    - {hanzi: "細路講完恭喜發財，就伸手攞利是。", jyutping: "sai3 lou6 gong2 jyun4 gung1 hei2 faat3 coi4, zau6 san1 sau2 lo2 lai6 si6.", en: "The kids say 'gung hei fat choi' and then hold out their hands for red packets."}
+    - {hanzi: "樂仔今年成績好好，學業進步。", jyutping: "lok6 zai2 gam1 nin4 sing4 zik1 hou2 hou2, hok6 jip6 zeon3 bou6.", en: "Lok-zai's results are very good this year: real progress in his studies."}
+  fill:
+    - {hanzi: "阿爸寫___揮春___，成個人精神晒。", jyutping: "aa3 baa4 se2 ___ fai1 ceon1 ___, seng4 go3 jan4 zing1 san4 saai3.", answer: "hei2 / soeng5 lai4", answer_hanzi: 起 / 上嚟, en: "Once Dad gets going on the scrolls, he perks right up."}
+    - {hanzi: "間舖開得___，我就寫___。", jyutping: "gaan1 pou3 hoi1 dak1 ___, ngo5 zau6 se2 ___.", answer: "lok6 heoi3 / lok6 heoi3", answer_hanzi: 落去 / 落去, en: "As long as the shop keeps going, I'll keep writing."}
+    - {hanzi: "「福」字要___貼。", jyutping: "\"fuk1\" zi6 jiu3 ___ tip3.", answer: "dou3 zyun3", answer_hanzi: 倒轉, en: "The character 'fortune' goes upside down."}
+    - {hanzi: "千祈唔好___佢老。", jyutping: "cin1 kei4 m4 hou2 ___ keoi5 lou5.", answer: "jim4", answer_hanzi: 嫌, en: "Whatever you do, don't suggest she's old."}
+    - {hanzi: "唔知講咩，講「___」就最安全。", jyutping: "m4 zi1 gong2 me1, gong2 \"___\" zau6 zeoi3 on1 cyun4.", answer: "maan6 si6 jyu4 ji3", answer_hanzi: 萬事如意, en: "If you don't know what to say, 'may all go as you wish' is safest."}

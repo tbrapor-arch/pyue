@@ -1,0 +1,97 @@
+# 進修 24. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 24
+title: {en: "A chicken talking to a duck", jyutping: "gai1 tung4 aap3 gong2", hanzi: "雞同鴨講"}
+intro: "A day in a Taishan village: answering negative questions the Cantonese way (你唔食呀？—係呀 = 'right, I don't'), and hearing a sister language."
+genre: dialogue
+review: false
+setting: "The first Sunday of January. 蓮姐 takes Hugo and Kayan by coach to her home village in Taishan, two and a half hours from Hong Kong. Her cousin and his wife (表哥, 表嫂) still live there. The cousin speaks only Taishanese; his wife speaks Cantonese with a strong Taishan accent for the guests."
+dialogue:
+  - {n: 1, speaker: Lin-ze, hanzi: "到喇！呢條就係我嘅村。四十年，條路闊咗，啲人少咗。", jyutping: "dou3 laa3! ni1 tiu4 zau6 hai6 ngo5 ge3 cyun1. sei3 sap6 nin4, tiu4 lou6 fut3 zo2, di1 jan4 siu2 zo2.", en: "Here we are! This is my village. In forty years the road's got wider and the people fewer."}
+  - {n: 2, speaker: Hugo, hanzi: "嗰幾座屋好特別，又高又窄，好似碉堡咁。", jyutping: "go2 gei2 zo6 uk1 hou2 dak6 bit6, jau6 gou1 jau6 zaak3, hou2 ci5 diu1 bou2 gam2.", en: "Those houses are really unusual: tall and narrow, like little forts."}
+  - {n: 3, speaker: Kayan, hanzi: "嗰啲叫碉樓。以前啲華僑喺美國賺咗錢，返嚟起嘅，用嚟防賊。", jyutping: "go2 di1 giu3 diu1 lau2. ji5 cin4 di1 waa4 kiu4 hai2 mei5 gwok3 zaan6 zo2 cin2, faan1 lai4 hei2 ge3, jung6 lai4 fong4 caak6.", en: "They're called diaolou, watchtower houses. Overseas Chinese made money in America and came back to build them, to keep out bandits."}
+  - {n: 4, speaker: Cousin, hanzi: "（用台山話大聲講咗一大段，跟住大力拍阿果膊頭）", jyutping: "(jung6 toi4 saan1 waa2 daai6 seng1 gong2 zo2 jat1 daai6 dyun6, gan1 zyu6 daai6 lik6 paak3 aa3 gwo2 bok3 tau4)", en: "(Says a long piece in Taishanese, loudly, then slaps Hugo hard on the shoulder)"}
+  - {n: 5, speaker: Hugo, hanzi: "（細聲）佢講咩？我一個字都聽唔明。", jyutping: "(sai3 seng1) keoi5 gong2 me1? ngo5 jat1 go3 zi6 dou1 teng1 m4 ming4.", en: "(Quietly) What did he say? I didn't understand a single word."}
+  - {n: 6, speaker: Lin-ze, hanzi: "佢話歡迎你哋，問你食咗飯未，仲問你係咪我個仔。", jyutping: "keoi5 waa6 fun1 jing4 nei5 dei6, man6 nei5 sik6 zo2 faan6 mei6, zung6 man6 nei5 hai6 mai6 ngo5 go3 zai2.", en: "He says welcome, asks if you've eaten, and wants to know if you're my son."}
+  - {n: 7, speaker: Kayan, hanzi: "你個仔？阿果係法國人喎！", jyutping: "nei5 go3 zai2? aa3 gwo2 hai6 faat3 gwok3 jan4 wo3!", en: "Your son? A-Gwo is French!"}
+  - {n: 8, speaker: Lin-ze, hanzi: "佢對眼唔係幾好。（用台山話同表哥講咗兩句）", jyutping: "keoi5 deoi3 ngaan5 m4 hai6 gei2 hou2. (jung6 toi4 saan1 waa2 tung4 biu2 go1 gong2 zo2 loeng5 geoi3)", en: "His eyes aren't very good. (Says a couple of sentences to her cousin in Taishanese)"}
+  - {n: 9, speaker: Hugo, hanzi: "台山話同廣東話有咩分別？我覺得好似另一種語言。", jyutping: "toi4 saan1 waa2 tung4 gwong2 dung1 waa2 jau5 me1 fan1 bit6? ngo5 gok3 dak1 hou2 ci5 ling6 jat1 zung2 jyu5 jin4.", en: "What's the difference between Taishanese and Cantonese? It sounds like another language to me."}
+  - {n: 10, speaker: Lin-ze, hanzi: "有啲字類似，不過讀音好唔同。好似「三」字，我哋讀出嚟好似漏風噉。", jyutping: "jau5 di1 zi6 leoi6 ci5, bat1 gwo3 duk6 jam1 hou2 m4 tung4. hou2 ci5 \"saam1\" zi6, ngo5 dei6 duk6 ceot1 lai4 hou2 ci5 lau6 fung1 gam2.", en: "Some words are similar, but the pronunciation is very different. Take the word 'three': the way we say it sounds like a lisp."}
+  - {n: 11, speaker: Kayan, hanzi: "我聽講以前美國啲唐人街，普遍都講台山話，係咪？", jyutping: "ngo5 teng1 gong2 ji5 cin4 mei5 gwok3 di1 tong4 jan4 gaai1, pou2 pin3 dou1 gong2 toi4 saan1 waa2, hai6 mai6?", en: "I've heard that in the old days American Chinatowns generally spoke Taishanese, is that right?"}
+  - {n: 12, speaker: Lin-ze, hanzi: "係呀。舊時嘅三藩市，講台山話嘅人多過講廣州話嘅人。", jyutping: "hai6 aa3. gau6 si4 ge3 saam1 faan4 si5, gong2 toi4 saan1 waa2 ge3 jan4 do1 gwo3 gong2 gwong2 zau1 waa2 ge3 jan4.", en: "Yes. In old San Francisco, there were more people speaking Taishanese than Guangzhou Cantonese."}
+  - {n: 13, speaker: Hugo, hanzi: "咁我喺香港學咗三年廣東話，嚟到台山，同個啞仔冇分別。", jyutping: "gam2 ngo5 hai2 hoeng1 gong2 hok6 zo2 saam1 nin4 gwong2 dung1 waa2, lai4 dou3 toi4 saan1, tung4 go3 aa2 zai2 mou5 fan1 bit6.", en: "So I've learnt Cantonese in Hong Kong for three years, and in Taishan I'm no different from a mute."}
+  - {n: 14, speaker: Cousin's wife, hanzi: "（捧住一煲飯出嚟）法國仔，黃鱔飯，你唔食呀？", jyutping: "(bung2 zyu6 jat1 bou1 faan6 ceot1 lai4) faat3 gwok3 zai2, wong4 sin5 faan6, nei5 m4 sik6 aa4?", en: "(Carrying out a pot of rice) French boy, eel rice: you're not eating?"}
+  - {n: 15, speaker: Hugo, hanzi: "係呀，我唔食。", jyutping: "hai6 aa3, ngo5 m4 sik6.", en: "(Meaning to be polite) Yes, I'm not eating."}
+  - {n: 16, speaker: Cousin's wife, hanzi: "唔食？好，我拎走。", jyutping: "m4 sik6? hou2, ngo5 ling1 zau2.", en: "Not eating? Fine, I'll take it away."}
+  - {n: 17, speaker: Hugo, hanzi: "唔係唔係！我想食！", jyutping: "m4 hai6 m4 hai6! ngo5 soeng2 sik6!", en: "No, no! I want some!"}
+  - {n: 18, speaker: Kayan, hanzi: "阿果，人哋問「你唔食呀？」，你答「係」，即係「係，我唔食」。你想食，就要答「唔係，我食」。", jyutping: "aa3 gwo2, jan4 dei6 man6 \"nei5 m4 sik6 aa4?\", nei5 daap3 \"hai6\", zik1 hai6 \"hai6, ngo5 m4 sik6\". nei5 soeng2 sik6, zau6 jiu3 daap3 \"m4 hai6, ngo5 sik6\".", en: "A-Gwo, when someone asks 'you're not eating?' and you answer 'yes', it means 'yes, I'm not eating'. If you want to eat, you have to answer 'no, I'll eat'."}
+  - {n: 19, speaker: Hugo, hanzi: "我成日搞亂。（食咗一啖）嘩，好香！", jyutping: "ngo5 sing4 jat6 gaau2 lyun6. (sik6 zo2 jat1 daam6) waa3, hou2 hoeng1!", en: "I always get that mixed up. (Takes a mouthful) Wow, that smells wonderful!"}
+  - {n: 20, speaker: Lin-ze, hanzi: "黃鱔飯係台山最出名嘅嘢。用瓦煲煮，底下嗰層飯焦最好食。", jyutping: "wong4 sin5 faan6 hai6 toi4 saan1 zeoi3 ceot1 meng2 ge3 je5. jung6 ngaa5 bou1 zyu2, dai2 haa6 go2 cang4 faan6 ziu1 zeoi3 hou2 sik6.", en: "Eel rice is Taishan's most famous dish. It's cooked in a clay pot, and the crust at the bottom is the best part."}
+  - {n: 21, speaker: Cousin's wife, hanzi: "阿蓮，你喺香港咁多年，講嘢同樣係我哋台山口音。", jyutping: "aa3 lin2, nei5 hai2 hoeng1 gong2 gam3 do1 nin4, gong2 je5 tung4 joeng6 hai6 ngo5 dei6 toi4 saan1 hau2 jam1.", en: "Lin, all those years in Hong Kong, and you still talk with our Taishan accent."}
+  - {n: 22, speaker: Lin-ze, hanzi: "口音係改唔到㗎。好似阿果，佢廣東話講得幾好都好，都仲有法國口音。", jyutping: "hau2 jam1 hai6 goi2 m4 dou2 gaa3. hou2 ci5 aa3 gwo2, keoi5 gwong2 dung1 waa2 gong2 dak1 gei2 hou2 dou1 hou2, dou1 zung6 jau5 faat3 gwok3 hau2 jam1.", en: "You can't change your accent. Like A-Gwo: however good his Cantonese, he still has a French accent."}
+  - {n: 23, speaker: Hugo, hanzi: "頭先我覺得自己好似一隻鴨，聽緊一班雞講嘢。", jyutping: "tau4 sin1 ngo5 gok3 dak1 zi6 gei2 hou2 ci5 jat1 zek3 aap3, teng1 gan2 jat1 baan1 gai1 gong2 je5.", en: "Just now I felt like a duck listening to a bunch of chickens talking."}
+  - {n: 24, speaker: Kayan, hanzi: "我都係隻鴨！一半我都聽唔明。", jyutping: "ngo5 dou1 hai6 zek3 aap3! jat1 bun3 ngo5 dou1 teng1 m4 ming4.", en: "I'm a duck too! I couldn't understand half of it."}
+  - {n: 25, speaker: Lin-ze, hanzi: "唔緊要，食飯唔使翻譯。食多碗啦！", jyutping: "m4 gan2 jiu3, sik6 faan6 m4 sai2 faan1 jik6. sik6 do1 wun2 laa1!", en: "Never mind: eating needs no translation. Have another bowl!"}
+notes:
+  - {ref: 1, topic: vocab, text: "闊 fut3 = wide, broad: 條路闊咗 'the road's got wider'. 少咗 'fewer': adjective + 咗 = has become (more) …"}
+  - {ref: 2, topic: culture, text: "碉樓 diu1 lau2 = the fortified tower houses of Taishan and Kaiping, built in the early twentieth century with money sent home by emigrants (華僑 waa4 kiu4 'overseas Chinese'). The Kaiping Diaolou are a UNESCO World Heritage site. 碉堡 diu1 bou2 = fort, blockhouse. 防賊 'keep out thieves' (賊 caak6 'thief, bandit')."}
+  - {ref: 4, topic: vocab, text: "膊頭 bok3 tau4 = shoulder. 一大段 'a long passage'. 跟住 'then, next'."}
+  - {ref: 6, topic: culture, text: "食咗飯未？ 'have you eaten?' is a greeting all over the Yue world, Taishan included; the expected answer is 食咗 'yes', whatever the truth."}
+  - {ref: 9, topic: vocab, text: "分別 fan1 bit6 = difference: 有咩分別？ 'what's the difference?'; 冇分別 'no different' (line 13). 類似 leoi6 ci5 (line 10) = similar. 讀音 duk6 jam1 = pronunciation (of a word)."}
+  - {ref: 10, topic: pronunciation, text: "Taishanese is a Yue language, but far from Cantonese in sound: many words that start with s- in Cantonese have a lisped sound in Taishanese, like Welsh 'll', which 蓮姐 calls 漏風 lau6 fung1 'leaking air' (normally 'lisping'). Tones and vowels differ too, so Cantonese speakers often can't follow it."}
+  - {ref: 11, topic: culture, text: "唐人街 tong4 jan4 gaai1 = Chinatown. Until the late twentieth century, the Chinatowns of North America mostly spoke Taishanese; later immigration brought standard Cantonese, and now Mandarin. 普遍 pou2 pin3 = widespread, generally."}
+  - {ref: 13, topic: vocab, text: "啞仔 aa2 zai2 = a mute (familiar; polite 啞人 / 聾啞人士). 同 X 冇分別 'no different from X'."}
+  - {ref: 14, topic: grammar, text: "Answering a negative question: Cantonese answers the statement, not the fact. 你唔食呀？ 'you're not eating?' → 係呀 'that's right (I'm not)' / 唔係 'that's wrong (I am)'. Hugo answers like an English speaker and loses his rice (lines 15–18). Many learners avoid the trap by answering with the verb: 食！ / 唔食。"}
+  - {ref: 14, topic: vocab, text: "捧 bung2 = carry in both hands. 黃鱔飯 wong4 sin5 faan6 = rice with eel, Taishan's signature dish. 拎走 ling1 zau2 (line 16) = take away."}
+  - {ref: 19, topic: vocab, text: "搞亂 gaau2 lyun6 = mix up, confuse. 香 hoeng1 = fragrant, smells good. 一啖 'a mouthful' (啖 daam6)."}
+  - {ref: 20, topic: vocab, text: "瓦煲 ngaa5 bou1 = clay pot; 煲仔飯 'claypot rice' is the Hong Kong winter favourite. 煮 zyu2 = cook, boil. 飯焦 faan6 ziu1 = the crispy rice crust at the bottom of the pot."}
+  - {ref: 21, topic: vocab, text: "口音 hau2 jam1 = accent. 同樣 tung4 joeng6 = the same, likewise: 同樣係台山口音 'still the same Taishan accent'. 阿蓮 aa3 lin2: the name rises after 阿 (P10)."}
+  - {ref: 23, topic: culture, text: "雞同鴨講 'a chicken talking to a duck' = two people who can't understand each other. 翻譯 faan1 jik6 = translate; translation (line 25)."}
+  - {ref: 18, topic: vs-mandarin, text: "Mandarin works the same way: 你不吃嗎？—是啊 'right, I don't' / 不，我吃 'no, I'll eat'. So it's the English speaker, not the Mandarin speaker, who falls into the trap. Taishanese, Cantonese and Mandarin as one sentence: Cantonese 你食咗飯未？ / Mandarin 你吃飯了嗎？; Taishanese sounds further from both than they are from each other in writing."}
+pron:
+  - {ref: 14, text: "鱔 'eel' is sin5, as in 黃鱔 wong4 sin5."}
+  - {ref: 20, text: "瓦 'clay, tile' is ngaa5, with ng-."}
+  - {ref: 23, text: "鴨 'duck' is aap3 (also heard aap2 in 燒鴨 'roast duck')."}
+new_words:
+  - {jyutping: "gai1 tung4 aap3 gong2", hanzi: 雞同鴨講, en: "talking past each other"}
+  - {jyutping: "fut3", hanzi: 闊, en: "wide"}
+  - {jyutping: "diu1 bou2", hanzi: 碉堡, en: "fort, blockhouse"}
+  - {jyutping: "waa4 kiu4", hanzi: 華僑, en: "overseas Chinese"}
+  - {jyutping: "caak6", hanzi: 賊, en: "thief, bandit"}
+  - {jyutping: "biu2 go1", hanzi: 表哥, en: "older male cousin"}
+  - {jyutping: "fan1 bit6", hanzi: 分別, en: "difference"}
+  - {jyutping: "leoi6 ci5", hanzi: 類似, en: "similar"}
+  - {jyutping: "duk6 jam1", hanzi: 讀音, en: "pronunciation"}
+  - {jyutping: "lau6 fung1", hanzi: 漏風, en: "lisp; leak air"}
+  - {jyutping: "tong4 jan4 gaai1", hanzi: 唐人街, en: "Chinatown"}
+  - {jyutping: "pou2 pin3", hanzi: 普遍, en: "widespread, general"}
+  - {jyutping: "aa2 zai2", hanzi: 啞仔, en: "a mute"}
+  - {jyutping: "wong4 sin5 faan6", hanzi: 黃鱔飯, en: "eel rice"}
+  - {jyutping: "ling1 zau2", hanzi: 拎走, en: "take away"}
+  - {jyutping: "gaau2 lyun6", hanzi: 搞亂, en: "mix up, confuse"}
+  - {jyutping: "ngaa5 bou1", hanzi: 瓦煲, en: "clay pot"}
+  - {jyutping: "faan6 ziu1", hanzi: 飯焦, en: "rice crust"}
+  - {jyutping: "tung4 joeng6", hanzi: 同樣, en: "the same, likewise"}
+  - {jyutping: "hau2 jam1", hanzi: 口音, en: "accent"}
+  - {jyutping: "aap3", hanzi: 鴨, en: "duck"}
+  - {jyutping: "ngaan5", hanzi: 眼, en: "eye"}
+  - {jyutping: "biu2 sou2", hanzi: 表嫂, en: "cousin's wife"}
+  - {jyutping: "zaan6 cin2", hanzi: 賺錢, en: "make money"}
+  - {jyutping: "bou1 zai2 faan6", hanzi: 煲仔飯, en: "claypot rice"}
+  - {jyutping: "kiu4 hoeng1", hanzi: 僑鄉, en: "home town of emigrants"}
+  - {jyutping: "bok3 tau4", hanzi: 膊頭, en: "shoulder"}
+  - {jyutping: "dai2 haa6", hanzi: 底下, en: "underneath, at the bottom"}
+  - {jyutping: "bung2", hanzi: 捧, en: "carry in both hands"}
+  - {jyutping: "jyu2", hanzi: 魚, en: "fish"}
+exercises:
+  translate:
+    - {hanzi: "你唔去呀？——係呀，我唔去。", jyutping: "nei5 m4 heoi3 aa4? —— hai6 aa3, ngo5 m4 heoi3.", en: "You're not going? — Right, I'm not going."}
+    - {hanzi: "你唔鍾意食魚呀？——唔係，我好鍾意。", jyutping: "nei5 m4 zung1 ji3 sik6 jyu2 aa4? —— m4 hai6, ngo5 hou2 zung1 ji3.", en: "You don't like fish? — No, I love it."}
+    - {hanzi: "台山話同廣東話嘅分別好大。", jyutping: "toi4 saan1 waa2 tung4 gwong2 dung1 waa2 ge3 fan1 bit6 hou2 daai6.", en: "The difference between Taishanese and Cantonese is big."}
+    - {hanzi: "佢哋兩個講嘢，好似雞同鴨講。", jyutping: "keoi5 dei6 loeng5 go3 gong2 je5, hou2 ci5 gai1 tung4 aap3 gong2.", en: "When those two talk, it's like a chicken talking to a duck."}
+    - {hanzi: "佢喺美國住咗廿年，同樣有好重嘅口音。", jyutping: "keoi5 hai2 mei5 gwok3 zyu6 zo2 jaa6 nin4, tung4 joeng6 jau5 hou2 cung5 ge3 hau2 jam1.", en: "He's lived in America for twenty years and still has a strong accent."}
+  fill:
+    - {hanzi: "你唔飲呀？——___，我唔飲。", jyutping: "nei5 m4 jam2 aa4? —— ___, ngo5 m4 jam2.", answer: "hai6", answer_hanzi: 係, en: "You're not drinking? — Right, I'm not."}
+    - {hanzi: "你唔餓呀？——___，我好餓！", jyutping: "nei5 m4 ngo6 aa4? —— ___, ngo5 hou2 ngo6!", answer: "m4 hai6", answer_hanzi: 唔係, en: "You're not hungry? — Yes I am, I'm starving!"}
+    - {hanzi: "呢兩隻字好___，我成日搞亂。", jyutping: "ni1 loeng5 zek3 zi6 hou2 ___, ngo5 sing4 jat6 gaau2 lyun6.", answer: "leoi6 ci5", answer_hanzi: 類似, en: "These two characters are very similar; I always mix them up."}
+    - {hanzi: "舊時唐人街___都講台山話。", jyutping: "gau6 si4 tong4 jan4 gaai1 ___ dou1 gong2 toi4 saan1 waa2.", answer: "pou2 pin3", answer_hanzi: 普遍, en: "In the old days Chinatowns generally spoke Taishanese."}
+    - {hanzi: "食飯唔使___。", jyutping: "sik6 faan6 m4 sai2 ___.", answer: "faan1 jik6", answer_hanzi: 翻譯, en: "Eating needs no translation."}

@@ -1,0 +1,100 @@
+# 進修 22. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 22
+title: {en: "A-Gwo's diary", jyutping: "aa3 gwo2 jat6 gei3", hanzi: "阿果日記"}
+intro: "Hugo's diary for a week in December: verb-object pairs that split (沖咗個涼, 傾咗好耐計, 搭咗船) and a first trip to an outlying island."
+genre: diary
+review: false
+setting: "Hugo keeps a diary in Cantonese, to practise. Two entries: the winter solstice dinner on Tuesday 22 December, and Saturday 26 December, when he takes the ferry to Lamma Island alone."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "十二月二十二號，禮拜二，冬至。香港人話「冬至大過年」，梁伯一早收咗舖，屋企人一齊做冬。", jyutping: "sap6 ji6 jyut6 ji6 sap6 ji6 hou6, lai5 baai3 ji6, dung1 zi3. hoeng1 gong2 jan4 waa6 \"dung1 zi3 daai6 gwo3 nin4\", loeng4 baak3 jat1 zou2 sau1 zo2 pou3, uk1 kei2 jan4 jat1 cai4 zou6 dung1.", en: "Tuesday 22 December, winter solstice. Hongkongers say 'the solstice is bigger than New Year'; Uncle Leung closed the shop early and the family celebrated together."}
+  - {n: 2, speaker: Hugo, hanzi: "嘉欣叫我一齊食。梁伯煲咗一大煲湯，蓮姐整咗湯圓，強哥帶咗隻燒鵝嚟。", jyutping: "gaa1 jan1 giu3 ngo5 jat1 cai4 sik6. loeng4 baak3 bou1 zo2 jat1 daai6 bou1 tong1, lin4 ze2 zing2 zo2 tong1 jyun2, koeng4 go1 daai3 zo2 zek3 siu1 ngo2 lai4.", en: "Kayan invited me to eat with them. Uncle Leung made a big pot of soup, Lin-ze made sweet dumplings, and Keung-go brought a roast goose."}
+  - {n: 3, speaker: Hugo, hanzi: "食完飯，我哋喺樓上傾咗好耐計。嘉偉喺英國video call，成家人淨係佢一個唔喺度。", jyutping: "sik6 jyun4 faan6, ngo5 dei6 hai2 lau4 soeng6 king1 zo2 hou2 noi6 gai2. gaa1 wai5 hai2 jing1 gwok3 video call, seng4 gaa1 jan4 zing6 hai6 keoi5 jat1 go3 m4 hai2 dou6.", en: "After dinner we chatted upstairs for ages. Ka-wai video-called from England; he was the only one of the family not there."}
+  - {n: 4, speaker: Hugo, hanzi: "我返到房，沖咗個涼，瞓咗一個好覺。嚟咗香港三年，第一次覺得有屋企。", jyutping: "ngo5 faan1 dou3 fong2, cung1 zo2 go3 loeng4, fan3 zo2 jat1 go3 hou2 gaau3. lai4 zo2 hoeng1 gong2 saam1 nin4, dai6 jat1 ci3 gok3 dak1 jau5 uk1 kei2.", en: "Back in my room, I had a shower and a good night's sleep. Three years in Hong Kong, and the first time I've felt I have a home."}
+  - {n: 5, speaker: Hugo, hanzi: "十二月二十六號，禮拜六。今日公眾假期，唔使夾band，我一個人搭船去南丫島。", jyutping: "sap6 ji6 jyut6 ji6 sap6 luk6 hou6, lai5 baai3 luk6. gam1 jat6 gung1 zung3 gaa3 kei4, m4 sai2 gaap3 band, ngo5 jat1 go3 jan4 daap3 syun4 heoi3 naam4 aa1 dou2.", en: "Saturday 26 December. A public holiday today, no band practice, so I took the ferry to Lamma Island on my own."}
+  - {n: 6, speaker: Hugo, hanzi: "喺中環四號碼頭上船，坐咗半個鐘，就到榕樹灣。", jyutping: "hai2 zung1 waan4 sei3 hou6 maa5 tau4 soeng5 syun4, co5 zo2 bun3 go3 zung1, zau6 dou3 jung4 syu6 waan1.", en: "I boarded at Pier 4 in Central, and half an hour later I was at Yung Shue Wan."}
+  - {n: 7, speaker: Hugo, hanzi: "南丫島冇車。條街窄窄地，兩邊都係細細間嘅舖頭：書店、素食餐廳、二手衫舖。", jyutping: "naam4 aa1 dou2 mou5 ce1. tiu4 gaai1 zaak3 zaak3 dei2, loeng5 bin1 dou1 hai6 sai3 sai3 gaan1 ge3 pou3 tau2: syu1 dim3, sou3 sik6 caan1 teng1, ji6 sau2 saam1 pou3.", en: "There are no cars on Lamma. The street is narrowish, with tiny shops on both sides: a bookshop, vegetarian restaurants, a second-hand clothes shop."}
+  - {n: 8, speaker: Hugo, hanzi: "好多外國人住喺度，聽講以前仲有好多嬉皮士。呢度好清靜，好似另一個香港。", jyutping: "hou2 do1 ngoi6 gwok3 jan4 zyu6 hai2 dou6, teng1 gong2 ji5 cin4 zung6 jau5 hou2 do1 hei1 pei4 si6. ni1 dou6 hou2 cing1 zing6, hou2 ci5 ling6 jat1 go3 hoeng1 gong2.", en: "Lots of foreigners live here; apparently there used to be lots of hippies too. It's so peaceful, like another Hong Kong."}
+  - {n: 9, speaker: Hugo, hanzi: "我由榕樹灣行去索罟灣，大約一個半鐘。沿途有沙灘、有山，仲見到發電廠幾支好高嘅煙囪，同埋一架白色嘅風車。", jyutping: "ngo5 jau4 jung4 syu6 waan1 haang4 heoi3 sok3 gu1 waan1, daai6 joek3 jat1 go3 bun3 zung1. jyun4 tou4 jau5 saa1 taan1, jau5 saan1, zung6 gin3 dou2 faat3 din6 cong2 gei2 zi1 hou2 gou1 ge3 jin1 cung1, tung4 maai4 jat1 gaa3 baak6 sik1 ge3 fung1 ce1.", en: "I walked from Yung Shue Wan to Sok Kwu Wan, about an hour and a half. Along the way there were beaches and hills, and I saw the power station's tall chimneys and a white wind turbine."}
+  - {n: 10, speaker: Hugo, hanzi: "行到半路，我蕩失路，喺一條斜路度企咗好耐，唔知去邊。", jyutping: "haang4 dou3 bun3 lou2, ngo5 dong6 sat1 lou6, hai2 jat1 tiu4 ce3 lou2 dou6 kei5 zo2 hou2 noi6, m4 zi1 heoi3 bin1.", en: "Halfway there I got lost and stood for ages on a slope, not knowing which way to go."}
+  - {n: 11, speaker: Hugo, hanzi: "突然有一班遊客行過，前面有個女仔揸住支旗，用廣東話同英文講解。", jyutping: "dat6 jin4 jau5 jat1 baan1 jau4 haak3 haang4 gwo3, cin4 min6 jau5 go3 neoi5 zai2 zaa1 zyu6 zi1 kei4, jung6 gwong2 dung1 waa2 tung4 jing1 man2 gong2 gaai2.", en: "Suddenly a group of tourists came by, and at the front a young woman holding a flag was explaining things in Cantonese and English."}
+  - {n: 12, speaker: Hugo, hanzi: "佢係導遊，帶緊一個旅行團。佢見到我個樣，笑咗：「蕩失路呀？跟住我哋行啦。」", jyutping: "keoi5 hai6 dou6 jau4, daai3 gan2 jat1 go3 leoi5 hang4 tyun4. keoi5 gin3 dou2 ngo5 go3 joeng2, siu3 zo2: \"dong6 sat1 lou6 aa4? gan1 zyu6 ngo5 dei6 haang4 laa1.\"", en: "She was a guide leading a tour group. She saw my face and laughed: 'Lost? Come along with us.'"}
+  - {n: 13, speaker: Hugo, hanzi: "我哋一路行一路傾。佢叫方曉晴，喺長洲大，屋企開餅舖，周末就帶團。", jyutping: "ngo5 dei6 jat1 lou6 haang4 jat1 lou6 king1. keoi5 giu3 fong1 hiu2 cing4, hai2 coeng4 zau1 daai6, uk1 kei2 hoi1 beng2 pou3, zau1 mut6 zau6 daai3 tyun4.", en: "We chatted as we walked. Her name is Fong Hiu-ching; she grew up on Cheung Chau, her family runs a bakery, and at weekends she leads tours."}
+  - {n: 14, speaker: Hugo, hanzi: "佢話佢好鍾意行山，每個月都會行一段麥理浩徑。", jyutping: "keoi5 waa6 keoi5 hou2 zung1 ji3 haang4 saan1, mui5 go3 jyut6 dou1 wui5 haang4 jat1 dyun6 mak6 lei5 hou6 ging3.", en: "She says she loves hiking and walks a stretch of the MacLehose Trail every month."}
+  - {n: 15, speaker: Hugo, hanzi: "到咗索罟灣，個團去食海鮮。佢問我：「你有冇興趣一月同我行晒成條麥理浩徑？一百公里。」", jyutping: "dou3 zo2 sok3 gu1 waan1, go3 tyun4 heoi3 sik6 hoi2 sin1. keoi5 man6 ngo5: \"nei5 jau5 mou5 hing3 ceoi3 jat1 jyut6 tung4 ngo5 haang4 saai3 seng4 tiu4 mak6 lei5 hou6 ging3? jat1 baak3 gung1 lei5.\"", en: "At Sok Kwu Wan the group went off to eat seafood. She asked me: 'Would you like to walk the whole MacLehose Trail with me in January? A hundred kilometres.'"}
+  - {n: 16, speaker: Hugo, hanzi: "一百公里！我喺銀行嗰陣，最多行一百米去買咖啡。", jyutping: "jat1 baak3 gung1 lei5! ngo5 hai2 ngan4 hong4 go2 zan6, zeoi3 do1 haang4 jat1 baak3 mai5 heoi3 maai5 gaa3 fe1.", en: "A hundred kilometres! When I was at the bank, the most I walked was a hundred metres to buy coffee."}
+  - {n: 17, speaker: Hugo, hanzi: "不過我答應咗。我哋加咗WhatsApp，佢會分四個周末行晒十段。", jyutping: "bat1 gwo3 ngo5 daap3 jing3 zo2. ngo5 dei6 gaa1 zo2 WhatsApp, keoi5 wui5 fan1 sei3 go3 zau1 mut6 haang4 saai3 sap6 dyun6.", en: "But I said yes. We added each other on WhatsApp; she'll split the ten stages over four weekends."}
+  - {n: 18, speaker: Hugo, hanzi: "搭船返中環嗰陣，太陽落山，個海好靚。我成程船都冇睇手機。", jyutping: "daap3 syun4 faan1 zung1 waan4 go2 zan6, taai3 joeng4 lok6 saan1, go3 hoi2 hou2 leng3. ngo5 seng4 cing4 syun4 dou1 mou5 tai2 sau2 gei1.", en: "On the ferry back to Central the sun was setting and the sea was beautiful. I didn't look at my phone once the whole crossing."}
+  - {n: 19, speaker: Hugo, hanzi: "返到梁記，蓮姐睇一睇我，就話：「你個樣……係咪識咗個靚女？」", jyutping: "faan1 dou3 loeng4 gei3, lin4 ze2 tai2 jat1 tai2 ngo5, zau6 waa6: \"nei5 go3 joeng2 …… hai6 mai6 sik1 zo2 go3 leng3 neoi2?\"", en: "Back at Leung Kee, Lin-ze took one look at me and said: 'That face… have you met a pretty girl?'"}
+  - {n: 20, speaker: Hugo, hanzi: "我話冇。佢話：「你講大話，你塊面紅晒。」", jyutping: "ngo5 waa6 mou5. keoi5 waa6: \"nei5 gong2 daai6 waa6, nei5 faai3 min6 hung4 saai3.\"", en: "I said no. She said: 'You're lying, your face has gone all red.'"}
+  - {n: 21, speaker: Hugo, hanzi: "而家我開始有啲緊張：一百公里，我行唔行得晒？", jyutping: "ji4 gaa1 ngo5 hoi1 ci2 jau5 di1 gan2 zoeng1: jat1 baak3 gung1 lei5, ngo5 haang4 m4 haang4 dak1 saai3?", en: "Now I'm starting to get nervous: a hundred kilometres, can I walk all of it?"}
+  - {n: 22, speaker: Hugo, hanzi: "夾band、教書、撞茶，而家仲要行山。辭咗職之後，我好似仲忙過以前。", jyutping: "gaap3 band, gaau3 syu1, zong6 caa4, ji4 gaa1 zung6 jiu3 haang4 saan1. ci4 zo2 zik1 zi1 hau6, ngo5 hou2 ci5 zung6 mong4 gwo3 ji5 cin4.", en: "The band, teaching, pulling tea, and now hiking too. Since I quit my job, I seem even busier than before."}
+  - {n: 23, speaker: Hugo, hanzi: "不過今晚，我諗住佢個笑容，瞓得好好。", jyutping: "bat1 gwo3 gam1 maan5, ngo5 nam2 zyu6 keoi5 go3 siu3 jung4, fan3 dak1 hou2 hou2.", en: "But tonight, thinking of her smile, I'm sleeping very well."}
+notes:
+  - {ref: 1, topic: culture, text: "冬至 dung1 zi3 = the winter solstice. In Cantonese families it's a major festival: 冬至大過年 'the solstice is bigger than New Year'. People finish work early to 做冬 zou6 dung1, have the solstice dinner with family. 湯圓 tong1 jyun2 = sweet glutinous-rice balls in soup; 燒鵝 siu1 ngo2 = roast goose (line 2)."}
+  - {ref: 3, topic: grammar, text: "Verb-object compounds (P10 previewed them) split around aspect markers and modifiers: 傾計 → 傾咗好耐計 'chatted for ages'; 沖涼 → 沖咗個涼 'had a shower' (line 4); 瞓覺 → 瞓咗一個好覺 'had a good sleep' (line 4); 沖涼 cung1 loeng4 = shower, wash; 搭船 → 搭咗船; 辭職 → 辭咗職 (line 22). 咗 and the length or classifier go between verb and object."}
+  - {ref: 5, topic: vocab, text: "公眾假期 'public holiday' (公眾 'public' + 假期; 26 December is one in Hong Kong). 搭船 daap3 syun4 = take a boat; 上船 'board' (line 6). 南丫島 naam4 aa1 dou2 = Lamma Island."}
+  - {ref: 6, topic: culture, text: "Ferries to the outlying islands leave from the Central piers: Lamma from Pier 4, Cheung Chau from Pier 5. 碼頭 maa5 tau4 = pier. 榕樹灣 Yung Shue Wan ('Banyan Bay') and 索罟灣 Sok Kwu Wan (line 9) are Lamma's two villages, linked by the Family Trail."}
+  - {ref: 7, topic: grammar, text: "Adjective doubled + 地 = 'rather …, …ish': 窄窄地 zaak3 zaak3 dei2 'narrowish'. Doubled adjective + classifier = 'little, tiny': 細細間嘅舖頭 'tiny shops'. More on doubling in P25. 素食 sou3 sik6 = vegetarian; 二手 'second-hand'."}
+  - {ref: 8, topic: vocab, text: "嬉皮士 hei1 pei4 si6 = hippies. 清靜 cing1 zing6 = peaceful, quiet (of a place). 另一個 'another'."}
+  - {ref: 9, topic: vocab, text: "大約 daai6 joek3 = about, roughly. 沙灘 saa1 taan1 = beach. 發電廠 faat3 din6 cong2 = power station; 煙囪 jin1 cung1 = chimney; 風車 fung1 ce1 = wind turbine, windmill. 支 counts chimneys like other long things."}
+  - {ref: 10, topic: vocab, text: "蕩失路 dong6 sat1 lou6 = get lost (spoken; written 迷路). 半路 'halfway'. 斜路 ce3 lou2 = slope, uphill road."}
+  - {ref: 11, topic: vocab, text: "遊客 jau4 haak3 = tourist. 揸住支旗 'holding a flag' (揸, P17). 講解 gong2 gaai2 = explain, give a commentary. 導遊 dou6 jau4 = tour guide; 旅行團 leoi5 hang4 tyun4 = tour group; 帶團 'lead a tour' (line 13)."}
+  - {ref: 13, topic: grammar, text: "一路 V1 一路 V2 = V1 while V2: 一路行一路傾 'chatted while we walked' (P27 comes back to it). 喺長洲大 'grew up on Cheung Chau' (大 'grow up'). 餅舖 beng2 pou2 = bakery (Chinese pastries). 周末 zau1 mut6 = weekend."}
+  - {ref: 14, topic: culture, text: "麥理浩徑 mak6 lei5 hou6 ging3 = the MacLehose Trail: about 100 km in ten stages (段), from Pak Tam Chung in Sai Kung to Tuen Mun, across the New Territories' hills. Named after Governor MacLehose. The Oxfam Trailwalker race follows it every November. 公里 gung1 lei5 = kilometre (line 15)."}
+  - {ref: 17, topic: vocab, text: "答應 daap3 jing3 = agree, say yes (to a request). 分四個周末 'split over four weekends': 分 fan1 'divide'."}
+  - {ref: 20, topic: vocab, text: "講大話 gong2 daai6 waa6 = lie, tell a lie. 塊面 faai3 min6 'one's face' (塊 is the classifier). 紅晒 'gone all red'. 靚女 leng3 neoi2 (line 19) = pretty girl; any young woman (as 靚仔 for men, P11)."}
+  - {ref: 21, topic: vocab, text: "緊張 gan2 zoeng1 = nervous, tense. 行唔行得晒？ 'can I walk all of it?': potential complement 得晒 (P4) in the A-not-A question."}
+  - {ref: 4, topic: vs-mandarin, text: "沖涼 = Mandarin 洗澡 / 沖澡; 傾計 = 聊天; 蕩失路 = 迷路; 講大話 = 說謊. Mandarin verb-object words split too (洗了個澡, 聊了很久的天), so the pattern will feel familiar; the words themselves are what change."}
+pron:
+  - {ref: 5, text: "南丫島 naam4 aa1 dou2: 丫 is aa1, and 島 'island' is dou2."}
+  - {ref: 9, text: "索罟灣 sok3 gu1 waan1: 罟 'fishing net' is gu1."}
+  - {ref: 14, text: "麥理浩徑 mak6 lei5 hou6 ging3: 徑 'path' is ging3."}
+new_words:
+  - {jyutping: "jat6 gei3", hanzi: 日記, en: "diary"}
+  - {jyutping: "dung1 zi3", hanzi: 冬至, en: "winter solstice"}
+  - {jyutping: "zou6 dung1", hanzi: 做冬, en: "celebrate the solstice"}
+  - {jyutping: "tong1 jyun2", hanzi: 湯圓, en: "sweet rice balls in soup"}
+  - {jyutping: "king1 gai2", hanzi: 傾計, en: "chat"}
+  - {jyutping: "cung1 loeng4", hanzi: 沖涼, en: "shower, wash"}
+  - {jyutping: "siu1 ngo2", hanzi: 燒鵝, en: "roast goose"}
+  - {jyutping: "daap3 syun4", hanzi: 搭船, en: "take a boat"}
+  - {jyutping: "syun4", hanzi: 船, en: "boat, ferry"}
+  - {jyutping: "naam4 aa1 dou2", hanzi: 南丫島, en: "Lamma Island"}
+  - {jyutping: "maa5 tau4", hanzi: 碼頭, en: "pier"}
+  - {jyutping: "sou3 sik6", hanzi: 素食, en: "vegetarian"}
+  - {jyutping: "hei1 pei4 si6", hanzi: 嬉皮士, en: "hippie"}
+  - {jyutping: "cing1 zing6", hanzi: 清靜, en: "peaceful, quiet"}
+  - {jyutping: "saa1 taan1", hanzi: 沙灘, en: "beach"}
+  - {jyutping: "faat3 din6 cong2", hanzi: 發電廠, en: "power station"}
+  - {jyutping: "fung1 ce1", hanzi: 風車, en: "wind turbine, windmill"}
+  - {jyutping: "dong6 sat1 lou6", hanzi: 蕩失路, en: "get lost"}
+  - {jyutping: "ce3 lou2", hanzi: 斜路, en: "slope, uphill road"}
+  - {jyutping: "jau4 haak3", hanzi: 遊客, en: "tourist"}
+  - {jyutping: "dou6 jau4", hanzi: 導遊, en: "tour guide"}
+  - {jyutping: "leoi5 hang4 tyun4", hanzi: 旅行團, en: "tour group"}
+  - {jyutping: "zau1 mut6", hanzi: 周末, en: "weekend"}
+  - {jyutping: "coeng4 zau1", hanzi: 長洲, en: "Cheung Chau"}
+  - {jyutping: "daap3 jing3", hanzi: 答應, en: "agree, say yes"}
+  - {jyutping: "taai3 joeng4", hanzi: 太陽, en: "sun"}
+  - {jyutping: "leng3 neoi2", hanzi: 靚女, en: "pretty girl"}
+  - {jyutping: "gan2 zoeng1", hanzi: 緊張, en: "nervous"}
+  - {jyutping: "jung4 syu6", hanzi: 榕樹, en: "banyan tree"}
+  - {jyutping: "bun3 lou2", hanzi: 半路, en: "halfway"}
+  - {jyutping: "gong2 daai6 waa6", hanzi: 講大話, en: "lie, tell lies"}
+  - {jyutping: "baak6 sik1", hanzi: 白色, en: "white"}
+  - {jyutping: "daai6 joek3", hanzi: 大約, en: "about, roughly"}
+  - {jyutping: "gong2 gaai2", hanzi: 講解, en: "explain, give a commentary"}
+  - {jyutping: "gung1 lei5", hanzi: 公里, en: "kilometre"}
+exercises:
+  translate:
+    - {hanzi: "我沖咗個涼先，然後同你傾計。", jyutping: "ngo5 cung1 zo2 go3 loeng4 sin1, jin4 hau6 tung4 nei5 king1 gai2.", en: "Let me have a shower first, then I'll chat with you."}
+    - {hanzi: "我哋周末搭船去長洲食海鮮。", jyutping: "ngo5 dei6 zau1 mut6 daap3 syun4 heoi3 coeng4 zau1 sik6 hoi2 sin1.", en: "At the weekend we're taking the ferry to Cheung Chau to eat seafood."}
+    - {hanzi: "我喺山上面蕩失路，好彩有個導遊帶我落山。", jyutping: "ngo5 hai2 saan1 soeng6 min6 dong6 sat1 lou6, hou2 coi2 jau5 go3 dou6 jau4 daai3 ngo5 lok6 saan1.", en: "I got lost on the hill; luckily a guide led me down."}
+    - {hanzi: "佢哋傾咗成晚計，都唔覺得攰。", jyutping: "keoi5 dei6 king1 zo2 seng4 maan5 gai2, dou1 m4 gok3 dak1 gui6.", en: "They chatted all night and didn't feel tired at all."}
+    - {hanzi: "考試之前我好緊張，成晚瞓唔着。", jyutping: "haau2 si5 zi1 cin4 ngo5 hou2 gan2 zoeng1, seng4 maan5 fan3 m4 zoek6.", en: "Before the exam I was so nervous I couldn't sleep all night."}
+  fill:
+    - {hanzi: "我返到屋企，沖咗___涼。", jyutping: "ngo5 faan1 dou3 uk1 kei2, cung1 zo2 ___ loeng4.", answer: "go3", answer_hanzi: 個, en: "When I got home, I had a shower."}
+    - {hanzi: "佢哋一路行一路___。", jyutping: "keoi5 dei6 jat1 lou6 haang4 jat1 lou6 ___.", answer: "king1 gai2", answer_hanzi: 傾計, en: "They chatted as they walked."}
+    - {hanzi: "由中環坐船去南丫島，___半個鐘。", jyutping: "jau4 zung1 waan4 co5 syun4 heoi3 naam4 aa1 dou2, ___ bun3 go3 zung1.", answer: "daai6 joek3", answer_hanzi: 大約, en: "From Central to Lamma by ferry takes about half an hour."}
+    - {hanzi: "你講___，你塊面紅晒。", jyutping: "nei5 gong2 ___, nei5 faai3 min6 hung4 saai3.", answer: "daai6 waa6", answer_hanzi: 大話, en: "You're lying; your face has gone all red."}
+    - {hanzi: "佢問我去唔去，我即刻___咗。", jyutping: "keoi5 man6 ngo5 heoi3 m4 heoi3, ngo5 zik1 hak1 ___ zo2.", answer: "daap3 jing3", answer_hanzi: 答應, en: "She asked if I'd go, and I said yes right away."}

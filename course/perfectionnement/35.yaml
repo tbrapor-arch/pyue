@@ -1,0 +1,58 @@
+# 進修 35. Review of P29–P34: no new words. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 35
+title: {en: "Review: the fifteenth night", jyutping: "fuk6 zaap6", hanzi: "復習"}
+genre: review
+review: true
+setting: "Saturday 20 February 2027, the fifteenth day of the first month (元宵, the Lantern Festival, the last day of the New Year). 梁伯 left hospital a week ago and is back at 梁記 for the first time, but only to sit. 蓮姐 has made glutinous rice balls; Hugo and Hiu-ching are hanging lanterns at the door."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "阿爸，慢慢行。醫生話你可以返嚟睇吓，但係唔可以做嘢。", jyutping: "aa3 baa4, maan6 maan2 haang4. ji1 sang1 waa6 nei5 ho2 ji5 faan1 lai4 tai2 haa5, daan6 hai6 m4 ho2 ji5 zou6 je5.", en: "Dad, walk slowly. The doctor says you can come and have a look, but you can't work."}
+  - {n: 2, speaker: Leung Pak, hanzi: "我坐喺卡位睇住你哋，都唔得？", jyutping: "ngo5 co5 hai2 kaa1 wai2 tai2 zyu6 nei5 dei6, dou1 m4 dak1?", en: "Not even sitting in a booth keeping an eye on you?"}
+  - {n: 3, speaker: Kayan, hanzi: "坐就得。你一係坐低唔郁，一係我帶你返屋企。", jyutping: "co5 zau6 dak1. nei5 jat1 hai6 co5 dai1 m4 juk1, jat1 hai6 ngo5 daai3 nei5 faan1 uk1 kei2.", en: "Sitting is fine. Either you sit down and don't move, or I take you home."}
+  - {n: 4, speaker: Leung Pak, hanzi: "唔通我連杯奶茶都唔可以沖？", jyutping: "m4 tung1 ngo5 lin4 bui1 naai5 caa4 dou1 m4 ho2 ji5 cung1?", en: "Surely I'm allowed to make a cup of milk tea?"}
+  - {n: 5, speaker: Keung-go, hanzi: "使乜你沖？我沖俾你。", jyutping: "sai2 mat1 nei5 cung1? ngo5 cung1 bei2 nei5.", en: "Why should you make it? I'll make it for you."}
+  - {n: 6, speaker: Lin-ze, hanzi: "今日正月十五，我煮咗湯圓。大家坐埋一齊食啦。", jyutping: "gam1 jat6 zing1 jyut6 sap6 ng5, ngo5 zyu2 zo2 tong1 jyun2. daai6 gaa1 co5 maai4 jat1 cai4 sik6 laa1.", en: "It's the fifteenth of the first month today; I've made rice balls. Everyone sit together and eat."}
+  - {n: 7, speaker: Hugo, hanzi: "梁伯，你為咗間舖做咗四十幾年，而家輪到我哋。", jyutping: "loeng4 baak3, nei5 wai6 zo2 gaan1 pou3 zou6 zo2 sei3 sap6 gei2 nin4, ji4 gaa1 leon4 dou3 ngo5 dei6.", en: "梁伯, you've worked forty-odd years for this shop; now it's our turn."}
+  - {n: 8, speaker: Leung Pak, hanzi: "你哋後生仔，一個二個都咁囉嗦……不過，多謝。", jyutping: "nei5 dei6 hau6 saang1 zai2, jat1 go3 ji6 go3 dou1 gam3 lo1 so1 …… bat1 gwo3, do1 ze6.", en: "You young people, every one of you, such nags… But thank you."}
+  - {n: 9, speaker: Kayan, hanzi: "阿果，你去攞啲燈籠嚟，掛喺門口。", jyutping: "aa3 gwo2, nei5 heoi3 lo2 di1 dang1 lung4 lai4, gwaa3 hai2 mun4 hau2.", en: "A-Gwo, go and get the lanterns and hang them at the door."}
+  - {n: 10, speaker: Hiu-ching, hanzi: "掛高啲，唔係啲客會撞到個頭。", jyutping: "gwaa3 gou1 di1, m4 hai6 di1 haak3 wui5 zong6 dou2 go3 tau4.", en: "Hang them higher, or the customers will bump their heads."}
+  - {n: 11, speaker: Hugo, hanzi: "（喺門口）曉晴，我有嘢想問你。", jyutping: "(hai2 mun4 hau2) hiu2 cing4, ngo5 jau5 je5 soeng2 man6 nei5.", en: "(At the door) Hiu-ching, there's something I want to ask you."}
+  - {n: 12, speaker: Hiu-ching, hanzi: "又問前途？我唔係黃大仙個師傅喎。", jyutping: "jau6 man6 cin4 tou4? ngo5 m4 hai6 wong4 daai6 sin1 go3 si1 fu2 wo3.", en: "Asking about the future again? I'm not the master at Wong Tai Sin, you know."}
+  - {n: 13, speaker: Hugo, hanzi: "嗰個師傅話，我嘅貴人喺海邊。我諗咗好耐，覺得佢講得好準。", jyutping: "go2 go3 si1 fu2 waa6, ngo5 ge3 gwai3 jan4 hai2 hoi2 bin1. ngo5 nam2 zo2 hou2 noi6, gok3 dak1 keoi5 gong2 dak1 hou2 zeon2.", en: "That master said the person who'd help me lives by the sea. I've thought about it for ages, and I think he was spot on."}
+  - {n: 14, speaker: Hiu-ching, hanzi: "咁你想點？", jyutping: "gam2 nei5 soeng2 dim2?", en: "So what do you want?"}
+  - {n: 15, speaker: Hugo, hanzi: "我想問：你肯唔肯做我女朋友？", jyutping: "ngo5 soeng2 man6: nei5 hang2 m4 hang2 zou6 ngo5 neoi5 pang4 jau5?", en: "I want to ask: will you be my girlfriend?"}
+  - {n: 16, speaker: Hiu-ching, hanzi: "我哋行完麥理浩徑，又去咗長洲、黃大仙……唔通我仲未係？", jyutping: "ngo5 dei6 haang4 jyun4 mak6 lei5 hou6 ging3, jau6 heoi3 zo2 coeng4 zau1, wong4 daai6 sin1 …… m4 tung1 ngo5 zung6 mei6 hai6?", en: "We've done the whole MacLehose Trail, been to Cheung Chau and Wong Tai Sin… surely I already am?"}
+  - {n: 17, speaker: Hugo, hanzi: "我想問清楚啫。法國人做嘢好小心㗎。", jyutping: "ngo5 soeng2 man6 cing1 co2 ze1. faat3 gwok3 jan4 zou6 je5 hou2 siu2 sam1 gaa3.", en: "I just wanted to ask properly. We French are very careful about these things."}
+  - {n: 18, speaker: Hiu-ching, hanzi: "好啦，我答應你。不過有條件：你一係學識游水，一係陪我婆婆傾偈，逢星期日。", jyutping: "hou2 laa1, ngo5 daap3 jing3 nei5. bat1 gwo3 jau5 tiu4 gin2: nei5 jat1 hai6 hok6 sik1 jau4 seoi2, jat1 hai6 pui4 ngo5 po4 po2 king1 gai2, fung4 sing1 kei4 jat6.", en: "All right, yes. But on one condition: either you learn to swim, or you keep my grandma company for a chat every Sunday."}
+  - {n: 19, speaker: Hugo, hanzi: "兩樣我都做。", jyutping: "loeng5 joeng6 ngo5 dou1 zou6.", en: "I'll do both."}
+  - {n: 20, speaker: Leung Pak, hanzi: "喂！你兩個喺門口講乜嘢呀？入嚟食湯圓啦！", jyutping: "wai3! nei5 loeng5 go3 hai2 mun4 hau2 gong2 mat1 je5 aa3? jap6 lai4 sik6 tong1 jyun2 laa1!", en: "Hey! What are you two talking about at the door? Come in and have some rice balls!"}
+  - {n: 21, speaker: Lin-ze, hanzi: "梁伯，使乜咁大聲？人哋拍緊拖呀！", jyutping: "loeng4 baak3, sai2 mat1 gam3 daai6 seng1? jan4 dei6 paak3 gan2 to1 aa3!", en: "梁伯, why so loud? They're courting!"}
+  - {n: 22, speaker: Kayan, hanzi: "（笑）阿果，就算你哋拍拖，都要返嚟幫手㗎。", jyutping: "(siu3) aa3 gwo2, zau6 syun3 nei5 dei6 paak3 to1, dou1 jiu3 faan1 lai4 bong1 sau2 gaa3.", en: "(Laughing) A-Gwo, even if you two are dating, you still have to come and help."}
+  - {n: 23, speaker: Hugo, hanzi: "得！除非你阿爸炒我。", jyutping: "dak1! ceoi4 fei1 nei5 aa3 baa4 caau2 ngo5.", en: "Sure! Unless your dad fires me."}
+  - {n: 24, speaker: Leung Pak, hanzi: "炒你？我仲要你教我講法文，等我去法國探你阿媽！", jyutping: "caau2 nei5? ngo5 zung6 jiu3 nei5 gaau3 ngo5 gong2 faat3 man2, dang2 ngo5 heoi3 faat3 gwok3 taam3 nei5 aa3 maa1!", en: "Fire you? I still need you to teach me French, so I can go and visit your mum in France!"}
+notes:
+  - {ref: 0, topic: grammar, text: "This review brings back P29–P34 with no new words. Look for: 一係…一係 (lines 3, 18), rhetorical 唔通 and 使乜 (lines 4, 5, 16, 21), purpose with 為咗 and 去 + V (lines 7, 9), 攞…嚟 and 帶…去 (lines 3, 9), 就算…都 and 除非 (lines 22, 23)."}
+  - {ref: 3, topic: grammar, text: "一係 A，一係 B 'either A or B' (P32): an ultimatum here. 唔郁 'not move' (郁, P2). 帶你返屋企 'take you home' (帶 + person + place, P33)."}
+  - {ref: 4, topic: grammar, text: "唔通…？ (P34) expects 'no': 'surely you don't mean I can't even…?'. 連…都 'even' (P11)."}
+  - {ref: 5, topic: grammar, text: "使乜你沖？ 'why should you make it?' = 'don't, I will' (P34). Answering a rhetorical question with an offer is very Cantonese."}
+  - {ref: 6, topic: culture, text: "正月十五 (元宵) ends the New Year: lanterns (燈籠, P12) and sweet rice balls (湯圓, P22), whose round shape stands for the family together. It is also a traditional night for couples."}
+  - {ref: 7, topic: grammar, text: "為咗 + noun 'for the sake of' (P31): 為咗間舖. 輪到我哋 'it's our turn' (P33)."}
+  - {ref: 9, topic: grammar, text: "去攞啲燈籠嚟 'go and get the lanterns (and bring them here)': 去 + V for purpose (P31) and 攞…嚟 (P33) in one sentence."}
+  - {ref: 13, topic: vocab, text: "Callbacks to P32: 貴人 'helper', 海邊 'by the sea', 講得好準 'spot on'."}
+  - {ref: 15, topic: grammar, text: "肯唔肯 'will you, are you willing to': V-唔-V with 肯. 問清楚 (line 17) 'ask properly, make sure': verb + result complement."}
+  - {ref: 18, topic: vocab, text: "答應 'agree, say yes (to a request)' (P22). 有條件 'on one condition' (P13). 逢星期日 'every Sunday'."}
+  - {ref: 22, topic: grammar, text: "就算…都 'even if' (P29) and 除非 'unless' (P29): 就算你哋拍拖，都要返嚟幫手; 除非你阿爸炒我. 炒 'fire (from a job)'."}
+pron: []
+new_words: []
+exercises:
+  translate:
+    - {hanzi: "你一係坐低，一係返屋企。", jyutping: "nei5 jat1 hai6 co5 dai1, jat1 hai6 faan1 uk1 kei2.", en: "Either sit down or go home."}
+    - {hanzi: "唔通你唔鍾意食湯圓？", jyutping: "m4 tung1 nei5 m4 zung1 ji3 sik6 tong1 jyun2?", en: "Surely you like rice balls?"}
+    - {hanzi: "使乜咁大聲？", jyutping: "sai2 mat1 gam3 daai6 seng1?", en: "Why so loud?"}
+    - {hanzi: "你去攞杯奶茶嚟俾梁伯。", jyutping: "nei5 heoi3 lo2 bui1 naai5 caa4 lai4 bei2 loeng4 baak3.", en: "Go and get a cup of milk tea for 梁伯."}
+    - {hanzi: "佢為咗間舖做咗四十幾年。", jyutping: "keoi5 wai6 zo2 gaan1 pou3 zou6 zo2 sei3 sap6 gei2 nin4.", en: "He worked forty-odd years for the shop."}
+  fill:
+    - {hanzi: "___你哋拍拖，都要返嚟幫手。", jyutping: "___ nei5 dei6 paak3 to1, dou1 jiu3 faan1 lai4 bong1 sau2.", answer: "zau6 syun3", answer_hanzi: 就算, en: "Even if you're dating, you still have to come and help."}
+    - {hanzi: "我唔會走，___佢炒我。", jyutping: "ngo5 m4 wui5 zau2, ___ keoi5 caau2 ngo5.", answer: "ceoi4 fei1", answer_hanzi: 除非, en: "I won't leave, unless he fires me."}
+    - {hanzi: "你___唔肯做我女朋友？", jyutping: "nei5 ___ m4 hang2 zou6 ngo5 neoi5 pang4 jau5?", answer: "hang2", answer_hanzi: 肯, en: "Will you be my girlfriend?"}
+    - {hanzi: "而家___到我哋照顧你。", jyutping: "ji4 gaa1 ___ dou3 ngo5 dei6 ziu3 gu3 nei5.", answer: "leon4", answer_hanzi: 輪, en: "Now it's our turn to look after you."}
+    - {hanzi: "你去攞啲燈籠___，掛喺門口。", jyutping: "nei5 heoi3 lo2 di1 dang1 lung4 ___, gwaa3 hai2 mun4 hau2.", answer: "lai4", answer_hanzi: 嚟, en: "Go and get the lanterns and hang them at the door."}

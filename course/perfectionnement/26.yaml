@@ -1,0 +1,98 @@
+# 進修 26. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 26
+title: {en: "The rock of the waiting wife", jyutping: "mong6 fu1 sek6", hanzi: "望夫石"}
+intro: "A legend told on the trail, and what makes people feel or do things: 令, 搞到, 變成."
+genre: story
+review: false
+setting: "Sunday 17 January, the second weekend. Stage 5 of the MacLehose Trail runs along the hills between Sha Tin and Kowloon, past Lion Rock. Hugo sits down on a rock, exhausted. Across the valley, on a ridge above Sha Tin, Hiu-ching points to a rock shaped like a woman carrying a child."
+dialogue:
+  - {n: 1, speaker: Hugo, hanzi: "第五段……我對腳已經唔係我嘅腳喇。（坐低）", jyutping: "dai6 ng5 dyun6 …… ngo5 deoi3 goek3 ji5 ging1 m4 hai6 ngo5 ge3 goek3 laa3. (co5 dai1)", en: "Stage five… my legs are no longer my legs. (Sits down)"}
+  - {n: 2, speaker: Hiu-ching, hanzi: "唞吓啦。你望吓對面，嗰嚿石似唔似一個女人孭住個BB？", jyutping: "tau2 haa5 laa1. nei5 mong6 haa5 deoi3 min6, go2 gau6 sek6 ci5 m4 ci5 jat1 go3 neoi5 jan2 me1 zyu6 go3 BB?", en: "Have a rest. Look across there: doesn't that rock look like a woman carrying a baby on her back?"}
+  - {n: 3, speaker: Hugo, hanzi: "似喎！有個頭，背脊仲有一細嚿。", jyutping: "ci5 wo3! jau5 go3 tau4, bui3 zek3 zung6 jau5 jat1 sai3 gau6.", en: "It does! There's a head, and a little lump on her back."}
+  - {n: 4, speaker: Hiu-ching, hanzi: "嗰嚿就係望夫石。我婆婆講過個傳說俾我聽。", jyutping: "go2 gau6 zau6 hai6 mong6 fu1 sek6. ngo5 po4 po2 gong2 gwo3 go3 cyun4 syut3 bei2 ngo5 teng1.", en: "That's Amah Rock, 'the rock of the waiting wife'. My grandma told me the legend."}
+  - {n: 5, speaker: Hiu-ching, hanzi: "好耐好耐以前，沙田有個漁民，佢老婆啱啱生咗個仔。", jyutping: "hou2 noi6 hou2 noi6 ji5 cin4, saa1 tin4 jau5 go3 jyu4 man4, keoi5 lou5 po4 ngaam1 ngaam1 saang1 zo2 go3 zai2.", en: "A long, long time ago there was a fisherman in Sha Tin, whose wife had just given birth to a son."}
+  - {n: 6, speaker: Hiu-ching, hanzi: "有一日，佢出海打魚，點知打風，佢一去就冇再返嚟。", jyutping: "jau5 jat1 jat6, keoi5 ceot1 hoi2 daa2 jyu2, dim2 zi1 daa2 fung1, keoi5 jat1 heoi3 zau6 mou5 zoi3 faan1 lai4.", en: "One day he went out to sea to fish, but a typhoon came, and once he'd gone he never came back."}
+  - {n: 7, speaker: Hiu-ching, hanzi: "佢老婆唔肯相信佢死咗。佢日日孭住個仔，爬上山頂，望住個海，等佢返嚟。", jyutping: "keoi5 lou5 po4 m4 hang2 soeng1 seon3 keoi5 sei2 zo2. keoi5 jat6 jat6 me1 zyu6 go3 zai2, paa4 soeng5 saan1 deng2, mong6 zyu6 go3 hoi2, dang2 keoi5 faan1 lai4.", en: "His wife refused to believe he was dead. Every day she carried her son on her back up to the top of the hill and gazed at the sea, waiting for him to come back."}
+  - {n: 8, speaker: Hugo, hanzi: "日日都爬？呢度咁斜……", jyutping: "jat6 jat6 dou1 paa4? ni1 dou6 gam3 ce3 ……", en: "She climbed every day? It's so steep here…"}
+  - {n: 9, speaker: Hiu-ching, hanzi: "一年又一年，佢由後生等到老。天上啲神好感動，就令佢同個仔變成一嚿石，永遠望住個海。", jyutping: "jat1 nin4 jau6 jat1 nin4, keoi5 jau4 hau6 saang1 dang2 dou3 lou5. tin1 soeng6 di1 san4 hou2 gam2 dung6, zau6 ling6 keoi5 tung4 go3 zai2 bin3 sing4 jat1 gau6 sek6, wing5 jyun5 mong6 zyu6 go3 hoi2.", en: "Year after year she waited, from youth to old age. The gods in heaven were so moved that they turned her and her son into a rock, gazing at the sea for ever."}
+  - {n: 10, speaker: Hugo, hanzi: "個故事令我好難過。佢等咗成世，都等唔到。", jyutping: "go3 gu3 si6 ling6 ngo5 hou2 naan4 gwo3. keoi5 dang2 zo2 seng4 sai3, dou1 dang2 m4 dou2.", en: "That story makes me very sad. She waited her whole life and never got what she waited for."}
+  - {n: 11, speaker: Hiu-ching, hanzi: "所以以前好多女人上去拜，求個老公出海平平安安。", jyutping: "so2 ji5 ji5 cin4 hou2 do1 neoi5 jan2 soeng5 heoi3 baai3, kau4 go3 lou5 gung1 ceot1 hoi2 ping4 ping4 on1 on1.", en: "So in the old days lots of women went up there to pray that their husbands would be safe at sea."}
+  - {n: 12, speaker: Hiu-ching, hanzi: "你再望吓前面：嗰座山好似一隻獅子伏喺度，就係獅子山。", jyutping: "nei5 zoi3 mong6 haa5 cin4 min6: go2 zo6 saan1 hou2 ci5 jat1 zek3 si1 zi2 fuk6 hai2 dou6, zau6 hai6 si1 zi2 saan1.", en: "Now look ahead: that hill looks like a lion crouching there. That's Lion Rock."}
+  - {n: 13, speaker: Hiu-ching, hanzi: "七十年代有首好出名嘅歌，講香港人喺困難嘅時候同舟共濟。", jyutping: "cat1 sap6 nin4 doi6 jau5 sau2 hou2 ceot1 meng2 ge3 go1, gong2 hoeng1 gong2 jan4 hai2 kwan3 naan4 ge3 si4 hau6 tung4 zau1 gung6 zai3.", en: "In the seventies there was a very famous song about Hongkongers pulling together through hard times."}
+  - {n: 14, speaker: Hiu-ching, hanzi: "後來，啲人叫呢種態度做「獅子山精神」：肯捱、肯做、唔認輸。", jyutping: "hau6 loi4, di1 jan4 giu3 ni1 zung2 taai3 dou6 zou6 \"si1 zi2 saan1 zing1 san4\": hang2 ngaai4, hang2 zou6, m4 jing6 syu1.", en: "Later people called that attitude 'the Lion Rock spirit': willing to slog, willing to work, never admitting defeat."}
+  - {n: 15, speaker: Hugo, hanzi: "好似梁伯老豆嗰一代人。", jyutping: "hou2 ci5 loeng4 baak3 lou5 dau6 go2 jat1 doi6 jan4.", en: "Like Uncle Leung's father's generation."}
+  - {n: 16, speaker: Hiu-ching, hanzi: "係呀。不過而家有人話，呢種精神已經唔夠用。樓價咁貴，人工追唔上，搞到好多後生好迷茫。", jyutping: "hai6 aa3. bat1 gwo3 ji4 gaa1 jau5 jan4 waa6, ni1 zung2 zing1 san4 ji5 ging1 m4 gau3 jung6. lau4 gaa3 gam3 gwai3, jan4 gung1 zeoi1 m4 soeng5, gaau2 dou3 hou2 do1 hau6 saang1 hou2 mai4 mong4.", en: "Yes. But now some people say that spirit isn't enough any more. Flats are so expensive and wages can't keep up, which leaves lots of young people feeling lost."}
+  - {n: 17, speaker: Hiu-ching, hanzi: "有人走，有人留，各有各嘅原因。", jyutping: "jau5 jan4 zau2, jau5 jan4 lau4, gok3 jau5 gok3 ge3 jyun4 jan1.", en: "Some leave, some stay; everyone has their own reasons."}
+  - {n: 18, speaker: Hugo, hanzi: "好似我哋首歌講嘅嘢：冇邊個啱，冇邊個錯。", jyutping: "hou2 ci5 ngo5 dei6 sau2 go1 gong2 ge3 je5: mou5 bin1 go3 ngaam1, mou5 bin1 go3 co3.", en: "Like what our song says: nobody's right, nobody's wrong."}
+  - {n: 19, speaker: Hiu-ching, hanzi: "（笑）阿占啲歌詞出現喺麥理浩徑，佢實好開心。行啦，第六段有好多馬騮。", jyutping: "(siu3) aa3 zim1 di1 go1 ci4 ceot1 jin6 hai2 mak6 lei5 hou6 ging3, keoi5 sat6 hou2 hoi1 sam1. haang4 laa1, dai6 luk6 dyun6 jau5 hou2 do1 maa5 lau1.", en: "(Laughing) Jim's lyrics turning up on the MacLehose Trail: he'll be thrilled. Come on, stage six has lots of monkeys."}
+  - {n: 20, speaker: Hugo, hanzi: "（金山郊野公園）嘩！真係好多馬騮，成條路都係！", jyutping: "(gam1 saan1 gaau1 je5 gung1 jyun2) waa3! zan1 hai6 hou2 do1 maa5 lau1, seng4 tiu4 lou6 dou1 hai6!", en: "(Kam Shan Country Park) Wow! There really are lots of monkeys, all along the path!"}
+  - {n: 21, speaker: Hiu-ching, hanzi: "小心！唔好喺佢哋面前攞嘢食出嚟，佢哋會搶。", jyutping: "siu2 sam1! m4 hou2 hai2 keoi5 dei6 min6 cin4 lo2 je5 sik6 ceot1 lai4, keoi5 dei6 wui5 coeng2.", en: "Careful! Don't take food out in front of them; they'll snatch it."}
+  - {n: 22, speaker: Hugo, hanzi: "太遲喇……佢搶咗我個麵包！", jyutping: "taai3 ci4 laa3 …… keoi5 coeng2 zo2 ngo5 go3 min6 baau1!", en: "Too late… it's snatched my bread!"}
+  - {n: 23, speaker: Hiu-ching, hanzi: "哈哈，連馬騮都知道你最好欺負。", jyutping: "haa1 haa1, lin4 maa5 lau1 dou1 zi1 dou3 nei5 zeoi3 hou2 hei1 fu6.", en: "Ha ha, even the monkeys know you're the easiest to push around."}
+  - {n: 24, speaker: Hugo, hanzi: "唉，我都要變成望夫石喇：日日企喺度，等我個麵包返嚟。", jyutping: "aai1, ngo5 dou1 jiu3 bin3 sing4 mong6 fu1 sek6 laa3: jat6 jat6 kei5 hai2 dou6, dang2 ngo5 go3 min6 baau1 faan1 lai4.", en: "Sigh, I'm going to turn into Amah Rock too: standing here every day, waiting for my bread to come back."}
+notes:
+  - {ref: 2, topic: vocab, text: "望 mong6 = look (towards), gaze at: 望吓對面 'look across'; 望住個海 'gazing at the sea' (line 7). 睇 is the everyday 'look'; 望 is looking out at something in the distance, or hoping. 孭 me1 = carry on one's back. 背脊 bui3 zek3 (line 3) = the back."}
+  - {ref: 4, topic: culture, text: "望夫石 'the rock of the gazing wife', in English Amah Rock, stands on a ridge above Sha Tin. 傳說 cyun4 syut3 = legend. Similar legends exist all over southern China; this one is Hong Kong's best known."}
+  - {ref: 5, topic: vocab, text: "漁民 jyu4 man4 = fisherman, fishing folk. 生仔 saang1 zai2 = give birth (to a child, a son); 生咗個仔 'had a son'. 好耐好耐以前 'a long, long time ago': the storyteller's opening."}
+  - {ref: 6, topic: vocab, text: "出海 ceot1 hoi2 = go out to sea. 打魚 daa2 jyu2 = fish (as work). 一去就冇再返嚟 'once he'd gone, he never came back' (一…就, P3)."}
+  - {ref: 9, topic: grammar, text: "令 ling6 + person + verb / adjective = make someone do / feel: 令佢同個仔變成一嚿石 'made her and her son become a rock'; 令我好難過 'makes me sad' (line 10). 變成 bin3 sing4 = turn into, become. 感動 gam2 dung6 = moved, touched. 一年又一年 'year after year'."}
+  - {ref: 10, topic: vocab, text: "難過 naan4 gwo3 = sad, upset. 等唔到 'wait but never get': potential complement (P4)."}
+  - {ref: 11, topic: grammar, text: "平平安安 ping4 ping4 on1 on1 'safe and sound': AABB doubling of 平安 ping4 on1 'safe, peace' (P25). 求 kau4 = pray for, beg."}
+  - {ref: 12, topic: vocab, text: "獅子山 si1 zi2 saan1 = Lion Rock, the hill between Kowloon and Sha Tin. 伏 fuk6 = crouch, lie down. 座 zo6 is the classifier for hills and buildings."}
+  - {ref: 13, topic: culture, text: "The 1979 Cantopop song 'Below the Lion Rock' (獅子山下) became the anthem of 1970s Hong Kong: people from everywhere, poor but working together. 困難 kwan3 naan4 = difficulty, hardship. 同舟共濟 tung4 zau1 gung6 zai3 = 'cross the river in one boat': pull together."}
+  - {ref: 14, topic: vocab, text: "態度 taai3 dou6 = attitude. 精神 here = spirit (精神 'lively', P3). 認輸 jing6 syu1 = admit defeat: 唔認輸 'never give up'. 一代人 jat1 doi6 jan4 (line 15) = a generation."}
+  - {ref: 16, topic: grammar, text: "搞到 gaau2 dou3 + result = cause, end up making …: 搞到好多後生好迷茫 'leaving lots of young people lost'. It's more colloquial than 令, and often for bad results. 樓價 lau4 gaa3 = property prices. 追唔上 'can't keep up'. 迷茫 mai4 mong4 = lost, adrift."}
+  - {ref: 17, topic: vocab, text: "各有各 gok3 jau5 gok3 = each has their own: 各有各嘅原因 'everyone has their own reasons'."}
+  - {ref: 19, topic: vocab, text: "出現 ceot1 jin6 = appear, turn up. 馬騮 maa5 lau1 = monkey (spoken; written 猴子): the macaques of Kam Shan (金山) on stage 6 are famous for snatching food."}
+  - {ref: 23, topic: vocab, text: "欺負 hei1 fu6 = bully, pick on: 最好欺負 'easiest to push around'. 面前 'in front of' (line 21)."}
+  - {ref: 9, topic: vs-mandarin, text: "令 works the same in Mandarin (令我很難過), and 讓 / 使 too. 搞到 ≈ Mandarin 弄得 / 搞得 (弄得大家很迷茫). Cantonese 馬騮 = 猴子, 孭 = 背 (bēi), 望 'gaze at' = 望 / 看."}
+pron:
+  - {ref: 2, text: "孭 'carry on the back' is me1, like 咩 me1 'what'."}
+  - {ref: 9, text: "令 'make' is ling6 here (the dictionary also lists ling1 and lim1 for other uses)."}
+  - {ref: 19, text: "馬騮 maa5 lau1: 騮 is lau1, high level."}
+new_words:
+  - {jyutping: "mong6", hanzi: 望, en: "look towards, gaze at"}
+  - {jyutping: "bui3 zek3", hanzi: 背脊, en: "the back"}
+  - {jyutping: "cyun4 syut3", hanzi: 傳說, en: "legend"}
+  - {jyutping: "jyu4 man4", hanzi: 漁民, en: "fisherman"}
+  - {jyutping: "saang1 zai2", hanzi: 生仔, en: "give birth"}
+  - {jyutping: "ceot1 hoi2", hanzi: 出海, en: "go out to sea"}
+  - {jyutping: "daa2 jyu2", hanzi: 打魚, en: "fish (as work)"}
+  - {jyutping: "gam2 dung6", hanzi: 感動, en: "moved, touched"}
+  - {jyutping: "bin3 sing4", hanzi: 變成, en: "turn into, become"}
+  - {jyutping: "naan4 gwo3", hanzi: 難過, en: "sad, upset"}
+  - {jyutping: "ping4 on1", hanzi: 平安, en: "safe; peace"}
+  - {jyutping: "si1 zi2 saan1", hanzi: 獅子山, en: "Lion Rock"}
+  - {jyutping: "si1 zi2", hanzi: 獅子, en: "lion"}
+  - {jyutping: "fuk6", hanzi: 伏, en: "crouch, lie down"}
+  - {jyutping: "kwan3 naan4", hanzi: 困難, en: "difficulty, hardship"}
+  - {jyutping: "tung4 zau1 gung6 zai3", hanzi: 同舟共濟, en: "pull together"}
+  - {jyutping: "jing6 syu1", hanzi: 認輸, en: "admit defeat"}
+  - {jyutping: "gaau2 dou3", hanzi: 搞到, en: "cause, end up making"}
+  - {jyutping: "mai4 mong4", hanzi: 迷茫, en: "lost, adrift"}
+  - {jyutping: "gok3 jau5 gok3", hanzi: 各有各, en: "each has their own"}
+  - {jyutping: "ceot1 jin6", hanzi: 出現, en: "appear"}
+  - {jyutping: "hei1 fu6", hanzi: 欺負, en: "bully, pick on"}
+  - {jyutping: "tin1 soeng6", hanzi: 天上, en: "in the sky, in heaven"}
+  - {jyutping: "san4", hanzi: 神, en: "god"}
+  - {jyutping: "doi6", hanzi: 代, en: "generation"}
+  - {jyutping: "saa1 tin4", hanzi: 沙田, en: "Sha Tin"}
+  - {jyutping: "gam1 saan1", hanzi: 金山, en: "Kam Shan; Gold Mountain"}
+  - {jyutping: "ling6", hanzi: 令, en: "make, cause"}
+  - {jyutping: "taai3 dou6", hanzi: 態度, en: "attitude"}
+  - {jyutping: "po4 po2", hanzi: 婆婆, en: "grandma (mother's mother)"}
+  - {jyutping: "neoi5 jan2", hanzi: 女人, en: "woman"}
+  - {jyutping: "ging2 dim2", hanzi: 景點, en: "sight, tourist spot"}
+exercises:
+  translate:
+    - {hanzi: "呢首歌令我諗起屋企。", jyutping: "ni1 sau2 go1 ling6 ngo5 nam2 hei2 uk1 kei2.", en: "This song makes me think of home."}
+    - {hanzi: "落大雨，搞到我哋全身濕晒。", jyutping: "lok6 daai6 jyu5, gaau2 dou3 ngo5 dei6 cyun4 san1 sap1 saai3.", en: "It poured, and we got soaked through."}
+    - {hanzi: "條村以前好窮，而家變成咗旅遊景點。", jyutping: "tiu4 cyun1 ji5 cin4 hou2 kung4, ji4 gaa1 bin3 sing4 zo2 leoi5 jau4 ging2 dim2.", en: "The village used to be poor; now it's become a tourist spot."}
+    - {hanzi: "佢喺我面前喊，我都好難過。", jyutping: "keoi5 hai2 ngo5 min6 cin4 haam3, ngo5 dou1 hou2 naan4 gwo3.", en: "She cried in front of me, and I felt sad too."}
+    - {hanzi: "唔好欺負細佬！", jyutping: "m4 hou2 hei1 fu6 sai3 lou2!", en: "Don't pick on your little brother!"}
+  fill:
+    - {hanzi: "個故事___我好感動。", jyutping: "go3 gu3 si6 ___ ngo5 hou2 gam2 dung6.", answer: "ling6", answer_hanzi: 令, en: "The story moved me deeply."}
+    - {hanzi: "樓價咁貴，___好多後生買唔起樓。", jyutping: "lau4 gaa3 gam3 gwai3, ___ hou2 do1 hau6 saang1 maai5 m4 hei2 lau2.", answer: "gaau2 dou3", answer_hanzi: 搞到, en: "Property is so expensive that many young people can't afford a flat."}
+    - {hanzi: "佢同個仔___咗一嚿石。", jyutping: "keoi5 tung4 go3 zai2 ___ zo2 jat1 gau6 sek6.", answer: "bin3 sing4", answer_hanzi: 變成, en: "She and her son turned into a rock."}
+    - {hanzi: "佢日日___住個海，等老公返嚟。", jyutping: "keoi5 jat6 jat6 ___ zyu6 go3 hoi2, dang2 lou5 gung1 faan1 lai4.", answer: "mong6", answer_hanzi: 望, en: "Every day she gazed at the sea, waiting for her husband to come back."}
+    - {hanzi: "有人走，有人留，___嘅原因。", jyutping: "jau5 jan4 zau2, jau5 jan4 lau4, ___ ge3 jyun4 jan1.", answer: "gok3 jau5 gok3", answer_hanzi: 各有各, en: "Some leave, some stay; each has their own reasons."}

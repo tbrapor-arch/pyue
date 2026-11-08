@@ -1,0 +1,59 @@
+# 進修 28. Review of P22–P27: no new words. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 28
+title: {en: "Review: a hundred kilometres", jyutping: "fuk6 zaap6", hanzi: "復習"}
+genre: review
+review: true
+setting: "Sunday 31 January, late afternoon. After four weekends, Hugo and Hiu-ching walk the last kilometre of stage 10 into Tuen Mun, the end of the MacLehose Trail. Kayan and the band are waiting at the finish."
+dialogue:
+  - {n: 1, speaker: Hiu-ching, hanzi: "見唔見到？前面就係最後一公里！", jyutping: "gin3 m4 gin3 dou2? cin4 min6 zau6 hai6 zeoi3 hau6 jat1 gung1 lei5!", en: "Can you see it? That's the last kilometre ahead!"}
+  - {n: 2, speaker: Hugo, hanzi: "四個周末，十段路，一百公里……我對腳軟晒，但係我好開心。", jyutping: "sei3 go3 zau1 mut6, sap6 dyun6 lou6, jat1 baak3 gung1 lei5 …… ngo5 deoi3 goek3 jyun5 saai3, daan6 hai6 ngo5 hou2 hoi1 sam1.", en: "Four weekends, ten stages, a hundred kilometres… my legs are jelly, but I'm so happy."}
+  - {n: 3, speaker: Hiu-ching, hanzi: "你記唔記得第一日？你喺東壩問我，啲石柱係咪人整嘅。", jyutping: "nei5 gei3 m4 gei3 dak1 dai6 jat1 jat6? nei5 hai2 dung1 baa3 man6 ngo5, di1 sek6 cyu5 hai6 mai6 jan4 zing2 ge3.", en: "Do you remember the first day? At the East Dam you asked me whether the stone columns were man-made."}
+  - {n: 4, speaker: Hugo, hanzi: "記得。你話係火山爆發整嘅，一億幾千萬年前。我仲記得西灣啲牛，喺沙灘度瞓覺。", jyutping: "gei3 dak1. nei5 waa6 hai6 fo2 saan1 baau3 faat3 zing2 ge3, jat1 jik1 gei2 cin1 maan6 nin4 cin4. ngo5 zung6 gei3 dak1 sai1 waan1 di1 ngau4, hai2 saa1 taan1 dou6 fan3 gaau3.", en: "I remember. You said a volcano made them, over a hundred and forty million years ago. And I remember the cows at Sai Wan, asleep on the beach."}
+  - {n: 5, speaker: Hiu-ching, hanzi: "仲有金山啲馬騮，搶咗你個麵包。", jyutping: "zung6 jau5 gam1 saan1 di1 maa5 lau1, coeng2 zo2 nei5 go3 min6 baau1.", en: "And the monkeys at Kam Shan, who snatched your bread."}
+  - {n: 6, speaker: Hugo, hanzi: "唔好提喇。我而家一見到馬騮就驚。", jyutping: "m4 hou2 tai4 laa3. ngo5 ji4 gaa1 jat1 gin3 dou2 maa5 lau1 zau6 geng1.", en: "Don't remind me. Now the moment I see a monkey I'm scared."}
+  - {n: 7, speaker: Hiu-ching, hanzi: "上個禮拜行最高嗰座山，好凍，乜都睇唔清楚，你一路行一路講笑，我都唔覺得辛苦。", jyutping: "soeng6 go3 lai5 baai3 haang4 zeoi3 gou1 go2 zo6 saan1, hou2 dung3, mat1 dou1 tai2 m4 cing1 co2, nei5 jat1 lou6 haang4 jat1 lou6 gong2 siu3, ngo5 dou1 m4 gok3 dak1 san1 fu2.", en: "Last week, on the highest mountain, it was freezing and you couldn't see a thing, but you joked all the way, and I didn't feel the effort at all."}
+  - {n: 8, speaker: Hugo, hanzi: "因為我一緊張，就會講好多嘢。", jyutping: "jan1 wai6 ngo5 jat1 gan2 zoeng1, zau6 wui5 gong2 hou2 do1 je5.", en: "Because whenever I'm nervous, I talk a lot."}
+  - {n: 9, speaker: Kayan, hanzi: "（喺前面大叫）阿果！曉晴！喺呢度！", jyutping: "(hai2 cin4 min6 daai6 giu3) aa3 gwo2! hiu2 cing4! hai2 ni1 dou6!", en: "(Shouting from up ahead) A-Gwo! Hiu-ching! Over here!"}
+  - {n: 10, speaker: Jim, hanzi: "我哋等咗成個鐘！Ken買咗啤酒，So寫咗張紙：「阿果，你得咗！」", jyutping: "ngo5 dei6 dang2 zo2 seng4 go3 zung1! Ken maai5 zo2 be1 zau2, So se2 zo2 zoeng1 zi2: \"aa3 gwo2, nei5 dak1 zo2!\"", en: "We've been waiting a whole hour! Ken bought beer, and So wrote a sign: 'A-Gwo, you did it!'"}
+  - {n: 11, speaker: So, hanzi: "我寫錯咗兩個字，改咗三次。", jyutping: "ngo5 se2 co3 zo2 loeng5 go3 zi6, goi2 zo2 saam1 ci3.", en: "I got two characters wrong and redid it three times."}
+  - {n: 12, speaker: Ken, hanzi: "好嘢，阿果！一百公里，我坐小巴都覺得遠。", jyutping: "hou2 je5, aa3 gwo2! jat1 baak3 gung1 lei5, ngo5 co5 siu2 baa1 dou1 gok3 dak1 jyun5.", en: "Well done, A-Gwo! A hundred kilometres: even by minibus I'd think it's far."}
+  - {n: 13, speaker: Kayan, hanzi: "阿爸叫我同你講：今晚梁記煲咗湯，同做冬嗰日一樣，叫你同曉晴一齊返嚟食飯。", jyutping: "aa3 baa4 giu3 ngo5 tung4 nei5 gong2: gam1 maan5 loeng4 gei3 bou1 zo2 tong1, tung4 zou6 dung1 go2 jat6 jat1 joeng6, giu3 nei5 tung4 hiu2 cing4 jat1 cai4 faan1 lai4 sik6 faan6.", en: "Dad told me to tell you: tonight there's soup at Leung Kee, like on the solstice, and he wants you and Hiu-ching to come back for dinner."}
+  - {n: 14, speaker: Hiu-ching, hanzi: "我都可以去？", jyutping: "ngo5 dou1 ho2 ji5 heoi3?", en: "I can come too?"}
+  - {n: 15, speaker: Kayan, hanzi: "當然！蓮姐聽講你係長洲人，已經問咗我十條問題。", jyutping: "dong1 jin4! lin4 ze2 teng1 gong2 nei5 hai6 coeng4 zau1 jan4, ji5 ging1 man6 zo2 ngo5 sap6 tiu4 man6 tai4.", en: "Of course! Lin-ze heard you're from Cheung Chau and has already asked me ten questions."}
+  - {n: 16, speaker: Hugo, hanzi: "佢實問你屋企係咪開餅舖，你哋拍咗幾耐拖……", jyutping: "keoi5 sat6 man6 nei5 uk1 kei2 hai6 mai6 hoi1 beng2 pou2, nei5 dei6 paak3 zo2 gei2 noi6 to1 ……", en: "She'll ask whether your family runs a bakery, how long we've been going out…"}
+  - {n: 17, speaker: Hiu-ching, hanzi: "咁我扮聽唔明，同佢雞同鴨講。", jyutping: "gam2 ngo5 baan6 teng1 m4 ming4, tung4 keoi5 gai1 tung4 aap3 gong2.", en: "Then I'll pretend not to understand and we'll talk past each other."}
+  - {n: 18, speaker: Jim, hanzi: "喂，阿果，仲有一樣嘢。舊嗰間band房冇咗成個月，我哋而家冇地方練歌。", jyutping: "wai3, aa3 gwo2, zung6 jau5 jat1 joeng6 je5. gau6 go2 gaan1 band fong2 mou5 zo2 seng4 go3 jyut6, ngo5 dei6 ji4 gaa1 mou5 dei6 fong1 lin6 go1.", en: "Hey, A-Gwo, one more thing. The old rehearsal room's been gone a whole month; we've got nowhere to practise now."}
+  - {n: 19, speaker: Hugo, hanzi: "我知。我一路行山一路諗，諗到一個地方。", jyutping: "ngo5 zi1. ngo5 jat1 lou6 haang4 saan1 jat1 lou6 nam2, nam2 dou2 jat1 go3 dei6 fong1.", en: "I know. I've been thinking about it the whole way, and I've thought of a place."}
+  - {n: 20, speaker: Kayan, hanzi: "唔係梁記天台呀？阿爸實唔准。", jyutping: "m4 hai6 loeng4 gei3 tin1 toi4 aa4? aa3 baa4 sat6 m4 zeon2.", en: "Not Leung Kee's roof? Dad will never allow it."}
+  - {n: 21, speaker: Hugo, hanzi: "唔係天台，係長洲。曉晴婆婆間餅舖樓上有間房，空咗好耐。", jyutping: "m4 hai6 tin1 toi4, hai6 coeng4 zau1. hiu2 cing4 po4 po2 gaan1 beng2 pou2 lau4 soeng6 jau5 gaan1 fong2, hung1 zo2 hou2 noi6.", en: "Not the roof: Cheung Chau. There's a room above Hiu-ching's grandma's bakery that's been empty for ages."}
+  - {n: 22, speaker: Hiu-ching, hanzi: "我婆婆話得，不過有條件：你哋每個禮拜要幫手搬麵粉。", jyutping: "ngo5 po4 po2 waa6 dak1, bat1 gwo3 jau5 tiu4 gin2: nei5 dei6 mui5 go3 lai5 baai3 jiu3 bong1 sau2 bun1 min6 fan2.", en: "My grandma says yes, but on one condition: you have to help carry the flour every week."}
+  - {n: 23, speaker: Ken, hanzi: "搬麵粉？冇問題，我大隻。", jyutping: "bun1 min6 fan2? mou5 man6 tai4, ngo5 daai6 zek3.", en: "Carry flour? No problem, I'm big."}
+  - {n: 24, speaker: Kayan, hanzi: "你哋一邊夾band，一邊搭船，好似去旅行咁。", jyutping: "nei5 dei6 jat1 bin1 gaap3 band, jat1 bin1 daap3 syun4, hou2 ci5 heoi3 leoi5 hang4 gam2.", en: "Playing in a band and taking the ferry at the same time: it'll be like going on holiday."}
+  - {n: 25, speaker: Hugo, hanzi: "一百公里都行完，搭船梗係冇問題。我哋返去食飯啦！", jyutping: "jat1 baak3 gung1 lei5 dou1 haang4 jyun4, daap3 syun4 gang2 hai6 mou5 man6 tai4. ngo5 dei6 faan1 heoi3 sik6 faan6 laa1!", en: "After a hundred kilometres on foot, a ferry is no problem. Let's go back and eat!"}
+notes:
+  - {ref: 0, topic: grammar, text: "This review brings back P22–P27 with no new words. Look for: split verb-object pairs (拍咗幾耐拖, line 16), doubling, 一路…一路 and 一邊…一邊 (lines 7, 19, 24), 一…就 (lines 6, 8), causing and becoming, and the hiking and island words."}
+  - {ref: 2, topic: vocab, text: "對腳軟晒 'my legs have gone to jelly' (腳軟, P25). 但係我好開心: contrast with 但係 after a list."}
+  - {ref: 6, topic: grammar, text: "一見到馬騮就驚 'the moment I see a monkey I'm scared': 一 A 就 B (P27)."}
+  - {ref: 7, topic: grammar, text: "睇唔清楚 'can't see clearly': potential complement (P4) with 清楚 as the result. 一路行一路講笑 'joking all the way' (P27)."}
+  - {ref: 9, topic: vocab, text: "大叫 'shout' (P18). 喺呢度 'over here'."}
+  - {ref: 10, topic: vocab, text: "你得咗！ 'you did it!': 得 'succeed', with 咗 for a completed result."}
+  - {ref: 13, topic: grammar, text: "Reported orders (P17): 阿爸叫我同你講… 'Dad told me to tell you …'; 叫你…返嚟食飯 'he wants you to come back for dinner'. 同做冬嗰日一樣 'like on the solstice' (P22)."}
+  - {ref: 16, topic: grammar, text: "拍拖 splits around 咗 and a length: 拍咗幾耐拖 'have been going out how long' (P3, P22)."}
+  - {ref: 21, topic: vocab, text: "空咗好耐 'has been empty for ages': adjective + 咗 + length. 空 hung1 'empty' (P20)."}
+  - {ref: 22, topic: vocab, text: "話得 'says it's fine, says yes'. 有條件 'on a condition' (條件, P13)."}
+  - {ref: 24, topic: grammar, text: "一邊…一邊 (P27) for two activities going on together over a period, not only at one moment."}
+pron: []
+new_words: []
+exercises:
+  translate:
+    - {hanzi: "我哋一路行山一路傾計，唔覺得攰。", jyutping: "ngo5 dei6 jat1 lou6 haang4 saan1 jat1 lou6 king1 gai2, m4 gok3 dak1 gui6.", en: "We chatted the whole hike and didn't feel tired."}
+    - {hanzi: "佢一見到馬騮就驚。", jyutping: "keoi5 jat1 gin3 dou2 maa5 lau1 zau6 geng1.", en: "The moment he sees a monkey, he's scared."}
+    - {hanzi: "你哋拍咗幾耐拖？", jyutping: "nei5 dei6 paak3 zo2 gei2 noi6 to1?", en: "How long have you been going out?"}
+    - {hanzi: "婆婆話得，不過有條件。", jyutping: "po4 po2 waa6 dak1, bat1 gwo3 jau5 tiu4 gin2.", en: "Grandma says yes, but on one condition."}
+    - {hanzi: "個海藍藍哋，啲沙白雪雪。", jyutping: "go3 hoi2 laam4 laam4 dei2, di1 saa1 baak6 syut1 syut1.", en: "The sea is a lovely blue and the sand is snow-white."}
+  fill:
+    - {hanzi: "佢一緊張，___會講好多嘢。", jyutping: "keoi5 jat1 gan2 zoeng1, ___ wui5 gong2 hou2 do1 je5.", answer: "zau6", answer_hanzi: 就, en: "Whenever he's nervous, he talks a lot."}
+    - {hanzi: "我哋___夾band，一邊搭船。", jyutping: "ngo5 dei6 ___ gaap3 band, jat1 bin1 daap3 syun4.", answer: "jat1 bin1", answer_hanzi: 一邊, en: "We'll play in the band and take the ferry at the same time."}
+    - {hanzi: "我寫錯___兩個字。", jyutping: "ngo5 se2 co3 ___ loeng5 go3 zi6.", answer: "zo2", answer_hanzi: 咗, en: "I wrote two characters wrong."}
+    - {hanzi: "間房___咗好耐。", jyutping: "gaan1 fong2 ___ zo2 hou2 noi6.", answer: "hung1", answer_hanzi: 空, en: "The room has been empty for ages."}
+    - {hanzi: "上面好凍，乜都睇唔___。", jyutping: "soeng6 min6 hou2 dung3, mat1 dou1 tai2 m4 ___.", answer: "cing1 co2", answer_hanzi: 清楚, en: "It was freezing up there and you couldn't see anything clearly."}

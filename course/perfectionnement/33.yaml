@@ -1,0 +1,106 @@
+# 進修 33. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 33
+title: {en: "Keep the green hills", jyutping: "lau4 dak1 cing1 saan1 zoi6", hanzi: "留得青山在"}
+intro: "A night in hospital: bringing and fetching people and things with 帶…去 / 嚟 and 攞…嚟 / 去, and the words of the emergency room."
+genre: dialogue
+review: false
+setting: "Evening of 年初三, Monday 8 February. 梁伯 insisted on reopening 梁記 for the New Year rush. In the afternoon he felt pain in his chest and collapsed behind the counter; 強哥 called an ambulance. Kayan, Hugo and Hiu-ching are at the A&E of Caritas Medical Centre in Cheung Sha Wan."
+dialogue:
+  - {n: 1, speaker: Kayan, hanzi: "醫生，我阿爸點呀？我係佢個女。", jyutping: "ji1 sang1, ngo5 aa3 baa4 dim2 aa3? ngo5 hai6 keoi5 go3 neoi2.", en: "Doctor, how's my father? I'm his daughter."}
+  - {n: 2, speaker: Doctor, hanzi: "你係家屬？病人心臟有條血管塞咗，所以心口痛，暈低咗。要即刻做手術，通波仔。", jyutping: "nei5 hai6 gaa1 suk6? beng6 jan4 sam1 zong6 jau5 tiu4 hyut3 gun2 sak1 zo2, so2 ji5 sam1 hau2 tung3, wan4 dai1 zo2. jiu3 zik1 hak1 zou6 sau2 seot6, tung1 bo1 zai2.", en: "You're family? One of the patient's heart arteries is blocked, which is why he had chest pain and collapsed. He needs an operation right away: an angioplasty."}
+  - {n: 3, speaker: Kayan, hanzi: "手術？好嚴重㗎？", jyutping: "sau2 seot6? hou2 jim4 zung6 gaa4?", en: "An operation? Is it very serious?"}
+  - {n: 4, speaker: Doctor, hanzi: "好彩你哋及時叫救護車，送嚟急症室好快。不過手術都有危險，家屬要簽紙。", jyutping: "hou2 coi2 nei5 dei6 kap6 si4 giu3 gau3 wu6 ce1, sung3 lai4 gap1 zing3 sat1 hou2 faai3. bat1 gwo3 sau2 seot6 dou1 jau5 ngai4 him2, gaa1 suk6 jiu3 cim1 zi2.", en: "Luckily you called an ambulance in time and he got to A&E fast. But every operation has risks, and the family has to sign the form."}
+  - {n: 5, speaker: Kayan, hanzi: "我……我簽。（驚到講唔到嘢）", jyutping: "ngo5 …… ngo5 cim1. (geng1 dou3 gong2 m4 dou2 je5)", en: "I… I'll sign. (Too frightened to say more)"}
+  - {n: 6, speaker: Hugo, hanzi: "嘉欣，鎮定啲。（對醫生）手術要做幾耐？", jyutping: "gaa1 jan1, zan3 ding6 di1. (deoi3 ji1 sang1) sau2 seot6 jiu3 zou6 gei2 noi6?", en: "Kayan, stay calm. (To the doctor) How long does the operation take?"}
+  - {n: 7, speaker: Doctor, hanzi: "大概一個鐘頭。唔使全身麻醉，做完佢會好清醒。之後要留院觀察幾日。", jyutping: "daai6 koi3 jat1 go3 zung1 tau4. m4 sai2 cyun4 san1 maa4 zeoi3, zou6 jyun4 keoi5 wui5 hou2 cing1 sing2. zi1 hau6 jiu3 lau4 jyun2 gun1 caat3 gei2 jat6.", en: "About an hour. He won't need a general anaesthetic, so he'll be fully awake afterwards. Then he'll stay in for a few days' observation."}
+  - {n: 8, speaker: Kayan, hanzi: "阿果，阿爸張身份證同佢啲藥都喺舖頭，你可唔可以返舖頭攞嚟俾我？", jyutping: "aa3 gwo2, aa3 baa4 zoeng1 san1 fan2 zing3 tung4 keoi5 di1 joek6 dou1 hai2 pou3 tau2, nei5 ho2 m4 ho2 ji5 faan1 pou3 tau2 lo2 lai4 bei2 ngo5?", en: "A-Gwo, Dad's ID card and his medicine are at the shop. Could you go back and bring them to me?"}
+  - {n: 9, speaker: Hugo, hanzi: "得。強哥仲喺舖頭，頭先就係佢帶你阿爸嚟醫院。我仲會攞件褸嚟俾你。", jyutping: "dak1. koeng4 go1 zung6 hai2 pou3 tau2, tau4 sin1 zau6 hai6 keoi5 daai3 nei5 aa3 baa4 lai4 ji1 jyun2. ngo5 zung6 wui5 lo2 gin6 lau1 lai4 bei2 nei5.", en: "Sure. 強哥 is still at the shop; he's the one who brought your dad to the hospital earlier. I'll bring you a coat too."}
+  - {n: 10, speaker: Hiu-ching, hanzi: "我陪你。你一個人喺度，唔好成晚坐喺走廊。", jyutping: "ngo5 pui4 nei5. nei5 jat1 go3 jan4 hai2 dou6, m4 hou2 seng4 maan5 co5 hai2 zau2 long4.", en: "I'll stay with you. You're on your own here; don't sit in the corridor all night."}
+  - {n: 11, speaker: Kayan, hanzi: "（兩個鐘頭後，打視像電話俾哥哥）哥，阿爸做完手術喇，冇事喇。", jyutping: "(loeng5 go3 zung1 tau4 hau6, daa2 si6 zoeng6 din6 waa2 bei2 go4 go1) go1, aa3 baa4 zou6 jyun4 sau2 seot6 laa3, mou5 si6 laa3.", en: "(Two hours later, on a video call with her brother) Brother, Dad's had the operation; he's all right."}
+  - {n: 12, speaker: Ka-wai, hanzi: "我喺曼徹斯特驚青到瞓唔着。我即刻買機票返嚟。", jyutping: "ngo5 hai2 maan6 cit3 si1 dak6 geng1 ceng1 dou3 fan3 m4 zoek6. ngo5 zik1 hak1 maai5 gei1 piu3 faan1 lai4.", en: "I was so scared here in Manchester I couldn't sleep. I'll buy a ticket and come back right away."}
+  - {n: 13, speaker: Kayan, hanzi: "唔使急。醫生話佢會好返得好快。你返唔返嚟……你自己諗清楚先。", jyutping: "m4 sai2 gap1. ji1 sang1 waa6 keoi5 wui5 hou2 faan1 dak1 hou2 faai3. nei5 faan1 m4 faan1 lai4 …… nei5 zi6 gei2 nam2 cing1 co2 sin1.", en: "No rush. The doctor says he'll get better quickly. Whether you come back or not… think it through first."}
+  - {n: 14, speaker: Ka-wai, hanzi: "我知。我唔係唔想返……幫我同阿爸講，叫佢唔好再搏命。", jyutping: "ngo5 zi1. ngo5 m4 hai6 m4 soeng2 faan1 …… bong1 ngo5 tung4 aa3 baa4 gong2, giu3 keoi5 m4 hou2 zoi3 bok3 meng6.", en: "I know. It's not that I don't want to come back… Tell Dad from me: no more working himself to death."}
+  - {n: 15, speaker: Nurse, hanzi: "家屬可以入病房喇，每次兩個人，唔好嘈。佢手上個傷口要保持乾淨，唔好發炎。", jyutping: "gaa1 suk6 ho2 ji5 jap6 beng6 fong2 laa3, mui5 ci3 loeng5 go3 jan4, m4 hou2 cou4. keoi5 sau2 soeng6 go3 soeng1 hau2 jiu3 bou2 ci4 gon1 zeng6, m4 hou2 faat3 jim4.", en: "Family can go into the ward now, two at a time, and keep it quiet. The wound on his wrist must stay clean so it doesn't get infected."}
+  - {n: 16, speaker: Leung Pak, hanzi: "做乜咁多人望住我？舖頭邊個睇呀？", jyutping: "zou6 mat1 gam3 do1 jan4 mong6 zyu6 ngo5? pou3 tau2 bin1 go3 tai2 aa3?", en: "Why is everyone staring at me? Who's minding the shop?"}
+  - {n: 17, speaker: Kayan, hanzi: "阿爸！你仲諗住舖頭？醫生話你血壓高，要休息。", jyutping: "aa3 baa4! nei5 zung6 nam2 zyu6 pou3 tau2? ji1 sang1 waa6 nei5 hyut3 aat3 gou1, jiu3 jau1 sik1.", en: "Dad! You're still thinking about the shop? The doctor says your blood pressure is high and you need rest."}
+  - {n: 18, speaker: Leung Pak, hanzi: "我做咗四十幾年都冇事，休息乜嘢。", jyutping: "ngo5 zou6 zo2 sei3 sap6 gei2 nin4 dou1 mou5 si6, jau1 sik1 mat1 je5.", en: "I've worked forty-odd years without any trouble. Rest, my foot."}
+  - {n: 19, speaker: Hugo, hanzi: "梁伯，強哥同蓮姐話會幫你睇住舖頭。你一係聽醫生講，一係俾嘉欣鬧一世。", jyutping: "loeng4 baak3, koeng4 go1 tung4 lin4 ze2 waa6 wui5 bong1 nei5 tai2 zyu6 pou3 tau2. nei5 jat1 hai6 teng1 ji1 sang1 gong2, jat1 hai6 bei2 gaa1 jan1 naau6 jat1 sai3.", en: "梁伯, 強哥 and 蓮姐 say they'll look after the shop for you. Either you listen to the doctor, or Kayan nags you for the rest of your life."}
+  - {n: 20, speaker: Doctor, hanzi: "梁生，你以後要戒煙，少食鹹嘢，唔好再咁操勞。", jyutping: "loeng4 saang1, nei5 ji5 hau6 jiu3 gaai3 jin1, siu2 sik6 haam4 je5, m4 hou2 zoi3 gam3 cou1 lou4.", en: "Mr Leung, from now on you must stop smoking, eat less salty food and stop wearing yourself out."}
+  - {n: 21, speaker: Leung Pak, hanzi: "戒煙？我食咗五十年……", jyutping: "gaai3 jin1? ngo5 sik6 zo2 ng5 sap6 nin4 ……", en: "Stop smoking? I've smoked for fifty years…"}
+  - {n: 22, speaker: Kayan, hanzi: "阿爸，你成日教我：留得青山在，唔怕冇柴燒。而家輪到你聽。", jyutping: "aa3 baa4, nei5 sing4 jat6 gaau3 ngo5: lau4 dak1 cing1 saan1 zoi6, m4 paa3 mou5 caai4 siu1. ji4 gaa1 leon4 dou3 nei5 teng1.", en: "Dad, you always taught me: as long as the green hills remain, there'll be firewood. Now it's your turn to listen."}
+  - {n: 23, speaker: Leung Pak, hanzi: "……硬頸都冇用，係咪？好啦，我聽話。阿果，攞杯水嚟俾我。", jyutping: "…… ngaang6 geng2 dou1 mou5 jung6, hai6 mai6? hou2 laa1, ngo5 teng1 waa6. aa3 gwo2, lo2 bui1 seoi2 lai4 bei2 ngo5.", en: "…No use being stubborn, is there? All right, I'll do as I'm told. A-Gwo, bring me a glass of water."}
+  - {n: 24, speaker: Hugo, hanzi: "（細聲）原來梁伯都識講「我聽話」。", jyutping: "(sai3 seng1) jyun4 loi4 loeng4 baak3 dou1 sik1 gong2 \"ngo5 teng1 waa6\".", en: "(Quietly) So 梁伯 can actually say 'I'll do as I'm told'."}
+  - {n: 25, speaker: Hiu-ching, hanzi: "人病過一次，先會聽話。", jyutping: "jan4 beng6 gwo3 jat1 ci3, sin1 wui5 teng1 waa6.", en: "People only do as they're told after they've been ill once."}
+notes:
+  - {ref: 2, topic: vocab, text: "家屬 gaa1 suk6 = family members (of a patient): the word hospitals use. 心臟 sam1 zong6 = heart (the organ; 心 is also the heart as feelings). 血管 hyut3 gun2 = blood vessel; 塞 sak1 = blocked: 血管塞咗. 心口 sam1 hau2 = chest: 心口痛."}
+  - {ref: 2, topic: vocab, text: "通波仔 tung1 bo1 zai2 'clear the little ball' = balloon angioplasty, the everyday Hong Kong word. The formal word for operation is 手術 sau2 seot6: 做手術."}
+  - {ref: 4, topic: vocab, text: "及時 kap6 si4 = in time. 救護車 gau3 wu6 ce1 = ambulance; in Hong Kong you dial 999. 急症室 gap1 zing3 sat1 = A&E, emergency room. 危險 ngai4 him2 = dangerous; risk. 嚴重 jim4 zung6 (line 3) = serious."}
+  - {ref: 4, topic: culture, text: "簽紙 cim1 zi2 = sign a form (VO; 簽 'sign', P13). Before an operation the patient or 家屬 signs a consent form. Public hospitals like Caritas Medical Centre (明愛醫院) charge residents a small daily fee; private hospitals cost far more."}
+  - {ref: 6, topic: vocab, text: "鎮定 zan3 ding6 = calm, composed: 鎮定啲 'stay calm'."}
+  - {ref: 7, topic: vocab, text: "全身麻醉 cyun4 san1 maa4 zeoi3 = general anaesthetic (全身 'the whole body'). 清醒 cing1 sing2 = awake, clear-headed. 留院 lau4 jyun2 = stay in hospital; 觀察 gun1 caat3 = observe. 大概 daai6 koi3 = about, roughly."}
+  - {ref: 8, topic: grammar, text: "Bringing and fetching: 攞 X 嚟 'bring X (here)' (lo2: take, get): 攞嚟俾我, 攞件褸嚟俾你 (line 9), 攞杯水嚟俾我 (line 23). For people use 帶: 帶你阿爸嚟醫院 'brought your dad to the hospital'. Away from the speaker use 去: 帶佢去睇醫生, 攞啲藥去病房."}
+  - {ref: 12, topic: vocab, text: "驚青 geng1 ceng1 = scared, panicky. 瞓唔着 fan3 m4 zoek6 = can't fall asleep (着 zoek6 'succeed in', P24). 成晚 seng4 maan5 (line 10) = all night. 哥 go1 = big brother, as a form of address."}
+  - {ref: 13, topic: culture, text: "Kayan's 你自己諗清楚先 is careful: since the national security law of 2020, some Hongkongers who took part in the 2019 protests and later emigrated are unsure whether returning is safe, and many families meet on video calls instead. Ka-wai's 我唔係唔想返 says the rest."}
+  - {ref: 14, topic: vocab, text: "搏命 bok3 meng6 'gamble one's life' = work oneself to the bone. 操勞 cou1 lou4 (line 20) = overwork, toil. 好返 hou2 faan1 (line 13) = get better."}
+  - {ref: 15, topic: vocab, text: "病房 beng6 fong2 = ward. 傷口 soeng1 hau2 = wound (the angioplasty goes in through the wrist). 保持 bou2 ci4 = keep (a state): 保持乾淨. 發炎 faat3 jim4 = get inflamed, infected."}
+  - {ref: 20, topic: vocab, text: "戒煙 gaai3 jin1 = quit smoking (食煙 'smoke', with 食!). 鹹 haam4 = salty: 鹹嘢 'salty food'. 血壓 hyut3 aat3 (line 17) = blood pressure."}
+  - {ref: 22, topic: culture, text: "留得青山在，唔怕冇柴燒 'as long as the green hills (青山 cing1 saan1) remain, you need not fear having no firewood (柴 caai4)': health first, everything else can be rebuilt. 輪到你 'it's your turn' (輪到 leon4 dou3). 硬頸 ngaang6 geng2 (line 23) 'hard neck' = stubborn; 聽話 teng1 waa6 = do as one is told, obedient."}
+  - {ref: 1, topic: vs-mandarin, text: "Cantonese says 睇醫生 'see a doctor', where Mandarin says 看病 / 看醫生. 通波仔 has no Mandarin equivalent in speech: Mandarin says 做支架 or 通血管. 攞 = Mandarin 拿, 驚青 = 慌張."}
+pron:
+  - {ref: 2, text: "塞 'blocked' is sak1 here; coi3 is the 'frontier' reading (as in 要塞)."}
+  - {ref: 7, text: "清醒 cing1 sing2: 醒 is sing2 in this word, but seng2 'wake up' in speech (醒咗)."}
+  - {ref: 12, text: "驚青 geng1 ceng1: both colloquial readings, not ging1 cing1."}
+new_words:
+  - {jyutping: "gaa1 suk6", hanzi: 家屬, en: "family (of a patient)"}
+  - {jyutping: "sam1 zong6", hanzi: 心臟, en: "heart (organ)"}
+  - {jyutping: "hyut3 gun2", hanzi: 血管, en: "blood vessel"}
+  - {jyutping: "sak1", hanzi: 塞, en: "blocked; block"}
+  - {jyutping: "sam1 hau2", hanzi: 心口, en: "chest"}
+  - {jyutping: "sau2 seot6", hanzi: 手術, en: "operation, surgery"}
+  - {jyutping: "tung1 bo1 zai2", hanzi: 通波仔, en: "balloon angioplasty"}
+  - {jyutping: "jim4 zung6", hanzi: 嚴重, en: "serious"}
+  - {jyutping: "kap6 si4", hanzi: 及時, en: "in time"}
+  - {jyutping: "gau3 wu6 ce1", hanzi: 救護車, en: "ambulance"}
+  - {jyutping: "gap1 zing3 sat1", hanzi: 急症室, en: "A&E, emergency room"}
+  - {jyutping: "ngai4 him2", hanzi: 危險, en: "dangerous; risk"}
+  - {jyutping: "cim1 zi2", hanzi: 簽紙, en: "sign a form"}
+  - {jyutping: "zan3 ding6", hanzi: 鎮定, en: "calm, composed"}
+  - {jyutping: "daai6 koi3", hanzi: 大概, en: "about, roughly"}
+  - {jyutping: "cyun4 san1", hanzi: 全身, en: "whole body"}
+  - {jyutping: "maa4 zeoi3", hanzi: 麻醉, en: "anaesthetic"}
+  - {jyutping: "cing1 sing2", hanzi: 清醒, en: "awake, clear-headed"}
+  - {jyutping: "lau4 jyun2", hanzi: 留院, en: "stay in hospital"}
+  - {jyutping: "gun1 caat3", hanzi: 觀察, en: "observe"}
+  - {jyutping: "seng4 maan5", hanzi: 成晚, en: "all night"}
+  - {jyutping: "go1", hanzi: 哥, en: "big brother"}
+  - {jyutping: "geng1 ceng1", hanzi: 驚青, en: "scared, panicky"}
+  - {jyutping: "fan3 m4 zoek6", hanzi: 瞓唔着, en: "can't fall asleep"}
+  - {jyutping: "hou2 faan1", hanzi: 好返, en: "get better"}
+  - {jyutping: "bok3 meng6", hanzi: 搏命, en: "work oneself to the bone"}
+  - {jyutping: "beng6 fong2", hanzi: 病房, en: "ward"}
+  - {jyutping: "soeng1 hau2", hanzi: 傷口, en: "wound"}
+  - {jyutping: "bou2 ci4", hanzi: 保持, en: "keep, maintain"}
+  - {jyutping: "faat3 jim4", hanzi: 發炎, en: "get inflamed"}
+  - {jyutping: "hyut3 aat3", hanzi: 血壓, en: "blood pressure"}
+  - {jyutping: "gaai3 jin1", hanzi: 戒煙, en: "quit smoking"}
+  - {jyutping: "haam4", hanzi: 鹹, en: "salty"}
+  - {jyutping: "cou1 lou4", hanzi: 操勞, en: "overwork"}
+  - {jyutping: "lau4 dak1 cing1 saan1 zoi6", hanzi: 留得青山在, en: "as long as the green hills remain"}
+  - {jyutping: "cing1 saan1", hanzi: 青山, en: "green hills"}
+  - {jyutping: "caai4", hanzi: 柴, en: "firewood"}
+  - {jyutping: "leon4 dou3", hanzi: 輪到, en: "be someone's turn"}
+  - {jyutping: "ngaang6 geng2", hanzi: 硬頸, en: "stubborn"}
+  - {jyutping: "teng1 waa6", hanzi: 聽話, en: "obedient, do as told"}
+exercises:
+  translate:
+    - {hanzi: "你可唔可以攞杯水嚟俾我？", jyutping: "nei5 ho2 m4 ho2 ji5 lo2 bui1 seoi2 lai4 bei2 ngo5?", en: "Could you bring me a glass of water?"}
+    - {hanzi: "我聽日帶阿爸去睇醫生。", jyutping: "ngo5 ting1 jat6 daai3 aa3 baa4 heoi3 tai2 ji1 sang1.", en: "Tomorrow I'm taking Dad to see the doctor."}
+    - {hanzi: "好彩你及時叫救護車。", jyutping: "hou2 coi2 nei5 kap6 si4 giu3 gau3 wu6 ce1.", en: "Luckily you called an ambulance in time."}
+    - {hanzi: "佢好硬頸，成日唔聽話。", jyutping: "keoi5 hou2 ngaang6 geng2, sing4 jat6 m4 teng1 waa6.", en: "He's very stubborn; he never does what he's told."}
+    - {hanzi: "留得青山在，唔怕冇柴燒，你唔好再搏命喇。", jyutping: "lau4 dak1 cing1 saan1 zoi6, m4 paa3 mou5 caai4 siu1, nei5 m4 hou2 zoi3 bok3 meng6 laa3.", en: "Health comes first; stop working yourself to death."}
+  fill:
+    - {hanzi: "阿爸啲藥喺舖頭，你___嚟俾我。", jyutping: "aa3 baa4 di1 joek6 hai2 pou3 tau2, nei5 ___ lai4 bei2 ngo5.", answer: "lo2", answer_hanzi: 攞, en: "Dad's medicine is at the shop; bring it to me."}
+    - {hanzi: "病人血管___咗，要做手術。", jyutping: "beng6 jan4 hyut3 gun2 ___ zo2, jiu3 zou6 sau2 seot6.", answer: "sak1", answer_hanzi: 塞, en: "The patient's artery is blocked; he needs an operation."}
+    - {hanzi: "做完手術要留院___幾日。", jyutping: "zou6 jyun4 sau2 seot6 jiu3 lau4 jyun2 ___ gei2 jat6.", answer: "gun1 caat3", answer_hanzi: 觀察, en: "After the operation he has to stay in hospital for a few days' observation."}
+    - {hanzi: "傷口要保持乾淨，唔好___。", jyutping: "soeng1 hau2 jiu3 bou2 ci4 gon1 zeng6, m4 hou2 ___.", answer: "faat3 jim4", answer_hanzi: 發炎, en: "Keep the wound clean so it doesn't get infected."}
+    - {hanzi: "我驚到成晚___。", jyutping: "ngo5 geng1 dou3 seng4 maan5 ___.", answer: "fan3 m4 zoek6", answer_hanzi: 瞓唔着, en: "I was so scared I couldn't sleep all night."}
