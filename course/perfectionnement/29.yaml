@@ -1,0 +1,97 @@
+# 進修 29. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
+id: 29
+title: {en: "Wash away the dirt on the 28th", jyutping: "nin4 jaa6 baat3, sai2 laat6 taat3", hanzi: "年廿八，洗邋遢"}
+intro: "The big clean before the Lunar New Year, and a crash course in New Year taboos: 'even if' (就算…都), 'unless' (除非) and what you must never say."
+genre: play
+review: false
+setting: "The 28th day of the twelfth lunar month, early February 2027: by tradition, the day for the big New Year clean. 梁記 closes at three. 梁伯, 蓮姐, Hugo, 強哥 and 樂仔 have buckets, mops and a ladder. The new rent, 42,000 a month, has been paid since January; 梁伯 hasn't been sleeping well."
+dialogue:
+  - {n: 1, speaker: Lin-ze, hanzi: "年廿八，洗邋遢！今日要將成間舖由頭到尾洗乾淨，啲污糟嘢唔可以留到新年。", jyutping: "nin4 jaa6 baat3, sai2 laat6 taat3! gam1 jat6 jiu3 zoeng1 seng4 gaan1 pou3 jau4 tau4 dou3 mei5 sai2 gon1 zeng6, di1 wu1 zou1 je5 m4 ho2 ji5 lau4 dou3 san1 nin4.", en: "The 28th: wash away the dirt! Today we clean the whole shop from top to bottom; no dirt can be left for the New Year."}
+  - {n: 2, speaker: Hugo, hanzi: "點解一定要今日？聽日洗唔得咩？", jyutping: "dim2 gaai2 jat1 ding6 jiu3 gam1 jat6? ting1 jat6 sai2 m4 dak1 me1?", en: "Why does it have to be today? Can't we clean tomorrow?"}
+  - {n: 3, speaker: Lin-ze, hanzi: "傳統係噉。過咗年三十就唔可以掃地，年初一掃地，會將啲財氣掃走。", jyutping: "cyun4 tung2 hai6 gam2. gwo3 zo2 nin4 saam1 sap6 zau6 m4 ho2 ji5 sou3 dei6, nin4 co1 jat1 sou3 dei6, wui5 zoeng1 di1 coi4 hei3 sou3 zau2.", en: "That's the tradition. After New Year's Eve you mustn't sweep: sweep on the first day and you'll sweep your good fortune away."}
+  - {n: 4, speaker: Leung Pak, hanzi: "（企喺梯上面抹燈）我唔信呢啲。不過蓮姐講，我照做，費事佢嘈。", jyutping: "(kei5 hai2 tai1 soeng6 min6 maat3 dang1) ngo5 m4 seon3 ni1 di1. bat1 gwo3 lin4 ze2 gong2, ngo5 ziu3 zou6, fai3 si6 keoi5 cou4.", en: "(Up the ladder, wiping a lamp) I don't believe in all that. But if Lin-ze says so, I do it, just to stop her nagging."}
+  - {n: 5, speaker: Lin-ze, hanzi: "就算你唔信，都要做。今年租加咗四成，我哋需要好運！", jyutping: "zau6 syun3 nei5 m4 seon3, dou1 jiu3 zou6. gam1 nin4 zou1 gaa1 zo2 sei3 sing4, ngo5 dei6 seoi1 jiu3 hou2 wan6!", en: "Even if you don't believe it, you still have to do it. The rent's up forty per cent this year; we need all the luck we can get!"}
+  - {n: 6, speaker: Lok-zai, hanzi: "嫲嫲，年初一可唔可以洗頭？", jyutping: "maa4 maa4, nin4 co1 jat1 ho2 m4 ho2 ji5 sai2 tau4?", en: "Grandma, can I wash my hair on New Year's Day?"}
+  - {n: 7, speaker: Lin-ze, hanzi: "唔可以！洗頭會洗走好運。仲有，年初幾日唔好買鞋，「鞋」同「唉」同音，好唔吉利。", jyutping: "m4 ho2 ji5! sai2 tau4 wui5 sai2 zau2 hou2 wan6. zung6 jau5, nin4 co1 gei2 jat6 m4 hou2 maai5 haai4, \"haai4\" tung4 \"aai1\" tung4 jam1, hou2 m4 gat1 lei6.", en: "No! Washing your hair washes your luck away. And don't buy shoes in the first days of the year: 'shoes', haai, sounds like a sigh, aai. Very unlucky."}
+  - {n: 8, speaker: Hugo, hanzi: "咁剪頭髮呢？", jyutping: "gam2 zin2 tau4 faat3 ne1?", en: "What about getting a haircut?"}
+  - {n: 9, speaker: Lin-ze, hanzi: "正月都唔好剪，除非你想你啲舅父衰。", jyutping: "zing1 jyut6 dou1 m4 hou2 zin2, ceoi4 fei1 nei5 soeng2 nei5 di1 kau5 fu2 seoi1.", en: "Not in the whole first month, unless you want bad luck for your uncles."}
+  - {n: 10, speaker: Hugo, hanzi: "我舅父喺法國，我剪頭髮關佢咩事？", jyutping: "ngo5 kau5 fu2 hai2 faat3 gwok3, ngo5 zin2 tau4 faat3 gwaan1 keoi5 me1 si6?", en: "My uncle's in France; what's my haircut got to do with him?"}
+  - {n: 11, speaker: Lin-ze, hanzi: "我點知？傳統就係傳統。唔好問咁多，抹窗！", jyutping: "ngo5 dim2 zi1? cyun4 tung2 zau6 hai6 cyun4 tung2. m4 hou2 man6 gam3 do1, maat3 coeng1!", en: "How should I know? Tradition is tradition. Stop asking questions and clean the windows!"}
+  - {n: 12, speaker: Keung-go, hanzi: "（喺廚房）……地拖呢？邊個攞咗我地拖？", jyutping: "(hai2 cyu4 fong2) …… dei6 to1 ne1? bin1 go3 lo2 zo2 ngo5 dei6 to1?", en: "(From the kitchen) …Where's the mop? Who's taken my mop?"}
+  - {n: 13, speaker: Lok-zai, hanzi: "喺我度！我抹緊三號卡位。我張櫈要清潔過晒，新年先會讀書叻。", jyutping: "hai2 ngo5 dou6! ngo5 maat3 gan2 saam1 hou6 kaa1 wai2. ngo5 zoeng1 dang3 jiu3 cing1 git3 gwo3 saai3, san1 nin4 sin1 wui5 duk6 syu1 lek1.", en: "I've got it! I'm cleaning booth three. My bench has to be completely clean, so I'll be clever at school in the New Year."}
+  - {n: 14, speaker: Leung Pak, hanzi: "（喺梯上面打開個燈罩）嘩！入面成堆灰塵，仲有隻……", jyutping: "(hai2 tai1 soeng6 min6 daa2 hoi1 go3 dang1 zaau3) waa3! jap6 min6 seng4 deoi1 fui1 can4, zung6 jau5 zek3 ……", en: "(Opening a lampshade up the ladder) Ugh! A pile of dust in here, and a…"}
+  - {n: 15, speaker: Hugo, hanzi: "小心呀梁伯！", jyutping: "siu2 sam1 aa3 loeng4 baak3!", en: "Careful, Uncle Leung!"}
+  - {n: 16, speaker: Leung Pak, hanzi: "（梯一郁，個燈罩跌咗落地，碎晒）……", jyutping: "(tai1 jat1 juk1, go3 dang1 zaau3 dit3 zo2 lok6 dei6, seoi3 saai3) ……", en: "(The ladder wobbles; the lampshade falls to the floor and smashes) …"}
+  - {n: 17, speaker: Lin-ze, hanzi: "落地開花，富貴榮華！落地開花，富貴榮華！", jyutping: "lok6 dei6 hoi1 faa1, fu3 gwai3 wing4 waa4! lok6 dei6 hoi1 faa1, fu3 gwai3 wing4 waa4!", en: "Fallen to the ground, burst into flower: wealth and glory! Fallen to the ground, burst into flower: wealth and glory!"}
+  - {n: 18, speaker: Hugo, hanzi: "蓮姐，你講緊咩？", jyutping: "lin4 ze2, nei5 gong2 gan2 me1?", en: "Lin-ze, what are you saying?"}
+  - {n: 19, speaker: Lin-ze, hanzi: "新年前後打爛嘢，一定要即刻講呢句，唔係就會帶衰成年。", jyutping: "san1 nin4 cin4 hau6 daa2 laan6 je5, jat1 ding6 jiu3 zik1 hak1 gong2 ni1 geoi3, m4 hai6 zau6 wui5 daai3 seoi1 seng4 nin4.", en: "If you break something around New Year, you must say this line at once; otherwise it'll bring bad luck all year."}
+  - {n: 20, speaker: Keung-go, hanzi: "（攞住地拖出嚟）梁伯，你冇事吖嘛？你塊面好白。", jyutping: "(lo2 zyu6 dei6 to1 ceot1 lai4) loeng4 baak3, nei5 mou5 si6 aa1 maa3? nei5 faai3 min6 hou2 baak6.", en: "(Coming out with the mop) Uncle Leung, you're all right, aren't you? Your face is very pale."}
+  - {n: 21, speaker: Leung Pak, hanzi: "冇事，頭有啲暈啫。最近瞓得唔好。", jyutping: "mou5 si6, tau4 jau5 di1 wan4 ze1. zeoi3 gan6 fan3 dak1 m4 hou2.", en: "I'm fine, just a bit dizzy. I haven't been sleeping well lately."}
+  - {n: 22, speaker: Hugo, hanzi: "你落嚟先，我上去。你坐低飲杯水。", jyutping: "nei5 lok6 lai4 sin1, ngo5 soeng5 heoi3. nei5 co5 dai1 jam2 bui1 seoi2.", en: "Come down first, I'll go up. Sit down and have a glass of water."}
+  - {n: 23, speaker: Leung Pak, hanzi: "（坐低）……唔好同嘉欣講。佢已經好忙，唔使佢擔心。", jyutping: "(co5 dai1) …… m4 hou2 tung4 gaa1 jan1 gong2. keoi5 ji5 ging1 hou2 mong4, m4 sai2 keoi5 daam1 sam1.", en: "(Sitting down) …Don't tell Kayan. She's busy enough already; no need to worry her."}
+  - {n: 24, speaker: Lin-ze, hanzi: "就算你唔講，佢都會知。不過今日我唔講，等過完年先算。", jyutping: "zau6 syun3 nei5 m4 gong2, keoi5 dou1 wui5 zi1. bat1 gwo3 gam1 jat6 ngo5 m4 gong2, dang2 gwo3 jyun4 nin4 sin1 syun3.", en: "Even if you don't tell her, she'll find out. But I won't say anything today; we'll deal with it after New Year."}
+  - {n: 25, speaker: Lok-zai, hanzi: "（細聲）落地開花，富貴榮華……阿伯，你唔好有事呀。", jyutping: "(sai3 seng1) lok6 dei6 hoi1 faa1, fu3 gwai3 wing4 waa4 …… aa3 baak3, nei5 m4 hou2 jau5 si6 aa3.", en: "(Quietly) Fallen to the ground, burst into flower… Uncle, please don't be ill."}
+notes:
+  - {ref: 1, topic: culture, text: "年廿八，洗邋遢 'on the 28th, wash away the dirt': the rhyme behind the big New Year clean (邋遢, P17). 年廿八 nin4 jaa6 baat3 = the 28th day of the last lunar month (廿 jaa6 'twenty'). 由頭到尾 'from beginning to end'. 污糟 wu1 zou1 = dirty."}
+  - {ref: 3, topic: culture, text: "傳統 cyun4 tung2 = tradition. 年三十 'New Year's Eve' (the 30th); 年初一 nin4 co1 jat1 'New Year's Day'. No sweeping on the first days: you'd sweep away 財氣 coi4 hei3 'wealth luck'. 掃地 sou3 dei6 = sweep the floor; 掃走 'sweep away'."}
+  - {ref: 4, topic: vocab, text: "梯 tai1 = ladder. 費事 fai3 si6 = so as not to have to, to avoid the bother: 費事佢嘈 'just to stop her nagging'. 照做 'do it anyway'."}
+  - {ref: 5, topic: grammar, text: "就算…都 'even if …, still …': 就算你唔信，都要做 (P15). The 都 is needed in the second half. 需要 'need' (a little more formal than 使). 好運 hou2 wan6 = good luck."}
+  - {ref: 6, topic: vocab, text: "嫲嫲 maa4 maa4 = grandma (father's mother); 樂仔 is 蓮姐's son's son. 洗頭 sai2 tau4 'wash one's hair'."}
+  - {ref: 7, topic: culture, text: "Taboos often come from sounds: 鞋 haai4 'shoe' sounds like 唉 aai1, a sigh; 同音 tung4 jam1 = sound the same, homophone. 吉利 gat1 lei6 = lucky, auspicious; 唔吉利 'unlucky'. Also no 死 'die' or 輸 'lose' in speech."}
+  - {ref: 9, topic: grammar, text: "除非 'unless' (P15) after a prohibition: 唔好剪，除非你想… 'don't cut it, unless you want …'. 正月 zing1 jyut6 = the first lunar month. 衰 seoi1 = have bad luck, be in trouble; 帶衰 'bring bad luck' (line 19). The haircut taboo comes from a pun on 剪髮 and 舅 'mother's brother'."}
+  - {ref: 10, topic: vocab, text: "關佢咩事？ 'what's it got to do with him?' (唔關你事, P1). 抹窗 'clean the windows' (抹, P15; 窗, P1)."}
+  - {ref: 12, topic: vocab, text: "地拖 dei6 to1 = mop. 拖地 'mop the floor' is the verb."}
+  - {ref: 13, topic: vocab, text: "清潔 cing1 git3 = clean (formal); cleaning: 清潔過晒 'cleaned all over'. Everyday speech says 洗乾淨, 抹乾淨."}
+  - {ref: 14, topic: vocab, text: "打開 daa2 hoi1 = open: 打開個燈罩 'open the lampshade' (燈罩 dang1 zaau3). 灰塵 fui1 can4 = dust. 成堆 'a whole pile'."}
+  - {ref: 17, topic: culture, text: "落地開花，富貴榮華 'fallen to the ground, burst into flower: wealth and glory': what you say at once when something breaks at New Year, turning bad luck into good. 富貴 fu3 gwai3 'riches and honour', 榮華 wing4 waa4 'glory'."}
+  - {ref: 20, topic: vocab, text: "冇事吖嘛？ 'you're all right, aren't you?': 吖嘛 aa1 maa3 asks for reassurance. 暈 wan4 (line 21) = dizzy. 塊面好白 'very pale'."}
+  - {ref: 24, topic: grammar, text: "等…先算 'wait until … and then we'll see': 等過完年先算 'let's leave it till after New Year'. 算 here = settle, decide (P9 'count as')."}
+  - {ref: 5, topic: vs-mandarin, text: "就算…都 = Mandarin 就算 / 即使…也; 除非…唔係 = 除非…否則. Mandarin speakers share most New Year customs, but the puns differ by language: 鞋 haai4 / 唉 aai1 works only in Cantonese (Mandarin xié / āi)."}
+pron:
+  - {ref: 1, text: "廿 'twenty' is jaa6: 年廿八 nin4 jaa6 baat3."}
+  - {ref: 7, text: "鞋 haai4 vs 唉 aai1: the same rhyme, different initial and tone."}
+  - {ref: 9, text: "正月 'first lunar month' is zing1 jyut6; 正 is zeng3 in 好正 (P12)."}
+new_words:
+  - {jyutping: "sai2 laat6 taat3", hanzi: 洗邋遢, en: "do the New Year clean"}
+  - {jyutping: "wu1 zou1", hanzi: 污糟, en: "dirty"}
+  - {jyutping: "cyun4 tung2", hanzi: 傳統, en: "tradition"}
+  - {jyutping: "sou3 dei6", hanzi: 掃地, en: "sweep the floor"}
+  - {jyutping: "nin4 co1 jat1", hanzi: 年初一, en: "New Year's Day (lunar)"}
+  - {jyutping: "hou2 wan6", hanzi: 好運, en: "good luck"}
+  - {jyutping: "gat1 lei6", hanzi: 吉利, en: "lucky, auspicious"}
+  - {jyutping: "tau4 faat3", hanzi: 頭髮, en: "hair"}
+  - {jyutping: "seoi1", hanzi: 衰, en: "unlucky; in trouble"}
+  - {jyutping: "dei6 to1", hanzi: 地拖, en: "mop"}
+  - {jyutping: "cing1 git3", hanzi: 清潔, en: "clean; cleaning"}
+  - {jyutping: "daa2 hoi1", hanzi: 打開, en: "open"}
+  - {jyutping: "fui1 can4", hanzi: 灰塵, en: "dust"}
+  - {jyutping: "lok6 dei6 hoi1 faa1", hanzi: 落地開花, en: "'falls and blossoms' (said when something breaks)"}
+  - {jyutping: "tai1", hanzi: 梯, en: "ladder"}
+  - {jyutping: "fai3 si6", hanzi: 費事, en: "so as not to bother"}
+  - {jyutping: "maa4 maa4", hanzi: 嫲嫲, en: "grandma (father's mother)"}
+  - {jyutping: "zing1 jyut6", hanzi: 正月, en: "first lunar month"}
+  - {jyutping: "fu3 gwai3", hanzi: 富貴, en: "riches and honour"}
+  - {jyutping: "wan4", hanzi: 暈, en: "dizzy"}
+  - {jyutping: "cin4 hau6", hanzi: 前後, en: "around, before and after"}
+  - {jyutping: "jau4 tau4 dou3 mei5", hanzi: 由頭到尾, en: "from beginning to end"}
+  - {jyutping: "fu3 gwai3 wing4 waa4", hanzi: 富貴榮華, en: "wealth and glory"}
+  - {jyutping: "tau4 wan4", hanzi: 頭暈, en: "dizzy"}
+  - {jyutping: "lok6 dei6", hanzi: 落地, en: "to the ground; land"}
+  - {jyutping: "aa1 maa3", hanzi: 吖嘛, en: "(particle) …, isn't it? (seeking reassurance)"}
+  - {jyutping: "deoi1", hanzi: 堆, en: "pile, heap"}
+  - {jyutping: "nin4 co1", hanzi: 年初, en: "the first days of the year"}
+  - {jyutping: "sou3 baa2", hanzi: 掃把, en: "broom"}
+  - {jyutping: "naau6 gaau1", hanzi: 鬧交, en: "quarrel"}
+exercises:
+  translate:
+    - {hanzi: "就算你唔信，都要講「落地開花」。", jyutping: "zau6 syun3 nei5 m4 seon3, dou1 jiu3 gong2 \"lok6 dei6 hoi1 faa1\".", en: "Even if you don't believe it, you have to say 'falls and blossoms'."}
+    - {hanzi: "除非你想帶衰成年，唔係唔好年初一掃地。", jyutping: "ceoi4 fei1 nei5 soeng2 daai3 seoi1 seng4 nin4, m4 hai6 m4 hou2 nin4 co1 jat1 sou3 dei6.", en: "Unless you want bad luck all year, don't sweep on New Year's Day."}
+    - {hanzi: "新年前我哋要將成間屋清潔一次。", jyutping: "san1 nin4 cin4 ngo5 dei6 jiu3 zoeng1 seng4 gaan1 uk1 cing1 git3 jat1 ci3.", en: "Before New Year we have to clean the whole house once."}
+    - {hanzi: "新年唔好鬧交，費事成年都衰。", jyutping: "san1 nin4 m4 hou2 naau6 gaau1, fai3 si6 seng4 nin4 dou1 seoi1.", en: "Don't quarrel at New Year, so you won't have bad luck all year."}
+    - {hanzi: "年初一唔好用掃把掃地。", jyutping: "nin4 co1 jat1 m4 hou2 jung6 sou3 baa2 sou3 dei6.", en: "Don't sweep the floor with a broom on New Year's Day."}
+  fill:
+    - {hanzi: "___你唔信，___要照做。", jyutping: "___ nei5 m4 seon3, ___ jiu3 ziu3 zou6.", answer: "zau6 syun3 / dou1", answer_hanzi: 就算 / 都, en: "Even if you don't believe it, you still have to do it."}
+    - {hanzi: "正月唔好剪頭髮，___你想你舅父衰。", jyutping: "zing1 jyut6 m4 hou2 zin2 tau4 faat3, ___ nei5 soeng2 nei5 kau5 fu2 seoi1.", answer: "ceoi4 fei1", answer_hanzi: 除非, en: "Don't get a haircut in the first month, unless you want bad luck for your uncle."}
+    - {hanzi: "「鞋」同「唉」___，好唔吉利。", jyutping: "\"haai4\" tung4 \"aai1\" ___, hou2 m4 gat1 lei6.", answer: "tung4 jam1", answer_hanzi: 同音, en: "'Shoe' sounds like 'sigh': very unlucky."}
+    - {hanzi: "啲___掃走晒，新年先會好運。", jyutping: "di1 ___ sou3 zau2 saai3, san1 nin4 sin1 wui5 hou2 wan6.", answer: "fui1 can4", answer_hanzi: 灰塵, en: "Sweep all the dust away, and you'll have good luck in the New Year."}
+    - {hanzi: "我___佢嘈，唯有照做。", jyutping: "ngo5 ___ keoi5 cou4, wai4 jau5 ziu3 zou6.", answer: "fai3 si6", answer_hanzi: 費事, en: "To stop her nagging, I just do it."}
