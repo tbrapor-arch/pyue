@@ -941,12 +941,14 @@ async function copyText(txt, btn, okMsg) {
   try { await navigator.clipboard.writeText(txt); btn.textContent = '✓ Copied'; toast(okMsg); }
   catch { const ta = document.createElement('textarea'); ta.value = txt; ta.readOnly = true; ta.className = 'copybox'; btn.after(ta); ta.select(); btn.textContent = 'Copy this text'; }
 }
+// an exercise with a recording (only lessons the optional private module adds have them) gets a play button
+const exAudio = (e, i) => e.audio ? `<button class="btn small line" style="align-self:start" data-explay="${i}" aria-label="Listen">▶ Listen</button>` : '';
 function exHTML(e, i) {
-  if (e.kind === 'fill') return `<div class="card exi"><span class="k">Fill the gap</span><span class="h">${esc(e.hanji || '')}</span><span class="t">${esc(e.tailo)}</span><span class="sub">${esc(e.en || '')}</span>
+  if (e.kind === 'fill') return `<div class="card exi"><span class="k">Fill the gap</span>${exAudio(e, i)}<span class="h">${esc(e.hanji || '')}</span><span class="t">${esc(e.tailo)}</span><span class="sub">${esc(e.en || '')}</span>
     <form data-ex="${i}"><input id="ex-${i}" aria-label="Your answer" autocomplete="off" spellcheck="false" placeholder="Type in Jyutping">
     <button class="btn small" type="submit">Check</button><button class="btn small quiet" type="button" data-show="${i}">Show</button></form>
     <span class="fb" id="fb-${i}" aria-live="polite"></span></div>`;
-  return `<div class="card exi"><span class="k">What does it mean?</span><span class="h">${esc(e.hanji || '')}</span><span class="t">${esc(e.tailo)}</span>
+  return `<div class="card exi"><span class="k">What does it mean?</span>${exAudio(e, i)}<span class="h">${esc(e.hanji || '')}</span><span class="t">${esc(e.tailo)}</span>
     <button class="btn small quiet" style="align-self:start" data-ans="${i}">Show English</button><span class="fb" id="fb-${i}"></span></div>`;
 }
 const norm = s => (s || '').normalize('NFC').toLowerCase().replace(/[.,!?;:'"「」]/g, '').replace(/\s+/g, ' ').trim();
@@ -963,6 +965,7 @@ function wireExercises(ex, root) {
   });
   $$('[data-show]', root).forEach(b => b.onclick = () => { const e = ex[+b.dataset.show], fb = $('#fb-' + b.dataset.show); fb.className = 'fb'; fb.textContent = e.answer + (e.answer_hanji ? ' ' + e.answer_hanji : ''); });
   $$('[data-ans]', root).forEach(b => b.onclick = () => { $('#fb-' + b.dataset.ans).textContent = ex[+b.dataset.ans].en; b.remove(); });
+  $$('[data-explay]', root).forEach(b => b.onclick = () => play(ex[+b.dataset.explay].audio, b));
 }
 
 // ---------- lesson 0
