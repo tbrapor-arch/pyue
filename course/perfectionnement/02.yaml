@@ -97,7 +97,6 @@ exercises:
   fill:
     - {hanzi: "蛋撻十點___，你遲過十一點嚟就冇喇。", jyutping: "daan6 taat1 sap6 dim2 ___, nei5 ci4 gwo3 sap6 jat1 dim2 lai4 zau6 mou5 laa3.", answer: "ceot1 lou4", answer_hanzi: 出爐, en: "The egg tarts come out at ten; if you come after eleven there are none left."}
     - {hanzi: "茶走就係用煉奶___糖。", jyutping: "caa4 zau2 zau6 hai6 jung6 lin6 naai5 ___ tong4.", answer: "doi6 tai3", answer_hanzi: 代替, en: "'茶走' means using condensed milk instead of sugar."}
-    - {hanzi: "一個餐___蚊，真係平。", jyutping: "jat1 go3 caan1 ___ man1, zan1 hai6 ping4.", answer: "sap6 gei2", answer_hanzi: 十幾, en: "A set meal for ten-odd dollars, really cheap."}
-    - {hanzi: "一個餐十幾蚊，好___食！", jyutping: "jat1 go3 caan1 sap6 gei2 man1, hou2 ___ sik6!", answer: "dai2", answer_hanzi: 抵, en: "A set meal for ten-odd dollars, what a bargain!"}
+    - {hanzi: "一個餐___蚊，好___食！", jyutping: "jat1 go3 caan1 ___ man1, hou2 ___ sik6!", answer: "sap6 gei2 / dai2", answer_hanzi: 十幾 / 抵, en: "A set meal for ten-odd dollars, what a bargain!"}
     - {hanzi: "食完西多士，我成個下晝都唔想___。", jyutping: "sik6 jyun4 sai1 do1 si2, ngo5 seng4 go3 haa6 zau3 dou1 m4 soeng2 ___.", answer: "juk1", answer_hanzi: 郁, en: "After the French toast, I didn't want to move all afternoon."}
     - {hanzi: "你想飲咩？——___啦，你揀。", jyutping: "nei5 soeng2 jam2 me1? —— ___ laa1, nei5 gaan2.", answer: "ceoi4 bin2", answer_hanzi: 隨便, en: "What do you want to drink? — Whatever, you choose."}
