@@ -13,6 +13,8 @@ app/dist/
 *.pdf
 *.epub
 *.mp3
+# …except the synthetic lesson audio made by tools/tts.py
+!audio/**/*.mp3
 *.m4a
 *.wav
 *.flac

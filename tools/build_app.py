@@ -152,6 +152,26 @@ for f in theme_files:
                 glosses.setdefault((w['hanzi'], jp.key(w['jyutping'])), w['en'])
 cards.ENGLISH = english.English(con, glosses, CEDICT)
 
+# ---- synthetic audio (tools/tts.py, Azure zh-HK voices): a line gets its file only if the text it was made from is
+# still the line's text, so an edited line goes silent until the audio is made again. Files are copied to app/dist/audio.
+import shutil  # noqa: E402
+import tts  # noqa: E402
+AUDIO_DIR = os.path.join(ROOT, 'audio')
+AUDIO = json.load(open(os.path.join(AUDIO_DIR, 'index.json'), encoding='utf-8')) \
+    if os.path.exists(os.path.join(AUDIO_DIR, 'index.json')) else {}
+TTS_FIX = tts.fixes()
+audio_used = []
+
+
+def line_audio(lesson, ln):
+    au = AUDIO.get(str(lesson), {}).get(str(ln['n']))
+    rel = f"{lesson:02d}/{ln['n']:02d}.mp3"
+    if au and au['t'] == tts.spoken(ln.get('hanzi'), TTS_FIX) and os.path.exists(os.path.join(AUDIO_DIR, rel)):
+        audio_used.append(rel)
+        return f"audio/{rel}?v={au['h']}", f"{au.get('v', 'Azure')} (synthetic)"
+    return None, None
+
+
 lessons = []
 for f in perf_files:
     d = yaml.safe_load(open(f, encoding='utf-8'))
@@ -162,6 +182,9 @@ for f in perf_files:
         shown = j.replace('-', ' ')
         lines.append({'n': ln['n'], 'speaker': ln.get('speaker') or '', 'en': ln['en'], 'zh': ln.get('zh'),
                       'tailo': shown, 'hanji': ln['hanzi'], 'spoken': shown, 'tokens': tokenize(ln['hanzi'], j)})
+        au, voice = line_audio(d['id'], ln)
+        if au:
+            lines[-1]['audio'], lines[-1]['voice'] = au, voice
     new_words = [{'tailo': w['jyutping'], 'hanji': w['hanzi'], 'en': w.get('en'),
                   'id': lookup(w['hanzi'], jp.key(w['jyutping']))} for w in d.get('new_words') or []]
     ex = []
@@ -219,6 +242,13 @@ music = yaml.safe_load(open(MUSIC, encoding='utf-8')) if os.path.exists(MUSIC) e
 data = {'podcast': None, 'video': video, 'music': music, 'tones': tone_drill.build(lessons), 'grammar': grammar,
         'syllabus': syllabus, 'lessons': lessons, 'themes': themes, 'accents': [], 'bridge': [],
         'dict': dictionary, 'lesson0': lesson0, 'built': datetime.date.today().isoformat(), 'recorded': 0}
+
+dist_audio = os.path.join(ROOT, 'app/dist/audio')
+shutil.rmtree(dist_audio, ignore_errors=True)
+for rel in audio_used:
+    os.makedirs(os.path.dirname(os.path.join(dist_audio, rel)), exist_ok=True)
+    shutil.copy(os.path.join(AUDIO_DIR, rel), os.path.join(dist_audio, rel))
+print(f'audio: {len(audio_used)} lines with a synthetic recording')
 
 tpl = open(os.path.join(ROOT, 'app/index.template.html'), encoding='utf-8').read()
 tpl = tpl.replace('/*__FONTS__*/', tailo_font_css() + '\n' + han_font_css(json.dumps(data, ensure_ascii=False) + tpl.replace('㐀-鿿', '').replace('豈-﫿', '')))

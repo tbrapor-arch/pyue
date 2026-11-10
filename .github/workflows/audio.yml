@@ -1,0 +1,62 @@
+# Synthetic Cantonese audio for the 進修 lessons (tools/tts.py, Azure Speech, zh-HK voices), as in sy-zy.
+# One-time setup: Settings › Secrets and variables › Actions › New repository secret:
+#   AZURE_SPEECH_KEY     key of a Speech resource (Azure portal, free tier F0 is enough: the course is ~40,000 characters)
+#   AZURE_SPEECH_REGION  its region (optional: eastasia when not set)
+# Runs when a lesson, course/voices.tsv or course/tts_fix.tsv changes (only changed lines are made again),
+# or by hand (Actions › Lesson audio › Run workflow). Commits audio/ and then rebuilds the site.
+name: Lesson audio
+
+on:
+  push:
+    branches: [main]
+    paths: ['course/perfectionnement/*.yaml', 'course/voices.tsv', 'course/tts_fix.tsv', 'tools/tts.py']
+  workflow_dispatch:
+    inputs:
+      lessons:
+        description: 'Only these lessons, e.g. "3 4" (empty = all)'
+        required: false
+      force:
+        description: 'Make again even if unchanged'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: audio
+  cancel-in-progress: false
+
+jobs:
+  audio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.12'
+      - run: pip install PyYAML==6.0.2
+      - name: Make the audio
+        env:
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ secrets.AZURE_SPEECH_REGION || 'eastasia' }}
+          LESSONS: ${{ inputs.lessons }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          if [ -z "$AZURE_SPEECH_KEY" ]; then echo "::notice::No AZURE_SPEECH_KEY secret: no audio made"; exit 0; fi
+          args=""; for n in $LESSONS; do args="$args --lesson $n"; done
+          [ "$FORCE" = "true" ] && args="$args --force"
+          python3 tools/tts.py $args
+      - name: Commit and rebuild the site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ ! -d audio ]; then echo "No audio folder (no key yet?)"; exit 0; fi
+          git add -A audio
+          if git diff --cached --quiet; then echo "No new audio"; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898708+github-actions[bot]@users.noreply.github.com" \
+            commit -m "Lesson audio: synthetic zh-HK voices"
+          git push
+          # a push made with this token does not start other workflows: start the Pages build by hand
+          gh workflow run pages.yml --ref main

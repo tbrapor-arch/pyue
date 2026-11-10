@@ -875,11 +875,12 @@ function showLesson(L) {
       : `${L.intro ? `<p class="lintro"><i>${esc(L.intro)}</i></p>` : ''}<p class="setting" style="margin:0">${esc(L.setting)}</p>`}
     ${(() => { const w = L.id - waveOff(L.id); return !WAVE && isP(w) === isP(L.id) && DATA.lessons.some(l => l.id === w) ? `<button class="card wave" data-go="wave-${w}"><span class="eyebrow">${L.review ? 'Review · second wave' : 'Second wave'}${waveAt[w] ? ' · done ✓' : ''}</span><span>With this lesson, also redo <b>${lname(w)}</b> in active mode: read the English, say it in Cantonese.</span></button>` : ''; })()}
     ${toolbar(!WAVE)}
+    ${L.lines.some(x => x.audio) ? `<div class="row listen" style="display:flex;gap:.6rem;align-items:center;flex-wrap:wrap;margin:.4rem 0"><button class="btn small line" id="playall">▶ Listen to the dialogue</button><span class="sub" style="font-size:.85rem">Synthetic voices (Microsoft, Hong Kong Cantonese): a guide to rhythm and melody, not a native speaker. They may miss changed tones.</span></div>` : ''}
     <div class="lines" id="dlg">${L.lines.map((ln, li) => { REVEAL['l' + li] = [ln.en, ln.zh]; return `
       <div class="sent" id="line-${ln.n}">
         <div class="who">${ln.speaker ? `<span class="av ${speakers.indexOf(ln.speaker) % 2 ? 'b' : ''}">${esc(ln.speaker[0])}</span>${esc(ln.speaker)}` : ''}<span class="n">${ln.n}</span></div>
         ${active ? `<div class="en act">${esc(ln.en)}</div><button class="reveal" data-tw="${li}">Show Cantonese</button><div class="txt" id="tw-${li}" hidden>${sentence(ln.tokens, 'L' + li)}</div>` : `<div class="txt">${sentence(ln.tokens, 'L' + li)}</div>`}
-        <div class="under">${ln.audio ? `<button class="lplay rec" data-lplay="${li}" aria-label="Listen to line ${ln.n}" title="Recorded by ${esc(ln.voice || 'a native speaker')}">▶</button>` : lineAudio(ln.tokens).length ? `<button class="lplay" data-lplay="${li}" aria-label="Listen to line ${ln.n} word by word" title="Word by word (dictionary recordings)">▶</button>` : ''}${active ? '' : enLine(ln.en, ln.zh, 'l' + li)}${WAVE ? '' : (notesBy[ln.n] || []).map(k => `<button class="nlink" data-note="${k}" aria-label="Note ${k}">${k}</button>`).join('')}</div>
+        <div class="under">${ln.audio ? `<button class="lplay rec" data-lplay="${li}" aria-label="Listen to line ${ln.n}" title="${ln.voice && /synthetic/.test(ln.voice) ? 'Synthetic voice: ' + esc(ln.voice) : 'Recorded by ' + esc(ln.voice || 'a native speaker')}">▶</button>` : lineAudio(ln.tokens).length ? `<button class="lplay" data-lplay="${li}" aria-label="Listen to line ${ln.n} word by word" title="Word by word (dictionary recordings)">▶</button>` : ''}${active ? '' : enLine(ln.en, ln.zh, 'l' + li)}${WAVE ? '' : (notesBy[ln.n] || []).map(k => `<button class="nlink" data-note="${k}" aria-label="Note ${k}">${k}</button>`).join('')}</div>
       </div>`; }).join('')}</div>
     ${!WAVE && (notesBy[0] || []).length ? `<div class="under recap"><span class="sub">Recap notes</span>${notesBy[0].map(k => `<button class="nlink" data-note="${k}" aria-label="Note ${k}">${k}</button>`).join('')}</div>` : ''}
     ${active ? `<div class="row"><button class="btn small quiet" id="show-all">Show all the Cantonese</button></div>` : ''}
@@ -904,6 +905,7 @@ function showLesson(L) {
   const sa = $('#show-all', main); if (sa) sa.onclick = () => { $$('[data-tw]', main).forEach(b => b.click()); sa.remove(); };
   $$('[data-note]', main).forEach(b => b.onclick = () => openNote(L, +b.dataset.note));
   $$('[data-lplay]', main).forEach(b => b.onclick = () => playLine(+b.dataset.lplay, b));
+  const pa = $('#playall', main); if (pa) pa.onclick = () => playAll(L, pa);
   $$('[data-word]', main).forEach(b => b.onclick = () => openCard(b.dataset.word));
   const aa = $('#addall', main); if (aa) aa.onclick = () => { const n = listSet('lessons', L.new_words.map(w => w.id), true); toast(n ? `${n} words added to Lessons` : 'Already in your Lessons list'); const y = window.scrollY; showLesson(L); window.scrollTo(0, y); };
   const ak = $('#anki', main); if (ak) ak.onclick = () => copyText(L.new_words.map(w => [w.hanji, w.tailo, w.en || '', (DATA.dict[w.id] && DATA.dict[w.id].mandarin || []).slice(0, 2).join('、'), lname(L.id)].join('\t')).join('\n'), ak, 'Copied · in Anki: File › Import, fields separated by Tab');
@@ -1838,6 +1840,22 @@ function play(src, btn) {
 function wordAudio(t) { const c = t.w && t.w.id && DATA.dict[t.w.id]; return !c ? (t.w && t.w.as) || [] : c.audio ? [c.audio] : c.audio_seq || []; }
 function lineAudio(tokens) { return tokens.map((t, i) => [t, i]).filter(([t]) => wordAudio(t).length); }
 let lineRun = 0;
+// the whole dialogue, line after line (recorded lines only); tap again to stop
+async function playAll(L, btn) {
+  const idle = '▶ Listen to the dialogue';
+  if (btn.classList.contains('on')) { lineRun++; if (player) player.pause(); btn.classList.remove('on'); btn.textContent = idle; $$('.sent.saying').forEach(x => x.classList.remove('saying')); return; }
+  const run = ++lineRun; btn.classList.add('on'); btn.textContent = '■ Stop';
+  for (const [li, ln] of L.lines.entries()) {
+    if (run !== lineRun) return;
+    if (!ln.audio) continue;
+    const sent = document.getElementById('line-' + ln.n);
+    if (sent) { sent.classList.add('saying'); sent.scrollIntoView({ block: 'nearest', behavior: 'smooth' }); }
+    await new Promise(res => { try { if (player) player.pause(); player = new Audio(ln.audio); player.onended = res; player.onerror = res; player.play().catch(res); } catch { res(); } });
+    if (sent) sent.classList.remove('saying');
+    if (run === lineRun) await new Promise(r => setTimeout(r, 350));
+  }
+  if (run === lineRun) { btn.classList.remove('on'); btn.textContent = idle; }
+}
 async function playLine(li, btn) {
   const run = ++lineRun, L = DATA.lessons.find(l => location.hash.endsWith('-' + l.id));
   if (!L) return;

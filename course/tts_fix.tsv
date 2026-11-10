@@ -1,0 +1,2 @@
+# Respellings for tools/tts.py when the voice reads a word wrongly: word <TAB> text sent instead (usually a homophone).
+# Only the lines that contain the word are made again.

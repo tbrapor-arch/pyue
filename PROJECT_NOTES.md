@@ -43,7 +43,9 @@ Private companion: `tbrapor-arch/pyue-private`.
   - Word card: Cantonese only / Used differently in Mandarin / Same; English (course, `course/glosses_en.tsv`, else
     automatic via the Mandarin word in CC-CEDICT); Mandarin with pinyin; other readings of the characters with their share.
   - Practice › Drills: a tone drill (pick the tones of a word shown without them) in place of tone changes.
-  - Settings: no accent presets or review audio (no recordings yet).
+  - Settings: no accent presets or review audio.
+  - Dialogue audio (10 Nov 2026): synthetic Azure zh-HK voices, as in sy-zy (`tools/tts.py`, `course/voices.tsv`,
+    workflow `audio.yml`; README › Lesson audio). Made once the `AZURE_SPEECH_KEY` secret is set.
   - **Fonts identical to Tsheh-tû and sy-zy** (6 Nov 2026, owner's request): Iansui for characters, Tsheh-tû's
     embedded Noto Sans ('TailoSans') for Jyutping, Atkinson Hyperlegible for the interface. Characters Iansui lacks
     (哋, 咗…) come from LXGW WenKai TC ('PyueExt'), same Klee One design, subset and embedded, as sy-zy does with

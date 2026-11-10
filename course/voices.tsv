@@ -1,0 +1,77 @@
+# Voice of each speaker for tools/tts.py.
+# speaker <TAB> voice (HiuMaan | HiuGaai | WanLung) <TAB> pitch <TAB> rate (default -10%)
+# "NN:speaker" = that lesson only. Not listed: HiuGaai, normal pitch.
+# Only one male voice (WanLung): the men differ by pitch and speed.
+# --- main cast
+Hugo	WanLung
+Leung Pak	WanLung	-12%	-18%
+Mr Ho	WanLung	-7%	-14%
+Keung-go	WanLung	-16%	-12%
+Ka-wai	WanLung	+6%
+Kayan	HiuMaan		-5%
+Lin-ze	HiuMaan	-8%
+Hiu-ching	HiuGaai
+Grandma	HiuGaai	-12%	-22%
+Lok-zai	HiuGaai	+16%
+# --- the band (Jim = 阿占 in the early lessons)
+Jim	WanLung	+8%	-5%
+A-zim	WanLung	+8%	-5%
+So	WanLung	+3%
+Sai-So	WanLung	+3%
+Ken	WanLung	-4%	-5%
+Verse 1	WanLung	+8%	-15%
+Verse 2	WanLung	+8%	-15%
+Chorus	WanLung	+8%	-15%
+Bridge	WanLung	+8%	-15%
+Outro	WanLung	+8%	-15%
+# --- other men
+Wah-go	WanLung	-4%
+Mr Chu	WanLung	-6%
+Mr Chan	WanLung	-10%	-15%
+Fung	WanLung	+14%
+Bobo	WanLung	+12%
+Waiter	WanLung	+4%
+Shopkeeper	WanLung	-8%
+Cousin	WanLung	-10%
+Uncle	WanLung	-9%	-15%
+Uncle Fong	WanLung	-8%
+Master	WanLung	-14%	-20%
+Doctor	WanLung	-3%
+Critic	WanLung	-6%
+Jason	WanLung	+4%
+Mo	WanLung	+5%
+Regular	WanLung	-10%
+Dad	WanLung	-5%
+A-zong	WanLung	+2%
+A-git	WanLung	+14%
+Villager	WanLung	-12%	-15%
+Commentator	WanLung	+6%	+5%
+# --- other women
+Mandy	HiuMaan	+5%
+Ivy	HiuMaan
+Si	HiuGaai	+10%
+A-si	HiuGaai	+12%
+Ms Wong	HiuMaan	-4%
+Cousin's wife	HiuMaan	-6%
+Aunt	HiuMaan	-8%	-15%
+Nurse	HiuGaai
+Mum	HiuMaan	-4%
+Class monitor	HiuGaai	+12%
+Caller	HiuMaan	-6%
+Staff	HiuGaai	+5%
+Crowd	HiuMaan
+All	HiuMaan
+# --- documents and broadcasts: read by whoever reads them in the lesson
+02:Menu	WanLung
+05:Host	WanLung	+3%
+08:Card	WanLung	-12%	-18%
+13:Letter	HiuMaan		-5%
+30:List	HiuMaan		-5%
+34:Letter	HiuMaan		-5%
+52:Letter	WanLung	-7%	-14%
+37:News	HiuGaai
+38:Rules	HiuGaai
+40:Host	HiuGaai	+4%
+50:Radio	HiuGaai
+59:Host	HiuGaai
+60:Article	HiuGaai
