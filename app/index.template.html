@@ -950,6 +950,8 @@ function exHTML(e, i) {
     <form data-ex="${i}"><input id="ex-${i}" aria-label="Your answer" autocomplete="off" spellcheck="false" placeholder="Type in Jyutping">
     <button class="btn small" type="submit">Check</button><button class="btn small quiet" type="button" data-show="${i}">Show</button></form>
     <span class="fb" id="fb-${i}" aria-live="polite"></span></div>`;
+  if (e.kind === 'listen') return `<div class="card exi"><span class="k">Listen and repeat</span>${exAudio(e, i)}<span class="h">${esc(e.hanji || '')}</span><span class="t">${esc(e.tailo)}</span>
+    <button class="btn small quiet" style="align-self:start" data-ans="${i}">Show meaning</button><span class="fb" id="fb-${i}"></span></div>`;
   return `<div class="card exi"><span class="k">What does it mean?</span>${exAudio(e, i)}<span class="h">${esc(e.hanji || '')}</span><span class="t">${esc(e.tailo)}</span>
     <button class="btn small quiet" style="align-self:start" data-ans="${i}">Show English</button><span class="fb" id="fb-${i}"></span></div>`;
 }
