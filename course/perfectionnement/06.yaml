@@ -97,7 +97,8 @@ exercises:
     - {hanzi: "呢個講法好舊，而家啲後生未必聽過。", jyutping: "ni1 go3 gong2 faat3 hou2 gau6, ji4 gaa1 di1 hau6 saang1 mei6 bit1 teng1 gwo3.", en: "This expression is very old; young people today may not have heard it."}
   fill:
     - {hanzi: "你而家坐緊___張櫈，係我老豆買嘅。", jyutping: "nei5 ji4 gaa1 co5 gan2 ___ zoeng1 dang3, hai6 ngo5 lou5 dau6 maai5 ge3.", answer: "go2", answer_hanzi: 嗰, en: "That stool you're sitting on now, my dad bought it."}
-    - {hanzi: "___我哋住喺鄉下，___先搬出嚟香港。", jyutping: "___ ngo5 dei6 zyu6 hai2 hoeng1 haa2, ___ sin1 bun1 ceot1 lai4 hoeng1 gong2.", answer: "go2 zan6 si4 / hau6 loi4", answer_hanzi: 嗰陣時 / 後來, en: "Back then we lived in the village; only later did we move out to Hong Kong."}
+    - {hanzi: "___我哋住喺鄉下，而家住喺香港。", jyutping: "___ ngo5 dei6 zyu6 hai2 hoeng1 haa2, ji4 gaa1 zyu6 hai2 hoeng1 gong2.", answer: "go2 zan6 si4", answer_hanzi: 嗰陣時, en: "Back then we lived in the village; now we live in Hong Kong."}
+    - {hanzi: "我哋喺鄉下住咗十年，___先搬出嚟香港。", jyutping: "ngo5 dei6 hai2 hoeng1 haa2 zyu6 zo2 sap6 nin4, ___ sin1 bun1 ceot1 lai4 hoeng1 gong2.", answer: "hau6 loi4", answer_hanzi: 後來, en: "We lived in the village for ten years; only later did we move out to Hong Kong."}
     - {hanzi: "佢考試合格？___啦，佢日日溫書。", jyutping: "keoi5 haau2 si5 hap6 gaak3? ___ laa1, keoi5 jat6 jat6 wan1 syu1.", answer: "gang2 hai6", answer_hanzi: 梗係, en: "Did she pass the exam? Of course, she studies every day."}
     - {hanzi: "啲人叫炸彈___「菠蘿」。", jyutping: "di1 jan4 giu3 zaa3 daan2 ___ \"bo1 lo4\".", answer: "zou6", answer_hanzi: 做, en: "People called the bombs 'pineapples'."}
     - {hanzi: "佢成世人___過好多苦。", jyutping: "keoi5 seng4 sai3 jan4 ___ gwo3 hou2 do1 fu2.", answer: "ging1 lik6", answer_hanzi: 經歷, en: "He went through a lot of hardship in his life."}

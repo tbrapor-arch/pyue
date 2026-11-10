@@ -92,4 +92,5 @@ exercises:
     - {hanzi: "我___你六點先嚟，點知你咁早到。", jyutping: "ngo5 ___ nei5 luk6 dim2 sin1 lai4, dim2 zi1 nei5 gam3 zou2 dou3.", answer: "ji5 wai4", answer_hanzi: 以為, en: "I thought you'd only come at six, but you're here so early."}
     - {hanzi: "你每個月要交___俾業主。", jyutping: "nei5 mui5 go3 jyut6 jiu3 gaau1 ___ bei2 jip6 zyu2.", answer: "zou1", answer_hanzi: 租, en: "You have to pay rent to the landlord every month."}
     - {hanzi: "___你係租我嘅，唔係租佢嘅。", jyutping: "___ nei5 hai6 zou1 ngo5 ge3, m4 hai6 zou1 keoi5 ge3.", answer: "zik1 hai6", answer_hanzi: 即係, en: "That means you're renting from me, not from him."}
-    - {hanzi: "___我覺得好攰，想轉吓___。", jyutping: "___ ngo5 gok3 dak1 hou2 gui6, soeng2 zyun3 haa5 ___.", answer: "zeoi3 gan6 / waan4 ging2", answer_hanzi: 最近 / 環境, en: "Lately I've been feeling tired; I want a change of scene."}
+    - {hanzi: "___我覺得好攰，想休息吓。", jyutping: "___ ngo5 gok3 dak1 hou2 gui6, soeng2 jau1 sik1 haa5.", answer: "zeoi3 gan6", answer_hanzi: 最近, en: "Lately I've been feeling tired; I want a rest."}
+    - {hanzi: "我想轉吓___，唔想日日對住同一堵牆。", jyutping: "ngo5 soeng2 zyun3 haa5 ___, m4 soeng2 jat6 jat6 deoi3 zyu6 tung4 jat1 dou2 coeng4.", answer: "waan4 ging2", answer_hanzi: 環境, en: "I want a change of scene; I don't want to face the same wall every day."}
