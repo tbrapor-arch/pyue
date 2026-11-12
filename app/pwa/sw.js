@@ -1,14 +1,15 @@
 // Offline support for the installed app. The page itself: network first (new lessons arrive as soon as you are
 // online), the copy in the cache when offline. Recordings, icons and fonts: cache first, kept once played or loaded.
 const VERSION = '__BUILD__';
-const SHELL = 'tshehtu-shell-' + VERSION, MEDIA = 'tshehtu-media-2';
+// own names: the Taigi app (tsehtu) on the same site uses tshehtu-*, and each app deletes its own old caches by prefix
+const SHELL = 'pyue-shell-' + VERSION, MEDIA = 'pyue-media-1';
 const PRECACHE = ['./', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(SHELL).then(c => c.addAll(PRECACHE)).then(() => self.skipWaiting()));
 });
 self.addEventListener('activate', e => {
-  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => (k.startsWith('tshehtu-shell-') && k !== SHELL) || (k.startsWith('tshehtu-media-') && k !== MEDIA)).map(k => caches.delete(k))))
+  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => (k.startsWith('pyue-shell-') && k !== SHELL) || (k.startsWith('pyue-media-') && k !== MEDIA)).map(k => caches.delete(k))))
     .then(() => self.clients.claim()));
 });
 self.addEventListener('fetch', e => {
