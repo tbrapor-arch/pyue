@@ -449,6 +449,7 @@ h1, .hello .big, .todaycard .lt, .wotd .wh, .item .tt, .tcard .th, .wchip b, .vt
 .yzidx { margin: 0 0 .6rem; font-family: var(--f-han); font-size: 1.25rem; line-height: 1.9; word-break: break-all; }
 .yzidx button { font: inherit; padding: 0 .1rem; }
 .yz { display: grid; grid-template-columns: 4.2rem 1fr; gap: .2rem .9rem; padding: .8rem .9rem; background: var(--surface); border: var(--border-soft); border-radius: var(--r-big); }
+.yz.lazy { min-height: 13rem; }   /* a card not made yet (about a card's height, so the page keeps its length while scrolling) */
 .yz-c { display: flex; flex-direction: column; align-items: center; gap: .15rem; }
 .yz-c .han { font-family: var(--f-han); font-weight: var(--w-han); font-size: 2.6rem; line-height: 1.1; }
 .yz-c .han.multi { font-size: 1.5rem; writing-mode: vertical-rl; }
@@ -736,42 +737,99 @@ function renderTabs(cur) {
 
 // ---------- Lessons sub-tabs: the course, and 粵字 (characters that belong to written Cantonese only)
 const lessonNav = cur => (DATA.yuezi || []).length ? `<div class="seg pracnav" role="group" aria-label="Lessons">${[['lessons', 'Lessons'], ['yuezi', '粵字 Cantonese characters']].map(([k, t]) => `<button data-go="${k}" aria-pressed="${k === cur}">${t}</button>`).join('')}</div>` : '';
-function showYuezi() {
-  renderTabs('lessons');
-  const LB = Object.fromEntries(DATA.lessons.map(l => [l.id, l]));
+// Part (b), the characters not in the lessons yet, and the word cards only it uses live in a side file
+// (yuezi-more.json, made by build_app.py), fetched the first time 粵字 is opened: inline they made index.html 2 MB
+// bigger and every start slower. The service worker keeps it for offline use (its name carries a content hash).
+const YZ = { p: null,
+  load() { return this.p || (this.p = fetch(DATA.yzMore).then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); }).then(d => {
+    Object.entries(d.dict).forEach(([id, c]) => { if (!DATA.dict[id]) DATA.dict[id] = Object.assign(c, { tailo: c.tkey.replace(/-/g, ' ') }); });
+    Object.entries(d.in || {}).forEach(([id, xs]) => { const c = DATA.dict[id]; if (c) c.in = [...(c.in || []), ...xs]; });
+    // what the build left out because it is the same everywhere: s = t, a word's id = characters|key as read
+    const wid = (h, t) => h + '|' + t.replace(/ /g, '-');
+    DATA.yuezi.forEach(g => { const items = d.groups[g.id]; if (!items) return;
+      items.forEach(it => { it.zh = it.zh || ''; it.uses = it.uses || 0;
+        if (it.ex) it.ex.tokens.forEach(t => { const w = t.w; if (!w) return; if (w.s === undefined) w.s = w.t; if (!('id' in w)) w.id = wid(w.h, w.t); });
+        it.words.forEach(w => { if (!('id' in w)) w.id = wid(w.hanji, w.tailo); }); });
+      g.items = items; });
+    if (d.css) { const st = document.createElement('style'); st.textContent = d.css; document.head.append(st); }   // glyphs of its rare characters
+    this.ok = true;
+  }).catch(e => { this.p = null; throw e; })); },
+};
+const yzMore = g => g.kind.startsWith('more');
+// cards are made as they come near the screen (539 at once took ~1 s and 20,000 nodes); a jump makes its target first
+let yzIO = null;
+function yzCard(el) {
+  if (!el.classList.contains('lazy')) return;
+  const [gi, ii] = el.id.slice(3).split('-').map(Number), it = DATA.yuezi[gi].items[ii], k = `Y${gi}-${ii}`, src = it.ex && it.ex.src, L = src && DATA.lessons.find(l => l.id === src[0]);
   const keep = prefs.mode; prefs.mode = 'both';   // readings always shown here, whatever the lesson setting
-  const inL = g => !g.kind, nm = DATA.yuezi.filter(g => g.kind.startsWith('more')).reduce((a, g) => a + g.items.length, 0);
-  const n = DATA.yuezi.filter(g => g.kind !== 'borderline').reduce((a, g) => a + g.items.length, 0), nb = DATA.yuezi.filter(g => g.kind === 'borderline').reduce((a, g) => a + g.items.length, 0);
-  const item = (it, gi, ii) => { const k = `Y${gi}-${ii}`, src = it.ex && it.ex.src;
-    return `<div class="yz" id="yz-${gi}-${ii}">
-      <div class="yz-c"><span class="han${it.c.length > 1 ? ' multi' : ''}">${esc(it.c)}</span><span class="rom">${esc(it.tailo)}</span></div>
+  el.innerHTML = `<div class="yz-c"><span class="han${it.c.length > 1 ? ' multi' : ''}">${esc(it.c)}</span><span class="rom">${esc(it.tailo)}</span></div>
       <div class="yz-b"><span class="gl">${esc(it.en)}</span>
         ${it.zh || it.uses ? `<span class="zh">${it.zh ? `Mandarin <span class="han">${esc(it.zh)}</span>` : ''}${it.zh && it.uses ? ' · ' : ''}${it.uses ? `in ${it.uses} line${it.uses > 1 ? 's' : ''} of 進修` : ''}</span>` : ''}
         ${it.ex ? `<div class="sent"><div class="txt">${sentence(it.ex.tokens, k)}</div>
-          <div class="under"><span class="en">${esc(it.ex.en)}</span>${src && LB[src[0]] ? ` <button class="linkish" data-go="lesson-${src[0]}">${lname(src[0])} · line ${src[1]}</button>` : ''}${it.ex.by ? ` <span class="zh">· example from ${esc(it.ex.by)} (non-commercial)</span>` : ''}</div></div>` : ''}
-        ${it.words.length ? `<div class="yzw">${it.words.map(w => `<button data-yzw="${esc(w.id || '')}" title="${esc(w.en)} · ${lname(w.lesson)}"><span class="han">${esc(w.hanji)}</span> <span class="rom">${esc(w.tailo)}</span> ${esc(w.en)}</button>`).join('')}</div>` : ''}
-      </div></div>`; };
+          <div class="under"><span class="en">${esc(it.ex.en)}</span>${L ? ` <button class="linkish" data-go="lesson-${src[0]}">${lname(src[0])} · line ${src[1]}</button>` : ''}${it.ex.by === 'written' ? ' <span class="zh">· written for this list · not checked by a native speaker</span>' : it.ex.by ? ` <span class="zh">· example from ${esc(it.ex.by)} (non-commercial)</span>` : ''}</div></div>` : ''}
+        ${it.words.length ? `<div class="yzw">${it.words.map(w => `<button data-yzw="${esc(w.id || '')}" title="${esc(w.en)}${w.lesson ? ' · ' + lname(w.lesson) : ''}"><span class="han">${esc(w.hanji)}</span> <span class="rom">${esc(w.tailo)}</span> ${esc(w.en)}</button>`).join('')}</div>` : ''}
+      </div>`;
+  prefs.mode = keep;
+  el.classList.remove('lazy');
+  if (yzIO) yzIO.unobserve(el);
+  wireTokens(el); wireGo(el);
+}
+// a group's character index and its cards, as empty boxes of about a card's height until they are made
+const yzBody = (g, gi) => { const idx = g.items.map((i, ii) => `<button class="linkish" data-yzi="${gi}-${ii}">${esc(i.c)}</button>`).join(' ');
+  const body = `<p class="yzidx">${idx}</p><div class="yzgrid">${g.items.map((it, ii) => `<div class="yz lazy" id="yz-${gi}-${ii}"></div>`).join('')}</div>`;
+  return g.kind === 'more-vulgar' ? `<details><summary>Swear words and vulgar slang: tap to show</summary>${body}</details>` : body; };
+function yzWatch(root) {
+  const lazy = $$('.yz.lazy', root);
+  lazy.slice(0, root.id === 'main' ? 3 : 0).forEach(yzCard);   // the first cards at once, so the page never opens on empty boxes
+  lazy.forEach(el => el.classList.contains('lazy') && yzIO.observe(el));
+}
+function yzJump(el) {
+  if (!el) return;
+  // make the target and the cards just above it (their real height replaces the estimate before the scroll, so the
+  // landing does not move when they are made), then once more after the next frame
+  const all = $$('.yz', $('#main')), i = all.indexOf(el);
+  all.slice(Math.max(0, i - 6), i + 4).forEach(yzCard);
+  const to = () => window.scrollTo(0, el.getBoundingClientRect().top + window.scrollY - 12);
+  to(); requestAnimationFrame(to);
+}
+function yzFill(m) {     // part (b) arrived (or failed) while 粵字 is open: fill its groups in place
+  const st = $('#yz-status', m); if (!st) return;
+  if (!YZ.ok) { st.innerHTML = `<b>Could not load these characters</b><span class="sub">They are in a separate file the app fetches the first time this page is opened, so it needs the internet once; after that it works offline.</span><button class="btn small" style="align-self:start" id="yz-retry">Try again</button>`; st.className = 'card raised';
+    $('#yz-retry', st).onclick = () => { st.className = 'sub'; st.textContent = 'Loading…'; YZ.load().then(() => yzFill(m), () => yzFill(m)); }; return; }
+  st.remove();
+  DATA.yuezi.forEach((g, gi) => { if (!yzMore(g)) return; const sec = $('#yzg-' + gi, m), b = sec && $('.yzbody', sec); if (!b) return;
+    b.innerHTML = yzBody(g, gi); sec.hidden = false; yzWatch(b); });
+}
+function showYuezi() {
+  renderTabs('lessons');
+  if (yzIO) yzIO.disconnect();
+  yzIO = new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) yzCard(e.target); }), { rootMargin: '600px 0px' });
+  const cnt = g => g.items.length || g.n || 0, nm = DATA.yuezi.filter(yzMore).reduce((a, g) => a + cnt(g), 0);
+  const n = DATA.yuezi.filter(g => g.kind !== 'borderline').reduce((a, g) => a + cnt(g), 0), nb = DATA.yuezi.filter(g => g.kind === 'borderline').reduce((a, g) => a + cnt(g), 0);
+  const wait = !YZ.ok && DATA.yuezi.some(yzMore);
   $('#main').innerHTML = `<div class="col mode-both always-rom">
     <div class="head"><span class="eyebrow">Course</span><h1>粵字</h1><span class="rom">jyut6 zi6 · ${n} characters that only written Cantonese uses</span></div>
     ${lessonNav('yuezi')}
     <p class="sub" style="margin:0;max-width:65ch">Characters Mandarin doesn't write, or only in rare literary use. First the ${n - nm} met in the lessons, grouped by what they do, each with its Mandarin counterpart and a line from the lessons; then ${nm} more from the dictionary; last, ${nb} borderline characters Mandarin also writes every day but Cantonese uses with another meaning or job (係, 食, 企…). Tap a character in a list to jump to it, a word to open its card.</p>
     <nav class="yzjump" aria-label="Groups">${DATA.yuezi.map((g, gi) => `<button class="linkish" data-yzg="${gi}"><span class="han">${esc(g.hanji)}</span> ${esc(g.en)}</button>`).join('')}</nav>
-    ${DATA.yuezi.map((g, gi) => { const prev = DATA.yuezi[gi - 1], first = g.kind.startsWith('more') && !(prev && prev.kind.startsWith('more'));
-      const idx = g.items.map((i, ii) => `<button class="linkish" data-yzi="${gi}-${ii}">${esc(i.c)}</button>`).join(' ');
-      const body = `<div class="yzgrid">${g.items.map((it, ii) => item(it, gi, ii)).join('')}</div>`;
+    ${DATA.yuezi.map((g, gi) => { const prev = DATA.yuezi[gi - 1], first = yzMore(g) && !(prev && yzMore(prev));
       return `${g.kind === 'borderline' || first ? '<div class="pbreak" aria-hidden="true"></div>' : ''}
-      ${first ? `<div class="head"><span class="eyebrow">Not in the lessons yet</span><h1 style="font-size:1.6rem">字典入面嘅粵字</h1><span class="rom">${nm} more, from the words.hk dictionary, grouped by part of speech</span></div>
-        <p class="sub" style="margin:0;max-width:65ch">Readings, meanings and examples from words.hk 粵典 (non-commercial licence). Most common first. Rare characters may have no example sentence; their words show how they're used.</p>` : ''}
-      <section class="sec" id="yzg-${gi}" aria-labelledby="yzh-${gi}">
-      <h2 id="yzh-${gi}"><span class="num">${gi + 1}</span><span class="han">${esc(g.hanji)}</span><span class="sub" style="font-weight:600">${esc(g.en)} · ${g.items.length}</span></h2>
-      ${g.kind === 'more-vulgar' ? `<details><summary>Swear words and vulgar slang: tap to show</summary><p class="yzidx">${idx}</p>${body}</details>` : `<p class="yzidx">${idx}</p>${body}`}</section>`; }).join('')}
+      ${first ? `<div class="head" id="yz-more"><span class="eyebrow">Not in the lessons yet</span><h1 style="font-size:1.6rem">字典入面嘅粵字</h1><span class="rom">${nm} more, from the words.hk dictionary, grouped by part of speech</span></div>
+        <p class="sub" style="margin:0;max-width:65ch">Readings, meanings and examples from words.hk 粵典 (non-commercial licence). Most common first. Rare characters may have no example sentence from words.hk: some have one written for this list, the others' words show how they're used.</p>
+        ${wait ? '<p class="sub" id="yz-status" role="status">Loading…</p>' : ''}` : ''}
+      <section class="sec" id="yzg-${gi}" aria-labelledby="yzh-${gi}"${wait && yzMore(g) ? ' hidden' : ''}>
+      <h2 id="yzh-${gi}"><span class="num">${gi + 1}</span><span class="han">${esc(g.hanji)}</span><span class="sub" style="font-weight:600">${esc(g.en)} · ${cnt(g)}</span></h2>
+      <div class="yzbody">${wait && yzMore(g) ? '' : yzBody(g, gi)}</div></section>`; }).join('')}
   </div>`;
-  prefs.mode = keep;
-  const m = $('#main');
-  wireTokens(m); wireGo(m);
-  $$('[data-yzw]', m).forEach(b => b.onclick = () => { if (b.dataset.yzw) openCard(b.dataset.yzw); });
-  $$('[data-yzi]', m).forEach(b => b.onclick = () => { const e = document.getElementById('yz-' + b.dataset.yzi); if (e) window.scrollTo(0, e.getBoundingClientRect().top + window.scrollY - 12); });
-  $$('[data-yzg]', m).forEach(b => b.onclick = () => { const g = document.getElementById('yzg-' + b.dataset.yzg); if (g) window.scrollTo(0, g.getBoundingClientRect().top + window.scrollY - 12); });
+  const m = $('#main'), root = $('.col', m);
+  wireGo(root);
+  yzWatch(m);
+  // one listener for the page's many buttons (word buttons, character index, group list), whenever their cards are made
+  root.onclick = e => { const b = e.target.closest('button'); if (!b) return;
+    if (b.dataset.yzw !== undefined) { if (b.dataset.yzw) openCard(b.dataset.yzw); }
+    else if (b.dataset.yzi) yzJump(document.getElementById('yz-' + b.dataset.yzi));
+    else if (b.dataset.yzg) { const g = document.getElementById('yzg-' + b.dataset.yzg), t = g && g.hidden ? $('#yz-more', m) : g; if (t) window.scrollTo(0, t.getBoundingClientRect().top + window.scrollY - 12); } };
+  if (wait) YZ.load().then(() => yzFill(m), () => yzFill(m));
 }
 
 // ---------- lessons list
@@ -1560,7 +1618,7 @@ document.addEventListener('keydown', e => {
 // tapping the page outside the card closes it (as in Mainichi); taps on words, notes and chips open another one
 document.addEventListener('click', e => {
   const sh = $('#sheet');
-  if (!sh.classList.contains('open') || !e.target.isConnected || sh.contains(e.target) || e.target.closest('.tok, [data-note], [data-word], [data-pick], .tab, #pron')) return;
+  if (!sh.classList.contains('open') || !e.target.isConnected || sh.contains(e.target) || e.target.closest('.tok, [data-note], [data-word], [data-yzw], [data-pick], .tab, #pron')) return;
   closeSheet();
 });
 function currentTab() { const h = location.hash.slice(1) || 'lessons'; return /^(lesson|wave|yuezi)/.test(h) ? 'lessons' : /^(theme|grammar|drills)/.test(h) ? 'review' : /^(podcast|ep-)/.test(h) ? 'podcast' : /^(video|vid-)/.test(h) ? 'video' : /^(music|mus-)/.test(h) ? 'music' : /^(bridge|lists?$|list-)/.test(h) ? 'review' : /^(books|exam-book)/.test(h) ? 'books' : h.startsWith('exam') ? 'review' : h; }
@@ -2058,5 +2116,9 @@ route();
 // when it does, load the module in the background: its word cards (exam list, review deck) are then known everywhere
 if (Sync.token) { const was = Exam.on; Exam.check().then(on => { if (on !== was) { if (/^exam/.test(location.hash.slice(1))) route(); else renderTabs(currentTab()); }
   if (on && !/^exam/.test(location.hash.slice(1))) Exam.load().then(() => { if (currentTab() === 'review' && !sess && !tsess) route(); else renderTabs(currentTab()); }).catch(() => {}); }); }
+// a word from 粵字's side file in a list or in the review deck (added from one of its cards): load the file quietly
+// a little after start, so those words are known everywhere again (the files cached, it costs no download)
+setTimeout(() => { if (!YZ.ok && DATA.yzMore && [...Object.keys(deck), ...Object.values(lists).flatMap(L => Object.keys(L.w || {}))].some(id => !DATA.dict[id]))
+  YZ.load().then(() => { if (currentTab() === 'review' && !sess && !tsess) route(); }).catch(() => {}); }, 3000);
 if (Sync.on) Sync.run(true).then(() => { if (!sess && !tsess) { const y = scrollY; route.keepSheet = true; route(); route.keepSheet = false; scrollTo(0, y); } });
 </script>

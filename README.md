@@ -34,7 +34,8 @@ make app                # build the reader app: app/dist/index.html, one self-co
 Project state: `PROJECT_NOTES.md`; port plan from Tsheh-tû: `docs/port-plan.md`.
 
 ## The app
-`make app` writes `app/dist/index.html`, one self-contained page (works offline, progress kept in the browser).
+`make app` writes `app/dist/index.html`, one self-contained page (works offline, progress kept in the browser),
+and `app/dist/yuezi-more.json`, the part of Lessons › 粵字 the page fetches when that page is first opened.
 On every push to `main`, `.github/workflows/pages.yml` rebuilds everything and publishes on GitHub Pages.
 An optional private module (loaded with the owner's token) adds material that cannot be public; see
 `docs/sync-and-private-module.md`.

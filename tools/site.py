@@ -3,7 +3,7 @@
   python3 tools/site.py [out-dir]
 
 Adds a proper <head> (home-screen icon, full-screen launch without browser bars, theme colour), the manifest,
-the icons, the offline service worker, and the recordings if app/dist/audio exists.
+the icons, the offline service worker, 粵字's side file (yuezi-more.json) and the recordings if app/dist/audio exists.
 """
 import base64
 import hashlib
@@ -88,6 +88,9 @@ if os.path.exists(os.path.join(DIST, 'record.html')):
         sys.exit('site.py: record.html has no <meta charset="utf-8"> to put its CSP after')
     rec = rec.replace(tag, tag + '\n' + csp(rec, {'connect-src': 'blob: data:'}).rstrip('\n'), 1)
     open(os.path.join(OUT, 'record.html'), 'w', encoding='utf-8').write(rec)
+# 粵字's characters not in the lessons yet (fetched by the page when 粵字 is first opened)
+if os.path.exists(os.path.join(DIST, 'yuezi-more.json')):
+    shutil.copy(os.path.join(DIST, 'yuezi-more.json'), OUT)
 if os.path.isdir(os.path.join(DIST, 'audio')):
     shutil.copytree(os.path.join(DIST, 'audio'), os.path.join(OUT, 'audio'), dirs_exist_ok=True)
 open(os.path.join(OUT, '.nojekyll'), 'w').close()

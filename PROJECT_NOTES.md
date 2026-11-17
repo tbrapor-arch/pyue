@@ -65,6 +65,15 @@ Private companion: `tbrapor-arch/pyue-private`.
     the yaml; how they were chosen is in its header), grouped by words.hk part of speech (verbs, nouns, describing,
     measure words, particles, function words, only inside words, vulgar, folded): reading, English, example and words
     from words.hk at build time, labelled non-commercial. 175 rare ones have no words.hk example; their words show use.
+    Same day, for size and speed: part (b) is no longer in index.html (it had grown it from 7.6 to 9.7 MB and made 粵字
+    take ~1 s to open). `build_app.py` writes it to `app/dist/yuezi-more.json` (~1 MB: its groups, the word cards only
+    it uses — full for the word buttons, light for words that are only tokens of an example — and, as @font-face CSS,
+    the glyphs only it needs); index.html keeps each of its groups' name and count. The page fetches the file the
+    first time 粵字 is opened (`YZ.load` in the template; the name carries a content hash; `site.py` copies it,
+    `sw.js` keeps it, so it works offline after that), and quietly at start if a list or the review deck holds one of
+    its words. Cards are made as they come near the screen (IntersectionObserver); a jump makes its target first.
+    Characters words.hk has no example for take one from `course/yuezi_examples.yaml` (optional), labelled "written
+    for this list · not checked by a native speaker".
   - Practice › Drills: a tone drill (pick the tones of a word shown without them) in place of tone changes.
   - Settings: no accent presets or review audio.
   - Dialogue audio (10 Nov 2026): synthetic Azure zh-HK voices, as in sy-zy (`tools/tts.py`, `course/voices.tsv`,

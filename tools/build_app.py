@@ -9,6 +9,7 @@ JSON keeps Tsheh-tû's field names: `hanji` = characters, `tailo` = Jyutping, `e
 import base64
 import datetime
 import glob
+import hashlib
 import io
 import json
 import os
@@ -50,11 +51,13 @@ def tailo_font_css():
             f"src:url(data:font/woff2;base64,{b64}) format('woff2');}}")
 
 
-def han_font_css(text):
+def han_font_css(text, skip=''):
     """'PyueExt': the LXGW WenKai TC glyphs of every Chinese character in the app that Iansui (Tsheh-tû's character
     font) does not have — Cantonese characters such as 哋, 咗, 嘢. Both fonts are made from Klee One, so every character
     keeps Tsheh-tû's handwriting look (sy-zy does the same with LXGW WenKai for simplified characters).
-    Characters missing from both come from Plangothic ('TaigiExt', a plain sans) as a last resort."""
+    Characters missing from both come from Plangothic ('TaigiExt', a plain sans) as a last resort.
+    `skip`: characters another @font-face of the same families already covers (the side file of 粵字 adds only its own
+    glyphs: same family names, other unicode-range, so the browser joins them)."""
     fdir = os.path.join(ROOT, 'data/raw/fonts')
     ian, wk = os.path.join(fdir, 'Iansui-Regular.ttf'), os.path.join(fdir, 'LXGWWenKaiTC-Regular.ttf')
     try:
@@ -66,8 +69,9 @@ def han_font_css(text):
         print('WARNING: fonts missing (sh data/fetch_fonts.sh): Cantonese characters fall back to Noto Sans TC')
         return ''
     have = set(TTFont(ian).getBestCmap())
+    skip = set(skip)
     need = sorted({ord(c) for c in text if (0x3400 <= ord(c) <= 0x9fff or 0xf900 <= ord(c) <= 0xfaff or ord(c) >= 0x20000)
-                   and ord(c) not in have and unicodedata.category(c) != 'Cn'})
+                   and ord(c) not in have and unicodedata.category(c) != 'Cn' and c not in skip})
     if not need:
         return ''
     font = TTFont(wk)
@@ -309,6 +313,9 @@ MORE_GROUPS = [('verbs', '動詞', 'Verbs', ('動詞',)), ('nouns', '名詞', 'N
 def yuezi_more():
     src = yaml.safe_load(open(os.path.join(ROOT, 'course/yuezi.yaml'), encoding='utf-8'))
     chars = [c for c in src.get('more', '') if not c.isspace()]
+    # sentences written for the list (course/yuezi_examples.yaml, optional) for characters words.hk has no example of
+    wpath = os.path.join(ROOT, 'course/yuezi_examples.yaml')
+    written = ((yaml.safe_load(open(wpath, encoding='utf-8')) or {}).get('examples') or {}) if os.path.exists(wpath) else {}
     rank = {}
     for h, r in con.execute("SELECT hanzi, MIN(freq_rank) FROM entry WHERE freq_rank IS NOT NULL GROUP BY hanzi"):
         rank[h] = r
@@ -374,6 +381,11 @@ def yuezi_more():
         if cands:
             _, _, _, h, j, e, t = min(cands)
             ex = {'hanji': h, 'tailo': j, 'en': e, 'tokens': t, 'src': None, 'by': 'words.hk'}
+        elif (written.get(c) or {}).get('hanzi'):
+            w_ = written[c]
+            h, j = w_['hanzi'], w_.get('jyutping', '')
+            ex = {'hanji': h, 'tailo': j, 'en': w_.get('en', ''), 'tokens': tokens(h, j) or tokenize(h, j), 'src': None,
+                  'by': 'written'}
         words, seen = [], set()
         for r in multi:
             if r[1] in seen or len(words) >= 5:
@@ -398,15 +410,83 @@ def yuezi_more():
 
 
 _yz = yuezi_build()
-yuezi = [g for g in _yz if g['kind'] != 'borderline'] + yuezi_more() + [g for g in _yz if g['kind'] == 'borderline']
 
 VIDEO = os.path.join(ROOT, 'course/video.yaml')
 video = yaml.safe_load(open(VIDEO, encoding='utf-8')) if os.path.exists(VIDEO) else {'shows': []}
 MUSIC = os.path.join(ROOT, 'course/music.yaml')
 music = yaml.safe_load(open(MUSIC, encoding='utf-8')) if os.path.exists(MUSIC) else {'albums': []}
 data = {'podcast': None, 'video': video, 'music': music, 'tones': tone_drill.build(lessons), 'grammar': grammar,
-        'syllabus': syllabus, 'lessons': lessons, 'themes': themes, 'yuezi': yuezi, 'accents': [], 'bridge': [],
+        'syllabus': syllabus, 'lessons': lessons, 'themes': themes, 'yuezi': [], 'accents': [], 'bridge': [],
         'dict': dictionary, 'lesson0': lesson0, 'built': datetime.date.today().isoformat(), 'recorded': 0}
+
+# ---- 粵字 part (b), the characters not in the lessons yet, goes to a side file (app/dist/yuezi-more.json) that the
+# page fetches the first time 粵字 is opened: with it inline, index.html grew by 2 MB and every start parsed it.
+# index.html keeps the lesson and borderline groups and, for part (b), only each group's name and count. The side
+# file holds its groups, the word cards only it uses (not those index.html has), and the font glyphs only it needs.
+import copy  # noqa: E402
+inline_dict = copy.deepcopy(dictionary)     # yuezi_more() adds cards and appends to the 'in' list of existing ones
+more = yuezi_more()
+data['yuezi'] = ([g for g in _yz if g['kind'] != 'borderline'] + [dict(g, items=[], n=len(g['items'])) for g in more]
+                 + [g for g in _yz if g['kind'] == 'borderline'])
+data['dict'] = inline_dict
+# full cards for the words shown as buttons; a light card (no example, Mandarin, other readings, compounds) for words
+# that are only tokens of an example sentence; nothing for cards the dictionary made on the way and nobody points to
+full, light = [], []
+for g in more:
+    for it in g['items']:
+        full += [w['id'] for w in it['words'] if w['id']]
+        for t in (it['ex'] or {}).get('tokens') or []:
+            if t.get('w'):
+                light += [t['w']['id']] + t['w'].get('x', []) if t['w']['id'] else []
+full = list(dict.fromkeys(i for i in full if i not in inline_dict))
+for i in list(full):
+    light += dictionary[i].get('comp') or dictionary[i].get('parts') or []
+LIGHT_KEYS = ('hanji', 'tkey', 'gloss', 'gloss_src', 'check', 'cognate', 'source', 'rank')
+side_dict = {}
+
+def _bare(c):       # tailo (= tkey with spaces) is put back by the page; empty fields dropped (check: null has a meaning)
+    return {k: v for k, v in c.items() if k != 'tailo' and (k == 'check' or v not in (None, [], ''))}
+
+
+for i in full:
+    c = _bare(dictionary[i])
+    if c.get('in'):
+        c['in'] = [p for p in c['in'] if p in inline_dict or p in full]
+    side_dict[i] = c
+for i in dict.fromkeys(light):
+    if i not in inline_dict and i not in side_dict:
+        c = _bare({k: v for k, v in dictionary[i].items() if k in LIGHT_KEYS})
+        if dictionary[i].get('senses'):
+            c['senses'], c['senses_src'] = dictionary[i]['senses'][:2], dictionary[i].get('senses_src')
+        side_dict[i] = c
+# words of part (b) that now also list, under "Used in", a word of index.html's cards
+side_in = {i: [p for p in c['in'][len(inline_dict[i].get('in') or []):] if p in side_dict]
+           for i, c in dictionary.items() if i in inline_dict and len(c.get('in') or []) > len(inline_dict[i].get('in') or [])}
+side_in = {i: v for i, v in side_in.items() if v}
+
+def _wid(h, t):     # a word's card id when it is the word read as shown (the usual case): the page rebuilds it
+    return f"{h}|{t.replace(' ', '-')}"
+
+
+for g in more:          # the page puts back what is the same for every token or item (yzUnpack in the template)
+    for it in g['items']:
+        for t in (it['ex'] or {}).get('tokens') or []:
+            w = t.get('w')
+            if w and w.get('s') == w.get('t'):
+                del w['s']
+            if w and w.get('id') and w['id'] == _wid(w['h'], w['t']):
+                del w['id']
+        for w in it['words']:
+            if w['id'] and w['id'] == _wid(w['hanji'], w['tailo']):
+                del w['id']
+        for k, v in (('zh', ''), ('uses', 0)):
+            if it.get(k) == v:
+                del it[k]
+        it.pop('n', None)
+        if it['ex']:        # only the tokens are shown
+            for k in ('src', 'hanji', 'tailo'):
+                it['ex'].pop(k, None)
+side = {'groups': {g['id']: g['items'] for g in more}, 'dict': side_dict, 'in': side_in}
 
 dist_audio = os.path.join(ROOT, 'app/dist/audio')
 shutil.rmtree(dist_audio, ignore_errors=True)
@@ -416,9 +496,18 @@ for rel in audio_used:
 print(f'audio: {len(audio_used)} lines with a synthetic recording')
 
 tpl = open(os.path.join(ROOT, 'app/index.template.html'), encoding='utf-8').read()
-tpl = tpl.replace('/*__FONTS__*/', tailo_font_css() + '\n' + han_font_css(json.dumps(data, ensure_ascii=False) + tpl.replace('㐀-鿿', '').replace('豈-﫿', '')))
-payload = json.dumps(data, ensure_ascii=False).replace('</', '<\\/')
+inline_text = json.dumps(data, ensure_ascii=False) + tpl.replace('㐀-鿿', '').replace('豈-﫿', '')
+tpl = tpl.replace('/*__FONTS__*/', tailo_font_css() + '\n' + han_font_css(inline_text))
+# the side file's own glyphs: injected as a <style> when it arrives (same font families, its characters only)
+side['css'] = han_font_css(json.dumps(side, ensure_ascii=False), skip=inline_text)
 os.makedirs(os.path.join(ROOT, 'app/dist'), exist_ok=True)
+side_json = unicodedata.normalize('NFC', json.dumps(side, ensure_ascii=False, separators=(',', ':')))
+open(os.path.join(ROOT, 'app/dist/yuezi-more.json'), 'w', encoding='utf-8').write(side_json)
+# its name carries a hash of its content: a new build is fetched anew, and the service worker keeps the one it got
+data['yzMore'] = 'yuezi-more.json?v=' + hashlib.sha1(side_json.encode()).hexdigest()[:10]
+print(f'yuezi-more.json: {sum(len(g["items"]) for g in more)} characters, {len(side_dict)} word cards '
+      f'({len(full)} full), {len(side_json.encode()) // 1024} KB')
+payload = json.dumps(data, ensure_ascii=False).replace('</', '<\\/')
 out = os.path.join(ROOT, 'app/dist/index.html')
 open(out, 'w', encoding='utf-8').write(unicodedata.normalize('NFC', tpl.replace('/*__DATA__*/null', payload)))
 from collections import Counter  # noqa: E402
@@ -428,4 +517,4 @@ print('English on word cards:', ', '.join(f'{k} {v}' for k, v in _src.most_commo
 open(os.path.join(ROOT, 'app/dist/english-auto.txt'), 'w', encoding='utf-8').write(''.join(
     f"{c['hanji']}\t{c['tailo']}\t{c.get('gloss_src') or 'none'}\t{c.get('gloss') or ''}\n"
     for c in dictionary.values() if c.get('gloss_src') or not c.get('gloss')))
-print(out, f'{len(lessons)} lessons, {len(dictionary)} dictionary cards, {os.path.getsize(out) // 1024} KB')
+print(out, f'{len(lessons)} lessons, {len(inline_dict)} dictionary cards, {os.path.getsize(out) // 1024} KB')
