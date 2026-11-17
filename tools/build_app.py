@@ -296,7 +296,109 @@ def yuezi_build():
     return groups
 
 
-yuezi = yuezi_build()
+
+# ---- 粵字 not in the lessons yet: everything from words.hk, grouped by part of speech
+MORE_GROUPS = [('verbs', '動詞', 'Verbs', ('動詞',)), ('nouns', '名詞', 'Nouns', ('名詞',)),
+               ('describe', '形容詞', 'Describing words', ('形容詞', '區別詞')),
+               ('measure', '量詞', 'Measure words', ('量詞',)),
+               ('particles', '助詞嘆詞', 'Particles, sounds and exclamations', ('助詞', '感嘆詞', '擬聲詞')),
+               ('function', '虛詞', 'Pronouns, adverbs, linking words', ('代詞', '副詞', '連詞', '介詞', '數詞')),
+               ('bound', '詞素', 'Only inside words', ()), ('vulgar', '粗口', 'Vulgar', ())]
+
+
+def yuezi_more():
+    src = yaml.safe_load(open(os.path.join(ROOT, 'course/yuezi.yaml'), encoding='utf-8'))
+    chars = [c for c in src.get('more', '') if not c.isspace()]
+    rank = {}
+    for h, r in con.execute("SELECT hanzi, MIN(freq_rank) FROM entry WHERE freq_rank IS NOT NULL GROUP BY hanzi"):
+        rank[h] = r
+
+    def senses(i):
+        return [e for (e,) in con.execute("SELECT en FROM wordshk_sense WHERE id=? ORDER BY n", (i,)) if e]
+
+    def examples(i, c):
+        return [r for r in con.execute("SELECT hanzi, jyutping, en, kind FROM wordshk_ex WHERE id=? ORDER BY n", (i,))
+                if c in r[0] and r[1] and r[2] and '(' not in r[0]]
+
+    def tokens(h, j):
+        if len(han_chars(h)) != len(SYL.findall(j)):
+            return None
+        try:
+            return tokenize(h, j)
+        except Exception:
+            return None
+
+    groups = {g[0]: [] for g in MORE_GROUPS}
+    for c in chars:
+        rows = con.execute("SELECT id, hanzi, jkey, pos FROM wordshk WHERE instr(hanzi, ?) > 0", (c,)).fetchall()
+        single = [r for r in rows if r[1] == c]
+        nex = {r[0]: con.execute("SELECT COUNT(*) FROM wordshk_ex WHERE id=?", (r[0],)).fetchone()[0] for r in rows}
+        # words: dictionary frequency first, then the words.hk entries with most examples (drops fragments like 屙唔)
+        multi = sorted({r for r in rows if r[1] != c and 2 <= len(r[1]) <= 4 and 'Х' not in r[1]},
+                       key=lambda r: (rank.get(r[1], 10 ** 7), -nex[r[0]], len(r[1]), r[1]))
+        if not rows:
+            continue
+        # the reading most words use comes first (喱 lei1 as in 咖喱, before the rare nei1 'hide')
+        use = {}
+        for r in multi:
+            sy = r[2].split('-')
+            if len(sy) == len(r[1]):
+                k = sy[r[1].index(c)]
+                use[k] = use.get(k, 0) + 1
+        single.sort(key=lambda r: (-use.get(r[2], 0), -nex[r[0]]))
+        reads = []
+        for r in single:
+            reads.append(r[2])
+        if not reads:
+            for r in multi:
+                sy = r[2].split('-')
+                if len(sy) == len(r[1]):
+                    reads.append(sy[r[1].index(c)])
+        reads = list(dict.fromkeys(reads))[:3]
+        pos = ' '.join(r[3] or '' for r in (single or multi[:3]))
+        vulgar = '粗俗' in pos
+        gid = 'vulgar' if vulgar else next((g[0] for g in MORE_GROUPS if single and any(
+            t in (single[0][3] or '').split() for t in g[3])), 'bound')
+        en = []
+        for r in single:
+            for e in senses(r[0]):
+                if e not in en:
+                    en.append(e)
+        ex = None
+        cands = []
+        for r in single + multi[:12]:
+            for h, j, e, k in examples(r[0], c):
+                t = tokens(h, j)
+                if t:
+                    cands.append((k != 'sentence', not 6 <= len(han_chars(h)) <= 24, len(h), h, j, e, t))
+        if cands:
+            _, _, _, h, j, e, t = min(cands)
+            ex = {'hanji': h, 'tailo': j, 'en': e, 'tokens': t, 'src': None, 'by': 'words.hk'}
+        words, seen = [], set()
+        for r in multi:
+            if r[1] in seen or len(words) >= 5:
+                continue
+            s_ = senses(r[0])
+            if not s_:
+                continue
+            seen.add(r[1])
+            words.append({'hanji': r[1], 'tailo': r[2].replace('-', ' '), 'en': s_[0][:60],
+                          'id': lookup(r[1], r[2])})
+        if not en:
+            en = ['in ' + ', '.join(w['hanji'] for w in words[:3])] if words else []
+        groups[gid].append({'c': c, 'tailo': ' / '.join(x.replace('-', ' ') for x in reads), 'en': '; '.join(en[:2])[:140],
+                            'zh': '', 'uses': 0, 'ex': ex, 'words': words, 'n': len(rows)})
+    out = []
+    for gid, han, en, _ in MORE_GROUPS:
+        items = sorted(groups[gid], key=lambda x: -x['n'])
+        if items:
+            out.append({'id': 'more-' + gid, 'en': en, 'hanji': han, 'kind': 'more' + ('-vulgar' if gid == 'vulgar' else ''),
+                        'items': items})
+    return out
+
+
+_yz = yuezi_build()
+yuezi = [g for g in _yz if g['kind'] != 'borderline'] + yuezi_more() + [g for g in _yz if g['kind'] == 'borderline']
 
 VIDEO = os.path.join(ROOT, 'course/video.yaml')
 video = yaml.safe_load(open(VIDEO, encoding='utf-8')) if os.path.exists(VIDEO) else {'shows': []}

@@ -3,8 +3,15 @@
 # lessons (picked by tools/build_app.py); `example:` gives one written for this list when no lesson line has the
 # character. Not checked by a native speaker yet.
 #
+# `more:` the other Cantonese-only characters, not in the lessons yet (CC-Canto, words.hk, rime). Their reading,
+# English, part of speech, example and words come from words.hk at build time (non-commercial licence, labelled in
+# the app). Chosen 17 Nov 2026: words.hk characters missing from CC-CEDICT or glossed there only as Cantonese, minus
+# variant spellings of Mandarin characters (OpenCC HK/TW variant tables), simplified forms and radicals; plus
+# characters frequent in words.hk but nearly absent from Mandarin words, picked by hand.
+#
 # Left out on purpose: characters Mandarin also writes every day, with a Cantonese meaning here
 # (係 食 飲 企 行 話 呢 喇 咪 晒 嘩 咯 嘛 囉 拎 甩 曳…), and book-only variant spellings (癐 → 攰).
+more: "撚揼脷屌噏腩閪奀掹軚戙踎𨋢揈喐㷫掕埞鎅𠝹膶𡃁㩧矺𠸎𣲷膥烚𩩍𢱕舦𠴕𨳒𡁻肶炩𦧲㧬㬹焫䱽𢃇蠄𢫏𡲢𠹷嚡嚤𡃈婄鈪膉𤶸𢯎䁪噼𢲡佮𠱂僆蟧蔃啹𨂾𨈇忟𠺘艔擳𦢊𨅝𤷪繑𨳊㔆䐁䚗䟴䠄𠼮㕭鯭噆𨶙哣𠱁竉嚒啋愩嗮𠺝忳𦟌扚𠮨脌𢆡抰捵掁𨳍摥摱擏擝杬𡃴𤓓詏𦉘痶癐𠽌趌𤜯𩓥𢪎𢳂𢳆𢴩𢺳𧨾𨂽㓟㓤㗱㗾㨘㾓䁋䁽䘒坺侲𢴈呍咓㨢噈噒挭揇癦奅姩𠵼櫼扲拞摵攊渻溚炆猄腬螆𤺧矋𥇣瞸䆲𫬷𧕴趻迾𠱃𩜠𠳝𠼭𠽤𠾵𡃀𫫃𢫨𢭃𢯊𥅈𨀤𨈓𪘲𭉝㔷㔼㖭㖿㞘㥋㧻㧾㨆㨴㩋㪗㷹㿺㿭䁓䂻䊦䞘䟕䡣𠾴𥋇傝𠎷𥱊叾𠱸哬唓唨啝嗗嘺嚊嚫嚹垽埲蝞𧋦姼踿罯挘掅揤摼撍撜撠擙擪樖沊𩺬渳滰澩紁煀熝燘爩珼媌𩶘𡲬睩睼竻笡𩵼撨𤷫𠺌𧊅𡙁𣚺𠹹𠆩𠊎𠜎𠜱𠮩𠹌𠱓𠳔𠴝𠵇𠺫𠵈𠶧𠹇𠹻𠺢𠻹𠿪𡃉𡅅𡥼𡰪𢞵𢬿𢰸𢱑𢱢𢲩𢲷岋𢴒㮌𣏴𤆣𤣩𥄫𥅾𥊙𥹉𦖿䐱𦜖𦧷𦧺𦻐𧌇䖢𧘹𧝁𧢝𧥺𧧝𧴯𨃩𩬎𪐀𬒔𲘥𳄮孖畀屙痾褸柒罅喱呔慳揦戇嗲佗笠姣偈樽瀨腍吔吽戥騮擸屐抌窒掗罌揗翳嘜骹舂磧呻趷巉躝讕扱櫳髧笪孻搣鮓甴曱砵睺厴呎潺捩蜆罉蜞趯嘭挐咇椗噍埕妗邨扤淰鱲㨃褦壆弶劖軨啅扽屘抆拃捽揞腯裇擗骾禡剒卼溦呷唂咑軲坼癪軭摙瘌氼潲潷煠胗菂韞髹扠"
 groups:
   - id: who
     en: "Who, what, this and that"

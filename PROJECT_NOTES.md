@@ -61,6 +61,10 @@ Private companion: `tbrapor-arch/pyue-private`.
     (picked by `build_app.py`); the 6 known only from the base course (嘞 嘥 乸 髀 踭 噚) have new sentences written for
     the list. A last, borderline group (38) holds characters Mandarin also writes daily but Cantonese uses with
     another meaning or job (係, 食, 企, 喇…); 曳, 晏 and 呃 'cheat' have sentences written for the list.
+    Then (17 Nov 2026, owner: "I want them ALL") 432 more Cantonese-only characters not in the lessons yet (`more:` in
+    the yaml; how they were chosen is in its header), grouped by words.hk part of speech (verbs, nouns, describing,
+    measure words, particles, function words, only inside words, vulgar, folded): reading, English, example and words
+    from words.hk at build time, labelled non-commercial. 175 rare ones have no words.hk example; their words show use.
   - Practice › Drills: a tone drill (pick the tones of a word shown without them) in place of tone changes.
   - Settings: no accent presets or review audio.
   - Dialogue audio (10 Nov 2026): synthetic Azure zh-HK voices, as in sy-zy (`tools/tts.py`, `course/voices.tsv`,

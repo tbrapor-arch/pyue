@@ -446,6 +446,8 @@ h1, .hello .big, .todaycard .lt, .wotd .wh, .item .tt, .tcard .th, .wchip b, .vt
 .yzjump { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: .25rem .8rem; font-size: .9rem; }
 .yzjump button { text-align: left; }
 .yzgrid { display: grid; gap: .9rem; }
+.yzidx { margin: 0 0 .6rem; font-family: var(--f-han); font-size: 1.25rem; line-height: 1.9; word-break: break-all; }
+.yzidx button { font: inherit; padding: 0 .1rem; }
 .yz { display: grid; grid-template-columns: 4.2rem 1fr; gap: .2rem .9rem; padding: .8rem .9rem; background: var(--surface); border: var(--border-soft); border-radius: var(--r-big); }
 .yz-c { display: flex; flex-direction: column; align-items: center; gap: .15rem; }
 .yz-c .han { font-family: var(--f-han); font-weight: var(--w-han); font-size: 2.6rem; line-height: 1.1; }
@@ -738,29 +740,37 @@ function showYuezi() {
   renderTabs('lessons');
   const LB = Object.fromEntries(DATA.lessons.map(l => [l.id, l]));
   const keep = prefs.mode; prefs.mode = 'both';   // readings always shown here, whatever the lesson setting
+  const inL = g => !g.kind, nm = DATA.yuezi.filter(g => g.kind.startsWith('more')).reduce((a, g) => a + g.items.length, 0);
   const n = DATA.yuezi.filter(g => g.kind !== 'borderline').reduce((a, g) => a + g.items.length, 0), nb = DATA.yuezi.filter(g => g.kind === 'borderline').reduce((a, g) => a + g.items.length, 0);
-  const item = (it, gi, ii) => { const k = `Y${gi}-${ii}`, src = it.ex.src;
+  const item = (it, gi, ii) => { const k = `Y${gi}-${ii}`, src = it.ex && it.ex.src;
     return `<div class="yz" id="yz-${gi}-${ii}">
       <div class="yz-c"><span class="han${it.c.length > 1 ? ' multi' : ''}">${esc(it.c)}</span><span class="rom">${esc(it.tailo)}</span></div>
       <div class="yz-b"><span class="gl">${esc(it.en)}</span>
-        <span class="zh">Mandarin <span class="han">${esc(it.zh)}</span>${it.uses ? ` · in ${it.uses} line${it.uses > 1 ? 's' : ''} of 進修` : ''}</span>
-        <div class="sent"><div class="txt">${sentence(it.ex.tokens, k)}</div>
-          <div class="under"><span class="en">${esc(it.ex.en)}</span>${src && LB[src[0]] ? ` <button class="linkish" data-go="lesson-${src[0]}">${lname(src[0])} · line ${src[1]}</button>` : ''}</div></div>
+        ${it.zh || it.uses ? `<span class="zh">${it.zh ? `Mandarin <span class="han">${esc(it.zh)}</span>` : ''}${it.zh && it.uses ? ' · ' : ''}${it.uses ? `in ${it.uses} line${it.uses > 1 ? 's' : ''} of 進修` : ''}</span>` : ''}
+        ${it.ex ? `<div class="sent"><div class="txt">${sentence(it.ex.tokens, k)}</div>
+          <div class="under"><span class="en">${esc(it.ex.en)}</span>${src && LB[src[0]] ? ` <button class="linkish" data-go="lesson-${src[0]}">${lname(src[0])} · line ${src[1]}</button>` : ''}${it.ex.by ? ` <span class="zh">· example from ${esc(it.ex.by)} (non-commercial)</span>` : ''}</div></div>` : ''}
         ${it.words.length ? `<div class="yzw">${it.words.map(w => `<button data-yzw="${esc(w.id || '')}" title="${esc(w.en)} · ${lname(w.lesson)}"><span class="han">${esc(w.hanji)}</span> <span class="rom">${esc(w.tailo)}</span> ${esc(w.en)}</button>`).join('')}</div>` : ''}
       </div></div>`; };
   $('#main').innerHTML = `<div class="col mode-both always-rom">
     <div class="head"><span class="eyebrow">Course</span><h1>粵字</h1><span class="rom">jyut6 zi6 · ${n} characters that only written Cantonese uses</span></div>
     ${lessonNav('yuezi')}
-    <p class="sub" style="margin:0;max-width:65ch">Characters Mandarin doesn't write, or only in rare literary use, grouped by what they do. Each comes with its Mandarin counterpart and a line from the lessons. Tap a word to open its card. At the end, a borderline group: ${nb} characters Mandarin also writes every day, but Cantonese uses with another meaning or job (係, 食, 企…).</p>
+    <p class="sub" style="margin:0;max-width:65ch">Characters Mandarin doesn't write, or only in rare literary use. First the ${n - nm} met in the lessons, grouped by what they do, each with its Mandarin counterpart and a line from the lessons; then ${nm} more from the dictionary; last, ${nb} borderline characters Mandarin also writes every day but Cantonese uses with another meaning or job (係, 食, 企…). Tap a character in a list to jump to it, a word to open its card.</p>
     <nav class="yzjump" aria-label="Groups">${DATA.yuezi.map((g, gi) => `<button class="linkish" data-yzg="${gi}"><span class="han">${esc(g.hanji)}</span> ${esc(g.en)}</button>`).join('')}</nav>
-    ${DATA.yuezi.map((g, gi) => `${g.kind === 'borderline' ? '<div class="pbreak" aria-hidden="true"></div>' : ''}<section class="sec" id="yzg-${gi}" aria-labelledby="yzh-${gi}">
-      <h2 id="yzh-${gi}"><span class="num">${gi + 1}</span><span class="han">${esc(g.hanji)}</span><span class="sub" style="font-weight:600">${esc(g.en)} · ${g.items.map(i => esc(i.c)).join(' ')}</span></h2>
-      <div class="yzgrid">${g.items.map((it, ii) => item(it, gi, ii)).join('')}</div></section>`).join('')}
+    ${DATA.yuezi.map((g, gi) => { const prev = DATA.yuezi[gi - 1], first = g.kind.startsWith('more') && !(prev && prev.kind.startsWith('more'));
+      const idx = g.items.map((i, ii) => `<button class="linkish" data-yzi="${gi}-${ii}">${esc(i.c)}</button>`).join(' ');
+      const body = `<div class="yzgrid">${g.items.map((it, ii) => item(it, gi, ii)).join('')}</div>`;
+      return `${g.kind === 'borderline' || first ? '<div class="pbreak" aria-hidden="true"></div>' : ''}
+      ${first ? `<div class="head"><span class="eyebrow">Not in the lessons yet</span><h1 style="font-size:1.6rem">字典入面嘅粵字</h1><span class="rom">${nm} more, from the words.hk dictionary, grouped by part of speech</span></div>
+        <p class="sub" style="margin:0;max-width:65ch">Readings, meanings and examples from words.hk 粵典 (non-commercial licence). Most common first. Rare characters may have no example sentence; their words show how they're used.</p>` : ''}
+      <section class="sec" id="yzg-${gi}" aria-labelledby="yzh-${gi}">
+      <h2 id="yzh-${gi}"><span class="num">${gi + 1}</span><span class="han">${esc(g.hanji)}</span><span class="sub" style="font-weight:600">${esc(g.en)} · ${g.items.length}</span></h2>
+      ${g.kind === 'more-vulgar' ? `<details><summary>Swear words and vulgar slang: tap to show</summary><p class="yzidx">${idx}</p>${body}</details>` : `<p class="yzidx">${idx}</p>${body}`}</section>`; }).join('')}
   </div>`;
   prefs.mode = keep;
   const m = $('#main');
   wireTokens(m); wireGo(m);
   $$('[data-yzw]', m).forEach(b => b.onclick = () => { if (b.dataset.yzw) openCard(b.dataset.yzw); });
+  $$('[data-yzi]', m).forEach(b => b.onclick = () => { const e = document.getElementById('yz-' + b.dataset.yzi); if (e) window.scrollTo(0, e.getBoundingClientRect().top + window.scrollY - 12); });
   $$('[data-yzg]', m).forEach(b => b.onclick = () => { const g = document.getElementById('yzg-' + b.dataset.yzg); if (g) window.scrollTo(0, g.getBoundingClientRect().top + window.scrollY - 12); });
 }
 
