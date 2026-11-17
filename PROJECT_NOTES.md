@@ -64,7 +64,8 @@ Private companion: `tbrapor-arch/pyue-private`.
     Then (17 Nov 2026, owner: "I want them ALL") 432 more Cantonese-only characters not in the lessons yet (`more:` in
     the yaml; how they were chosen is in its header), grouped by words.hk part of speech (verbs, nouns, describing,
     measure words, particles, function words, only inside words, vulgar, folded): reading, English, example and words
-    from words.hk at build time, labelled non-commercial. 175 rare ones have no words.hk example; their words show use.
+    from words.hk at build time, labelled non-commercial. Characters that never appear in a word's first words.hk spelling (矺 for 磧, 唨 for 咗) go to
+    their own group, 異寫 'other spellings' (150), each naming the usual spelling; vulgar ones stay in the vulgar group. 175 rare ones have no words.hk example; their words show use.
     Same day, for size and speed: part (b) is no longer in index.html (it had grown it from 7.6 to 9.7 MB and made 粵字
     take ~1 s to open). `build_app.py` writes it to `app/dist/yuezi-more.json` (~1 MB: its groups, the word cards only
     it uses — full for the word buttons, light for words that are only tokens of an example — and, as @font-face CSS,

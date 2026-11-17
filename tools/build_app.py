@@ -307,7 +307,9 @@ MORE_GROUPS = [('verbs', '動詞', 'Verbs', ('動詞',)), ('nouns', '名詞', 'N
                ('measure', '量詞', 'Measure words', ('量詞',)),
                ('particles', '助詞嘆詞', 'Particles, sounds and exclamations', ('助詞', '感嘆詞', '擬聲詞')),
                ('function', '虛詞', 'Pronouns, adverbs, linking words', ('代詞', '副詞', '連詞', '介詞', '數詞')),
-               ('bound', '詞素', 'Only inside words', ()), ('vulgar', '粗口', 'Vulgar', ())]
+               ('bound', '詞素', 'Only inside words', ()),
+               ('variants', '異寫', 'Other spellings: words.hk writes these words with another character first', ()),
+               ('vulgar', '粗口', 'Vulgar', ())]
 
 
 def yuezi_more():
@@ -334,6 +336,21 @@ def yuezi_more():
             return tokenize(h, j)
         except Exception:
             return None
+
+    # words.hk lists the spellings of one word under one id, the usual one first: a character that never appears in a
+    # first spelling is only another way of writing words spelt otherwise (矺 for 磧, 唨 for 咗)
+    first = {}
+    for i, h in con.execute("SELECT id, hanzi FROM wordshk ORDER BY rowid"):
+        first.setdefault(i, h)
+
+    def main_spelling(c, rows):
+        if any(c in first[r[0]] for r in rows):
+            return None
+        for r in rows:
+            f = first[r[0]]
+            if len(f) == len(r[1]):
+                return f[r[1].index(c)], f
+        return '', first[rows[0][0]]
 
     groups = {g[0]: [] for g in MORE_GROUPS}
     for c in chars:
@@ -398,7 +415,16 @@ def yuezi_more():
                           'id': lookup(r[1], r[2])})
         if not en:
             en = ['in ' + ', '.join(w['hanji'] for w in words[:3])] if words else []
-        groups[gid].append({'c': c, 'tailo': ' / '.join(x.replace('-', ' ') for x in reads), 'en': '; '.join(en[:2])[:140],
+        alt = main_spelling(c, rows)
+        # up to two senses, whole ones only (a long first sense is cut at a word, with an ellipsis)
+        en = en[0] if len(en) > 1 and len(en[0]) + len(en[1]) > 140 else '; '.join(en[:2])
+        if len(en) > 160:
+            en = en[:160].rsplit(' ', 1)[0].rstrip(',;') + '…'
+        if alt and not vulgar:
+            gid = 'variants'
+            en = (f'another spelling of {alt[0]}' if alt[0] else 'another spelling') + \
+                (f' (usually written {alt[1]})' if alt[1] != alt[0] else '') + (' · ' + en if en else '')
+        groups[gid].append({'c': c, 'tailo': ' / '.join(x.replace('-', ' ') for x in reads), 'en': en,
                             'zh': '', 'uses': 0, 'ex': ex, 'words': words, 'n': len(rows)})
     out = []
     for gid, han, en, _ in MORE_GROUPS:
