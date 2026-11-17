@@ -59,7 +59,8 @@ Private companion: `tbrapor-arch/pyue-private`.
     only written Cantonese uses (佢 嘅 咗 冇 喺 嘢 瞓 攰…), grouped by use (`course/yuezi.yaml`): Jyutping always shown,
     English, Mandarin counterpart, one example and the 進修 words that contain it. The example is a lesson line
     (picked by `build_app.py`); the 6 known only from the base course (嘞 嘥 乸 髀 踭 噚) have new sentences written for
-    the list. Characters Mandarin also writes daily (係, 食, 企, 喇…) are left out on purpose.
+    the list. A last, borderline group (38) holds characters Mandarin also writes daily but Cantonese uses with
+    another meaning or job (係, 食, 企, 喇…); 曳, 晏 and 呃 'cheat' have sentences written for the list.
   - Practice › Drills: a tone drill (pick the tones of a word shown without them) in place of tone changes.
   - Settings: no accent presets or review audio.
   - Dialogue audio (10 Nov 2026): synthetic Azure zh-HK voices, as in sy-zy (`tools/tts.py`, `course/voices.tsv`,

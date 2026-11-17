@@ -274,7 +274,10 @@ def yuezi_build():
                     stage = '（' in by_id[x[2]]['lines'][x[3]]['hanji']
                     return ((x[2], x[3]) in used, stage, x[2], x[1])
                 fit = [x for x in good if x[0] and 8 <= x[1] <= 24]
-                pick = min(fit, key=rank) if fit else min(good, key=lambda x: (not x[0], x[1]))
+                okl = [x for x in good if x[0]]
+                if not okl:
+                    sys.exit(f'yuezi.yaml: no lesson line reads {c} as {it["jyutping"]}: give it an example')
+                pick = min(fit, key=rank) if fit else min(okl, key=lambda x: x[1])
                 used.add((pick[2], pick[3]))
                 ln = by_id[pick[2]]['lines'][pick[3]]
                 ex = {'hanji': ln['hanji'], 'tailo': ln['tailo'], 'en': ln['en'], 'tokens': ln['tokens'],
@@ -289,7 +292,7 @@ def yuezi_build():
             built[c] = {'c': c, 'tailo': it['jyutping'], 'en': it['en'], 'zh': str(it.get('zh', '')),
                         'uses': len(uses), 'ex': ex, 'words': words}
     for g in src['groups']:
-        groups.append({'id': g['id'], 'en': g['en'], 'hanji': g['hanzi'], 'items': [built[it['c']] for it in g['chars']]})
+        groups.append({'id': g['id'], 'en': g['en'], 'hanji': g['hanzi'], 'kind': g.get('kind', ''), 'items': [built[it['c']] for it in g['chars']]})
     return groups
 
 

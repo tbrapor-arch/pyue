@@ -738,7 +738,7 @@ function showYuezi() {
   renderTabs('lessons');
   const LB = Object.fromEntries(DATA.lessons.map(l => [l.id, l]));
   const keep = prefs.mode; prefs.mode = 'both';   // readings always shown here, whatever the lesson setting
-  const n = DATA.yuezi.reduce((a, g) => a + g.items.length, 0);
+  const n = DATA.yuezi.filter(g => g.kind !== 'borderline').reduce((a, g) => a + g.items.length, 0), nb = DATA.yuezi.filter(g => g.kind === 'borderline').reduce((a, g) => a + g.items.length, 0);
   const item = (it, gi, ii) => { const k = `Y${gi}-${ii}`, src = it.ex.src;
     return `<div class="yz" id="yz-${gi}-${ii}">
       <div class="yz-c"><span class="han${it.c.length > 1 ? ' multi' : ''}">${esc(it.c)}</span><span class="rom">${esc(it.tailo)}</span></div>
@@ -751,9 +751,9 @@ function showYuezi() {
   $('#main').innerHTML = `<div class="col mode-both always-rom">
     <div class="head"><span class="eyebrow">Course</span><h1>粵字</h1><span class="rom">jyut6 zi6 · ${n} characters that only written Cantonese uses</span></div>
     ${lessonNav('yuezi')}
-    <p class="sub" style="margin:0;max-width:65ch">Characters Mandarin doesn't write, or only in rare literary use, grouped by what they do. Each comes with its Mandarin counterpart and a line from the lessons. Tap a word to open its card. Characters Mandarin also writes daily but Cantonese uses differently (係, 食, 企…) are not listed here.</p>
+    <p class="sub" style="margin:0;max-width:65ch">Characters Mandarin doesn't write, or only in rare literary use, grouped by what they do. Each comes with its Mandarin counterpart and a line from the lessons. Tap a word to open its card. At the end, a borderline group: ${nb} characters Mandarin also writes every day, but Cantonese uses with another meaning or job (係, 食, 企…).</p>
     <nav class="yzjump" aria-label="Groups">${DATA.yuezi.map((g, gi) => `<button class="linkish" data-yzg="${gi}"><span class="han">${esc(g.hanji)}</span> ${esc(g.en)}</button>`).join('')}</nav>
-    ${DATA.yuezi.map((g, gi) => `<section class="sec" id="yzg-${gi}" aria-labelledby="yzh-${gi}">
+    ${DATA.yuezi.map((g, gi) => `${g.kind === 'borderline' ? '<div class="pbreak" aria-hidden="true"></div>' : ''}<section class="sec" id="yzg-${gi}" aria-labelledby="yzh-${gi}">
       <h2 id="yzh-${gi}"><span class="num">${gi + 1}</span><span class="han">${esc(g.hanji)}</span><span class="sub" style="font-weight:600">${esc(g.en)} · ${g.items.map(i => esc(i.c)).join(' ')}</span></h2>
       <div class="yzgrid">${g.items.map((it, ii) => item(it, gi, ii)).join('')}</div></section>`).join('')}
   </div>`;

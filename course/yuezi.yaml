@@ -115,3 +115,46 @@ groups:
       - {c: 啖, jyutping: daam6, en: "mouthful (食啖飯, 一啖茶)", zh: 口}
       - {c: 轆, jyutping: luk1, en: "wheel; a length of something round; 甩轆 go wrong", zh: 輪子 / 段}
       - {c: 噚, jyutping: cam4, en: "噚日 yesterday", zh: 昨(天), example: {hanzi: "我噚日喺梁記食咗個菠蘿油。", jyutping: "ngo5 cam4 jat6 hai2 loeng4 gei3 sik6 zo2 go3 bo1 lo4 jau4.", en: "Yesterday I had a pineapple bun with butter at Leung Kee."}}
+  - id: borderline
+    kind: borderline
+    en: "Borderline: Mandarin writes them too, Cantonese uses them differently"
+    hanzi: 兩邊都寫
+    chars:
+      - {c: 係, jyutping: hai6, en: "be, is (Mandarin 係 means 'relate to')", zh: 是}
+      - {c: 食, jyutping: sik6, en: "eat; also smoke (食煙), take medicine (食藥)", zh: 吃}
+      - {c: 飲, jyutping: jam2, en: "drink", zh: 喝}
+      - {c: 企, jyutping: kei5, en: "stand; 屋企 home", zh: 站}
+      - {c: 行, jyutping: haang4, en: "walk, go (行街, 行山)", zh: 走}
+      - {c: 講, jyutping: gong2, en: "say, speak, talk", zh: 說}
+      - {c: 話, jyutping: waa6, en: "say, tell (佢話… 'he says…')", zh: 說}
+      - {c: 識, jyutping: sik1, en: "know (a person); know how to", zh: 認識 / 會}
+      - {c: 驚, jyutping: geng1, en: "be afraid (Mandarin 驚 is 'startled')", zh: 怕}
+      - {c: 傾, jyutping: king1, en: "chat, talk over (傾計)", zh: 聊}
+      - {c: 返, jyutping: faan1, en: "go back; go to work or school (返工, 返學)", zh: 回 / 上}
+      - {c: 落, jyutping: lok6, en: "go down, get off; put in (落糖)", zh: 下 / 放}
+      - {c: 埋, jyutping: maai4, en: "come close; after a verb: as well, all the way (食埋)", zh: 靠近 / 完}
+      - {c: 執, jyutping: zap1, en: "tidy up; pick up (執嘢)", zh: 收拾 / 撿}
+      - {c: 拎, jyutping: ling1, en: "take, carry", zh: 拿}
+      - {c: 甩, jyutping: lat1, en: "come off, fall off; miss (甩轆)", zh: 掉 / 脫}
+      - {c: 郁, jyutping: juk1, en: "move (唔好郁)", zh: 動}
+      - {c: 呢, jyutping: ni1, en: "this (呢個, 呢度); ne1 as a particle", zh: 這}
+      - {c: 咪, jyutping: mai6, en: "isn't it just…; mai5 'don't'", zh: 不就 / 別}
+      - {c: 晒, jyutping: saai3, en: "after a verb: all, completely (唔該晒)", zh: 都 / 完}
+      - {c: 梗, jyutping: gang2, en: "of course, surely", zh: 當然}
+      - {c: 靚, jyutping: leng3, en: "pretty, good-looking; good quality", zh: 漂亮}
+      - {c: 凍, jyutping: dung3, en: "cold (weather, drinks)", zh: 冷 / 冰}
+      - {c: 嘈, jyutping: cou4, en: "noisy", zh: 吵}
+      - {c: 曳, jyutping: jai5, en: "naughty; poor quality", zh: 調皮, example: {hanzi: "樂仔今日喺學校好曳，俾老師罰企。", jyutping: "lok6 zai2 gam1 jat6 hai2 hok6 haau6 hou2 jai5, bei2 lou5 si1 fat6 kei5.", en: "Lok-zai was really naughty at school today; the teacher made him stand."}}
+      - {c: 衰, jyutping: seoi1, en: "bad, rotten; unlucky", zh: 壞 / 倒霉}
+      - {c: 晏, jyutping: aan3, en: "late; 晏晝 midday", zh: 晚 / 中午, example: {hanzi: "今朝起身晏咗，趕唔切食早餐。", jyutping: "gam1 ziu1 hei2 san1 aan3 zo2, gon2 m4 cit3 sik6 zou2 caan1.", en: "I got up late this morning and had no time for breakfast."}}
+      - {c: 掂, jyutping: dim6, en: "OK, sorted (搞掂)", zh: 好了 / 行}
+      - {c: 蚊, jyutping: man1, en: "dollar (十蚊)", zh: 塊}
+      - {c: 呃, jyutping: aak1, en: "cheat, trick", zh: 騙, example: {hanzi: "嗰個人呃咗阿婆五萬蚊。", jyutping: "go2 go3 jan4 aak1 zo2 aa3 po4 ng5 maan6 man1.", en: "That man cheated the old lady out of fifty thousand dollars."}}
+      - {c: 喇, jyutping: laa3, en: "particle: now, already", zh: 了}
+      - {c: 啦, jyutping: laa1, en: "particle: come on, let's", zh: 吧}
+      - {c: 呀, jyutping: aa3, en: "particle: softens a question or a statement", zh: 啊}
+      - {c: 咯, jyutping: lo3, en: "particle: that's how it is now", zh: 了}
+      - {c: 囉, jyutping: lo1, en: "particle: obviously, so there", zh: 囉}
+      - {c: 嘛, jyutping: maa3, en: "particle: after all, you know", zh: 嘛}
+      - {c: 咋, jyutping: zaa3, en: "particle: only, just", zh: 而已}
+      - {c: 嘩, jyutping: waa3, en: "wow", zh: 哇}
