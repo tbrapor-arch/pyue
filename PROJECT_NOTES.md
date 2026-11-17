@@ -55,6 +55,11 @@ Private companion: `tbrapor-arch/pyue-private`.
     gives under 5 %; changed tones (tone 1/2 of a listed reading) accepted (`make verify-all` lists them). The private
     module runs the same `Verifier` on the base course (`pyue-private/tools/verify_base.py`). First run on P1–P70:
     13 unknown, 4 rare, 21 unconfirmed (proverbs and phrases), 2 changed tones.
+  - **Lessons › 粵字** (17 Nov 2026, owner's request): a sub-tab beside the lesson grid listing the 69 characters that
+    only written Cantonese uses (佢 嘅 咗 冇 喺 嘢 瞓 攰…), grouped by use (`course/yuezi.yaml`): Jyutping always shown,
+    English, Mandarin counterpart, one example and the 進修 words that contain it. The example is a lesson line
+    (picked by `build_app.py`); the 6 known only from the base course (嘞 嘥 乸 髀 踭 噚) have new sentences written for
+    the list. Characters Mandarin also writes daily (係, 食, 企, 喇…) are left out on purpose.
   - Practice › Drills: a tone drill (pick the tones of a word shown without them) in place of tone changes.
   - Settings: no accent presets or review audio.
   - Dialogue audio (10 Nov 2026): synthetic Azure zh-HK voices, as in sy-zy (`tools/tts.py`, `course/voices.tsv`,

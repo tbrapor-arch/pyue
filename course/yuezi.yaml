@@ -1,0 +1,117 @@
+# 粵字: characters that belong to written Cantonese only (Mandarin doesn't write them, or only in rare literary use).
+# Shown in Lessons › 粵字, grouped by use. Each character's example is the shortest suitable line from the 進修
+# lessons (picked by tools/build_app.py); `example:` gives one written for this list when no lesson line has the
+# character. Not checked by a native speaker yet.
+#
+# Left out on purpose: characters Mandarin also writes every day, with a Cantonese meaning here
+# (係 食 飲 企 行 話 呢 喇 咪 晒 嘩 咯 嘛 囉 拎 甩 曳…), and book-only variant spellings (癐 → 攰).
+groups:
+  - id: who
+    en: "Who, what, this and that"
+    hanzi: 指人指物
+    chars:
+      - {c: 佢, jyutping: keoi5, en: "he, she, it", zh: 他 / 她 / 它}
+      - {c: 哋, jyutping: dei6, en: "plural of pronouns: 我哋 we, 佢哋 they", zh: 們}
+      - {c: 嗰, jyutping: go2, en: "that, those (嗰個, 嗰度)", zh: 那}
+      - {c: 乜, jyutping: mat1, en: "what (乜嘢, 做乜)", zh: 什麼}
+      - {c: 咩, jyutping: me1, en: "what; also a question particle of surprise", zh: 什麼 / 嗎}
+      - {c: 咁, jyutping: gam3, en: "so, this much (咁快); gam2 'then, so'", zh: 這麼 / 那麼}
+      - {c: 噉, jyutping: gam2, en: "like this, like that (噉講, 好似…噉)", zh: 這樣 / 那樣}
+  - id: not
+    en: "Not, have not, be at"
+    hanzi: 否定同存在
+    chars:
+      - {c: 唔, jyutping: m4, en: "not", zh: 不}
+      - {c: 冇, jyutping: mou5, en: "not have, there isn't; didn't", zh: 沒有}
+      - {c: 喺, jyutping: hai2, en: "be at, in, on", zh: 在}
+  - id: grammar
+    en: "Grammar markers"
+    hanzi: 語法字
+    chars:
+      - {c: 咗, jyutping: zo2, en: "after a verb: done, completed", zh: 了}
+      - {c: 嘅, jyutping: ge3, en: "'s, of; ge2/ge3 at the end of a sentence", zh: 的}
+      - {c: 啲, jyutping: di1, en: "some, a bit; 'the' for plural or uncountable things", zh: 些 / 一點}
+      - {c: 吓, jyutping: haa5, en: "after a verb: a little, for a moment (試吓)", zh: 一下}
+      - {c: 俾, jyutping: bei2, en: "give; let; by (passive). Also written 畀", zh: 給 / 讓 / 被}
+      - {c: 冚唪唥, jyutping: ham6 baang6 laang6, en: "all, the whole lot", zh: 全部}
+  - id: particles
+    en: "Sentence-final particles"
+    hanzi: 語氣詞
+    chars:
+      - {c: 㗎, jyutping: gaa3, en: "that's how it is (explaining); gaa4 in questions", zh: 的 (+ 啊)}
+      - {c: 喎, jyutping: wo3, en: "wo3 'oh, I notice'; wo5 'so they say'", zh: (none)}
+      - {c: 啫, jyutping: ze1, en: "only, just; nothing more", zh: 而已 / 罷了}
+      - {c: 吖, jyutping: aa1, en: "softens a request or a reply", zh: 啊 / 吧}
+      - {c: 啩, jyutping: gwaa3, en: "I suppose, probably", zh: 吧}
+      - {c: 噃, jyutping: bo3, en: "mind you, let me remind you", zh: 呢 / 哦}
+      - {c: 嘞, jyutping: laak3, en: "that's it then, now (a new situation, firm)", zh: 了, example: {hanzi: "好嘞，我即刻去。", jyutping: "hou2 laak3, ngo5 zik1 hak1 heoi3.", en: "Right then, I'll go straight away."}}
+      - {c: 嗱, jyutping: naa4, en: "at the start: here, look", zh: 喏 / 你看}
+  - id: verbs
+    en: "Everyday verbs"
+    hanzi: 日常動詞
+    chars:
+      - {c: 嚟, jyutping: lai4, en: "come", zh: 來}
+      - {c: 睇, jyutping: tai2, en: "look, watch, read; see a doctor (睇醫生)", zh: 看}
+      - {c: 諗, jyutping: nam2, en: "think", zh: 想}
+      - {c: 搵, jyutping: wan2, en: "look for, find; earn (搵食)", zh: 找}
+      - {c: 攞, jyutping: lo2, en: "take, get, fetch", zh: 拿}
+      - {c: 瞓, jyutping: fan3, en: "sleep, lie down", zh: 睡}
+      - {c: 嗌, jyutping: aai3, en: "shout, call; quarrel (嗌交)", zh: 喊 / 叫}
+      - {c: 揀, jyutping: gaan2, en: "choose, pick", zh: 挑 / 選}
+      - {c: 唞, jyutping: tau2, en: "rest; breathe (唞氣)", zh: 休息}
+      - {c: 嘥, jyutping: saai1, en: "waste", zh: 浪費, example: {hanzi: "咪嘥錢買啲冇用嘅嘢啦。", jyutping: "mai5 saai1 cin2 maai5 di1 mou5 jung6 ge3 je5 laa1.", en: "Don't waste money on useless stuff."}}
+  - id: hands
+    en: "Hands-on actions"
+    hanzi: 手腳動作
+    chars:
+      - {c: 揸, jyutping: zaa1, en: "hold in the hand; drive (揸車)", zh: 握 / 開(車)}
+      - {c: 撳, jyutping: gam6, en: "press (a button, a doorbell)", zh: 按}
+      - {c: 㩒, jyutping: gam6, en: "press: the same word as 撳, another spelling", zh: 按}
+      - {c: 掟, jyutping: deng3, en: "throw", zh: 扔}
+      - {c: 搲, jyutping: waa2, en: "grab, scratch; scrape together", zh: 抓}
+      - {c: 孭, jyutping: me1, en: "carry on the back or shoulder", zh: 背}
+      - {c: 劏, jyutping: tong1, en: "slaughter, cut open; 劏房 a subdivided flat", zh: 宰 / 剖}
+      - {c: 淥, jyutping: luk6, en: "scald, blanch in boiling water", zh: 燙}
+      - {c: 冧, jyutping: lam3, en: "collapse, topple; lam1 'coax, charm'", zh: 倒塌 / 哄}
+      - {c: 閂, jyutping: saan1, en: "shut, bolt (a door)", zh: 關 / 閂}
+      - {c: 黐, jyutping: ci1, en: "stick, glue; 黐線 crazy", zh: 黏}
+  - id: things
+    en: "Things and places"
+    hanzi: 物件地方
+    chars:
+      - {c: 嘢, jyutping: je5, en: "thing, stuff (食嘢 eat, 做嘢 work)", zh: 東西}
+      - {c: 枱, jyutping: toi2, en: "table, desk", zh: 桌子}
+      - {c: 鑊, jyutping: wok6, en: "wok; 大鑊 'big trouble'", zh: 鍋}
+      - {c: 煲, jyutping: bou1, en: "pot; boil, simmer (煲湯)", zh: 鍋 / 煮}
+      - {c: 梘, jyutping: gaan2, en: "soap (番梘)", zh: 肥皂}
+      - {c: 喼, jyutping: gip1, en: "suitcase (from English 'grip')", zh: 箱子}
+      - {c: 咭, jyutping: kaat1, en: "card (from English)", zh: 卡}
+      - {c: 餸, jyutping: sung3, en: "dish eaten with rice; 買餸 do the food shopping", zh: 菜}
+      - {c: 埗, jyutping: bou6, en: "wharf, in place names (深水埗)", zh: 埠}
+      - {c: 氹, jyutping: tam5, en: "puddle, pool; in 氹仔 Taipa", zh: 水坑}
+  - id: people
+    en: "People and the body"
+    hanzi: 人同身體
+    chars:
+      - {c: 佬, jyutping: lou2, en: "guy, man (鬼佬, 大佬)", zh: 傢伙 / 男人}
+      - {c: 嫲, jyutping: maa4, en: "grandmother on the father's side (嫲嫲)", zh: 奶奶}
+      - {c: 乸, jyutping: naa2, en: "female (of animals): 雞乸 hen", zh: 母, example: {hanzi: "呢隻雞乸今日生咗兩隻蛋。", jyutping: "ni1 zek3 gai1 naa2 gam1 jat6 saang1 zo2 loeng5 zek3 daan2.", en: "This hen laid two eggs today."}}
+      - {c: 髀, jyutping: bei2, en: "thigh; 雞髀 chicken leg", zh: 大腿, example: {hanzi: "行咗成日山，我對髀好痛。", jyutping: "haang4 zo2 seng4 jat6 saan1, ngo5 deoi3 bei2 hou2 tung3.", en: "After hiking all day, my thighs really hurt."}}
+      - {c: 踭, jyutping: zaang1, en: "heel (腳踭), elbow (手踭)", zh: 跟 / 肘, example: {hanzi: "對新鞋磨到我腳踭好痛。", jyutping: "deoi3 san1 haai4 mo4 dou3 ngo5 goek3 zaang1 hou2 tung3.", en: "My new shoes have rubbed my heels sore."}}
+  - id: describe
+    en: "Describing"
+    hanzi: 形容
+    chars:
+      - {c: 啱, jyutping: ngaam1, en: "right, correct; fit; just (啱啱)", zh: 對 / 剛}
+      - {c: 叻, jyutping: lek1, en: "clever, good at things", zh: 聰明 / 厲害}
+      - {c: 攰, jyutping: gui6, en: "tired", zh: 累}
+      - {c: 燶, jyutping: nung1, en: "burnt (food)", zh: 焦}
+      - {c: 嬲, jyutping: nau1, en: "angry", zh: 生氣}
+  - id: measures
+    en: "Lumps, mouthfuls and yesterday"
+    hanzi: 量詞同時間
+    chars:
+      - {c: 嚿, jyutping: gau6, en: "lump, chunk (一嚿石)", zh: 塊}
+      - {c: 啖, jyutping: daam6, en: "mouthful (食啖飯, 一啖茶)", zh: 口}
+      - {c: 轆, jyutping: luk1, en: "wheel; a length of something round; 甩轆 go wrong", zh: 輪子 / 段}
+      - {c: 噚, jyutping: cam4, en: "噚日 yesterday", zh: 昨(天), example: {hanzi: "我噚日喺梁記食咗個菠蘿油。", jyutping: "ngo5 cam4 jat6 hai2 loeng4 gei3 sik6 zo2 go3 bo1 lo4 jau4.", en: "Yesterday I had a pineapple bun with butter at Leung Kee."}}

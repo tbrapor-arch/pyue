@@ -442,6 +442,22 @@ h1, .hello .big, .todaycard .lt, .wotd .wh, .item .tt, .tcard .th, .wchip b, .vt
 #dlg, .allnotes, h2[id] { scroll-margin-top: 3.6rem; }
 .seg { flex-wrap: wrap; }
 .pracnav { align-self: flex-start; }
+/* Lessons › 粵字 */
+.yzjump { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: .25rem .8rem; font-size: .9rem; }
+.yzjump button { text-align: left; }
+.yzgrid { display: grid; gap: .9rem; }
+.yz { display: grid; grid-template-columns: 4.2rem 1fr; gap: .2rem .9rem; padding: .8rem .9rem; background: var(--surface); border: var(--border-soft); border-radius: var(--r-big); }
+.yz-c { display: flex; flex-direction: column; align-items: center; gap: .15rem; }
+.yz-c .han { font-family: var(--f-han); font-weight: var(--w-han); font-size: 2.6rem; line-height: 1.1; }
+.yz-c .han.multi { font-size: 1.5rem; writing-mode: vertical-rl; }
+.yz-c .rom { font-family: var(--f-rom); font-size: .9rem; color: var(--brand); text-align: center; }
+.yz-b { display: flex; flex-direction: column; gap: .35rem; min-width: 0; }
+.yz-b .gl { font-weight: 700; } .yz-b .zh { color: var(--sub); font-size: .88rem; }
+.yz-b .zh .han { font-family: var(--f-han); }
+.yz-b .sent .txt { font-size: 1.15rem; }
+.yzw { display: flex; flex-wrap: wrap; gap: .3rem; }
+.yzw button { font: inherit; font-size: .85rem; text-align: left; max-width: 100%; padding: .15rem .5rem; border: var(--border-soft); border-radius: 999px; background: none; color: var(--text); cursor: pointer; }
+.yzw button .han { font-family: var(--f-han); } .yzw button .rom { font-family: var(--f-rom); color: var(--sub); }
 /* "Jyutping on tap": readings hidden until a word is tapped */
 .mode-tap ruby.tok rt { visibility: hidden; }
 .mode-tap ruby.tok.show rt { visibility: visible; }
@@ -673,6 +689,7 @@ function route() {
   let m;
   WAVE = false;
   if (h === 'lessons') return showLessons();
+  if (h === 'yuezi') return showYuezi();
   if (h === 'lesson-0') return showLesson0();
   if ((m = h.match(/^(lesson|wave)-(\d+)$/))) { const L = DATA.lessons.find(l => l.id === +m[2]); if (L) { WAVE = m[1] === 'wave'; fromLesson = L.id; store.set('last', L.id); return showLesson(L); } }
   if (h === 'themes') return showThemes();
@@ -713,6 +730,38 @@ function renderTabs(cur) {
   $('#tabs').innerHTML = tabs.map(([k, t]) => `<button class="tab" data-tab="${k}" aria-current="${cur === k}">${ICONS[k]}<span>${t}</span></button>`).join('');
   // a tab always opens that tab's start page (the Practice tab leaves a running session and reopens its part used last; the Lessons tab goes to the top of the grid)
   $$('[data-tab]', $('#tabs')).forEach(b => b.onclick = () => { const k = b.dataset.tab; if (k === 'review') { sess = null; tsess = null; const sec = store.get('pracSec', 'lists'); go(sec === 'review' || (sec === 'exam' && !Exam.on) ? 'lists' : sec); return; } if (k === 'lessons') resetHome = true; go(k); });
+}
+
+// ---------- Lessons sub-tabs: the course, and 粵字 (characters that belong to written Cantonese only)
+const lessonNav = cur => (DATA.yuezi || []).length ? `<div class="seg pracnav" role="group" aria-label="Lessons">${[['lessons', 'Lessons'], ['yuezi', '粵字 Cantonese characters']].map(([k, t]) => `<button data-go="${k}" aria-pressed="${k === cur}">${t}</button>`).join('')}</div>` : '';
+function showYuezi() {
+  renderTabs('lessons');
+  const LB = Object.fromEntries(DATA.lessons.map(l => [l.id, l]));
+  const keep = prefs.mode; prefs.mode = 'both';   // readings always shown here, whatever the lesson setting
+  const n = DATA.yuezi.reduce((a, g) => a + g.items.length, 0);
+  const item = (it, gi, ii) => { const k = `Y${gi}-${ii}`, src = it.ex.src;
+    return `<div class="yz" id="yz-${gi}-${ii}">
+      <div class="yz-c"><span class="han${it.c.length > 1 ? ' multi' : ''}">${esc(it.c)}</span><span class="rom">${esc(it.tailo)}</span></div>
+      <div class="yz-b"><span class="gl">${esc(it.en)}</span>
+        <span class="zh">Mandarin <span class="han">${esc(it.zh)}</span>${it.uses ? ` · in ${it.uses} line${it.uses > 1 ? 's' : ''} of 進修` : ''}</span>
+        <div class="sent"><div class="txt">${sentence(it.ex.tokens, k)}</div>
+          <div class="under"><span class="en">${esc(it.ex.en)}</span>${src && LB[src[0]] ? ` <button class="linkish" data-go="lesson-${src[0]}">${lname(src[0])} · line ${src[1]}</button>` : ''}</div></div>
+        ${it.words.length ? `<div class="yzw">${it.words.map(w => `<button data-yzw="${esc(w.id || '')}" title="${esc(w.en)} · ${lname(w.lesson)}"><span class="han">${esc(w.hanji)}</span> <span class="rom">${esc(w.tailo)}</span> ${esc(w.en)}</button>`).join('')}</div>` : ''}
+      </div></div>`; };
+  $('#main').innerHTML = `<div class="col mode-both always-rom">
+    <div class="head"><span class="eyebrow">Course</span><h1>粵字</h1><span class="rom">jyut6 zi6 · ${n} characters that only written Cantonese uses</span></div>
+    ${lessonNav('yuezi')}
+    <p class="sub" style="margin:0;max-width:65ch">Characters Mandarin doesn't write, or only in rare literary use, grouped by what they do. Each comes with its Mandarin counterpart and a line from the lessons. Tap a word to open its card. Characters Mandarin also writes daily but Cantonese uses differently (係, 食, 企…) are not listed here.</p>
+    <nav class="yzjump" aria-label="Groups">${DATA.yuezi.map((g, gi) => `<button class="linkish" data-yzg="${gi}"><span class="han">${esc(g.hanji)}</span> ${esc(g.en)}</button>`).join('')}</nav>
+    ${DATA.yuezi.map((g, gi) => `<section class="sec" id="yzg-${gi}" aria-labelledby="yzh-${gi}">
+      <h2 id="yzh-${gi}"><span class="num">${gi + 1}</span><span class="han">${esc(g.hanji)}</span><span class="sub" style="font-weight:600">${esc(g.en)} · ${g.items.map(i => esc(i.c)).join(' ')}</span></h2>
+      <div class="yzgrid">${g.items.map((it, ii) => item(it, gi, ii)).join('')}</div></section>`).join('')}
+  </div>`;
+  prefs.mode = keep;
+  const m = $('#main');
+  wireTokens(m); wireGo(m);
+  $$('[data-yzw]', m).forEach(b => b.onclick = () => { if (b.dataset.yzw) openCard(b.dataset.yzw); });
+  $$('[data-yzg]', m).forEach(b => b.onclick = () => { const g = document.getElementById('yzg-' + b.dataset.yzg); if (g) window.scrollTo(0, g.getBoundingClientRect().top + window.scrollY - 12); });
 }
 
 // ---------- lessons list
@@ -765,6 +814,7 @@ function showLessons() {
   $('#main').innerHTML = `<div class="col">
     <div class="head"><span class="eyebrow">Course</span><h1>課程</h1>
       <span class="rom">fo3 cing4${BASE ? ` · ${mdone} done · ${mwritten} of ${TOTAL} lessons` : ' · perfectionnement'}</span></div>
+    ${lessonNav('lessons')}
     ${BASE ? `<div class="bar" aria-hidden="true"><i style="width:${Math.round(100 * mdone / TOTAL)}%"></i></div>` : ''}
     ${next ? `<div class="card raised nextcard">
       <span class="eyebrow">${last === next.id ? 'Carry on' : 'Next lesson'}${dt ? ` · ${dt} done today` : ''}${st > 1 ? ` · ${st}-day streak` : ''}</span>
@@ -828,7 +878,7 @@ function wireTokens(root) {
   $$('.tok', root).forEach(t => {
     const open = () => {
       // "Jyutping on tap": the first tap shows the reading, the next one opens the word card
-      if (prefs.mode === 'tap' && t.tagName === 'RUBY' && !t.classList.contains('show')) { t.classList.add('show'); return; }
+      if (prefs.mode === 'tap' && t.tagName === 'RUBY' && !t.closest('.always-rom') && !t.classList.contains('show')) { t.classList.add('show'); return; }
       $$('.tok.sel').forEach(x => x.classList.remove('sel')); t.classList.add('sel'); const w = TOKS[t.dataset.tok]; openCard(w.id, w);
     };
     t.onclick = open; t.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } };
@@ -1503,7 +1553,7 @@ document.addEventListener('click', e => {
   if (!sh.classList.contains('open') || !e.target.isConnected || sh.contains(e.target) || e.target.closest('.tok, [data-note], [data-word], [data-pick], .tab, #pron')) return;
   closeSheet();
 });
-function currentTab() { const h = location.hash.slice(1) || 'lessons'; return /^(lesson|wave)/.test(h) ? 'lessons' : /^(theme|grammar|drills)/.test(h) ? 'review' : /^(podcast|ep-)/.test(h) ? 'podcast' : /^(video|vid-)/.test(h) ? 'video' : /^(music|mus-)/.test(h) ? 'music' : /^(bridge|lists?$|list-)/.test(h) ? 'review' : /^(books|exam-book)/.test(h) ? 'books' : h.startsWith('exam') ? 'review' : h; }
+function currentTab() { const h = location.hash.slice(1) || 'lessons'; return /^(lesson|wave|yuezi)/.test(h) ? 'lessons' : /^(theme|grammar|drills)/.test(h) ? 'review' : /^(podcast|ep-)/.test(h) ? 'podcast' : /^(video|vid-)/.test(h) ? 'video' : /^(music|mus-)/.test(h) ? 'music' : /^(bridge|lists?$|list-)/.test(h) ? 'review' : /^(books|exam-book)/.test(h) ? 'books' : h.startsWith('exam') ? 'review' : h; }
 
 // ---------- review deck (Leitner boxes; saved in this browser)
 function addToDeck(ids) { let n = 0; ids.forEach(id => { if (id && DATA.dict[id] && !deck[id]) { deck[id] = { box: 0, due: Date.now(), at: Date.now() }; n++; } }); store.set('deck', deck); return n; }

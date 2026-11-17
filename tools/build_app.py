@@ -235,12 +235,72 @@ for g in grammar:
         it.pop('han', None)
         it.pop('jp', None)
 
+# ---- 粵字 (Lessons › 粵字): Cantonese-only characters, grouped (course/yuezi.yaml). Each gets one example: the
+# yaml's own `example`, else the course line that suits best (the character read as listed, 8–24 characters, earliest
+# lesson, a line no other character uses yet, without stage directions; failing that the shortest line), plus the 進修 new words that contain it.
+SYL = re.compile(r'[a-z]+[1-6]')
+
+
+def han_chars(s):
+    return [c for c in s if 0x3400 <= ord(c) <= 0x9fff or ord(c) >= 0x20000 or 0xf900 <= ord(c) <= 0xfaff]
+
+
+def yuezi_build():
+    src = yaml.safe_load(open(os.path.join(ROOT, 'course/yuezi.yaml'), encoding='utf-8'))
+    perf = {d['id']: d for d in (yaml.safe_load(open(f, encoding='utf-8')) for f in perf_files)}
+    by_id = {L['id']: L for L in lessons}
+    groups, used, built = [], set(), {}
+    # characters with the fewest lines choose first, so a rare one keeps its only line
+    order = sorted((it for g in src['groups'] for it in g['chars']),
+                   key=lambda it: sum(it['c'] in ln['hanji'] for L in lessons for ln in L['lines']))
+    for it in order:
+        if True:
+            c, want = it['c'], [s.rstrip('123456') for s in it['jyutping'].split()]
+            ex = it.get('example')
+            uses = [(L['id'], i) for L in lessons for i, ln in enumerate(L['lines']) if c in ln['hanji']]
+            if ex:
+                ex = {'hanji': ex['hanzi'], 'tailo': ex['jyutping'], 'en': ex['en'],
+                      'tokens': tokenize(ex['hanzi'], ex['jyutping']), 'src': None}
+            else:
+                good = []
+                for lid, i in uses:
+                    ln = by_id[lid]['lines'][i]
+                    hs, ss = han_chars(ln['hanji']), SYL.findall(ln['tailo'].lower())
+                    ok = len(hs) == len(ss) and any(
+                        ''.join(hs[k:k + len(c)]) == c and [s.rstrip('123456') for s in ss[k:k + len(c)]] == want
+                        for k in range(len(hs)))
+                    good.append((ok, len(hs), lid, i))
+                def rank(x):    # an unused line first, then one without stage directions, then the earliest
+                    stage = '（' in by_id[x[2]]['lines'][x[3]]['hanji']
+                    return ((x[2], x[3]) in used, stage, x[2], x[1])
+                fit = [x for x in good if x[0] and 8 <= x[1] <= 24]
+                pick = min(fit, key=rank) if fit else min(good, key=lambda x: (not x[0], x[1]))
+                used.add((pick[2], pick[3]))
+                ln = by_id[pick[2]]['lines'][pick[3]]
+                ex = {'hanji': ln['hanji'], 'tailo': ln['tailo'], 'en': ln['en'], 'tokens': ln['tokens'],
+                      'src': [pick[2], ln['n']]}
+            words, seen = [], set()
+            for n in sorted(perf):
+                for w in perf[n].get('new_words') or []:
+                    if c in w['hanzi'] and w['hanzi'] != c and w['hanzi'] not in seen and len(words) < 6:
+                        seen.add(w['hanzi'])
+                        words.append({'hanji': w['hanzi'], 'tailo': w['jyutping'], 'en': w.get('en', ''),
+                                      'id': lookup(w['hanzi'], jp.key(w['jyutping'])), 'lesson': PART2 + n})
+            built[c] = {'c': c, 'tailo': it['jyutping'], 'en': it['en'], 'zh': str(it.get('zh', '')),
+                        'uses': len(uses), 'ex': ex, 'words': words}
+    for g in src['groups']:
+        groups.append({'id': g['id'], 'en': g['en'], 'hanji': g['hanzi'], 'items': [built[it['c']] for it in g['chars']]})
+    return groups
+
+
+yuezi = yuezi_build()
+
 VIDEO = os.path.join(ROOT, 'course/video.yaml')
 video = yaml.safe_load(open(VIDEO, encoding='utf-8')) if os.path.exists(VIDEO) else {'shows': []}
 MUSIC = os.path.join(ROOT, 'course/music.yaml')
 music = yaml.safe_load(open(MUSIC, encoding='utf-8')) if os.path.exists(MUSIC) else {'albums': []}
 data = {'podcast': None, 'video': video, 'music': music, 'tones': tone_drill.build(lessons), 'grammar': grammar,
-        'syllabus': syllabus, 'lessons': lessons, 'themes': themes, 'accents': [], 'bridge': [],
+        'syllabus': syllabus, 'lessons': lessons, 'themes': themes, 'yuezi': yuezi, 'accents': [], 'bridge': [],
         'dict': dictionary, 'lesson0': lesson0, 'built': datetime.date.today().isoformat(), 'recorded': 0}
 
 dist_audio = os.path.join(ROOT, 'app/dist/audio')
