@@ -20,9 +20,9 @@ dialogue:
   - {n: 12, speaker: Kayan, hanzi: "（喺岸上大叫）阿果，加油！天台派對全隊嚟咗撐你！", jyutping: "(hai2 ngon6 soeng6 daai6 giu3) aa3 gwo2, gaa1 jau4! tin1 toi4 paai3 deoi3 cyun4 deoi2 lai4 zo2 caang1 nei5!", en: "(Shouting from the shore) Go, A-Gwo! The whole of 天台派對 has come to support you!"}
   - {n: 13, speaker: Uncle Fong, hanzi: "準備……起步！一、二！一、二！用力！", jyutping: "zeon2 bei6 …… hei2 bou6! jat1, ji6! jat1, ji6! jung6 lik6!", en: "Ready… go! One, two! One, two! Pull!"}
   - {n: 14, speaker: Hiu-ching, hanzi: "阿果，慢咗！跟拍子，唔好望岸上！", jyutping: "aa3 gwo2, maan6 zo2! gan1 paak3 zi2, m4 hou2 mong6 ngon6 soeng6!", en: "A-Gwo, you're behind! Follow the beat; don't look at the shore!"}
-  - {n: 15, speaker: Uncle Fong, hanzi: "仲有一百米！前面兩艘船，追上佢哋！", jyutping: "zung6 jau5 jat1 baak3 mai5! cin4 min6 loeng5 sau1 syun4, zeoi1 soeng5 keoi5 dei6!", en: "A hundred metres to go! Two boats ahead: catch them!"}
+  - {n: 15, speaker: Uncle Fong, hanzi: "仲有一百米！前面兩艘船，追上佢哋！", jyutping: "zung6 jau5 jat1 baak3 mai5! cin4 min6 loeng5 sau2 syun4, zeoi1 soeng5 keoi5 dei6!", en: "A hundred metres to go! Two boats ahead: catch them!"}
   - {n: 16, speaker: Hugo, hanzi: "（喘晒氣）我……我扒到隻手冇晒感覺……", jyutping: "(cyun2 saai3 hei3) ngo5 …… ngo5 paa4 dou3 zek3 sau2 mou5 saai3 gam2 gok3 ……", en: "(Panting) I've… I've paddled till I can't feel my arm…"}
-  - {n: 17, speaker: Uncle Fong, hanzi: "衝線！好！超越咗一艘！我哋第三！", jyutping: "cung1 sin3! hou2! ciu1 jyut6 zo2 jat1 sau1! ngo5 dei6 dai6 saam1!", en: "Over the line! Yes! We passed one! We're third!"}
+  - {n: 17, speaker: Uncle Fong, hanzi: "衝線！好！超越咗一艘！我哋第三！", jyutping: "cung1 sin3! hou2! ciu1 jyut6 zo2 jat1 sau2! ngo5 dei6 dai6 saam1!", en: "Over the line! Yes! We passed one! We're third!"}
   - {n: 18, speaker: Hiu-ching, hanzi: "季軍！上年我哋第五，今年有你，名次好咗兩個。", jyutping: "gwai3 gwan1! soeng6 nin2 ngo5 dei6 dai6 ng5, gam1 nin4 jau5 nei5, ming4 ci3 hou2 zo2 loeng5 go3.", en: "Third place! Last year we were fifth; this year, with you, we've gone up two places."}
   - {n: 19, speaker: Hugo, hanzi: "我攰到連槳都拎唔起，仲成身濕晒。", jyutping: "ngo5 gui6 dou3 lin4 zoeng2 dou1 ling1 m4 hei2, zung6 seng4 san1 sap1 saai3.", en: "I'm so tired I can't even lift the paddle, and I'm soaked from head to toe."}
   - {n: 20, speaker: Uncle Fong, hanzi: "濕晒先好！龍舟水嚟喇。（行雷，落大雨）", jyutping: "sap1 saai3 sin1 hou2! lung4 zau1 seoi2 lai4 laa3. (haang4 leoi4, lok6 daai6 jyu5)", en: "Soaked is good! Here comes the dragon-boat rain. (Thunder, a downpour)"}
@@ -41,7 +41,7 @@ notes:
   - {ref: 9, topic: vocab, text: "全隊 'the whole team' (隊 deoi2, P38). 齊 = together, in sync (P27). 快咗 / 慢咗 'too fast / too slow' (line 14): adjective + 咗 for an excess compared with the norm."}
   - {ref: 10, topic: vocab, text: "掌舵 zoeng2 to4 = steer, hold the rudder (舵 to4). 龍頭 lung4 tau4 / 龍尾 lung4 mei5 = the dragon's head / tail of the boat. 阿叔 aa3 suk1 (line 11) = uncle (father's younger brother)."}
   - {ref: 13, topic: vocab, text: "用力 jung6 lik6 = use strength, pull hard. 起步 'start' (P18)."}
-  - {ref: 15, topic: vocab, text: "艘 sau1 = classifier for boats (written; spoken 隻 or 條). 米 mai5 = metre. 喘氣 cyun2 hei3 (line 16) = pant: 喘晒氣."}
+  - {ref: 15, topic: vocab, text: "艘 sau2 = classifier for boats (written; in speech people use 隻 or 條, and many read 艘 as sou1 or sau1). 米 mai5 = metre. 喘氣 cyun2 hei3 (line 16) = pant: 喘晒氣."}
   - {ref: 18, topic: vocab, text: "岸 ngon6 'shore' (line 12: 岸上); 撐 caang1 'support, cheer for'; 遮 ze1 'umbrella' (line 22). 季軍 gwai3 gwan1 = third place (冠軍, 亞軍, 季軍). 名次 ming4 ci3 = ranking, place. 上年 soeng6 nin2 'last year'."}
   - {ref: 20, topic: culture, text: "龍舟水 lung4 zau1 seoi2 'dragon-boat water': the heavy rains around Tuen Ng, at the start of the summer storm season. 行雷 haang4 leoi4 = thunder."}
   - {ref: 3, topic: vs-mandarin, text: "Cantonese 扒 paa4 = Mandarin 划 (划龍舟). Cantonese also uses 划 waa4 in some words (划艇 'canoe'), but 扒龍舟 is the everyday phrase. 糉 = Mandarin 粽子."}
@@ -73,7 +73,7 @@ new_words:
   - {jyutping: "lung4 tau4", hanzi: 龍頭, en: "dragon's head"}
   - {jyutping: "aa3 suk1", hanzi: 阿叔, en: "uncle (father's younger brother)"}
   - {jyutping: "jung6 lik6", hanzi: 用力, en: "pull hard, use strength"}
-  - {jyutping: "sau1", hanzi: 艘, en: "classifier for boats"}
+  - {jyutping: "sau2", hanzi: 艘, en: "classifier for boats"}
   - {jyutping: "gwai3 gwan1", hanzi: 季軍, en: "third place"}
   - {jyutping: "ming4 ci3", hanzi: 名次, en: "ranking, place"}
   - {jyutping: "lung4 zau1 seoi2", hanzi: 龍舟水, en: "Tuen Ng rains"}

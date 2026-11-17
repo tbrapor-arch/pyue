@@ -16,9 +16,9 @@ dialogue:
   - {n: 8, speaker: A-zim, hanzi: "（喺巴剎）呢杯係乜嘢？好似我哋嘅奶茶，但係有好多泡。", jyutping: "(hai2 baa1 saat3) ni1 bui1 hai6 mat1 je5? hou2 ci5 ngo5 dei6 ge3 naai5 caa4, daan6 hai6 jau5 hou2 do1 pou5.", en: "(At the market) What's this? It looks like our milk tea, but it's very frothy."}
   - {n: 9, speaker: A-zong, hanzi: "呢個係拉茶。將杯茶由高處倒落另一個杯，一拉一倒，拉到起泡。同你哋撞茶差唔多。", jyutping: "ni1 go3 hai6 laai1 caa4. zoeng1 bui1 caa4 jau4 gou1 cyu3 dou3 lok6 ling6 jat1 go3 bui1, jat1 laai1 jat1 dou3, laai1 dou3 hei2 pou5. tung4 nei5 dei6 zong6 caa4 caa1 m4 do1.", en: "This is teh tarik, pulled tea. You pour the tea from high up into another cup, pull and pour, until it froths. Not so different from your 'pulled' milk tea."}
   - {n: 10, speaker: Hugo, hanzi: "梁伯一定要試吓。不過佢實話港式奶茶好飲啲。", jyutping: "loeng4 baak3 jat1 ding6 jiu3 si3 haa5. bat1 gwo3 keoi5 sat6 waa6 gong2 sik1 naai5 caa4 hou2 jam2 di1.", en: "梁伯 has to try this. But he'll surely say Hong Kong milk tea is better."}
-  - {n: 11, speaker: A-zong, hanzi: "好飲啲？你哋嗰杯幾多鐳？我哋呢杯兩個半馬幣咋。", jyutping: "hou2 jam2 di1? nei5 dei6 go2 bui1 gei2 do1 lui1? ngo5 dei6 ni1 bui1 loeng5 go3 bun3 maa5 bai6 zaa3.", en: "Better? How much money is yours? Ours is only two and a half ringgit."}
-  - {n: 12, speaker: Sai-So, hanzi: "鐳？「鐳」即係錢？", jyutping: "lui1? \"lui1\" zik1 hai6 cin2?", en: "Lui? 'Lui' means money?"}
-  - {n: 13, speaker: A-zong, hanzi: "係呀，冇鐳就冇得食 lah！（大家笑）", jyutping: "hai6 aa3, mou5 lui1 zau6 mou5 dak1 sik6 lah! (daai6 gaa1 siu3)", en: "Yep, no money, no food, lah! (Everyone laughs)"}
+  - {n: 11, speaker: A-zong, hanzi: "好飲啲？你哋嗰杯幾多鐳？我哋呢杯兩個半馬幣咋。", jyutping: "hou2 jam2 di1? nei5 dei6 go2 bui1 gei2 do1 leoi1? ngo5 dei6 ni1 bui1 loeng5 go3 bun3 maa5 bai6 zaa3.", en: "Better? How much money is yours? Ours is only two and a half ringgit."}
+  - {n: 12, speaker: Sai-So, hanzi: "鐳？「鐳」即係錢？", jyutping: "leoi1? \"leoi1\" zik1 hai6 cin2?", en: "Leoi? 'Leoi' means money?"}
+  - {n: 13, speaker: A-zong, hanzi: "係呀，冇鐳就冇得食 lah！（大家笑）", jyutping: "hai6 aa3, mou5 leoi1 zau6 mou5 dak1 sik6 lah! (daai6 gaa1 siu3)", en: "Yep, no money, no food, lah! (Everyone laughs)"}
   - {n: 14, speaker: Hiu-ching, hanzi: "嘩，好熱，又好濕。啱啱仲出晒太陽，而家就落雷雨。", jyutping: "waa3, hou2 jit6, jau6 hou2 sap1. ngaam1 ngaam1 zung6 ceot1 saai3 taai3 joeng4, ji4 gaa1 zau6 lok6 leoi4 jyu5.", en: "Wow, it's so hot and humid. A moment ago it was blazing sun, and now there's a thunderstorm."}
   - {n: 15, speaker: A-zong, hanzi: "熱帶天氣就係咁。下晝落一場雷雨，晚黑就涼爽啲，啱晒你哋演出。", jyutping: "jit6 daai3 tin1 hei3 zau6 hai6 gam2. haa6 zau3 lok6 jat1 coeng4 leoi4 jyu5, maan5 hak1 zau6 loeng4 song2 di1, ngaam1 saai3 nei5 dei6 jin2 ceot1.", en: "That's tropical weather. A thunderstorm in the afternoon, and by evening it's cooler: just right for your show."}
   - {n: 16, speaker: Hugo, hanzi: "（晚上，喺場地後台）外面坐滿人。佢哋真係聽得明我哋啲香港俚語？", jyutping: "(maan5 soeng6, hai2 coeng4 dei6 hau6 toi4) ngoi6 min6 co5 mun5 jan4. keoi5 dei6 zan1 hai6 teng1 dak1 ming4 ngo5 dei6 di1 hoeng1 gong2 lei5 jyu5?", en: "(That evening, backstage) It's packed out there. Can they really understand our Hong Kong slang?"}
@@ -32,7 +32,7 @@ dialogue:
   - {n: 24, speaker: Hiu-ching, hanzi: "嘩，你個鬼佬腔講出咁深嘅道理。", jyutping: "waa3, nei5 go3 gwai2 lou2 hong1 gong2 ceot1 gam3 sam1 ge3 dou6 lei5.", en: "Wow, such deep thoughts in that foreigner's accent of yours."}
 notes:
   - {ref: 1, topic: culture, text: "Kuala Lumpur (吉隆坡 gat1 lung4 bo1, 'KL') in Malaysia (馬來西亞 maa5 loi4 sai1 aa3) has a large Cantonese-speaking Chinese community. Petaling Street is called 茨廠街 'tapioca-factory street'. 落機 lok6 gei1 = get off the plane, land."}
-  - {ref: 3, topic: culture, text: "Malaysian Cantonese borrows from Malay: 巴剎 baa1 saat3 (pasar) 'market'; 鐳 lui1 'money' (line 11); 馬打 'police' (mata-mata); 甘榜 'village' (kampung); and sentence-final 'lah'. 夾埋 'mix in'. Hong Kong Cantonese borrows from English instead (P46)."}
+  - {ref: 3, topic: culture, text: "Malaysian Cantonese borrows from Malay: 巴剎 baa1 saat3 (pasar) 'market'; 鐳 leoi1 'money' (line 11); 馬打 'police' (mata-mata); 甘榜 'village' (kampung); and sentence-final 'lah'. 夾埋 'mix in'. Hong Kong Cantonese borrows from English instead (P46)."}
   - {ref: 4, topic: vocab, text: "年代 'decade': 六七十年代 'the sixties and seventies'. 港產片 gong2 caan2 pin2 (line 5) = Hong Kong-made films; 電視劇 din6 si6 kek6 = TV drama. 由細到大 jau4 sai3 dou3 daai6 = from childhood."}
   - {ref: 5, topic: culture, text: "下南洋 'go down to the Southern Seas': from the 19th century, millions from Guangdong and Fujian emigrated to Southeast Asia, many as labourers (苦力 fu2 lik6, the origin of English 'coolie') in tin mines (錫礦). 太公 taai3 gung1 = great-grandfather."}
   - {ref: 6, topic: vocab, text: "方言 fong1 jin4 = dialect. 其他 'other'. Hakka (客家 haak3 gaa1; 客家話 'Hakka language'), Hokkien (福建 fuk1 gin3) and Teochew (潮州 ciu4 zau1) are the other big Chinese languages in Malaysia. 廣府話 gwong2 fu2 waa2 = Cantonese proper. 阿公 aa3 gung1 = grandfather (mother's father in HK; any grandfather in KL)."}
@@ -45,7 +45,7 @@ notes:
   - {ref: 22, topic: vocab, text: "雙子塔 'the Twin Towers' (Petronas); 塔 taap3 'tower'. 正宗 zing3 zung1 'authentic'. 遠 jyun5 (line 21) 'far'; 深 sam1 (line 24) 'deep'. 心底話 (line 23) 'words from the bottom of the heart' (心底, P34). 道理 'reasoning, sense'."}
   - {ref: 3, topic: vs-mandarin, text: "Malaysian Chinese use Mandarin at school, Cantonese in KL's streets and shops, and their home dialect with grandparents. Many switch between all three in one conversation, adding Malay and English words. Mandarin there also borrows Malay (巴剎 bāshā), so the loans are shared across languages."}
 pron:
-  - {ref: 11, text: "鐳 'money' (Malaysian) is lui1, high level."}
+  - {ref: 11, text: "鐳 'money' (Southeast Asian Cantonese) is leoi1, high level; as 'radium' the same character is leoi4."}
   - {ref: 3, text: "巴剎 baa1 saat3: both syllables follow the Malay 'pa-sar' rhythm."}
   - {ref: 9, text: "起泡 hei2 pou5 'froth': 泡 is pou5 for bubbles; paau3 in 泡茶 'make tea'."}
 new_words:

@@ -16,6 +16,7 @@ What is checked
 Accepted, not suspects
   changed tone (變音): the reading is a listed reading of the character with tone 1 or 2 instead (糖 tong4 -> tong2,
   碟 dip6 -> dip2), as Cantonese speakers say it. Listed with --all.
+  accepted: a character + reading kept on purpose, listed in course/verify_ok.tsv with its reason. Listed with --all.
 
 Suspect classes, worst first
   unknown    no dictionary lists this character with this reading (a typo, or a reading to explain in a note)
@@ -38,7 +39,19 @@ import english  # noqa: E402
 
 ROOT = os.path.dirname(HERE)
 RARE = 5
-ORDER = {'unknown': 0, 'rare': 1, 'unconfirmed': 2, 'changed tone': 3}
+ORDER = {'unknown': 0, 'rare': 1, 'unconfirmed': 2, 'changed tone': 3, 'accepted': 4}
+OK_FILE = os.path.join(ROOT, 'course/verify_ok.tsv')
+
+
+def load_ok(path=OK_FILE):
+    """Character + reading pairs the course keeps on purpose (course/verify_ok.tsv): reported as accepted."""
+    out = {}
+    if os.path.exists(path):
+        for line in open(path, encoding='utf-8'):
+            p = line.rstrip('\n').split('\t')
+            if len(p) >= 2 and not p[0].startswith('#'):
+                out[(p[0], p[1])] = p[2] if len(p) > 2 else ''
+    return out
 
 
 class Verifier:
@@ -49,6 +62,7 @@ class Verifier:
             d = self.share.setdefault(h, {})
             d[k] = max(d.get(k) or 0, s or 0) if s is not None else d.get(k)
         self.items = []
+        self.ok = load_ok()
 
     def _sources(self, h, k):
         return [s for s in cards.attested(h, k) if s != 'rime']
@@ -88,7 +102,7 @@ class Verifier:
                     continue
                 got = self._char(where, c, s, hanzi)
                 if got:
-                    self.items.append((got[0], where, got[1], hanzi))
+                    self.items.append((got[0] if (c, s) not in self.ok else 'accepted', where, got[1], hanzi))
 
     def word(self, where, hanzi, jyut):
         k = jp.key(jyut)
@@ -112,7 +126,7 @@ class Verifier:
         from collections import Counter
         n = Counter(c for c, _, _ in rows)
         for cls, where, msg in rows:
-            if cls != 'changed tone' or show_all:
+            if cls not in ('changed tone', 'accepted') or show_all:
                 print(f'{cls:12} {where}: {msg}', file=out)
         print('verify: ' + ', '.join(f'{n[c]} {c}' for c in ORDER if n[c]) if n else 'verify: no suspects', file=out)
         return rows

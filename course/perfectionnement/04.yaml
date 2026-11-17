@@ -1,6 +1,6 @@
 # 進修 4. Written Cantonese, LSHK Jyutping. Not checked by a native speaker yet.
 id: 4
-title: {en: "Working like a dog", jyutping: "zou6 dou3 zek3 zek1 gam3", hanzi: "做到隻積咁"}
+title: {en: "Working like a dog", jyutping: "zou6 dou3 zek3 gau2 gam3", hanzi: "做到隻狗咁"}
 genre: dialogue
 review: false
 setting: "Three weeks earlier, late August. The 30th floor of an investment bank in Central, eleven at night. Hugo's team head 華哥 is pacing; Hugo's colleague Mandy is eating crisps over her keyboard."
@@ -14,7 +14,7 @@ dialogue:
   - {n: 7, speaker: Hugo, hanzi: "叫咗外賣，但係凍晒，我食唔落。", jyutping: "giu3 zo2 ngoi6 maai6, daan6 hai6 dung3 saai3, ngo5 sik6 m4 lok6.", en: "I ordered a takeaway, but it's gone cold and I can't face it."}
   - {n: 8, speaker: Wah-go, hanzi: "兩位，傾完未呀？Hugo，客嘅要求好簡單：個數要啱，份嘢要靚，聽朝要交。", jyutping: "loeng5 wai2, king1 jyun4 mei6 aa3? Hugo, haak3 ge3 jiu1 kau4 hou2 gaan2 daan1: go3 sou3 jiu3 ngaam1, fan6 je5 jiu3 leng3, ting1 ziu1 jiu3 gaau1.", en: "You two, finished chatting? Hugo, the client's demands are simple: the numbers must be right, the thing must look good, and it's due tomorrow morning."}
   - {n: 9, speaker: Hugo, hanzi: "華哥，我盡量做。不過一個人點都趕唔切，可唔可以搵多個人幫手？", jyutping: "waa4 go1, ngo5 zeon6 loeng6 zou6. bat1 gwo3 jat1 go3 jan4 dim2 dou1 gon2 m4 cit3, ho2 m4 ho2 ji5 wan2 do1 go3 jan4 bong1 sau2?", en: "Wah-go, I'll do my best. But one person can't make it in time whatever happens. Could we get one more person to help?"}
-  - {n: 10, speaker: Wah-go, hanzi: "搵邊個呀？成個team都做到隻積咁。凌晨三點，成層樓得返我哋幾個，你又唔係未試過。", jyutping: "wan2 bin1 go3 aa3? seng4 go3 team dou1 zou6 dou3 zek3 zek1 gam3. ling4 san4 saam1 dim2, seng4 cang4 lau4 dak1 faan1 ngo5 dei6 gei2 go3, nei5 jau6 m4 hai6 mei6 si3 gwo3.", en: "Who? The whole team is working like dogs. Three in the morning, just a few of us left on the whole floor: it's not as if you've never been through it."}
+  - {n: 10, speaker: Wah-go, hanzi: "搵邊個呀？成個team都做到隻狗咁。凌晨三點，成層樓得返我哋幾個，你又唔係未試過。", jyutping: "wan2 bin1 go3 aa3? seng4 go3 team dou1 zou6 dou3 zek3 gau2 gam3. ling4 san4 saam1 dim2, seng4 cang4 lau4 dak1 faan1 ngo5 dei6 gei2 go3, nei5 jau6 m4 hai6 mei6 si3 gwo3.", en: "Who? The whole team is working like dogs. Three in the morning, just a few of us left on the whole floor: it's not as if you've never been through it."}
   - {n: 11, speaker: Mandy, hanzi: "試過，上個月試咗四晚。我男朋友已經唔記得我個樣。", jyutping: "si3 gwo3, soeng6 go3 jyut6 si3 zo2 sei3 maan5. ngo5 naam4 pang4 jau5 ji5 ging1 m4 gei3 dak1 ngo5 go3 joeng2.", en: "Been through it: four nights last month. My boyfriend has forgotten what I look like."}
   - {n: 12, speaker: Wah-go, hanzi: "唔好講到咁慘啦。銀行就係噉㗎啦，人工高，壓力大。後生仔冇經驗，做多幾年就慣。", jyutping: "m4 hou2 gong2 dou3 gam3 caam2 laa1. ngan4 hong4 zau6 hai6 gam2 gaa3 laa1, jan4 gung1 gou1, aat3 lik6 daai6. hau6 saang1 zai2 mou5 ging1 jim6, zou6 do1 gei2 nin4 zau6 gwaan3.", en: "Don't make it sound so awful. That's banking: high pay, high pressure. Young people have no experience; a few more years and you get used to it."}
   - {n: 13, speaker: Hugo, hanzi: "華哥，我做咗三年，經驗都有啲。但係我一路都覺得，呢份工唔係我想要嘅。", jyutping: "waa4 go1, ngo5 zou6 zo2 saam1 nin4, ging1 jim6 dou1 jau5 di1. daan6 hai6 ngo5 jat1 lou6 dou1 gok3 dak1, ni1 fan6 gung1 m4 hai6 ngo5 soeng2 jiu3 ge3.", en: "Wah-go, I've done three years; I've got some experience. But all along I've felt this job isn't what I want."}
@@ -34,7 +34,7 @@ notes:
   - {ref: 1, topic: vocab, text: "搞掂 gaau2 dim6 = get done, sort out: 搞掂未？ 'done yet?'; 搞唔掂 'can't manage it'. Office Cantonese mixes English nouns freely: report, file, team (P3). 聽朝 ting1 ziu1 = tomorrow morning."}
   - {ref: 2, topic: grammar, text: "Potential complements: verb + 得 / 唔 + result says whether something can be achieved. 做唔晒 'can't do it all', 做得晒 'can finish it all'. The result part is what matters: 晒 'all', 切 'in time' (趕唔切, line 9), 落 'down' (食唔落 'can't get it down', line 7), 住 'hold' (頂唔住 'can't hold out', line 5), 到 'reach' (搵唔到 'can't find', line 19)."}
   - {ref: 3, topic: vocab, text: "通頂 tung1 deng2 = stay up all night (working, studying): 通三晚頂 'three all-nighters', the object 頂 splits off. 後生 hau6 saang1 = young: 我後生嗰陣 'when I was young'; 後生仔 'young man, youngster' (line 12)."}
-  - {ref: 4, topic: grammar, text: "到 dou3 after a verb or adjective introduces the result or the degree: 聽到耳仔都出油 'heard it till my ears ooze oil' (= heard it far too often). The same in 攰到成隻熊貓咁 (line 6), 對到眼都矇埋 (line 15), 講到我想喊 (line 16), 做到隻積咁 'work like a dog' (line 10). This 到 is dou3; the 'reach' 到 in 瞓唔到 is dou2."}
+  - {ref: 4, topic: grammar, text: "到 dou3 after a verb or adjective introduces the result or the degree: 聽到耳仔都出油 'heard it till my ears ooze oil' (= heard it far too often). The same in 攰到成隻熊貓咁 (line 6), 對到眼都矇埋 (line 15), 講到我想喊 (line 16), 做到隻狗咁 'work like a dog' (line 10). This 到 is dou3; the 'reach' 到 in 瞓唔到 is dou2."}
   - {ref: 5, topic: vocab, text: "頂唔住 ding2 m4 zyu6 = can't hold out, can't take it any more; 頂唔順 (P2) is the same feeling. 半夜 bun3 je2 = midnight, the middle of the night. 瞓唔到五個鐘 'can't get five hours' sleep'."}
   - {ref: 6, topic: vocab, text: "成 + classifier + noun + 咁 = 'just like a …': 成隻熊貓咁 'like a panda', 成個細路咁 'like a child'. 熊貓 hung4 maau1 = panda."}
   - {ref: 7, topic: vocab, text: "外賣 ngoi6 maai6 = takeaway (food): 叫外賣 'order a takeaway'. 凍晒 'gone completely cold'."}
@@ -49,7 +49,7 @@ notes:
 pron:
   - {ref: 3, text: "頂 is ding2 'top, withstand', but deng2 in 通頂 'all-nighter' (spoken reading)."}
   - {ref: 5, text: "半夜 bun3 je2: 夜 je6 rises to je2 here."}
-  - {ref: 10, text: "隻積 zek3 zek1 'a dog' (old slang): the two syllables differ only in tone."}
+  - {ref: 10, text: "做到隻狗咁 'work till you are like a dog' = work like a dog: 到 + a comparison with 咁 'like', as in 攰到成隻熊貓咁 (line 6). 隻 is the classifier for animals: 隻狗 'a dog'."}
 new_words:
   - {jyutping: "gaau2 dim6", hanzi: 搞掂, en: "get done, sort out"}
   - {jyutping: "jip6", hanzi: 頁, en: "page"}

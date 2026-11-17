@@ -21,7 +21,7 @@ dialogue:
   - {n: 14, speaker: Leung Pak, hanzi: "你細個嗰陣時淨係識食蛋撻，邊會學？", jyutping: "nei5 sai3 go3 go2 zan6 si4 zing6 hai6 sik1 sik6 daan6 taat1, bin1 wui5 hok6?", en: "When you were little, all you cared about was eating egg tarts. When would you ever have learnt?"}
   - {n: 15, speaker: Kayan, hanzi: "（對雨果）其實你廣東話咁好，又識法文，可以去教書㗎。深水埗有好多學法文嘅後生。", jyutping: "(deoi3 jyu5 gwo2) kei4 sat6 nei5 gwong2 dung1 waa2 gam3 hou2, jau6 sik1 faat3 man2, ho2 ji5 heoi3 gaau3 syu1 gaa3. sam1 seoi2 bou2 jau5 hou2 do1 hok6 faat3 man2 ge3 hau6 saang1.", en: "(To Hugo) Actually, your Cantonese is so good and you know French: you could teach. There are lots of young people learning French in Sham Shui Po."}
   - {n: 16, speaker: Hugo, hanzi: "教書？我從來冇諗過。", jyutping: "gaau3 syu1? ngo5 cung4 loi4 mou5 nam2 gwo3.", en: "Teaching? I've never thought about it."}
-  - {n: 17, speaker: Lin-ze, hanzi: "諗吓啦！總好過喺銀行做到隻積咁。對唔對呀，阿伯？", jyutping: "nam2 haa5 laa1! zung2 hou2 gwo3 hai2 ngan4 hong4 zou6 dou3 zek3 zek1 gam3. deoi3 m4 deoi3 aa3, aa3 baak3?", en: "Think about it! Anything's better than working like a dog in a bank. Right, Uncle?"}
+  - {n: 17, speaker: Lin-ze, hanzi: "諗吓啦！總好過喺銀行做到隻狗咁。對唔對呀，阿伯？", jyutping: "nam2 haa5 laa1! zung2 hou2 gwo3 hai2 ngan4 hong4 zou6 dou3 zek3 gau2 gam3. deoi3 m4 deoi3 aa3, aa3 baak3?", en: "Think about it! Anything's better than working like a dog in a bank. Right, Uncle?"}
   - {n: 18, speaker: Leung Pak, hanzi: "做人最緊要開心。我老豆成世人捱，但係佢鍾意自己做嘅嘢。", jyutping: "zou6 jan4 zeoi3 gan2 jiu3 hoi1 sam1. ngo5 lou5 dau6 seng4 sai3 jan4 ngaai4, daan6 hai6 keoi5 zung1 ji3 zi6 gei2 zou6 ge3 je5.", en: "In life the most important thing is to be happy. My old man slogged all his life, but he loved what he did."}
   - {n: 19, speaker: Kayan, hanzi: "阿爸，你又講舊時嘅嘢喇……", jyutping: "aa3 baa4, nei5 jau6 gong2 gau6 si4 ge3 je5 laa3……", en: "Dad, here you go again with the old days…"}
   - {n: 20, speaker: Lin-ze, hanzi: "今晚唔好講以前，講吓出年先啦。何生加租嘅事，阿伯你點諗？", jyutping: "gam1 maan5 m4 hou2 gong2 ji5 cin4, gong2 haa5 ceot1 nin2 sin1 laa1. ho4 saang1 gaa1 zou1 ge3 si6, aa3 baak3 nei5 dim2 nam2?", en: "No stories about the old days tonight; let's talk about next year. The business of Mr Ho raising the rent: what do you think, Uncle?"}
@@ -31,7 +31,7 @@ dialogue:
   - {n: 24, speaker: Hugo, hanzi: "（睇住個天）我嚟咗香港三年，第一次同人一齊過中秋節。", jyutping: "(tai2 zyu6 go3 tin1) ngo5 lai4 zo2 hoeng1 gong2 saam1 nin4, dai6 jat1 ci3 tung4 jan4 jat1 cai4 gwo3 zung1 cau1 zit3.", en: "(Looking at the sky) I've been in Hong Kong three years, and this is the first time I've spent Mid-Autumn with people."}
   - {n: 25, speaker: Lin-ze, hanzi: "咁就唔好再講肉麻嘢喇，嚟，食嘢先！", jyutping: "gam2 zau6 m4 hou2 zoi3 gong2 juk6 maa4 je5 laa3, lai4, sik6 je5 sin1!", en: "Then no more soppy talk. Come on, eat something first!"}
 notes:
-  - {ref: 0, topic: grammar, text: "This review brings back P1–P6 with no new words. Look for: topic first (間舖，你睇住佢; 何生加租嘅事，阿伯你點諗, line 20), potential complements (瞓唔到覺, line 6), 到 of degree (忙到瞓唔到覺; 做到隻積咁), reported speech with 喎 (啲同事話你好硬淨喎, line 22), conditions (如果真係加一倍, line 21), time clauses (細個嗰陣時; 上電台嘅時候)."}
+  - {ref: 0, topic: grammar, text: "This review brings back P1–P6 with no new words. Look for: topic first (間舖，你睇住佢; 何生加租嘅事，阿伯你點諗, line 20), potential complements (瞓唔到覺, line 6), 到 of degree (忙到瞓唔到覺; 做到隻狗咁), reported speech with 喎 (啲同事話你好硬淨喎, line 22), conditions (如果真係加一倍, line 21), time clauses (細個嗰陣時; 上電台嘅時候)."}
   - {ref: 2, topic: vocab, text: "終於 zung1 jyu1 = at last, finally (you've seen 終 in 最終-type words; it was used in P3's chat replies too)."}
   - {ref: 3, topic: grammar, text: "撳錯嗰次 'the time you pressed the wrong button': a relative clause with 嗰 + classifier (P6). 次 here is the noun 'occasion'."}
   - {ref: 6, topic: grammar, text: "忙到瞓唔到覺: 到 of degree (P4) followed by a potential complement 瞓唔到 (P4). 瞓覺 splits: 瞓唔到覺 'can't get to sleep'. 淨係得我一個人 'only me' (得 'only have')."}
@@ -39,7 +39,7 @@ notes:
   - {ref: 10, topic: vocab, text: "坐成朝 'sit there all morning': 成 + time word = the whole …, as in 成日, 成年 (P3). 搵緊工 / 放緊假: 緊 goes inside the verb-object pair, as with 瞓緊覺 (P3)."}
   - {ref: 12, topic: vocab, text: "不如 bat1 jyu4 = why not, how about: the usual way to suggest. 當 dong3 = count as, treat as: 你當交租 'consider it your rent'."}
   - {ref: 14, topic: grammar, text: "邊會…？ 'when would …?' = there's no way: 邊會學？ 'as if you'd have learnt!'. A rhetorical question, a quick preview of a later lesson."}
-  - {ref: 17, topic: grammar, text: "總好過 zung2 hou2 gwo3 = anything is better than, at least it beats: 總好過喺銀行做到隻積咁. 對唔對 'right or not?' asks for agreement."}
+  - {ref: 17, topic: grammar, text: "總好過 zung2 hou2 gwo3 = anything is better than, at least it beats: 總好過喺銀行做到隻狗咁. 對唔對 'right or not?' asks for agreement."}
   - {ref: 18, topic: vocab, text: "做人最緊要開心 'in life the most important thing is to be happy': a stock phrase. 最緊要 'most important'."}
   - {ref: 21, topic: grammar, text: "講咩都冇意思 'whatever you say means nothing': question word + 都 = any-, every- (more in P12). The letter itself arrives in P13."}
   - {ref: 23, topic: grammar, text: "啫 ze1 at the end makes something small: 都係講吓啫 'it was only talk'. 扮 baan6 = pretend: 扮聽唔到 'pretend not to hear'."}
