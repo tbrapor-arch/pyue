@@ -67,9 +67,9 @@ Private companion: `tbrapor-arch/pyue-private`.
   - Not ported yet: `record.html` (native-speaker recording), Podcast/Video/Music content, themes, grammar sheets.
 
 ## Open items
-- Readings the verifier flags in P1–P70 (17 Nov 2026), to fix or explain: P57 line 10 食物 read je5 sik6 (嘢食?),
-  P61 line 9 講 read coeng3 (唱?), P04 line 10 隻積 zek3 zek1, P47/P52 經紀 ging1 kei2 (spoken form, worth a note),
-  P58 鐳 lui1, P31/P64 呃 e2, P44 艘 sau1. Full list: `make lint`.
+- Readings the verifier flags in P1–P70 (17 Nov 2026). Fixed: P57 line 10 食物 now read sik6 mat6, P61 line 9
+  講 → 唱 (sing songs); 經紀 ging1 kei2 kept as the spoken form, explained in a P47 note. Still to look at: P04/P07
+  隻積 zek3 zek1, P58 鐳 lui1, P64 醜 ceu2, P31/P64 呃 e2 (hesitation), P44 艘 sau1. Full list: `make lint`.
 - Mandarin tap (pinyin on any Mandarin text): wait for Tsheh-tû's shared component (branch `dict-pinyin`) to reach its
   `main`, then port it for the "vs Mandarin" notes and the card's Mandarin section (owner, 17 Nov 2026).
 - Not ported yet: themes, grammar sheets, recording page (fine until needed).
