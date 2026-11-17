@@ -1,4 +1,4 @@
-# Project notes (state as of 6 Nov 2026)
+# Project notes (state as of 17 Nov 2026)
 
 Started 6 Nov 2026 as a Cantonese counterpart of Tsheh-tû (https://github.com/tbrapor-arch/tsehtu), same layout.
 Private companion: `tbrapor-arch/pyue-private`.
@@ -40,8 +40,21 @@ Private companion: `tbrapor-arch/pyue-private`.
     only when the private module supplies those lessons.
   - Lines are cut into words by PyCantonese's segmenter, each piece checked against the database with the line's own
     reading (a piece it lacks is cut again by frequency). Hyphens in a line's Jyutping override the cut.
-  - Word card: Cantonese only / Used differently in Mandarin / Same; English (course, `course/glosses_en.tsv`, else
-    automatic via the Mandarin word in CC-CEDICT); Mandarin with pinyin; other readings of the characters with their share.
+  - Word card: Cantonese only / Used differently in Mandarin / Same; English (order in `tools/english.py`); Mandarin
+    with pinyin; other readings of the characters with their share.
+  - **Cantonese dictionaries** (17 Nov 2026, from the cross-app review): `make db` adds CC-Canto (CC BY-SA 3.0, GitHub
+    mirror of the 2017 release, plus its Jyutping for CC-CEDICT entries) and words.hk 粵典 (Non-Commercial Open Data
+    License 1.0, the daily Yomitan build pinned by date) in their own tables (`tools/yue_dicts.py`); rime stays the
+    word list that cuts lines. Card English: course > `glosses_en.tsv` > words.hk > CC-Canto > CC-CEDICT by Jyutping
+    (a single character: CC-CEDICT, CC-Canto, then words.hk) > via the Mandarin word > parts. Words through the
+    Mandarin detour went from 1,894 to 42. Cards also show up to 4 words.hk senses and one example with English, and
+    a trust label (✓ Reading in CC-Canto · words.hk, or rime only, or course word). Owner's choice: words.hk is shown
+    in the public app, labelled non-commercial on each card, so the published app as a whole is for non-commercial use.
+  - **Reading verifier** (17 Nov 2026): `tools/verify_words.py`, run by `make lint` after `lint.py` (never fails the
+    build): new words not confirmed by CC-Canto/words.hk/CC-CEDICT, and line readings no dictionary has or that rime
+    gives under 5 %; changed tones (tone 1/2 of a listed reading) accepted (`make verify-all` lists them). The private
+    module runs the same `Verifier` on the base course (`pyue-private/tools/verify_base.py`). First run on P1–P70:
+    13 unknown, 4 rare, 21 unconfirmed (proverbs and phrases), 2 changed tones.
   - Practice › Drills: a tone drill (pick the tones of a word shown without them) in place of tone changes.
   - Settings: no accent presets or review audio.
   - Dialogue audio (10 Nov 2026): synthetic Azure zh-HK voices, as in sy-zy (`tools/tts.py`, `course/voices.tsv`,
@@ -54,6 +67,10 @@ Private companion: `tbrapor-arch/pyue-private`.
   - Not ported yet: `record.html` (native-speaker recording), Podcast/Video/Music content, themes, grammar sheets.
 
 ## Open items
-- GitHub Pages: Settings › Pages › Source: GitHub Actions (one time), then every push to `main` publishes.
-- Base-course transcription and analysis in pyue-private.
-- Syllabus for P1–P70 once the analysis is done.
+- Readings the verifier flags in P1–P70 (17 Nov 2026), to fix or explain: P57 line 10 食物 read je5 sik6 (嘢食?),
+  P61 line 9 講 read coeng3 (唱?), P04 line 10 隻積 zek3 zek1, P47/P52 經紀 ging1 kei2 (spoken form, worth a note),
+  P58 鐳 lui1, P31/P64 呃 e2, P44 艘 sau1. Full list: `make lint`.
+- Mandarin tap (pinyin on any Mandarin text): wait for Tsheh-tû's shared component (branch `dict-pinyin`) to reach its
+  `main`, then port it for the "vs Mandarin" notes and the card's Mandarin section (owner, 17 Nov 2026).
+- Not ported yet: themes, grammar sheets, recording page (fine until needed).
+- Native-speaker check of P1–P70.

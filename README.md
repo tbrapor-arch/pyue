@@ -27,6 +27,7 @@ make lookup W=zung1ji3  # Jyutping; no tone number = any tone
 ## Writing and checking lessons
 ```sh
 make lint               # every word in course/**/*.yaml must exist in the database, Jyutping must match
+                        # then tools/verify_words.py: readings no dictionary confirms (a short list, never an error)
 make coverage           # how much of the core vocabulary the lessons cover, and what to teach next
 make app                # build the reader app: app/dist/index.html, one self-contained page
 ```
@@ -56,4 +57,5 @@ made by `tools/tts.py` with Microsoft's three Hong Kong Cantonese neural voices 
 
 ## Licences
 Code: MIT (`LICENSE`). Course content: CC BY-SA 4.0 (`LICENSE-CONTENT.md`). Data sources keep their own licences
-(`ATTRIBUTION.md`); they are downloaded, not redistributed.
+(`ATTRIBUTION.md`); they are downloaded, not redistributed in this repo. The published app includes words.hk
+definitions, which are for **non-commercial use only** (see `ATTRIBUTION.md`).

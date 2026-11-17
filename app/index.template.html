@@ -330,6 +330,9 @@ span.tok { cursor: pointer; border-radius: 4px; }
 .wc-sec h3 { margin: 0; font-size: .72rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; color: var(--sub); }
 .wc-gloss { font-size: 1.15rem; font-weight: 600; }
 .wc-sec ol { margin: 0; padding-left: 1.2rem; font-family: var(--f-han); }
+.wc-check { font-family: var(--f-ui); font-size: .8rem; color: var(--sub); }
+.wc-check.ok { color: var(--brand); }
+.wc-ex .m.en { font-family: var(--f-ui); }
 .pos { font-size: .75rem; color: var(--sub); margin-right: .3rem; }
 .wc-ex .h { font-family: var(--f-han); } .wc-ex .t { font-weight: 600; } .wc-ex .m { font-family: var(--f-han); color: var(--sub); }
 .wc-src { font-size: .75rem; color: var(--sub); }
@@ -1379,7 +1382,8 @@ function glossSrc(c) {
   const s = c.gloss_src;
   if (!s) return '';
   const t = s.startsWith('mandarin:') ? `via the Mandarin <span class="han">${esc(s.slice(9))}</span> (CC-CEDICT)`
-    : s === 'maryknoll' ? 'Maryknoll dictionary (1976)' : s === 'parts' ? 'from its parts' : esc(s);
+    : s === 'maryknoll' ? 'Maryknoll dictionary (1976)' : s === 'parts' ? 'from its parts'
+    : s === 'wordshk' ? 'words.hk' : s === 'cccanto' ? 'CC-Canto' : s === 'cedict' ? 'CC-CEDICT, Cantonese reading from CC-Canto' : esc(s);
   return `<div class="wc-src">${t}</div>`;
 }
 function openCard(id, w) {
@@ -1406,8 +1410,9 @@ function openCard(id, w) {
       ${pt || c.rank ? `<div class="row">${pt ? `<span class="pill ${pc}">${pt}</span>` : ''}${c.rank ? `<span class="pos">#${c.rank} most common</span>` : ''}${c.wenbai && c.wenbai !== 'substitute-char' ? `<span class="pos">${esc(c.wenbai)} reading</span>` : ''}</div>` : ''}
       ${c.gloss ? `<div class="wc-sec"><h3>English</h3><div class="wc-gloss">${esc(c.gloss)}</div>${glossSrc(c)}</div>` : ''}
       ${c.mand && c.mand.length ? `<div class="wc-sec"><h3>Mandarin${c.hsk ? ` · HSK ${c.hsk}` : ''}</h3><ul class="mlist">${c.mand.map(m => `<li><span class="han">${esc(m.w)}</span> <span class="py">${esc(m.py)}</span>${m.en ? ` <span class="men">${esc(m.en)}</span>` : ''}</li>`).join('')}</ul></div>` : (c.mandarin && c.mandarin.length ? `<div class="wc-sec"><h3>Mandarin</h3><div class="han">${c.mandarin.map(esc).join('、')}</div></div>` : '')}
-      ${c.senses && c.senses.length ? `<div class="wc-sec"><h3>Dictionary</h3><ol>${c.senses.map(s => `<li><span class="pos">${esc(s.pos)}</span>${esc(s.def)}</li>`).join('')}</ol></div>` : ''}
-      ${c.example ? `<div class="wc-sec wc-ex"><h3>Example</h3><div class="h">${esc(c.example.hanji)}</div><div class="t">${esc(c.example.tailo)}</div><div class="m">${esc(c.example.mandarin || '')}</div>${c.example.audio ? `<button class="btn small line" id="explay" style="align-self:start;margin-top:.3rem">▶ Listen to the sentence</button>` : ''}</div>` : ''}
+      ${c.check !== undefined ? `<div class="wc-check ${Array.isArray(c.check) ? 'ok' : ''}">${Array.isArray(c.check) ? `✓ Reading in ${c.check.map(esc).join(' · ')}` : c.check === 'rime' ? 'Reading in the word list (rime-cantonese) only' : 'Course word: not in a dictionary with this reading'}</div>` : ''}
+      ${c.senses && c.senses.length ? `<div class="wc-sec"><h3>${c.senses_src === 'wordshk' ? 'words.hk 粵典' : 'Dictionary'}</h3><ol>${c.senses.map(s => `<li><span class="pos">${esc(s.pos)}</span>${esc(s.def)}</li>`).join('')}</ol></div>` : ''}
+      ${c.example ? `<div class="wc-sec wc-ex"><h3>Example</h3><div class="h">${esc(c.example.hanji)}</div><div class="t">${esc(c.example.tailo)}</div><div class="m${c.example.en ? ' en' : ''}">${esc(c.example.en || c.example.mandarin || '')}</div>${c.example.audio ? `<button class="btn small line" id="explay" style="align-self:start;margin-top:.3rem">▶ Listen to the sentence</button>` : ''}</div>` : ''}
       ${c.readings && c.readings.length ? `<div class="wc-sec"><h3>Other readings</h3><div class="parts">${c.readings.map(r => `<span class="rom">${esc(r.t)}${r.share != null ? ` <small class="sub">${r.share < 1 ? 'rare' : r.share + ' %'}</small>` : ''}</span>`).join(' · ')}</div>${c.share != null ? `<span class="pos">This reading: ${c.share < 1 ? 'rare' : c.share + ' % of uses'}</span>` : ''}</div>` : ''}
       ${c.alts && c.alts.length ? `<div class="wc-sec"><h3>Pronunciation</h3><div class="choices">
         ${[{ t: c.tailo, label: 'standard' }, ...c.alts].map(a => { const on = (chosenAlt(id) ? chosenAlt(id).t : c.tailo) === a.t;
@@ -1418,7 +1423,9 @@ function openCard(id, w) {
       ${c.in && c.in.length ? `<div class="wc-sec"><h3>Used in</h3><div class="parts">${c.in.filter(p => DATA.dict[p]).map(p => `<button data-part="${esc(p)}"><span class="han">${esc(DATA.dict[p].hanji)}</span> ${esc(DATA.dict[p].tailo || DATA.dict[p].tkey)}</button>`).join('')}</div></div>` : ''}
       ${c.parts && c.parts.length && cps.length < 2 ? `<div class="wc-sec"><h3>Made of</h3><div class="parts">${c.parts.map(p => `<button data-part="${esc(p)}"><span class="han">${esc(DATA.dict[p].hanji)}</span> ${esc(DATA.dict[p].tailo || DATA.dict[p].tkey)}</button>`).join('')}</div></div>` : ''}
       ${alsoL.length ? `<span class="sub" style="font-size:.85rem">Also in your lists: ${alsoL.map(k => esc(listTitle(k))).join(', ')}</span>` : ''}
-      ${src ? `<div class="wc-src">Source: ${esc(src)}${c.audio ? '. Recording: same dictionary, CC BY-ND 3.0 TW.' : ''}</div>` : ''}`;
+      ${src ? `<div class="wc-src">Source: ${esc(src)}${c.audio ? '. Recording: same dictionary, CC BY-ND 3.0 TW.' : ''}</div>` : ''}
+      ${c.senses_src === 'wordshk' || c.gloss_src === 'wordshk' ? `<div class="wc-src">Senses and example: <a href="https://words.hk/zidin/${encodeURIComponent(c.hanji)}" target="_blank" rel="noopener">words.hk 粵典</a>, Non-Commercial Open Data License 1.0 (non-commercial use only).</div>` : ''}
+      ${['cccanto', 'cedict'].includes(c.gloss_src) ? `<div class="wc-src">English: CC-Canto (Pleco), CC BY-SA 3.0${c.gloss_src === 'cedict' ? ' · CC-CEDICT, CC BY-SA 4.0' : ''}.</div>` : ''}`;
     $('#add-card', sh).onclick = e => { const lk = e.currentTarget.dataset.list, on = !inList(lk, id); listSet(lk, [id], on); toast(on ? `Added to ${listTitle(lk)}` : `Removed from ${listTitle(lk)}`); openCard(id, w); const h = location.hash.slice(1); if (/^list-/.test(h)) { route.keepSheet = true; route(); route.keepSheet = false; } else rerenderCurrent(); };
     $$('[data-part]', sh).forEach(b => b.onclick = () => openCard(b.dataset.part));
     $$('[data-split]', sh).forEach(b => b.onclick = () => openCard(b.dataset.split, w));

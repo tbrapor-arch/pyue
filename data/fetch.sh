@@ -15,6 +15,22 @@ fetch() { # name url commit
 # rime-cantonese (CC BY 4.0): words, character readings with their share, word frequencies (essay-cantonese.txt)
 fetch rime-cantonese https://github.com/rime/rime-cantonese.git 259f0e48bba840c3a2e0d117539e96937f3d89bc
 
+# CC-Canto (Pleco, CC BY-SA 3.0): English for Cantonese words, and Jyutping readings for CC-CEDICT's entries.
+# cantonese.org itself is often unreachable from build machines; this GitHub mirror holds the 2017-02-02 release.
+fetch cc-canto https://github.com/amadeusine/cc-canto-data.git a687e46
+
+# words.hk 粵典 (Non-Commercial Open Data License 1.0, https://words.hk/base/hoifong/): Cantonese and English
+# definitions with example sentences. Taken from the daily Yomitan build (MarvNC/wordshk-yomitan) at a pinned date.
+# Non-commercial only: see ATTRIBUTION.md.
+WORDSHK_TAG=2026-11-17
+WORDSHK_FILE=Words.hk.2026-11-16.zip
+if [ ! -f "raw/wordshk/$WORDSHK_FILE" ]; then
+  mkdir -p raw/wordshk
+  curl -sSfL -o "raw/wordshk/$WORDSHK_FILE" \
+    "https://github.com/MarvNC/wordshk-yomitan/releases/download/$WORDSHK_TAG/$WORDSHK_FILE"
+fi
+echo "ok  words.hk @ $(basename "$WORDSHK_FILE" .zip | sed 's/^Words\.hk\.//')"
+
 # CC-CEDICT (CC BY-SA 4.0) as JSON: pinyin and English for the Mandarin equivalents shown in the app.
 if [ ! -f raw/cedict/package/cedict.json ]; then
   mkdir -p raw/cedict

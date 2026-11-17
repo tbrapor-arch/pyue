@@ -5,7 +5,7 @@ PY = python3 -I
 RAW = data/raw
 OUT = data/build
 
-.PHONY: data db lookup clean lint app coverage
+.PHONY: data db lookup clean lint verify-all app coverage
 data:
 	sh data/fetch.sh
 	sh data/fetch_fonts.sh
@@ -22,6 +22,11 @@ clean:
 
 lint:
 	$(PY) tools/lint.py
+	$(PY) tools/verify_words.py
+
+# suspects only; `make verify-all` also lists the accepted changed tones (變音)
+verify-all:
+	$(PY) tools/verify_words.py --all
 
 app:
 	$(PY) tools/build_app.py

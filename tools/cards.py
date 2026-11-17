@@ -106,6 +106,7 @@ def lookup(seg, k):
     comp = compose(seg, k)
     if comp:
         card['comp'] = comp
+    canto_card(card, seg, k)
     parts = [(dictionary[p].get('gloss'), dictionary[p].get('gloss_src')) for p in card.get('parts') or comp or []]
     en, en_src = ENGLISH.gloss(seg, k, parts)
     if not en and len(seg) == 1:
@@ -119,6 +120,47 @@ def lookup(seg, k):
 
 
 TOTAL = [1]
+CHECK_SRC = (('cccanto', 'CC-Canto'), ('wordshk', 'words.hk'), ('cedict', 'CC-CEDICT'))
+
+
+def attested(seg, k):
+    """Which dictionaries list these characters with this reading: rime (the app's word list), CC-Canto,
+    words.hk, CC-CEDICT (through CC-Canto's Jyutping for it). Shared with tools/verify_words.py."""
+    out = []
+    if con.execute('SELECT 1 FROM entry WHERE hanzi=? AND jkey=? LIMIT 1', (seg, k)).fetchone():
+        out.append('rime')
+    try:
+        for src in ('cccanto', 'cedict'):
+            if con.execute('SELECT 1 FROM canto WHERE trad=? AND jkey=? AND src=? LIMIT 1', (seg, k, src)).fetchone():
+                out.append(src)
+        if con.execute('SELECT 1 FROM wordshk WHERE hanzi=? AND jkey=? LIMIT 1', (seg, k)).fetchone():
+            out.append('wordshk')
+    except Exception:          # a database built before the Cantonese dictionaries
+        pass
+    return out
+
+
+def canto_card(card, seg, k, n_senses=4):
+    """words.hk senses and one example sentence, and the trust label: which dictionaries confirm the reading."""
+    src = attested(seg, k)
+    named = [name for key, name in CHECK_SRC if key in src]
+    card['check'] = named if named else ('rime' if 'rime' in src else None)
+    senses, example = [], None
+    for eid in english.wordshk_entries(con, seg, k):
+        pos = (con.execute('SELECT pos FROM wordshk WHERE id=? LIMIT 1', (eid,)).fetchone() or [''])[0]
+        for n, en, yue in con.execute('SELECT n, en, yue FROM wordshk_sense WHERE id=? ORDER BY n', (eid,)):
+            if len(senses) < n_senses and (en or yue):
+                senses.append({'pos': pos, 'def': en or yue})
+            if example is None:
+                x = con.execute("""SELECT hanzi, jyutping, en FROM wordshk_ex WHERE id=? AND n=? AND en!=''
+                                   ORDER BY kind='phrase', length(hanzi) LIMIT 1""", (eid, n)).fetchone()
+                if x and len(x[0]) <= 40:
+                    example = {'hanji': x[0], 'tailo': x[1], 'en': x[2]}
+    if senses:
+        card['senses'] = senses
+        card['senses_src'] = 'wordshk'
+    if example:
+        card['example'] = example
 
 
 def _cost(w, kk):
