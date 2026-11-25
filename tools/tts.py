@@ -9,7 +9,7 @@ The free Azure tier (F0) gives 500,000 characters a month; the 70 lessons are ab
   AZURE_SPEECH_KEY=… AZURE_SPEECH_REGION=eastasia python3 tools/tts.py     # new or changed lines only
   python3 tools/tts.py --lesson 3 --force                                  # one lesson, again
   python3 tools/tts.py --dry-run                                           # what would be sent, and the cost
-  python3 tools/tts.py --backend edge                                      # free Edge endpoint (it has the zh-HK voices)
+  python3 tools/tts.py --backend edge --jobs 5                             # free Edge endpoint: same voices, no key
 
 Who speaks with which voice: course/voices.tsv
   speaker <TAB> voice (HiuMaan|HiuGaai|WanLung) <TAB> pitch (e.g. -10%, optional) <TAB> rate (optional)
@@ -23,7 +23,7 @@ again: only the lines that change are made again.
 audio/index.json records, per line, the text sent and a hash of (voice, pitch, rate, text). build_app.py gives a
 line its audio only when that text still matches the lesson, so an edited line goes silent until it is made again.
 """
-import argparse, asyncio, glob, hashlib, json, os, re, sys, time, urllib.request, urllib.error
+import argparse, asyncio, concurrent.futures, glob, hashlib, json, os, re, sys, time, urllib.request, urllib.error
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -123,6 +123,25 @@ def edge(text, voice, pitch, rate):
     return data
 
 
+def robust(say, text, voice, pitch, rate, depth=0):
+    """The free Edge endpoint now and then answers nothing for a sentence: wait and ask again, then try it in two
+    halves cut at the punctuation nearest the middle. Returns the audio, or None."""
+    for k in range(3 if depth else 4):
+        try:
+            data = say(text, voice, pitch, rate)
+            if data:
+                return data
+        except (Exception, SystemExit):
+            pass
+        time.sleep(1 + 2 * k)
+    cuts = [m.end() for m in re.finditer(r'[，。！？；：、…—]+', text) if 0 < m.end() < len(text)]
+    if not cuts or depth > 4:
+        return None
+    c = min(cuts, key=lambda x: abs(x - len(text) / 2))
+    a, b = robust(say, text[:c], voice, pitch, rate, depth + 1), robust(say, text[c:], voice, pitch, rate, depth + 1)
+    return a + b if a and b else None
+
+
 def lessons():
     for p in sorted(glob.glob(str(LESSONS / '[0-9][0-9].yaml'))):
         yield yaml.safe_load(open(p, encoding='utf8'))
@@ -134,17 +153,20 @@ def main():
     ap.add_argument('--force', action='store_true', help='make again even when unchanged')
     ap.add_argument('--dry-run', action='store_true', help='print what would be sent, call nothing')
     ap.add_argument('--backend', choices=('azure', 'edge'), default='azure')
+    ap.add_argument('--jobs', type=int, default=1, help='lines made at the same time (Edge: 4-5 is fine; Azure F0: 1)')
     a = ap.parse_args()
 
     say = azure if a.backend == 'azure' else edge
     who, fx = tsv('course/voices.tsv'), fixes()
     index = json.loads(INDEX.read_text()) if INDEX.exists() else {}
     made = kept = chars = 0
+    failed = []
+    pool = concurrent.futures.ThreadPoolExecutor(a.jobs)
     for y in lessons():
         n = y['id']
         if a.lesson and n not in a.lesson:
             continue
-        entry = {}
+        entry, todo = {}, []
         for d in y['dialogue']:
             text = spoken(d.get('hanzi'), fx)
             if not text:
@@ -160,11 +182,14 @@ def main():
             chars += len(text); made += a.dry_run
             if a.dry_run:
                 print(f'{n:02d}/{i:02d}  {name:8} {pitch or "":5} {rate:5}  {d.get("speaker")}: {text}'); continue
-            data = say(text, voice, pitch, rate)
+            todo.append((f, text, voice, pitch, rate, f'{n:02d}/{i:02d}'))
+        for (f, text, *_, tag), data in zip(todo, pool.map(lambda j: robust(say, *j[1:5]), todo)):
+            if not data:
+                failed.append(f'{tag}  {text}'); print('FAILED', tag, flush=True); continue
             f.parent.mkdir(parents=True, exist_ok=True)
             f.write_bytes(data)
             made += 1
-            print(f'{n:02d}/{i:02d}  {text}', flush=True)
+            print(f'{tag}  {text}', flush=True)
         if not a.dry_run:
             d_ = OUT / f'{n:02d}'
             for old in d_.glob('*.mp3') if d_.exists() else []:   # lines that no longer exist
@@ -175,6 +200,8 @@ def main():
             INDEX.write_text(json.dumps(dict(sorted(index.items(), key=lambda kv: int(kv[0]))),
                                         ensure_ascii=False, indent=1) + '\n')
     print(f'{"to make" if a.dry_run else "made"}: {chars} characters, {made} files; {kept} unchanged')
+    if failed:
+        print(f'{len(failed)} lines without audio (run again):', *failed, sep='\n  ')
 
 
 if __name__ == '__main__':

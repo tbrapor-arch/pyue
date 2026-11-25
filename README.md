@@ -50,6 +50,7 @@ made by `tools/tts.py` with Microsoft's three Hong Kong Cantonese neural voices 
   workflow (`.github/workflows/audio.yml`) then makes the audio for new or changed lines whenever a lesson changes,
   commits `audio/` and rebuilds the site. Run it once by hand (Actions › Lesson audio › Run workflow) for the first batch.
   Locally: `AZURE_SPEECH_KEY=… AZURE_SPEECH_REGION=… python3 tools/tts.py` (`--dry-run` shows what would be sent).
+- Without the key the workflow uses the free Edge endpoint (`--backend edge`): the same three neural voices, no account.
 - `course/voices.tsv` gives each speaker a voice, pitch and speed (one male voice, so the men differ by pitch);
   `NN:speaker` rows set who reads a letter, a menu or a broadcast in lesson NN. Stage directions （…） are not read.
 - `course/tts_fix.tsv` respells words the voice reads wrongly. The voice uses its own readings, not the lesson's
